@@ -3,7 +3,7 @@
 
 Unofficial Simplified Chinese Translation for Clickteam Fusion 2.5
 
-Clickteam Fusion 2.5的非官方汉化
+Clickteam Fusion 2.5非官方汉化
 
 ## 使用方法
 
@@ -13,15 +13,19 @@ Clickteam Fusion 2.5的非官方汉化
 
 ## 贡献者
 
-murong
-
-阿撒
+- 修订者：阿撒、defisym
+- 原始翻译：murong
 
 # Changelogs
 
-## 2019-11-21
-- 修正了Run Application From Current Frame、Add a Child Event、Insert→New Parent Event的汉化错误
+## 20191121
+
+- 比对修订2.5+的文本翻译
 - 提交至GitHub
 
-## 2019-9-13
+## 20191121
+
+- 修正了Run Application From Current Frame、Add a Child Event、Insert→New Parent Event的汉化错误
+
+## 20190913
 - 移除了分组表记图标的汉化
