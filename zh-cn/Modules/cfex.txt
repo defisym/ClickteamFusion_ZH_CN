@@ -102,5 +102,5 @@
 		"Object data" : "对象数据",
 		"Object names" : "对象名",
 		"Objects" : "对象"
-	},
+	}
 }
