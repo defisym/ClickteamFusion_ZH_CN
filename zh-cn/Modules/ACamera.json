@@ -1,0 +1,106 @@
+{   "About":
+    {
+        "Name": "安卓照相机对象",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2014 Clickteam",
+        "Website": "http://www.clickteam.com",
+        "Comment": "安卓资源管理器一部分。提供照相机功能",
+        "URL": "http://www.clickteam.com",
+        "Help": "Help\\ACamera.chm",
+        "Identifier": "ACam",
+    },
+
+    "ActionMenu":
+    [
+        [0, "改变专辑名"],
+        [1, "拍照"],
+        [2, "拍视频"],
+        "Separator",
+        [3, "选择图库"],
+        "Separator"
+		
+	],
+
+    "ConditionMenu":
+    [
+        [0, "拍照时"],
+        [1, "拍视频时"],
+        [2, "返回图库时"],
+        [3, "发生错误时"]
+		
+    ],
+
+    "ExpressionMenu":
+    [
+        [0, "取错误"],
+        [1, "取错误字符串"],
+        [2, "取图像路径"],
+        [3, "取视频路径"],
+        [4, "取图库路径"],
+        [5, "取相机编号"],
+        "Separator",
+        [6, "取图像角度"],
+        "Separator"
+
+    ],
+
+    "Actions":
+    [
+        { "Title": "置专辑名为 %0",
+			"Parameters": [["Text", "输入专辑名"]] },
+		  
+        { "Title": "使用相机 %0 拍照，标题 %1，描述 %2 ",
+			"Parameters": [["Integer", "相机 (0: 后面、 1: 前面)"],
+			             ["Text", "输入标题"],
+		          	     ["Text", "输入描述"]] },
+        
+	{ "Title": "使用相机 %0 拍视频",
+		"Parameters": [["Integer", "相机 (0: 后面、 1: 前面)"]]  },
+		
+        { "Title": "选择图库类型为 %0",
+			"Parameters": [["Integer", "选择类型 (0: 全部、 1: 照片、 2: 视频)"]] }		  		  	  		  
+   ],
+
+    "Conditions":
+    [
+        {   "Title": "%o : 拍照时",
+            "Triggered": true
+        },
+        {   "Title": "%o : 拍视频时",
+            "Triggered": true
+        },
+        {   "Title": "%o : 返回图库时",
+            "Triggered": true
+        },
+        {   "Title": "%o : 发生错误时",
+            "Triggered": true
+        }	
+	],
+
+    "Expressions":
+    [
+        {   "Title": "Error(",
+            "Returns": "Integer"
+        },
+		{   "Title": "Error$(",
+            "Returns": "Text"
+        },
+		{   "Title": "ImagePath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "VideoPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "GalleryPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "NumberOfCameras(",
+            "Returns": "Integer"
+        },
+		{   "Title": "ImageAngle(",
+            "Returns": "Integer"
+        }
+	]
+}
+
+

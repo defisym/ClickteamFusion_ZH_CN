@@ -1,0 +1,24 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"Controller for the InAndOut movement." : "进出运动控制器。",
+		"InAndOut Movement Controller" : "进出运动控制器",
+		"Move object in" : "对象移进",
+		"Move object out" : "对象移出",
+		"Position object at end" : "对象在终点的位置",
+		"Position object at start" : "对象在起点的位置",
+		"Select an object" : "选择一个对象",
+		"Set object to %0" : "设置对象为 %0",
+		"Set object with fixed value %0" : "设置对象的固定値 %0 ",
+		"fixed value" : "固定値"
+	},
+	"menu_20000" : {
+		"Move object in" : "对象移进",
+		"Move object out" : "对象移出",
+		"Position object at end" : "对象在终点的位置",
+		"Position object at start" : "对象在起点的位置",
+		"Set object" : "设置对象",
+		"Set object from fixed value" : "从固定值设置对象"
+	}
+}

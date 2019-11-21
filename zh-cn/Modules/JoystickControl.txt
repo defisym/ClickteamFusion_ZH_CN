@@ -1,0 +1,55 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"Allows you to control the virtual joystick input." : "控制虚拟摇杆输入",
+		"Enter 1 for left handed" : "输入1为惯用左手",
+		"Enter 1 to display button 1, 0 to hide it" : "输入1 则显示按钮1，0为隐藏它",
+		"Enter 1 to display button 2, 0 to hide it" : "输入2 则显示按钮2，0为隐藏它",
+		"Enter 1 to display joystick, 0 to hide it" : "输入1 则显示操纵杆，0为隐藏它",
+		"Enter the binary mask. 0001:top 0010:bottom 0100:left 1000:right 10000:fire1 100000:fire2" : "输入二进制掩码。0001:上 0010:下 0100:左 1000:右 10000:按钮1 100000:按钮2",
+		"Joystick Control object" : "操纵杆控制对象",
+		"Set X button 1 to %0" : "置X 按钮1 为 %0",
+		"Set X button 2 to %0" : "置X 按钮2 为 %0",
+		"Set X joystick to %0" : "置X 操纵杆 为 %0",
+		"Set Y button 1 to %0" : "置Y 按钮1 为 %0",
+		"Set Y button 2 to %0" : "置Y 按钮2 为 %0",
+		"Set Y joystick to %0" : "置Y 操纵杆 为 %0",
+		"Set button 1 position to %0" : "置按钮1的位置为 %0",
+		"Set button 2 position to %0" : "置按钮2的位置为 %0",
+		"Set joystick mask to %0" : "置操纵杆掩码为 %0",
+		"Set joystick position to %0" : "置操纵杆位置为 %0",
+		"Start accelerometer joystick" : "启动操纵杆加速传感器",
+		"Start/stop touch joystick %0 (joystick), %1 (button 1), %2 (button 2), %3 (left handed)" : "启动/停止 触摸操纵杆 %0(操纵杆)、 %1 (按钮1)、 %2 (按钮2)、 %3 (惯用左手)",
+		"Stop accelerometer joystick" : "停止操纵杆加速传感器"
+	},
+	"menu_20000" : {
+		"Accelerometer" : "加速传感器",
+		"Actions" : "操作",
+		"Set button 1 X coordinate" : "置按钮1的X坐标",
+		"Set button 1 Y coordinate" : "置按钮1的Y坐标",
+		"Set button 1 position" : "置按钮1的位置",
+		"Set button 2 X coordinate" : "置按钮2的X坐标",
+		"Set button 2 Y coordinate" : "置按钮2的Y坐标",
+		"Set button 2 position" : "置按钮2的位置",
+		"Set joystick X coordinate" : "置操纵杆X坐标",
+		"Set joystick Y coordinate" : "置操纵杆Y坐标",
+		"Set joystick mask" : "置操纵杆掩码",
+		"Set joystick position" : "置操纵杆位置",
+		"Start accelerometer joystick" : "启动操纵杆加速传感器",
+		"Start/stop touch joystick" : "启动/停止 触摸操纵杆",
+		"Stop accelerometer joystick" : "停止操纵杆加速传感器",
+		"Touch joystick" : "触摸操纵杆"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件"
+	},
+	"menu_20002" : {
+		"Button 1" : "按钮1",
+		"Button 2" : "按钮2",
+		"Expressions" : "表达式",
+		"Touch joystick" : "触摸操纵杆",
+		"X Coordinate" : "X 坐标",
+		"Y Coordinate" : "Y 坐标"
+	}
+}

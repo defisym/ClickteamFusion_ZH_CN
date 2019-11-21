@@ -1,0 +1,51 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"%o: Is fan active?" : "%o: 风扇激活？",
+		"Advanced" : "高级",
+		"Angle" : "角度",
+		"Angle : %g degrees" : "角度 : %g 度",
+		"Blowing at start" : "开始时吹风",
+		"Check this box and the fan will blow at the start of the frame" : "Check this box and the fan will blow at the start of the frame",
+		"Direction of the air" : "风向（ 0 ～ 360）",
+		"Engine ID" : "引擎 ID",
+		"Enter 1 to turn on, 0 to turn off" : "输入 0:关 ，1:开",
+		"Enter the angle of the wind in degrees (0-360)" : "Enter the angle of the wind in degrees (0-360)",
+		"Enter the height of the object" : "输入对象的高度",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "Enter the identifier of the engine if multiple engines are used on the same frame",
+		"Enter the strength of the fan, from 0 to 500" : "输入风扇的力度 （ 0 ～ 500 ）",
+		"Enter the strength of the wind (0-500)" : "输入风的力度（0～500）",
+		"Enter the width of the object" : "输入对象宽度",
+		"Generate wind that shifts the objects" : "生成的风，位移对象。",
+		"Physics - Fan" : "物理 - 风扇",
+		"Please drop a 'Physics Engine' object in your frame." : "请拖拽物理对象到你的帧里。",
+		"Running : %i" : "风扇状态 : %i",
+		"Set angle to %0 degrees" : "设置角度为 %0",
+		"Set fan to %0" : "设置风扇为 %0",
+		"Set height to %0" : "设置高度为 %0",
+		"Set strength to %0" : "设置力度为 %0",
+		"Set width to %0" : "设置宽度为 %0",
+		"Strength" : "力度",
+		"Strength : %i" : "力度 : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "动作",
+		"Set angle" : "设置角度",
+		"Set fan ON/OFF" : "设置风扇开或关",
+		"Set height" : "设置高度",
+		"Set strength" : "设置力度",
+		"Set width" : "设置宽度"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is fan active?" : "风扇激活？"
+	},
+	"menu_20002" : {
+		"Action zone height" : "有效范围高度",
+		"Action zone width" : "有效范围宽度",
+		"Expressions" : "表达式",
+		"Fan angle" : "风扇角度",
+		"Fan strength" : "风扇力度"
+	}
+}

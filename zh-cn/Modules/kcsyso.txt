@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"Allows you to retrieve system information (user name, language, environment variables, etc.). For Pro version only." : "允许您获取系统信息（用户名，语言，环境变量等）。 仅适用于Pro版本。",
+		"Computer langage: %i   " : "计算机的语言: %i   ",
+		"Computer name: %s" : "计算机的名称: %s",
+		"Langage name: %s" : "语言名称: %s",
+		"OS" : "OS",
+		"OS object" : "OS 对象",
+		"User langage name: %s" : "用户语言名称:  %s",
+		"User langage: %i" : "用户语言: %i",
+		"User name: %s" : "用户名称:  %s",
+		"Windows 10" : "Windows 10",
+		"Windows 2000" : "Windows 2000",
+		"Windows 7" : "Windows 7",
+		"Windows 8" : "Windows 8",
+		"Windows 95" : "Windows 95",
+		"Windows 98" : "Windows 98",
+		"Windows ME" : "Windows ME",
+		"Windows NT" : "Windows NT",
+		"Windows NT 4" : "Windows NT 4",
+		"Windows Vista" : "Windows Vista",
+		"Windows XP" : "Windows XP",
+		"Windows version: %i" : "Windows 版本:  %i",
+		"Windows version: %s" : "Windows 版本:  %s"
+	},
+	"menu_20002" : {
+		"&Environment Variable" : "环境变量(&E)",
+		"&Windows Version (index)" : "Windows 版本 (索引)(&W)",
+		"Computer &Name" : "计算机名称(&N)",
+		"System Default &Language ID" : "系统默认语言ID(&L)",
+		"System Default &Language Name" : "系统默认语言名称(&L)",
+		"User Default L&anguage ID" : "用户默认语言ID(&A)",
+		"User Default L&anguage Name" : "用户默认语言名称(&A)",
+		"User Na&me" : "用户名称(&M)",
+		"Windows Version (text)" : "Windows 版本 (文本)"
+	}
+}

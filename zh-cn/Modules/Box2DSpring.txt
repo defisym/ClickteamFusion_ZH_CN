@@ -1,0 +1,30 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"Activated : %i" : "已激活 : %i",
+		"Active at start" : "开始时激活",
+		"Advanced" : "高级",
+		"Angle : %i degrees" : "角度 : %i 度",
+		"Auto rotation" : "自动旋转",
+		"Box" : "方形",
+		"Check this box to make your spring active when the frame starts" : "Check this box to make your spring active when the frame starts",
+		"Check to enable automatic rotations of the image" : "启用图像的自动旋转",
+		"Check to resample the image of the object when rotating it (slower for large number of objects)." : "Check to resample the image of the object when rotating it (slower for large number of objects)",
+		"Circle" : "圆形",
+		"Collision shape" : "碰撞形状",
+		"Engine ID" : "引擎 ID",
+		"Enter the direction of the spring" : "Enter the direction of the spring",
+		"Enter the identifier of the movement, that must match the identifier of the engine object." : "输入引擎的ID,必须匹配引擎对象的ID",
+		"Enter the strength of the spring, (0 = inactive)" : "输入弹簧的力度（0 = 无效）",
+		"Physics - Spring" : "物理 - 弹簧",
+		"Please choose the shape of the collision box" : "选择碰撞盒的形状",
+		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里。",
+		"Shape of first image" : "第一个图像的形状",
+		"Smooth rotations" : "平滑旋转",
+		"Spring directions" : "弹簧方向",
+		"Strength" : "强度",
+		"Strength : %i" : "强度 : %i",
+		"Type : Spring" : "类型 : 弹簧"
+	}
+}

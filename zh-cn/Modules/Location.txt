@@ -1,0 +1,48 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"A new location is available" : "新位置可用",
+		"Accuracy" : "精度",
+		"Are location services enabled?" : "定位服务启用？",
+		"Best accuracy" : "最高精度",
+		"Choose the device accuracy" : "选择设备精度",
+		"Distance" : "距离",
+		"Enter the accuracy (0 to 4)" : "输入精度 (0 到 4)",
+		"Enter the distance filter in meters" : "距离过滤器 単位米力",
+		"Enter the minimal distance in meters between two location updates" : "更新两个位置之间最短距離",
+		"Force location retrieval" : "強制获取位置",
+		"Hundred meters" : "接近 100 米",
+		"Kilometer" : "接近 1 千米",
+		"Location object" : "位置对象",
+		"Nearest ten meters" : "接近 10 米",
+		"Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android)." : "从设备搭载的GPS获取当前位置",
+		"Set distance filter to %0" : "置距离过滤器为 %0",
+		"Set location accuracy to %0" : "置位置精度为 %0",
+		"Three kilometers" : "接近 3 千米"
+	},
+	"menu_20000" : {
+		"Actions" : "操作",
+		"Get location" : "取位置",
+		"Set accuracy" : "置精度",
+		"Set distance filter" : "置距离过滤器"
+	},
+	"menu_20001" : {
+		"A new location is available" : "新位置可用",
+		"Conditions" : "条件",
+		"Location services enabled?" : "定位服务启用？"
+	},
+	"menu_20002" : {
+		"Accuracy" : "精度",
+		"Altitude" : "高度",
+		"Coordinates" : "坐标",
+		"Course" : "路线",
+		"Distance filter" : "距离过滤器",
+		"Expressions" : "表达式",
+		"Latitude" : "纬度",
+		"Longitude" : "经度",
+		"Other values" : "其他值",
+		"Speed" : "速度",
+		"Time since last update" : "自上次更新时间"
+	}
+}

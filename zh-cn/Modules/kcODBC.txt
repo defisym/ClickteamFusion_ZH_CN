@@ -1,0 +1,43 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"00Get row" : "00取行",
+		"00New statement" : "00新建数据库操作对象",
+		"00Select a data source" : "00选择数据源",
+		"00Select a data source via a selector" : "00通过选择器选择一个数据源",
+		"01Send SQL command %s" : "01发送SQL 命令",
+		"01Set row max length to %s" : "01设置行最大长度为 %s",
+		"10%s: can get data" : "10%s: 能获得数据",
+		"Column number" : "列编号",
+		"ODBC" : "ODBC",
+		"ODBC object" : "ODBC 对象",
+		"Provides a direct way of accessing information from an external database." : "提供从外部数据库访问信息"
+	},
+	"dialog_20003" : {
+		"&Browse" : "浏览(&B)",
+		"&Help" : "帮助(&H)",
+		"Cancel" : "取消",
+		"Data source" : "数据源",
+		"OK" : "OK",
+		"Setup ODBC object" : "设置ODBC 对象"
+	},
+	"menu_20000" : {
+		"Get row" : "取行",
+		"New statement" : "新建数据库操作对象",
+		"Select data source" : "选择数据源",
+		"Select data source via a selector" : "通过选择器选择一个数据源",
+		"Send SQL command" : "发送SQL 命令",
+		"Set row max length" : "设置行最大长度"
+	},
+	"menu_20001" : {
+		"Can get data ?" : "能获得数据？"
+	},
+	"menu_20002" : {
+		"Get columns count" : "取列数",
+		"Get name of column" : "取列名称",
+		"Get number in column" : "取列里的数字",
+		"Get rows count" : "取总行数",
+		"Get text in column" : "取列里的文本"
+	}
+}

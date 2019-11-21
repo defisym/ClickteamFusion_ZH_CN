@@ -1,0 +1,48 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"Advanced" : "高级",
+		"All the objects under the pin" : "所有对象在钉下面",
+		"Check and all the objects will be linked to the position of the pin." : "Check and all the objects will be linked to the position of the pin",
+		"Choose how many objects should be linked together." : "Choose how many objects should be linked together",
+		"Creates revolute joints between objects." : "创建对象之间的转动关节",
+		"Destroy joint" : "销毁关节",
+		"Engine ID" : "引擎 ID",
+		"Enter the higher limit angle, in degrees (0 - 360)" : "输入最高角度限制 （ 0 ～ 360 ）",
+		"Enter the identifier of the engine to use for the ground." : "Enter the identifier of the engine to use for the ground.",
+		"Enter the lower angle limit. If greater than the higher limit, no limit will be applied." : "Enter the lower angle limit. If greater than the higher limit, no limit will be applied.",
+		"Enter the lower limit angle, in degrees (0 - 360)" : "Enter the lower limit angle, in degrees (0 - 360)",
+		"Enter the speed of the motor (-250 - 250)" : "Enter the speed of the motor (-250 - 250)",
+		"Enter the speed of the motor. Negative values turn counter clockwise." : "Enter the speed of the motor. Negative values turn counter clockwise.",
+		"Enter the torque of the motor" : "输入发动机的转矩",
+		"Enter the torque of the motor." : "输入发动机的转矩",
+		"Enter the upper angle limit. If lower than the lower limit, no limit will be applied." : "Enter the upper angle limit. If lower than the lower limit, no limit will be applied.",
+		"Joint" : "关节设置",
+		"Link to the ground" : "连接到地面",
+		"Lower angle" : "角度下限",
+		"Motor" : "发动机设置",
+		"Only the two topmost objects" : "仅顶层两个对象",
+		"Physics - Joint" : "物理 - 关节",
+		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Set angle limits to %0 (lower angle) and %1 (upper angle)" : "设置角度限制为 %0 下限，与 %1 上限",
+		"Set motor to %0 (torque) and %1 (strength)" : "设置发动机为 %0扭矩，与 %1强度",
+		"Speed" : "速度",
+		"Torque" : "转矩",
+		"Type" : "类型",
+		"Upper angle" : "角度上限"
+	},
+	"menu_20000" : {
+		"Actions" : "动作",
+		"Destroy joint" : "销毁关节",
+		"Set angle limits" : "设置角度限制",
+		"Set joint motor" : "设置关节发动机"
+	},
+	"menu_20002" : {
+		"Expressions" : "表达式",
+		"Lower angle limit" : "角度下限",
+		"Motor speed" : "发动机速度",
+		"Motor torque" : "发动机转矩",
+		"Upper angle limit" : "角度上限"
+	}
+}

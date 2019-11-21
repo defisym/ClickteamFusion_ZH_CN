@@ -1,0 +1,35 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"%o is enabled" : "%o 已启用",
+		"Allows the movement of the objects located above it." : "允许对象位于其上方的运动。",
+		"Disable" : "禁用",
+		"Enable" : "启用",
+		"Enter new height" : "输入新高度",
+		"Enter new width" : "输入新宽度",
+		"Movement enabled" : "运动被启用",
+		"Moves all the objects above it." : "移动所有关于它的对象",
+		"Object Mover" : "对象移动",
+		"Set height to %0" : "设置高度= %0",
+		"Set width to %0" : "设置宽度= %0"
+	},
+	"menu_20000" : {
+		"Actions" : "动作",
+		"Activation" : "激活",
+		"Disable" : "禁用",
+		"Enable" : "启用",
+		"Set height" : "设置高度",
+		"Set width" : "设置宽度",
+		"Size" : "大小"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is enabled?" : "启用？"
+	},
+	"menu_20002" : {
+		"Expressions" : "表达式",
+		"Get height" : "取高度",
+		"Get width" : "取宽度"
+	}
+}

@@ -1,0 +1,44 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise" : "0: 不旋转、 1: 90度顺时针、 2: 90度逆时针",
+		"Application running on mobile" : "应用在移动设备上运行",
+		"For debugging purposes only! Indicates screen orientation at start" : "仅用于调试目的！ 表示开始时的屏幕方向",
+		"Landscape" : "横向",
+		"Left key down (F10)" : "左键按下 (F10)",
+		"Left key pressed (F10)" : "左键按住 (F10)",
+		"Mobile Utilities" : "移动端实用工具",
+		"Portrait" : "纵向",
+		"Refresh display" : "刷新显示",
+		"Right key down (F11)" : "右键按下 (F11)",
+		"Right key pressed (F11)" : "右键按住 (F11)",
+		"Screen orientation" : "屏幕方向",
+		"Screen orientation has changed" : "屏幕方向已更改",
+		"Set of utilities for Java Mobile applications" : "用于Java 移动应用的一组实用程序",
+		"Set window rotation to %0" : "设置窗口旋转 %0"
+	},
+	"menu_20000" : {
+		"Actions" : "动作",
+		"Refresh display" : "刷新显示",
+		"Set window rotation" : "设置窗口旋转"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is application running on Mobile" : "应用是否在移动设备上运行?",
+		"Left key" : "左键",
+		"Left key down" : "左键按下",
+		"Left key pressed" : "左键按住",
+		"Right key" : "右键",
+		"Right key down" : "右键按下",
+		"Right key pressed" : "右键按住",
+		"Screen orientation has changed" : "屏幕方向已更改"
+	},
+	"menu_20002" : {
+		"Expressions" : "表达式",
+		"Get screen height" : "获取屏幕高度",
+		"Get screen orientation" : "取屏幕方向",
+		"Get screen width" : "获取屏幕宽度",
+		"Get window rotation" : "取窗口旋转"
+	}
+}

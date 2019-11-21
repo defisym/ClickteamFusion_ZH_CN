@@ -1,0 +1,165 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"Advanced Scrolling" : "高级滚动",
+		"Back" : "返回",
+		"Bands" : "Bands",
+		"Cell" : "Cell",
+		"Cross rain" : "雨 (倾斜)",
+		"Diagonal" : "对角线",
+		"Door" : "门",
+		"Fade" : "淡入淡出",
+		"Line" : "Line",
+		"Mosaic" : "Mosaic",
+		"Open" : "打开",
+		"Push" : "Push",
+		"Rain" : "雨",
+		"Scrolling" : "滚动",
+		"Spot width: %d%%" : "点的宽度: %d%%",
+		"Square" : "矩形",
+		"Standard transitions" : "标准过渡",
+		"Stretch" : "拉伸",
+		"Stretch 2" : "拉伸 2",
+		"Trame" : "Trame",
+		"Turn" : "Turn",
+		"Turn 2" : "Turn 2",
+		"ZigZag 2" : "ZigZag 2",
+		"Zigzag" : "ZigZag",
+		"Zoom" : "缩放",
+		"Zoom 2" : "缩放 2"
+	},
+	"dialog_102" : {
+		"Direction" : "方向",
+		"From &bottom to top" : "下到上(&B)",
+		"From &left to right" : "左到右(&L)",
+		"From &right to left" : "右到左(&R)",
+		"From &top to bottom" : "上到下(&T)",
+		"Number of bands:" : "Bands数量:",
+		"Spin1" : "Spin1"
+	},
+	"dialog_103" : {
+		"&Bottom-left corner" : "左下角(&B)",
+		"&Center" : "居中(&C)",
+		"&Horizontal" : "水平(&H)",
+		"&Top-right corner" : "右上角(&T)",
+		"&Vertical" : "垂直(&V)",
+		"Bottom-&right corner" : "右下角(&R)",
+		"Direction" : "方向",
+		"Slider1" : "Slider1",
+		"Start from" : "开始地点",
+		"Top-&left corner" : "左上角(&L)"
+	},
+	"dialog_104" : {
+		"Slider1" : "Slider1"
+	},
+	"dialog_105" : {
+		"Direction" : "方向",
+		"Horizontal, from center to &left && right" : "水平 - 中间到左右(&L)",
+		"Horizontal, from left && &right to center" : "水平 - 左右到中间(&R)",
+		"Vertical, from center to &top && bottom" : "垂直 - 中间到上下(&T)",
+		"Vertical, from top && &bottom to center" : "垂直 - 上下到中间(&B)"
+	},
+	"dialog_106" : {
+		"Direction" : "方向",
+		"From &bottom to top" : "下到上(&B)",
+		"From &left to right" : "左到右(&L)",
+		"From &right to left" : "右到左(&R)",
+		"From &top to bottom" : "上到下(&T)"
+	},
+	"dialog_107" : {
+		"Slider1" : "Slider1",
+		"Square Size" : "矩形大小",
+		"with Stretch for the inside square" : "内部矩形拉伸"
+	},
+	"dialog_108" : {
+		"&Randomly" : "随机(&R)",
+		"&Style 1" : "样式 1(&S)",
+		"&Style 2" : "样式 2(&S)",
+		"&Style 3" : "样式 3(&S)",
+		"&Style 4" : "样式 4(&S)",
+		"&Style 5" : "样式 5(&S)",
+		"&Style 6" : "样式 6(&S)",
+		"&Style 7" : "样式 7(&S)",
+		"&Style 8" : "样式 8(&S)"
+	},
+	"dialog_109" : {
+		"Horizontal" : "水平",
+		"Nb Lines" : "行数",
+		"Scrolling" : "滚动",
+		"Slider1" : "Slider1",
+		"Vertical" : "垂直"
+	},
+	"dialog_110" : {
+		"Horizontal" : "水平",
+		"Number of lines :" : "行数",
+		"Slider1" : "Slider1",
+		"Vertical" : "垂直"
+	},
+	"dialog_112" : {
+		"Bottom Left" : "左下",
+		"Bottom Right" : "右下",
+		"Top Left" : "左上",
+		"Top Right" : "右上"
+	},
+	"dialog_113" : {
+		"4 corners" : "4 角",
+		"Bottom Left" : "左下",
+		"Bottom Middle" : "中下",
+		"Bottom Right" : "右下",
+		"Center" : "中",
+		"Middle Left" : "中左",
+		"Middle Right" : "中右",
+		"Top Left" : "左上",
+		"Top Middle" : "中上",
+		"Top Right" : "右上"
+	},
+	"dialog_114" : {
+		"Inverse Rotation" : "反向旋转",
+		"Number of rotations" : "旋转数",
+		"See Full Image" : "显示全图像",
+		"Slider1" : "Slider1"
+	},
+	"dialog_115" : {
+		"Bottom Left" : "左下",
+		"Bottom Middle" : "中央下",
+		"Bottom Right" : "右下",
+		"Center H" : "水平方向の中央",
+		"Center H+V" : "水平、垂直方向の中央",
+		"Center V" : "垂直方向の中央",
+		"Middle Left" : "中央左",
+		"Middle Right" : "中央右",
+		"Top Left" : "左上",
+		"Top Middle" : "中央上",
+		"Top Right" : "右上"
+	},
+	"dialog_116" : {
+		"Open (Scrolling)" : "打开 (滚动)",
+		"Open (Stretch)" : "打开 (拉伸)",
+		"Slide (H)" : "滑动 (水平)",
+		"Slide (V)" : "滑动 (垂直)",
+		"Slide (to Bottom Left)" : "滑动 (左下)",
+		"Slide (to Bottom Right)" : "滑动 (右下)",
+		"Slide (to Top Left)" : "滑动 (左上)",
+		"Slide (to Top Right)" : "滑动 (右上)"
+	},
+	"dialog_117" : {
+		"Zoom In" : "放大",
+		"Zoom Out" : "缩小"
+	},
+	"dialog_118" : {
+		"Cols" : "列",
+		"Rows" : "行",
+		"Slider1" : "Slider1"
+	},
+	"dialog_119" : {
+		"2 Directions (Horizontal)" : "2 方向 (水平)",
+		"2 Directions (Vertical)" : "2 方向 (垂直)",
+		"4 Directions" : "4 方向"
+	},
+	"dialog_120" : {
+		"Inverse Rotation" : "反向旋转",
+		"Nb Rotations" : "旋转数",
+		"Slider1" : "Slider1"
+	}
+}

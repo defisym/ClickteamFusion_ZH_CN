@@ -1,0 +1,34 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only." : "允许您对双精度浮点数（16位有效数字）进行简单计算。 仅适用于Pro版本.",
+		"Double-Precision Calculator" : "双精度计算器",
+		"Double-Precision Calculator object" : "双精度计算器对象",
+		"Enter the number of digits" : "输入位数",
+		"Enter the number of digits after the decimal point" : "输入小数点后的位数",
+		"First number string" : "第一个数的字符串",
+		"Number of decimals" : "小数位数",
+		"Number of digits" : "位数",
+		"Number string" : "数字的字符串",
+		"Second number string" : "第二个数的字符串",
+		"Set Format to %0 digits" : "设置格式为%0位",
+		"Set Format to %0 digits after decimal point" : "设置格式为小数点后%0位",
+		"Set Standard Format" : "设置标准格式"
+	},
+	"menu_20000" : {
+		"&Standard" : "标准(&S)",
+		"N digits" : "N位",
+		"N digits after decimal point" : "小数点后的N位数字",
+		"Set Format" : "置格式"
+	},
+	"menu_20002" : {
+		"&Add" : "加法(&A)",
+		"&Divide" : "除法(&D)",
+		"&Multiply" : "乘法(&M)",
+		"&Subtract" : "减法(&S)",
+		"Format ..." : "格式 ...",
+		"N digits" : "N位",
+		"N digits after decimal point" : "小数点后的N位数字"
+	}
+}

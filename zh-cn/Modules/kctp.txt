@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"00Read Info" : "00读取信息",
+		"00Reset info" : "00重置信息",
+		"10%s: Application never used?" : "10%s: 应用从未使用过?",
+		"10%s: Data Integrity Problem?" : "10%s: 数据完整性问题?",
+		"10%s: Is trial period expired?" : "10%s: 试用期已过期?",
+		"11%s: number of days since first use %s" : "11%s: 首次使用天数 %s",
+		"11%s: number of days since highest last use %s" : "11%s: 使用以来的最高天数 %s",
+		"Allows you to make demo versions that expire after a given time." : "可以创建将在一段时间后过期的演示版本",
+		"Display Message %0 (title=%1)" : "显示信息 %0 (标题=%1)",
+		"Message Text" : "消息文本",
+		"Set Private Data to %0" : "设置私人数据为 %0",
+		"Trial Period Object" : "试用期对象",
+		"Window Title" : "窗口标题"
+	},
+	"dialog_101" : {
+		"&Help" : "帮助(&H)",
+		"&Reset" : "重置(&R)",
+		"&Shared by all users (requires administrator rights)" : "所有用户共享 (需要管理员权限)(&S)",
+		"Cancel" : "取消",
+		"Compatible with V1" : "兼容V1",
+		"Expiration" : "到期",
+		"OK" : "OK",
+		"Product ID (8 characters)" : "产品 ID (8 字符)",
+		"Tests" : "测试",
+		"Trial Period Duration (number of days)" : "试用期持续时间 (天)",
+		"Trial Period Object Setup" : "试用期对象设置"
+	},
+	"menu_20000" : {
+		"Display Message" : "显示消息",
+		"Read Info" : "读取信息",
+		"Reset Info" : "重置信息",
+		"Set Private Data" : "设置私人数据"
+	},
+	"menu_20001" : {
+		"Compare number of days since first use" : "比较首次使用天数",
+		"Compare number of days since highest use" : "比较最高使用天数",
+		"Data Integrity Problem?" : "数据完整性问题?",
+		"Is Trial Period Expired?" : "试用期已过?",
+		"Never used?" : "从未使用过?"
+	},
+	"menu_20002" : {
+		"Number of days since first use" : "首次使用天数",
+		"Number of days since highest use" : "最高使用天数",
+		"Private Data" : "私人数据"
+	}
+}

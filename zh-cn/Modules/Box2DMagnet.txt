@@ -1,0 +1,49 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"%o: Is magnet active?" : "%o: 磁铁激活？",
+		"Active at start" : "开始时激活",
+		"Advanced" : "高级",
+		"Attracts objects around itself" : "吸引周围的对象到自身",
+		"Check this box to make the magnet active at start of frame" : "Check this box to make the magnet active at start of frame",
+		"Directions" : "方向",
+		"Directions of the magnet" : "Directions of the magnet",
+		"Engine ID" : "引擎 ID",
+		"Enter 1 to turn on, 0 to turn off" : "输入1为开，0为关",
+		"Enter the directions where the magnet will have effect" : "Enter the directions where the magnet will have effect",
+		"Enter the height of the object" : "Enter the height of the object",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "Enter the identifier of the engine if multiple engines are used on the same frame.",
+		"Enter the strength of the magnet (0-100)" : "输入力度（0～100）",
+		"Enter the strength of the magnet, from 0 to 100" : "输入力度  0 ～ 100",
+		"Enter the width of the object" : "Enter the width of the object",
+		"Physics - Magnet" : "物理 - 磁铁",
+		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Running : %i" : "磁铁状态 : %i",
+		"Set angle to %0" : "设置角度为 %0",
+		"Set height to %0" : "设置高度为 %0",
+		"Set magnet to %0" : "设置磁铁为 %0",
+		"Set strength to %0" : "设置力度为 %0",
+		"Set width to %0" : "设置宽度为 %0",
+		"Strength" : "力度",
+		"Strength : %i" : "力度 : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "动作",
+		"Set angle" : "设置角度",
+		"Set height" : "设置高度",
+		"Set magnet ON/OFF" : "设置磁铁状态开或关",
+		"Set strength" : "设置力度",
+		"Set width" : "设置宽度"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is magnet active?" : "磁铁激活？"
+	},
+	"menu_20002" : {
+		"Action zone height" : "有效范围高度",
+		"Action zone width" : "有效范围宽度",
+		"Expressions" : "表达式",
+		"Magnet strength" : "磁铁力度"
+	}
+}

@@ -1,0 +1,33 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"00Block left click" : "00限制鼠标左键点击",
+		"00Block middle click" : "00限制鼠标中键点击",
+		"00Block right click" : "00限制鼠标右键点击",
+		"00Unblock left click" : "00解除限制鼠标左键点击",
+		"00Unblock middle click" : "00解除限制鼠标中键点击",
+		"00Unblock right click" : "00解除限制鼠标右键点击",
+		"Block left mouse button" : "限制鼠标左键",
+		"Block middle mouse button" : "限制鼠标中键",
+		"Block right mouse button" : "限制鼠标右键",
+		"Blocks the left, middle and/or right clicks of the mouse." : "限制鼠标左键，中键和右键的点击。",
+		"Click Blocker" : "点击限制器",
+		"Click Blocker object" : "点击限制器对象",
+		"Left mouse button %s" : "%s 鼠标左键",
+		"Left mouse clicks will have no effects" : "鼠标左键点击将无效",
+		"Middle mouse button %s" : "%s 鼠标中键",
+		"Middle mouse clicks will have no effects" : "鼠标中键点击将无效",
+		"Right mouse button %s" : "%s 鼠标右键",
+		"Right mouse clicks will have no effects" : "鼠标右键点击将无效",
+		"blocked" : "被限制",
+		"unblocked" : "解除限制"
+	},
+	"menu_20000" : {
+		"&Left click" : "左键单击(&L)",
+		"&Middle click" : "中键单击(&M)",
+		"&Right click" : "右键单击(&R)",
+		"Block" : "限制",
+		"Unblock" : "解除限制"
+	}
+}

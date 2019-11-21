@@ -1,0 +1,68 @@
+﻿{
+	"version" : 1,
+	"lang" : 2052,
+	"general" : {
+		"00Hide" : "00隐藏",
+		"00New file from selector" : "00从选择器新建文件",
+		"00Show" : "00表示",
+		"01New file %s" : "01新建文件 %s",
+		"01Set X coordinate at %s" : {
+			"28205" : "01设置X坐标在 %s",
+			"28206" : "01设置Y坐标在 %s"
+		},
+		"01Set horizontal size to %s" : "01置水平大小为  %s",
+		"01Set position at %s" : "01设置位置在 %s",
+		"01Set vertical size to %s" : "01置垂直大小为 %s",
+		"10%s: a file is opened" : "10%s: 一个文件已打开",
+		"10%s: visible" : "10%s: 可视",
+		"21User %s within %s" : "21User %s within %s",
+		"Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead." : "Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead.",
+		"Please select a QuickTime VR file" : "Please select a QuickTime VR file",
+		"Please, enter a valid QuickTime VR filename." : "Please, enter a valid QuickTime VR filename.",
+		"QuickTime VR 2" : "QuickTime VR 2",
+		"QuickTime VR 2 object" : "QuickTime VR 2 对象",
+		"QuickTime VR files (*.mov)|*.mov|" : "QuickTime VR 文件 (*.mov)|*.mov|",
+		"Warning: the 32 bit version of QuickTimeVR cannot be found on your machine." : "Warning: the 32 bit version of QuickTimeVR cannot be found on your machine."
+	},
+	"dialog_20003" : {
+		"&Browse" : "浏览(&B)",
+		"&Help" : "帮助(&H)",
+		"&Use default size" : "使用默认大小(&U)",
+		"Cancel" : "取消",
+		"File to play" : "播放文件",
+		"Hide on &start" : "开始时隐藏(&S)",
+		"IMPORTANT : this object only works with QuickTime 2, it is provided for compatibility reasons only. Please use the new QuickTime 3 object which works with the latest versions of QuickTime and can play QuickTimeVR files." : "IMPORTANT : this object only works with QuickTime 2, it is provided for compatibility reasons only. Please use the new QuickTime 3 object which works with the latest versions of QuickTime and can play QuickTimeVR files.",
+		"OK" : "OK",
+		"Options" : "选项",
+		"Setup QuickTime VR object" : "Setup QuickTime VR object",
+		"Use &Current Frame Palette" : "Use &Current Frame Palette(&C)",
+		"Zoom X2" : "2 倍缩放"
+	},
+	"menu_20000" : {
+		"A new file" : "一个新文件",
+		"A new file via a file selector" : "A new file via a file selector",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
+		"Play" : "播放",
+		"Position" : "位置",
+		"Set Horizontal size" : "设置水平大小",
+		"Set Position" : "设置位置",
+		"Set Vertical size" : "设置垂直大小",
+		"Set X Position" : "设置X 位置",
+		"Set Y Position" : "设置Y 位置",
+		"Size" : "大小",
+		"Visibility" : "显示/不显示"
+	},
+	"menu_20001" : {
+		"Check whether a file is open ?" : "文件已打开？",
+		"Is visible ?" : "可视？",
+		"Mouse clicks within the QuickTime VR Window ?" : "Mouse clicks within the QuickTime VR Window ?"
+	},
+	"menu_20002" : {
+		"Horizontal size" : "水平大小",
+		"Last error number" : "最后错误编号",
+		"Vertical size" : "垂直大小",
+		"X position" : "X 位置",
+		"Y position" : "Y 位置"
+	}
+}
