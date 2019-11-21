@@ -55,7 +55,7 @@
 		"Optimize events" : "优化事件",
 		"Optimize image size in RAM" : "优化图像的内存占用",
 		"Output" : "输出",
-		"Premultiplied alpha" : "预乘不透明度不透明度",
+		"Premultiplied alpha" : "预乘不透明度",
 		"Premultiply RGB values with alpha values in images. Allows to avoid color issues if you use effects on layers." : "预乘图像的不透明度，避免使用层Shader时的颜色问题",
 		"Profile top-level conditions only" : "仅分析顶层条件",
 		"Profiler" : "性能分析器",
