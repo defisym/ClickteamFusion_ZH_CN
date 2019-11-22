@@ -355,5 +355,5 @@
 		"Time hour" : "时间 时",
 		"Time mins" : "时间 分",
 		"Time secs" : "时间 秒"
-	},
+	}
 }

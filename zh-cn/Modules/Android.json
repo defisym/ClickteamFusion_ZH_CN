@@ -8,7 +8,7 @@
         "Comment": "提供安卓设备运行时的特殊功能",
         "URL": "http://www.clickteam.com",
         "Help": "Android.chm",
-        "Identifier": "AndR",
+        "Identifier": "AndR"
     },
 
     "ActionMenu":
@@ -23,14 +23,14 @@
 
             "Separator",
             
-            [5, "设置日志标签 (默认 = 应用程序标题)"],
+            [5, "设置日志标签 (默认 = 应用程序标题)"]
         ],
         
         "Separator",
         
         ["阻止休眠",   
             [6, "开始"],
-            [7, "停止"],
+            [7, "停止"]
         ],
         
         [10, "打开网址"],
@@ -56,7 +56,7 @@
         ["信使 (接收)",
 
             [19, "注册动作"],
-            [20, "取消注册动作"],
+            [20, "取消注册动作"]
         ],
 
         "Separator",
@@ -64,7 +64,7 @@
         ["键盘",
 
 	        [13, "显示键盘"],
-        	[14, "隐藏键盘"],
+        	[14, "隐藏键盘"]
         ],
 
         "Separator",
@@ -76,14 +76,14 @@
         ["菜单 ...",
 	        [22, "启用选项菜单项目"],
         	[23, "禁用选项菜单项目"],
-	        [29, "通过动作打开菜单"],
+	        [29, "通过动作打开菜单"]
         ],
 		
         "Separator",
 
         ["动作/标题栏",
 	        [24, "显示 动作/标题栏"],
-        	[25, "隐藏 动作/标题栏"],
+        	[25, "隐藏 动作/标题栏"]
         ],
 
         "Separator",
@@ -91,14 +91,14 @@
         ["导航栏",
 	        [33, "显示导航栏"],
         	[34, "变暗导航栏"],
-	        [35, "隐藏导航栏"],
+	        [35, "隐藏导航栏"]
         ],
 
         "Separator",
 
         ["硬件按键",
 	        [30, "禁用硬件按键"],
-        	[31, "启用硬件按键"],
+        	[31, "启用硬件按键"]
         ],
 
         "Separator",
@@ -109,7 +109,7 @@
 
         ["布局方向",
 	        [26, "横向固定"],
-        	[27, "纵向固定"],
+        	[27, "纵向固定"]
         ],
 
         "Separator",
@@ -120,7 +120,7 @@
 
         ["自动结束",
 			[37, "禁用自动结束"],
-			[38, "启用自动结束"],
+			[38, "启用自动结束"]
         ],
 		
         "Separator",
@@ -150,7 +150,7 @@
            "Separator",
 
            [5, "AC电源适配器"],
-           [6, "USB端口"],
+           [6, "USB端口"]
        ],
 
        [7, "电池充电中"],
@@ -367,55 +367,55 @@
     "Conditions":
     [
         {   "Title": "%o : 设备拥有GPU ？",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 用户漫游中？",
             "Triggered": false
         },
         {   "Title": "%o : 引发异常时",
-            "Triggered": true,
+            "Triggered": true
         },
         {   "Title": "%o : 网络已连接？",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 任意电源连接？",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : AC电源连接？",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : USB端口连接？",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 电池充电中",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 电池放电中",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 电池被充满",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 返回按钮按下时",
-            "Triggered": true,
+            "Triggered": true
         },
         {   "Title": "%o : 主机按钮按下时",
-            "Triggered": true,
+            "Triggered": true
         },
         {   "Title": "%o : 菜单按钮按下时",
-            "Triggered": true,
+            "Triggered": true
         },
         {   "Title": "%o : 设备是超级权限？",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 蓝牙启用？",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 返回按钮被按下",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 菜单按钮被按下",
-            "Triggered": false,
+            "Triggered": false
         },
         {   "Title": "%o : 按钮 %0 被按下",
             "Triggered": false,
@@ -441,7 +441,7 @@
         {   "Title": "%o : 键盘隐藏时",
             "Triggered": true
         },
-        {   "Title": "%o : 键盘可见？",
+        {   "Title": "%o : 键盘可见？"
         }
     ],
 
