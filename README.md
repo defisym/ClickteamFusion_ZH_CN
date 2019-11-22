@@ -7,6 +7,7 @@
 ![Unofficial Simplified Chinese Translation for Clickteam Fusion 2.5](https://raw.githubusercontent.com/defisym/ClickteamFusion_ZH_CN/master/Assets/GitLogo.png)
 
 Unofficial Simplified Chinese Translation for Clickteam Fusion 2.5
+
 Clickteam Fusion 2.5非官方汉化
 
 ### 使用方法
