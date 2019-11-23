@@ -18,10 +18,10 @@
 		"    Total compressed size: %d bytes" : "    压缩后大小: %d 字节",
 		"    Total uncompressed size: %d bytes" : "    压缩前大小: %d 字节",
 		" (uninteruptable)" : " (不可中断)",
-		" And " : " And ",
-		" Or " : " Or ",
-		" Pow " : " Pow ",
-		" Xor " : " Xor ",
+		" And " : " 与 ",
+		" Or " : " 或 ",
+		" Pow " : " 平方 ",
+		" Xor " : " 异或 ",
 		"\"%s\"" : "\"%s\"",
 		"\"%s\" (%i)" : "\"%s\" (%i)",
 		"\"%s\" (%s)" : "\"%s\" (%s)",
@@ -2045,7 +2045,7 @@
 		"Mochiads" : "Mochiads",
 		"Mochiads game ID" : "Mochiads 游戏 ID",
 		"Modal" : "模态",
-		"Modified" : "Modified",
+		"Modified" : "被修改",
 		"Monochrome" : "单色",
 		"Month" : "月",
 		"More" : "更多",
@@ -3427,7 +3427,7 @@
 		"XNA Xbox Application" : "XNA Xbox 应用程序",
 		"XNA Xbox Project" : "XNA Xbox 工程",
 		"XNA application (*.sln)|*.sln|All Files (*.*)|*.*||" : "XNA 应用程序 (*.sln)|*.sln|所有文件 (*.*)|*.*||",
-		"XOR" : "XOR",
+		"XOR" : "异或",
 		"Y" : "Y",
 		"Y Coordinate" : "Y 坐标",
 		"Y Coordinate of action point" : "作用点的Y坐标",
@@ -6356,7 +6356,7 @@
 	},
 	"menu_10080" : {
 		"Find next" : "搜索下一个",
-		"No filters" : "没有过滤器",
+		"No filters" : "没有过滤条件",
 		"Search object" : "搜索对象",
 		"Search..." : "搜索..."
 	},
@@ -6364,11 +6364,11 @@
 		"IDMN_PARAMMENU" : "IDMN_PARAMMENU"
 	},
 	"menu_13578" : {
-		"Bit-wise AND" : "Bit-wise AND",
-		"Bit-wise OR" : "Bit-wise OR",
-		"Bit-wise XOR" : "Bit-wise XOR",
-		"Popup" : "Popup",
-		"Power" : "Power"
+		"Bit-wise AND" : "按位与",
+		"Bit-wise OR" : "按位或",
+		"Bit-wise XOR" : "按位异或",
+		"Popup" : "弹出菜单",
+		"Power" : "幂次"
 	},
 	"menu_13583" : {
 		"Copy" : "复制",
@@ -6420,7 +6420,7 @@
 		"&Windows directory" : "Windows 目录(&W)",
 		"Files" : "文件",
 		"Keys" : "按键",
-		"M&y Documents directory" : "My Documents 目录(&Y)",
+		"M&y Documents directory" : "我的文档(&Y)",
 		"Macro1" : "Macro1",
 		"Macro2" : "Macro2",
 		"Macro3" : "Macro3",
