@@ -1135,7 +1135,7 @@
 		"Display Options" : "显示选项",
 		"Display Previous or Next Frame" : "显示上一场景或下一场景",
 		"Display Property Window" : "显示属性窗口",
-		"Display Storyboard Editor" : "显示故事面板编辑器",
+		"Display Storyboard Editor" : "显示故事板编辑器",
 		"Display Text..." : "显示文本...",
 		"Display ad on the bottom of the screen" : "在屏幕下方显示广告",
 		"Display ad over application window" : "Display ad over application window",
@@ -1167,7 +1167,7 @@
 		"Display program information, version number and copyright\nAbout" : "显示程序的信息，版本号和版权\n关于",
 		"Display status bar" : "显示状态栏",
 		"Display status line" : "显示状态行",
-		"Display the preferences\nPreferences" : "显示环境设置\n环境设置",
+		"Display the preferences\nPreferences" : "显示偏好设置\n偏好设置",
 		"Display the preloader defined in the application properties when the resources of this frame are loaded." : "当已载入帧的资源时，显示程序的已定义的预加载器属性。",
 		"Display tutorial" : "显示教程",
 		"Displayed below the directory name." : "显示以下的目录名",
@@ -1849,7 +1849,7 @@
 		"Is the timer less than a certain value?" : "计时器小于某个值？",
 		"Is this player, playing now?" : "是这个玩家在游戏？",
 		"It is strongly recommended that before proceeding, you ensure that no other Windows programs are running." : "继续之前建议，确保没有其他程序在运行。",
-		"It seems the previous loading of CF failed because of the %s extension.\n\nDo you want to ignore this extension? If you click Yes, it will be added to the 'Extensions To Ignore' list in the Preferences dialog box." : "似乎由于%s扩展，CF加载失败。你希望忽略此扩展吗？如果你点是，它将被添加进环境设置的被忽略扩展列表里。",
+		"It seems the previous loading of CF failed because of the %s extension.\n\nDo you want to ignore this extension? If you click Yes, it will be added to the 'Extensions To Ignore' list in the Preferences dialog box." : "似乎由于%s扩展，CF加载失败。你希望忽略此扩展吗？如果你点是，它将被添加进偏好设置的被忽略扩展列表里。",
 		"Italic" : "斜体",
 		"Italic\nItalic" : "斜体\n斜体",
 		"Java Application" : "Java 应用程序",
@@ -2438,8 +2438,8 @@
 		"Portrait (flipped)" : "纵向 (反转)",
 		"Position" : "位置",
 		"Positive Matter" : "",
-		"Powerups" : "",
-		"Preferences" : "环境设置",
+		"Powerups" : "能力提升道具",
+		"Preferences" : "偏好设置",
 		"Preload %0 as image, HotSpot(%1,%2), Action Point(%3,%4), Transparent Color %5" : "预加载图像 %0,热点(%1,%2),作用点(%3,%4),透明色%5",
 		"Preload Image" : "预加载图像",
 		"Preload sample file" : "预加载声音文件",
@@ -2967,11 +2967,11 @@
 		"Stopped" : "停止",
 		"Storage" : "保存",
 		"Store logo" : "商店logo",
-		"Storyboard" : "故事面板",
-		"Storyboard Controls" : "故事面板控制",
-		"Storyboard Editor\nStoryboard Editor" : "故事面板编辑器\n故事面板编辑器",
-		"Storyboard Editor Toolbar" : "故事面板编辑器工具栏",
-		"Storyboard Editor Zoom\nZoom" : "故事面板编辑器缩放\n缩放",
+		"Storyboard" : "故事板",
+		"Storyboard Controls" : "故事板控制",
+		"Storyboard Editor\nStoryboard Editor" : "故事板编辑器\n故事板编辑器",
+		"Storyboard Editor Toolbar" : "故事板编辑器工具栏",
+		"Storyboard Editor Zoom\nZoom" : "故事板编辑器缩放\n缩放",
 		"Str$( >Enter number here< )" : "Str$( >在此输入数字< )",
 		"Strength" : "力度",
 		"Stretch frame to object size" : "拉伸帧到对象尺寸",
@@ -3040,7 +3040,7 @@
 		"The %s movement cannot be found. \nDo you want to build the application anyway (objects using this movement will stay static)?" : "%s 运动找不到。\n你始终希望编译此程序？ (使用这个运动的物体将保持静止)",
 		"The .mfa file of your application is more recent than the EXE/SCR/CCN file. Do you want to build the application now?" : "你的程序的 .mfa 文件比 EXE/SCR/CCN 文件要新。 你现在想编译程序吗？",
 		"The Application Directory's URL in the\napplication properties cannot be empty.\nEnter the correct URL and try again." : "程序目录的URL属性不能为空.\n输入正确的URL并重试。",
-		"The Automatic Backup feature is not enabled by default, would you like to activate it now? If so, the program will copy the previous version of your application to a .001 file each time you save it. You can change the number of backup copies in the Preferences." : "默认情况下不启用自动备份功能，你要激活它吗？If so, the program will copy the previous version of your application to a .001 file each time you save it.你可以在环境设置里修改备份数量。",
+		"The Automatic Backup feature is not enabled by default, would you like to activate it now? If so, the program will copy the previous version of your application to a .001 file each time you save it. You can change the number of backup copies in the Preferences." : "默认情况下不启用自动备份功能，你要激活它吗？If so, the program will copy the previous version of your application to a .001 file each time you save it.你可以在偏好设置里修改备份数量。",
 		"The BlackBerry development kit (JDE) could not be found\non this machine.\nTo create a BlackBerry application\nyou must install the BlackBerry JDE.\n\nDo you want to read the help on how\n to install the BlackBerry JDE?" : "The BlackBerry development kit (JDE) could not be found\non this machine.\nTo create a BlackBerry application\nyou must install the BlackBerry JDE.\n\nDo you want to read the help on how\n to install the BlackBerry JDE?",
 		"The Games Factory cannot build install programs for Internet applications." : "游戏工厂无法为互联网应用建立安装程序。",
 		"The Install wizard did not complete the installation successfully." : "安装向导没有成功完成安装。",
@@ -3545,7 +3545,7 @@
 		"south" : "南",
 		"south-east" : "东南",
 		"south-west" : "西南",
-		"storyboard controls" : "故事面板控制",
+		"storyboard controls" : "故事板控制",
 		"successfully installed" : "安装完成",
 		"successfully removed" : "移除完成",
 		"successfully updated" : "升级完成",
@@ -4133,7 +4133,7 @@
 		"Color 2" : "颜色 2",
 		"OK" : "确定",
 		"Options" : "选项",
-		"Picture Editor Preferences" : "图片编辑器环境设置",
+		"Picture Editor Preferences" : "图片编辑器偏好设置",
 		"Right Click" : "右键单击"
 	},
 	"dialog_4166" : {
@@ -4408,7 +4408,7 @@
 	"dialog_9070" : {
 		"&Help" : "帮助(&H)",
 		"Cancel" : "取消",
-		"Choose a Storyboard Frame" : "选择一个故事面板的帧",
+		"Choose a Storyboard Frame" : "选择一个故事板的场景",
 		"List1" : "List1",
 		"OK" : "确定"
 	},
@@ -4416,7 +4416,7 @@
 		"&Help" : "帮助(&H)",
 		"&Use a calculation" : "使用表达式(&U)",
 		"Cancel" : "取消",
-		"Choose a Storyboard Frame" : "选择一个故事面板的帧",
+		"Choose a Storyboard Frame" : "选择一个故事板的场景",
 		"List1" : "List1",
 		"OK" : "确定"
 	},
@@ -4634,12 +4634,12 @@
 	},
 	"dialog_13534" : {
 		"&Automatically create a blank frame" : "自动创建一个空白帧(&A)",
-		"&Show storyboard" : "显示故事面板(&S)",
+		"&Show storyboard" : "显示故事板(&S)",
 		"&Zoom" : "缩放(&Z)",
 		"Display &comment(s)" : "显示注释(&C)",
 		"Display &top bar" : "显示提示(&T)",
 		"Slider1" : "Slider1",
-		"Storyboard Editor" : "故事面板编辑器",
+		"Storyboard Editor" : "故事板编辑器",
 		"When creating a new application" : "当创建一个新的应用程序"
 	},
 	"dialog_13535" : {
@@ -4713,7 +4713,7 @@
 	},
 	"dialog_13565" : {
 		"&Help" : "帮助(&H)",
-		"&Use a calculation" : "使用一个计算方法(&U)",
+		"&Use a calculation" : "使用表达式(&U)",
 		"Cancel" : "取消",
 		"Dialog" : "对话框",
 		"List1" : "List1",
@@ -5478,7 +5478,7 @@
 		"&New Window" : "新建窗口(&N)",
 		"&Open..." : "打开(&O)...",
 		"&Paste" : "粘贴(&P)",
-		"&Preferences" : "环境设置(&P)",
+		"&Preferences" : "偏好设置(&P)",
 		"&Project" : "工程(&P)",
 		"&Properties" : "属性(&P)",
 		"&Redo" : "重做(&R)",
@@ -5513,7 +5513,7 @@
 		"Open P&roject" : "打开工程(&R)",
 		"Recent File" : "最近的文件",
 		"S&plit" : "拆分(&P)",
-		"S&toryboard Editor" : "故事面板编辑器(&T)",
+		"S&toryboard Editor" : "故事板编辑器(&T)",
 		"Sa&ve Project" : "保存工程(&V)",
 		"Sav&e Project As" : "工程另存为(&E)",
 		"Save &As..." : "另存为(&A)...",
@@ -5527,7 +5527,7 @@
 		"&Keyboard shortcuts" : "键盘快捷键(&K)",
 		"&New" : "新建(&N)",
 		"&Open..." : "打开(&O)...",
-		"&Preferences" : "环境设置(&P)",
+		"&Preferences" : "偏好设置(&P)",
 		"&Status Bar" : "状态栏(&S)",
 		"&Toolbars" : "工具栏(&T)",
 		"&Tools" : "工具(&T)",
@@ -5585,7 +5585,7 @@
 		"&New Window" : "新建窗口(&N)",
 		"&Open..." : "打开(&O)...",
 		"&Paste" : "粘贴(&P)",
-		"&Preferences" : "环境设置(&P)",
+		"&Preferences" : "偏好设置(&P)",
 		"&Project" : "工程(&P)",
 		"&Properties" : "属性(&P)",
 		"&Redo" : "重做(&R)",
@@ -5688,7 +5688,7 @@
 		"&Out" : "缩小(&O)",
 		"&Outline" : "大纲(&O)",
 		"&Paste" : "粘贴(&P)",
-		"&Preferences" : "环境设置(&P)",
+		"&Preferences" : "偏好设置(&P)",
 		"&Previous Frame" : "上一场景(&P)",
 		"&Project" : "工程(&P)",
 		"&Properties" : "属性(&P)",
@@ -5751,7 +5751,7 @@
 		"Order B&y" : "排序(&Y)",
 		"Recent File" : "最近的文件",
 		"S&plit" : "拆分(&P)",
-		"S&toryboard Editor" : "故事面板编辑器(&T)",
+		"S&toryboard Editor" : "故事板编辑器(&T)",
 		"Sa&ve Project" : "保存工程(&V)",
 		"Sav&e Project As" : "工程另存为(&E)",
 		"Save &As..." : "另存为(&A)...",
@@ -5812,7 +5812,7 @@
 		"&Other" : "其他(&O)",
 		"&Other Events" : "其他事件(&O)",
 		"&Paste" : "粘贴(&P)",
-		"&Preferences" : "环境设置(&P)",
+		"&Preferences" : "偏好设置(&P)",
 		"&Previous Frame" : "上一场景(&P)",
 		"&Print" : "打印(&P)",
 		"&Project" : "工程(&P)",
@@ -5868,7 +5868,7 @@
 		"Print previe&w" : "打印预览(&W)",
 		"Recent File" : "最近使用",
 		"S&plit" : "拆分(&P)",
-		"S&toryboard Editor" : "故事面板编辑器(&T)",
+		"S&toryboard Editor" : "故事板编辑器(&T)",
 		"Sa&ve Project" : "保存工程(&V)",
 		"Sav&e Project As" : "工程另存为(&E)",
 		"Save &As..." : "另存为(&A)...",
@@ -5889,7 +5889,7 @@
 		"C&lone" : "克隆(&L)",
 		"Edit" : "编辑",
 		"New Frame" : "新建场景",
-		"Preferences" : "环境设置",
+		"Preferences" : "偏好设置",
 		"Save &As" : "另存为(&A)"
 	},
 	"menu_161" : {
@@ -5906,7 +5906,7 @@
 		"Frame Editor" : "场景编辑器",
 		"New Folder" : "新文件夹",
 		"New Object" : "新对象",
-		"Preferences" : "环境设置"
+		"Preferences" : "偏好设置"
 	},
 	"menu_163" : {
 		"&Delete" : "删除(&D)",
@@ -5914,19 +5914,19 @@
 		"&Rename" : "重命名(&R)",
 		"Frame Folder" : "场景文件夹",
 		"New Object" : "新建对象",
-		"Preferences" : "环境设置"
+		"Preferences" : "偏好设置"
 	},
 	"menu_165" : {
 		"&Edit" : "编辑(&E)",
 		"&Properties" : "属性(&P)",
 		"&Rename" : "重命名(&R)",
-		"Frame Item" : "环境项目",
-		"Preferences" : "环境设置"
+		"Frame Item" : "场景项目",
+		"Preferences" : "偏好设置"
 	},
 	"menu_168" : {
 		"&New" : "新建(&N)",
 		"&New application" : "新建应用程序(&N)",
-		"New application &from..." : "新建应用程序来自(&F)..."
+		"New application &from..." : "从...新建应用程序(&F)"
 	},
 	"menu_177" : {
 		"&Copy" : "复制(&C)",
@@ -5934,7 +5934,7 @@
 		"&Paste" : "粘贴(&P)",
 		"&Rename" : "重命名(&R)",
 		"Cu&t" : "剪切(&T)",
-		"Property Context Menu" : "属性环境菜单"
+		"Property Context Menu" : "属性菜单"
 	},
 	"menu_1549" : {
 		"&Active Object" : "活动对象(&A)",
@@ -5970,7 +5970,7 @@
 		"&Right" : "右端(&R)",
 		"&Strikeout" : "删除线(&S)",
 		"&Style" : "样式(&S)",
-		"&Top" : "上端(&T)",
+		"&Top" : "顶端(&T)",
 		"&Typeface" : "字体(&T)",
 		"&Underline" : "下划线(&U)",
 		"&Vert Center" : "垂直居中(&V)",
@@ -5978,21 +5978,21 @@
 		"&X" : "X 坐标(&X)",
 		"&Y" : "Y 坐标(&Y)",
 		"Ali&gn in Frame" : "场景对齐(&G)",
-		"B&ackward One" : "下移一次(&A)",
+		"B&ackward One" : "下移一层(&A)",
 		"C&lone Object" : "克隆对象(&L)",
 		"Center &Horizontally" : "水平居中(&H)",
 		"Center &Vertically" : "垂直居中(&V)",
 		"Create" : "创建",
 		"Cu&t" : "剪切(&T)",
-		"F&orward One" : "上移一次(&O)",
-		"Frame Editor Context Menu" : "场景编辑器上下文菜单",
+		"F&orward One" : "上移一层(&O)",
+		"Frame Editor Context Menu" : "场景编辑器菜单",
 		"Insert &Object" : "插入对象(&O)",
 		"Order B&y" : "排序(&Y)",
 		"Sho&w #" : "一行的终止符号显示(&W)",
 		"Space Objects" : "对象之间的间隔",
 		"Te&xt" : "文本(&X)",
-		"To &Back" : "移动到底层(&B)",
-		"To &Front" : "移动到顶层(&F)"
+		"To &Back" : "移至底层(&B)",
+		"To &Front" : "移至顶层(&F)"
 	},
 	"menu_1999" : {
 		"&Large Icons" : "大图标",
@@ -6064,17 +6064,17 @@
 		"Replace" : "替换"
 	},
 	"menu_7916" : {
-		"Activate all lines" : "启用所有行",
-		"Close all groups" : "关闭所有组",
+		"Activate all lines" : "启用所有事件",
+		"Close all groups" : "关闭所有事件组",
 		"Copy" : "复制",
 		"Cut" : "剪切",
 		"Delete" : "删除",
-		"Inactivate all lines" : "禁用所有行",
-		"Open all groups" : "打开所有组",
+		"Inactivate all lines" : "禁用所有事件",
+		"Open all groups" : "打开所有事件组",
 		"Paste" : "粘贴"
 	},
 	"menu_7917" : {
-		"Delete any action in column" : "删除列内任何动作",
+		"Delete any action in column" : "删除该列全部动作",
 		"Filter and select events" : "过滤器和选择事件",
 		"Hide" : "隐藏",
 		"Insert hidden object" : "插入隐藏对象",
@@ -6107,7 +6107,7 @@
 		"A comment" : "注释",
 		"A group of events" : "事件组",
 		"A new line" : "新事件",
-		"Activate / Inactivate line" : "行 启用/禁用",
+		"Activate / Inactivate line" : "启用 / 禁用事件行",
 		"Close" : "关闭",
 		"Copy" : "复制",
 		"Cut" : "剪切",
@@ -6121,7 +6121,7 @@
 		"A comment" : "注释",
 		"A group of events" : "事件组",
 		"A new event" : "新事件",
-		"Activate / Inactivate line" : "行 启用/禁用",
+		"Activate / Inactivate line" : "启用 / 禁用事件行",
 		"Add a new condition" : "添加新条件",
 		"Copy" : "复制",
 		"Cut" : "剪切",
@@ -6205,7 +6205,7 @@
 		"Edit" : "编辑",
 		"Properties" : "属性",
 		"Rename" : "重命名",
-		"Run this frame" : "运行此帧",
+		"Run this frame" : "运行此场景",
 		"Select a new application" : "选择一个新应用程序"
 	},
 	"menu_9102" : {
@@ -6234,7 +6234,7 @@
 		"Edit" : "编辑",
 		"Properties" : "属性",
 		"Rename" : "重命名",
-		"Run this frame" : "运行此帧",
+		"Run this frame" : "运行此场景",
 		"Select a new picture" : "选择一个新图片"
 	},
 	"menu_9105" : {
@@ -6245,7 +6245,7 @@
 		"Edit" : "编辑",
 		"Properties" : "属性",
 		"Rename" : "重命名",
-		"Run this frame" : "运行此帧",
+		"Run this frame" : "运行此场景",
 		"Select a new animation" : "选择一个新动画"
 	},
 	"menu_9107" : {
@@ -6256,17 +6256,17 @@
 		"Edit" : "编辑",
 		"Properties" : "属性",
 		"Rename" : "重命名",
-		"Run this frame" : "运行此帧",
+		"Run this frame" : "运行此场景",
 		"Select a new Video" : "选择一个新视频"
 	},
 	"menu_10000" : {
-		"Activate all lines" : "启用所有行",
-		"Close all groups" : "关闭所有组",
+		"Activate all lines" : "启用所有事件",
+		"Close all groups" : "关闭所有事件组",
 		"Copy" : "复制",
 		"Cut" : "剪切",
-		"De-activate all lines" : "禁用所有行",
+		"De-activate all lines" : "禁用所有事件",
 		"Delete" : "删除",
-		"Open all groups" : "打开所有组"
+		"Open all groups" : "打开所有事件组"
 	},
 	"menu_10001" : {
 		"Delete any action in column" : "删除列内所有动作",
@@ -6289,8 +6289,8 @@
 		"Edit" : "编辑",
 		"Insert" : "插入",
 		"Negate" : "条件反转",
-		"OR operator (filtered)" : "或 (过滤)",
-		"OR operator (logical)" : "或 (逻辑)",
+		"OR operator (filtered)" : "筛选或",
+		"OR operator (logical)" : "逻辑或",
 		"Paste" : "粘贴",
 		"Replace" : "替换"
 	},
@@ -6308,7 +6308,7 @@
 		"A comment" : "注释",
 		"A group of events" : "事件组",
 		"A new line" : "新事件",
-		"Activate / Inactivate line" : "行 启用/禁用",
+		"Activate / Inactivate line" : "启用 / 禁用事件行",
 		"Close" : "关闭",
 		"Copy" : "复制",
 		"Cut" : "剪切",
@@ -6321,13 +6321,13 @@
 		"A comment" : "注释",
 		"A group of events" : "事件组",
 		"A new event" : "新事件",
-		"Activate / Inactivate line" : "行 启用/禁用",
+		"Activate / Inactivate line" : "启用 / 禁用事件行",
 		"Add a new condition" : "添加新条件",
 		"Copy" : "复制",
 		"Cut" : "剪切",
 		"Delete" : "删除",
 		"Edit the actions" : "编辑动作",
-		"Hide objects without reference in actions" : "隐藏掉动作没有被引用的对象",
+		"Hide objects without reference in actions" : "隐藏无事件引用的对象",
 		"Insert" : "插入",
 		"Paste" : "粘贴"
 	},
