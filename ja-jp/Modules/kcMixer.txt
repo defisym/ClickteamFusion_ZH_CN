@@ -1,0 +1,37 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"01Change FM synthesizer left and right volume to %s" : "01FM シンセサイザーの左右音量を %s に変更",
+		"01Change FM synthesizer left volume to %s" : "01FM シンセサイザーの左音量を %s に変更",
+		"01Change FM synthesizer right volume to %s" : "01FM シンセサイザーの右音量を %s に変更",
+		"01Change square wave synthesizer left and right volume to %s" : "01矩形波シンセサイザーの左右音量を %s に変更",
+		"01Change square wave synthesizer left volume to %s" : "01矩形波シンセサイザーの左音量を %s に変更",
+		"01Change square wave synthesizer right volume to %s" : "01矩形波シンセサイザーの右音量を %s に変更",
+		"01Change wave left and right volume to %s" : "01wave の左右音量を %s に変更",
+		"01Change wave left volume to %s" : "01wave の左音量を %s に変更",
+		"01Change wave right volume to %s" : "01wave の右音量を %s に変更",
+		"Gives you direct control over the volume of your sound samples and MIDI music files." : "サウンドおよび MIDI 音楽ファイルの音量をコントロールできます。",
+		"Mixer" : "ミキサー",
+		"Mixer object" : "ミキサーオブジェクト"
+	},
+	"menu_20000" : {
+		"Change FM synthesizer left and right volume" : "FM シンセサイザーの左右音量を変更",
+		"Change FM synthesizer left volume" : "FM シンセサイザーの左音量を変更",
+		"Change FM synthesizer right volume" : "FM シンセサイザーの右音量を変更",
+		"Change square wave synthesizer left and right volume" : "矩形波シンセサイザーの左右音量を変更",
+		"Change square wave synthesizer left volume" : "矩形波シンセサイザーの左音量を変更",
+		"Change square wave synthesizer right volume" : "矩形波シンセサイザーの右音量を変更",
+		"Change wave left and right volume" : "wave の左右音量を変更",
+		"Change wave left volume" : "wave の左音量を変更",
+		"Change wave right volume" : "wave の右音量を変更"
+	},
+	"menu_20002" : {
+		"Midi FM synthesizer left volume" : "Midi FM シンセサイザーの左音量",
+		"Midi FM synthesizer right volume" : "Midi FM シンセサイザーの右音量",
+		"Midi square wave synthesizer left volume" : "Midi 矩形波シンセサイザーの左音量",
+		"Midi square wave synthesizer right volume" : "Midi 矩形波シンセサイザーの右音量",
+		"Wave left volume" : "Wave 左音量",
+		"Wave right volume" : "Wave 右音量"
+	}
+}

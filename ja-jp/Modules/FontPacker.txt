@@ -1,0 +1,65 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+
+		"%o: Is Internal font %0 available?" : "%o: 内蔵フォント %0 が利用できる",
+		"%o: Is Packed font %0 available?" : "%o: パックフォント %0 が利用できる",
+		"%o: On Error Ocurred" : "%o: エラー発生時",
+		"%o: On Internal Fonts Read" : "%o: 内蔵フォント読み込み時",
+		"%o: On Packed Fonts Read" : "%o: パックフォント読み込み時",
+		"%o: Read Internal Fonts" : "%o: 内蔵フォントを読み込み",
+		"%o: Read Packed Fonts" : "%o: パックフォントを読み込み",
+		"Android Font Packer" : "Android フォントパッカー",
+		"Android Font Packer Control" : "Android フォントパッカー コントロール",
+		"Clear Checked" : "チェックをクリア",
+		"File must be named according their typeface" : "ファイルはタイプフェイスと一致した名前にしなければなりません",
+		"Font #10: " : "フォント #10: ",
+		"Font #1: " : "フォント #1: ",
+		"Font #2: " : "フォント #2: ",
+		"Font #3: " : "フォント #3: ",
+		"Font #4: " : "フォント #4: ",
+		"Font #5: " : "フォント #5: ",
+		"Font #6: " : "フォント #6: ",
+		"Font #7: " : "フォント #7: ",
+		"Font #8: " : "フォント #8: ",
+		"Font #9: " : "フォント #9: ",
+		"Font Name" : "フォント名",
+		"Font filename #1 as defined in system" : "フォントファイル名 #1 (システムで定義)",
+		"Font filename #10 as defined in system" : "フォントファイル名 #10 (システムで定義)",
+		"Font filename #2 as defined in system" : "フォントファイル名 #2 (システムで定義)",
+		"Font filename #3 as defined in system" : "フォントファイル名 #3 (システムで定義)",
+		"Font filename #4 as defined in system" : "フォントファイル名 #4 (システムで定義)",
+		"Font filename #5 as defined in system" : "フォントファイル名 #5 (システムで定義)",
+		"Font filename #6 as defined in system" : "フォントファイル名 #6 (システムで定義)",
+		"Font filename #7 as defined in system" : "フォントファイル名 #7 (システムで定義)",
+		"Font filename #8 as defined in system" : "フォントファイル名 #8 (システムで定義)",
+		"Font filename #9 as defined in system" : "フォントファイル名 #9 (システムで定義)",
+		"Fonts functionality for Android." : "Android のフォント機能をコントロールします。",
+		"Fonts to Pack ..." : "パックするフォント ...",
+		"Repack the font list" : "フォントリストを再パック"
+	},
+	"menu_20000" : {
+
+		"Read Internal fonts" : "内蔵フォントを読み込み",
+		"Read Packed Fonts" : "パックフォントを読み込み"
+	},
+	"menu_20001" : {
+
+		"Is Internal Font Available" : "内蔵フォントが利用できる",
+		"Is Packed Font Available" : "パックフォントが利用できる",
+		"On Error" : "エラー発生時",
+		"On Internal Fonts Read" : "内蔵フォント読み込み時",
+		"On Packed Fonts Read" : "パックフォント読み込み時"
+	},
+	"menu_20002" : {
+
+		"Internal Font Name" : "内蔵フォント名",
+		"Internal Fonts Quantity" : "内蔵フォント数",
+		"Last error Ocurred" : "最後のエラー",
+		"Packed Font Name" : "パックフォント名",
+		"Packed Fonts Quantity" : "パックフォント数",
+		"Read Default Font Size" : "既定のフォントサイズを読み込み",
+		"Read Default Font Style" : "既定のフォントスタイルを読み込み"
+	},
+}

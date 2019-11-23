@@ -1,0 +1,24 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Controller for the InAndOut movement." : "イン＆アウト動作のコントローラーです。",
+		"InAndOut Movement Controller" : "イン＆アウト動作コントローラー",
+		"Move object in" : "オブジェクトを領域内に移動",
+		"Move object out" : "オブジェクトを領域外に移動",
+		"Position object at end" : "終点にオブジェクトを配置",
+		"Position object at start" : "始点にオブジェクトを配置",
+		"Select an object" : "オブジェクトを選択",
+		"Set object to %0" : "オブジェクトを %0 に変更",
+		"Set object with fixed value %0" : "固定値 %0 にオブジェクトを変更",
+		"fixed value" : "固定値"
+	},
+	"menu_20000" : {
+		"Move object in" : "オブジェクトを領域内に移動",
+		"Move object out" : "オブジェクトを領域外に移動",
+		"Position object at end" : "終点にオブジェクトを配置",
+		"Position object at start" : "始点にオブジェクトを配置",
+		"Set object" : "オブジェクトを変更",
+		"Set object from fixed value" : "固定値からオブジェクトを変更"
+	}
+}

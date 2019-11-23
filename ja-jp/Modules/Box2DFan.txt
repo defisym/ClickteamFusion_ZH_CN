@@ -1,0 +1,51 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: Is fan active?" : "%o: 送風機が有効",
+		"Advanced" : "拡張設定",
+		"Angle" : "角度",
+		"Angle : %g degrees" : "角度 : %g 度",
+		"Blowing at start" : "開始時に有効",
+		"Check this box and the fan will blow at the start of the frame" : "フレームの開始時に送風機の機能を有効にする場合はチェック",
+		"Direction of the air" : "風向きを入力 （ 0 ～ 360 ）",
+		"Engine ID" : "エンジン ID",
+		"Enter 1 to turn on, 0 to turn off" : "機能状態を指定 （ 0:無効、 1:有効 ）",
+		"Enter the angle of the wind in degrees (0-360)" : "送風機の風向きを指定",
+		"Enter the height of the object" : "高さを入力",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "この物理オブジェクトを管理する物理制御エンジンの ID を入力",
+		"Enter the strength of the fan, from 0 to 500" : "風の強さを入力 （ 0 ～ 500 ）",
+		"Enter the strength of the wind (0-500)" : "送風機の風の強さを指定（0～500）",
+		"Enter the width of the object" : "幅を入力",
+		"Generate wind that shifts the objects" : "他のオブジェクトに影響を与える風を発生させることが可能になります。",
+		"Physics - Fan" : "物理 - 送風機",
+		"Please drop a 'Physics Engine' object in your frame." : "物理オブジェクトを利用する場合はフレーム中に 「物理 - 物理制御エンジン」 オブジェクトを設置してください。",
+		"Running : %i" : "機能状態 : %i",
+		"Set angle to %0 degrees" : "風向きを %0 に変更",
+		"Set fan to %0" : "送風機の状態を %0 に変更",
+		"Set height to %0" : "高さを %0 に変更",
+		"Set strength to %0" : "風の強さを %0 に変更",
+		"Set width to %0" : "幅を %0 に変更",
+		"Strength" : "強さ",
+		"Strength : %i" : "強さ : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Set angle" : "方向を変更",
+		"Set fan ON/OFF" : "送風機の状態を変更",
+		"Set height" : "高さを変更",
+		"Set strength" : "強さを変更",
+		"Set width" : "幅を変更"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is fan active?" : "送風機が有効"
+	},
+	"menu_20002" : {
+		"Action zone height" : "有効範囲の高さを取得",
+		"Action zone width" : "有効範囲の幅を取得",
+		"Expressions" : "Expressions",
+		"Fan angle" : "風向きを取得",
+		"Fan strength" : "風の強さを取得"
+	}
+}

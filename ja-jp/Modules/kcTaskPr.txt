@@ -1,0 +1,31 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Set high task priority" : "00タスク優先度を高に変更",
+		"00Set low task priority" : "00タスク優先度を低に変更",
+		"00Set medium task priority" : "00タスク優先度を中に変更",
+		"00Task priority is high" : "00タスク優先度が高い",
+		"00Task priority is low" : "00タスク優先度が低い",
+		"00Task priority is medium" : "00タスク優先度が普通",
+		"01Wake up application every %s" : "01%s 毎にアプリケーションをウェイクアップ",
+		"Obsolete, this object does nothing, the CPU usage is now automatic." : "現在のバージョンでは CPU 使用は自動になっていますので、このオブジェクトを使用する必要はありません。",
+		"Task Priority" : "タスク優先度",
+		"Task Priority object" : "タスク優先度オブジェクト"
+	},
+	"menu_20000" : {
+		"&High" : "高(&H)",
+		"&Low" : "低(&L)",
+		"&Medium" : "中(&M)",
+		"Set Task Priority" : "タスク優先度を変更",
+		"Wake up application every..." : "指定時間毎にアプリケーションをウェイクアップ..."
+	},
+	"menu_20001" : {
+		"Is task priority high?" : "タスク優先度が高い",
+		"Is task priority low?" : "タスク優先度が低い",
+		"Is task priority medium?" : "タスク優先度が普通"
+	},
+	"menu_20002" : {
+		"Task priority" : "タスク優先度"
+	}
+}

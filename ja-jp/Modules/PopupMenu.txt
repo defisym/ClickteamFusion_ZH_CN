@@ -1,0 +1,81 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: %0 selected" : "%o: %0 を選択",
+		"%o: Add Item (%0, %1, %2)" : "%o: 項目 (%0, %1, %2) を追加",
+		"%o: Add Menu (%0, %1, %2)" : "%o: メニュー (%0, %1, %2) を追加",
+		"%o: Add Separator (%0)" : "%o: セパレータ (%0) を追加",
+		"%o: Create Menu" : "%o: メニューを作成",
+		"%o: Delete Item (%0)" : "%o: 項目 (%0) を削除",
+		"%o: Item %0 Selected" : "%o: 項目 %0 を選択",
+		"%o: Set Check (%0, %1)" : "%o: チェックを変更 (%0, %1)",
+		"%o: Set Enable (%0, %1)" : "%o: 有効を変更 (%0, %1)",
+		"%o: Set Item Text (%0, %1)" : "%o: 項目テキスト  (%0, %1) を変更",
+		"%o: Show Menu" : "%o: メニューを表示",
+		"%o: Show Menu at %0" : "%o: メニューを表示 %0",
+		"1 to check, 0 to uncheck" : "1 でチェック、 0 でチェック解除",
+		"1 to enable, 0 to disable" : "1 で有効、 0 で無効",
+		"Content of the menu" : "メニューの内容",
+		"Edit content" : "内容を編集",
+		"Filename" : "ファイル名",
+		"Height" : "高さ",
+		"Item ID" : "項目識別子",
+		"Item String" : "項目文字列",
+		"Item identifier" : "項目識別子",
+		"Last selection: %i" : "最後の選択: %i",
+		"Lets you create customizable popup menus in your applications." : "アプリケーション内でカスタマイズ可能なポップアップメニューが利用できます。",
+		"Menu Index" : "メニューインデックス",
+		"New item" : "新しい項目",
+		"Opens a dialog box to edit the content of the popup menu" : "ポップアップメニューの内容を編集するダイアログボックスを開く",
+		"Popup Menu" : "ポップアップメニュー",
+		"Position" : "位置",
+		"SubMenu Index" : "サブメニューインデックス",
+		"Value" : "値"
+	},
+	"dialog_109" : {
+		"Cancel" : "キャンセル",
+		"Item Text" : "項目テキスト",
+		"OK" : "OK"
+	},
+	"dialog_20003" : {
+		"&Add" : "追加(&A)",
+		"&Del" : "削除(&D)",
+		"&Help" : "ヘルプ(&H)",
+		"Add &Separator" : "セパレータ追加(&S)",
+		"Cancel" : "キャンセル",
+		"Default Menu" : "既定のメニュー",
+		"Down" : "下",
+		"Item Identifier" : "項目識別子",
+		"Left" : "左",
+		"OK" : "OK",
+		"Right" : "右",
+		"Setup PopupMenu" : "ポップアップメニューの設定",
+		"Tree1" : "Tree1",
+		"Up" : "上"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Add Item" : "項目を追加",
+		"Add Menu" : "メニューを追加",
+		"Add Separator" : "セパレータを追加",
+		"Check / Uncheck" : "チェック / チェック解除",
+		"Create Menu" : "メニューを作成",
+		"Delete Item" : "項目を削除",
+		"Enable / Disable" : "有効 / 無効",
+		"Set Item Text" : "項目のテキストを変更",
+		"Show At" : "位置に表示",
+		"Show At Mouse" : "マウスの位置に表示"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Item Selected (ID)" : "項目を選択 (識別子)",
+		"Item Selected (Text)" : "項目を選択 (テキスト)"
+	},
+	"menu_20002" : {
+		"Expressions" : "数式",
+		"Get Item Text" : "項目のテキストを取得",
+		"Get Last Selected Item" : "最後に選択された項目を取得",
+		"Get Menu Count" : "メニューの数を取得"
+	}
+}

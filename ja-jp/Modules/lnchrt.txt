@@ -1,0 +1,13 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Cannot create file in temporary directory !" : "テンポラリディレクトリにファイルを作成できません！",
+		"Cannot create subdirectory in temporary directory !" : "テンポラリディレクトリにサブディレクトリを作成できません！",
+		"Cannot open executable file !" : "実行ファイルを開けません！",
+		"Cannot write to temporary file !" : "テンポラリファイルに書き込みできません！",
+		"Invalid data in executable file !" : "実行ファイルのデータが無効です！",
+		"Not enough memory !" : "メモリーが不足しています！",
+		"The disk that contains the Windows temporary directory is full !\n\nPlease free some space and retry." : "Windows テンポラリディレクトリを含むディスクに利用可能な空き領域がありません！\n\n空き領域を確保して再試行してください。"
+	}
+}

@@ -1,0 +1,53 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		" %s : Shared Data object" : " %s : 共有データオブジェクト",
+		"00Reset" : "00リセット",
+		"01Shared string %s=%s" : "01共有文字列 %s=%s",
+		"01Shared string %s=str$(%s)" : "01共有文字列 %s=str$(%s)",
+		"01Shared value %s=%s" : "01共有値 %s=%s",
+		"01Shared value %s=val(%s)" : "01共有値 %s=val(%s)",
+		"11%s: Condition example %s=%s" : "11%s: 条件の例 %s=%s",
+		"Allows different applications to share data (numbers and/or text)." : "異なるアプリケーションでデータ (数字および/またはテキスト) を共有することができます。",
+		"Create a new Shared Data object" : "新しい共有データオブジェクトを作成",
+		"Double click to inspect/modify a shared string" : "ダブルクリックで共有文字列の検証/更新",
+		"Double click to inspect/modify a shared value" : "ダブルクリックで共有値の検証/更新",
+		"Enter number value" : "数値を入力",
+		"Enter number value to be stored as string value" : "文字列値として保存する数を入力",
+		"Enter string to be stored as number value" : "数値として保存する文字列を入力",
+		"Enter string value" : "文字列値を入力",
+		"Index" : "インデックス",
+		"Index of the value (zero based)" : "値のインデックス (0 から開始)",
+		"ShareMem object" : "共有メモリーオブジェクト",
+		"Shared Data" : "共有データ"
+	},
+	"dialog_102" : {
+		"Index :" : "インデックス :",
+		"Inspect a long value" : "長い値を検証",
+		"OK" : "OK",
+		"Value : " : "値 : "
+	},
+	"dialog_103" : {
+		"Index :" : "インデックス :",
+		"Inspect a string" : "文字列を検証",
+		"OK" : "OK",
+		"String" : "文字列"
+	},
+	"menu_20000" : {
+		"Reset" : "リセット",
+		"Set shared string" : "共有文字列を変更",
+		"Set shared string from value" : "値から共有文字列を変更",
+		"Set shared value" : "共有値を変更",
+		"Set shared value from string" : "文字列から共有値を変更"
+	},
+	"menu_20001" : {
+		"is Equal" : "等しい"
+	},
+	"menu_20002" : {
+		"Get shared String" : "共有文字列を取得",
+		"Get shared value" : "共有値を取得",
+		"Get string from shared value" : "共有値から文字列を取得",
+		"Get value from shared string" : "共有文字列から値を取得"
+	}
+}

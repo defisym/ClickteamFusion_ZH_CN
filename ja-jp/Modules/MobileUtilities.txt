@@ -1,0 +1,44 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise" : "0: 回転なし、 1: 90 度時計回り、 2: 90 度反時計回り",
+		"Application running on mobile" : "モバイル端末で実行中のアプリケーション",
+		"For debugging purposes only! Indicates screen orientation at start" : "デバッグ目的のみです！ 開始時の画面の向きを表示します",
+		"Landscape" : "横",
+		"Left key down (F10)" : "左キーを押した (F10)",
+		"Left key pressed (F10)" : "左キーを押した (一度限り) (F10)",
+		"Mobile Utilities" : "モバイルユーティリティ",
+		"Portrait" : "縦",
+		"Refresh display" : "画面を更新",
+		"Right key down (F11)" : "右キーを押した (F11)",
+		"Right key pressed (F11)" : "右キーを押した (一度限り) (F11)",
+		"Screen orientation" : "画面の方向",
+		"Screen orientation has changed" : "画面の方向が変更されました",
+		"Set of utilities for Java Mobile applications" : "Java Mobile アプリケーションのユーティリティセット",
+		"Set window rotation to %0" : "ウィンドウの回転を %0 に変更"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Refresh display" : "画面を更新",
+		"Set window rotation" : "ウィンドウの回転を変更"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is application running on Mobile" : "アプリケーションがモバイル端末で実行中",
+		"Left key" : "左キー",
+		"Left key down" : "左キーを押した",
+		"Left key pressed" : "左キーを押した (一度限り)",
+		"Right key" : "右キー",
+		"Right key down" : "右キーを押した",
+		"Right key pressed" : "右キーを押した (一度限り)",
+		"Screen orientation has changed" : "画面の方向が変更されました"
+	},
+	"menu_20002" : {
+		"Expressions" : "数式",
+		"Get screen height" : "画面の高さを取得",
+		"Get screen orientation" : "画面の方向を取得",
+		"Get screen width" : "画面の幅を取得",
+		"Get window rotation" : "ウィンドウの回転を取得"
+	}
+}

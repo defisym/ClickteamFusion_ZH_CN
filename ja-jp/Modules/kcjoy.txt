@@ -1,0 +1,25 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Allows you to retrieve information from analog joysticks." : "アナログジョイスティックから情報を取得します。",
+		"Analog Joystick" : "アナログジョイスティック",
+		"Analog Joystick object" : "アナログジョイスティックオブジェクト",
+		"Button 1: %i" : "ボタン 1: %i",
+		"Button 2: %i" : "ボタン 2: %i",
+		"Button 3: %i" : "ボタン 3: %i",
+		"Button 4: %i" : "ボタン 4: %i",
+		"Value X: %i" : "値 X: %i",
+		"Value Y: %i" : "値 Y: %i",
+		"Value Z: %i" : "値 Z: %i"
+	},
+	"menu_20002" : {
+		"Raw Button A Value" : "Raw ボタン A 値",
+		"Raw Button B Value" : "Raw ボタン B 値",
+		"Raw Button C Value" : "Raw ボタン C 値",
+		"Raw Button D Value" : "Raw ボタン D 値",
+		"Raw X Value" : "Raw X 値",
+		"Raw Y Value" : "Raw Y 値",
+		"Raw Z Value" : "Raw Z 値"
+	}
+}

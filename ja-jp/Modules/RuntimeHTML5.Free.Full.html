@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+APPCACHE
+<style type="text/css">
+  h1 {
+	  font-family: Arial, Helvetica, sans-serif;
+	  color: #F00;
+	  font-size: x-large;
+  }
+  p {
+	  font-family: Arial, Helvetica, sans-serif;
+	  color: #000;
+	  font-size: small;
+  }
+  body {
+	  background-color: #FFF;
+  }
+  #bloctxt {
+	  border-left-width: 5px;
+	  border-left-style: solid;
+	  border-left-color: #F00;
+	  padding-left: 10px;
+	  position: absolute;
+	  left: 50%%;
+	  width: 600px;
+	  margin-left: -260px
+  }
+</style>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  
+  <!-- Enables full-screen on iOS devices -->
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="HandheldFriendly" content="true" />
+
+  <title>MMFNAME HTML5 ランタイム</title>
+
+	<script>
+	   	// Detection of old browsers that do not support the canvas element
+		// Falls back to a default page
+	    if (!document.createElement("canvas").getContext)
+	    {
+			window.open("http://www.clickteam.com/html5-fallback", "_self");
+		}
+	</script>
+
+
+  	<!-- EXTRASOURCES -->
+	<!-- Loads the Javascript code...-->
+    <script src="JSPATH"></script>
+
+    <script>
+	    // Detection of when the html file is ran locally.
+	    // You can remove this code for the final version
+	    if (window.location.protocol == "file:")
+	    {
+		    document.write('<div id="bloctxt">');
+		    document.write('<h1>アプリケーションを起動できません...</h1>');
+		    document.write('<p>HTML ブラウザーは、ファイルシステムから直接データファイルを実行することを許可しません。 <br>');
+		    document.write('ウェブブラウザーに HTML ファイルをドラッグアンドドロップしても動作しません。<br>');
+		    document.write('ビルドして実行オプション (ローカルウェブサーバーを開きます) を使用してアプリケーションを起動するか、<br>') 
+		    document.write('リモートウェブサーバーにアプリケーションフォルダーをアップロードし、そこから起動してください...</p>');
+		    document.write('</div>');
+		    throw new error("アプリケーションを起動できません");
+	    }
+  </script>
+</head>
+
+<body>
+    <div>
+        <div style="position:absolute; top:0px; left:0px; -webkit-user-select: none;">
+            <canvas id="MMFCanvas" width="CWIDTH" height="CHEIGHT">
+                お使いのブラウザーは Canvas をサポートしていません。
+            </canvas>    
+        </div>
+    </div>
+
+    <script>
+        window.rs = "JSPATH";
+        window.fs = "FSPATH";
+    </script>
+    <script>
+        // RUNTIMESTART
+        // This is where the HTML5 runtime is actually started
+        window.addEventListener("load", windowLoaded, false);
+        function windowLoaded()
+        {
+            // Calls the runtime
+            // First parameter : name of the canvas element
+            // Second parameter : path to the cch file. Images and sounds must lay beside this file
+            new Runtime("MMFCanvas", "CCHPATH");
+        }
+        // RUNTIMESTARTEND
+    </script>
+</body>
+</html>

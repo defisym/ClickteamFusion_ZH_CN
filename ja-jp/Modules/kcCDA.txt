@@ -1,0 +1,60 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Close door" : "00ドアを閉じる",
+		"00Next track" : "00次のトラック",
+		"00Open door" : "00ドアを開く",
+		"00Pause" : "00一時停止",
+		"00Previous track" : "00前のトラック",
+		"00Resume" : "00再開",
+		"00Stop" : "00停止",
+		"01Play at %s" : "01%s から再生",
+		"01Play from track %s" : "01トラック %s から再生",
+		"01Play track %s" : "01トラック %s を再生",
+		"11%s:time position %s" : "11%s: 時間位置 %s",
+		"11%s:time position within track %s" : "11%s: トラックの時間位置 %s",
+		"CD Audio object" : "CD オーディオオブジェクト",
+		"CD-Audio" : "CD-オーディオ",
+		"Continues playing even when the application is minimized" : "アプリケーションが最小化されている場合でも再生を続行",
+		"Current track number: %i" : "現在のトラック番号: %i",
+		"Enter the number of the track to play" : "再生するトラックの番号を入力",
+		"Last known error: %i" : "最後の既知のエラー: %i",
+		"Length of current track: %02i:%02i" : "現在のトラックの長さ: %02i:%02i",
+		"Lets you play compact disc audio tracks." : "CD のオーディオトラックを再生します。",
+		"Number of tracks on disk: %i" : "ディスクに含まれるトラック数: %i",
+		"Open driver at start" : "開始時にドライバを開く",
+		"Opening the driver at start of frame makes the object faster during runtime" : "フレームの開始時にドライバを開くと実行中のオブジェクトを高速にすることができます",
+		"Play track at start" : "開始時にトラックを再生",
+		"Play when minimized" : "最小化時に再生",
+		"Position in current track: %02i:%02i" : "現在のトラック内の位置: %02i:%02i",
+		"Stop playing at end of frame" : "フレームの最後で再生を停止",
+		"Stops the music at end of frame" : "フレームの最後で音楽を停止",
+		"Total length of disk: %02i:%02i:%02i" : "ディスクのトータルの長さ: %02i:%02i:%02i"
+	},
+	"menu_20000" : {
+		"Close door" : "ドアを閉じる",
+		"Next track" : "次のトラック",
+		"Open door" : "ドアを開く",
+		"Pause" : "一時停止",
+		"Play a track" : "トラックを再生",
+		"Play a track and continue" : "トラックを再生して続行",
+		"Play at position" : "指定の位置を再生",
+		"Previous track" : "前のトラック",
+		"Resume" : "再開",
+		"Stop" : "停止"
+	},
+	"menu_20001" : {
+		"Compare to time position" : "時間位置と比較",
+		"Compare to track's elapsed time" : "トラックの経過時間と比較"
+	},
+	"menu_20002" : {
+		"Last error number" : "最後のエラー番号",
+		"Length of current track (1/1000s)" : "現在のトラックの長さ ((1/1000 秒)",
+		"Length of disk (1/1000s)" : "ディスクの長さ ((1/1000 秒)",
+		"Number of current track" : "現在のトラックの番号",
+		"Number of tracks" : "トラックの数",
+		"Position in current track (1/1000s)" : "現在のトラック内の位置 ((1/1000 秒)",
+		"Position in disk (1/1000s)" : "ディスク内の位置 ((1/1000 秒)"
+	}
+}

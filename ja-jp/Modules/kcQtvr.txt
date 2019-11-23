@@ -1,0 +1,68 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Hide" : "00非表示",
+		"00New file from selector" : "00ファイルを選択して新しいファイル",
+		"00Show" : "00表示",
+		"01New file %s" : "01新しいファイル %s",
+		"01Set X coordinate at %s" : {
+			"28205" : "01X 座標を %s に変更",
+			"28206" : "01Y 座標を %s に変更"
+		},
+		"01Set horizontal size to %s" : "01水平サイズを %s に変更",
+		"01Set position at %s" : "01位置を %s に変更",
+		"01Set vertical size to %s" : "01垂直サイズを %s に変更",
+		"10%s: a file is opened" : "10%s: ファイルが開かれている",
+		"10%s: visible" : "10%s: 表示されている",
+		"21User %s within %s" : "21ユーザーが %s - %s 内",
+		"Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead." : "QuickTimeVR 2 ファイルを再生しますが、QuickTimeVR 2 は古いバージョンです。 通常は QuickTime オブジェクトを使用してください。",
+		"Please select a QuickTime VR file" : "QuickTime VR ファイルを選択してください",
+		"Please, enter a valid QuickTime VR filename." : "有効な QuickTime VR ファイル名を入力してください。",
+		"QuickTime VR 2" : "QuickTime VR 2",
+		"QuickTime VR 2 object" : "QuickTime VR 2 オブジェクト",
+		"QuickTime VR files (*.mov)|*.mov|" : "QuickTime VR ファイル (*.mov)|*.mov|",
+		"Warning: the 32 bit version of QuickTimeVR cannot be found on your machine." : "警告 : 32 ビット版の QuickTimeVR がお使いのコンピュータ上に見つかりません。"
+	},
+	"dialog_20003" : {
+		"&Browse" : "参照(&B)",
+		"&Help" : "ヘルプ(&H)",
+		"&Use default size" : "既定のサイズを使用(&U)",
+		"Cancel" : "キャンセル",
+		"File to play" : "再生するファイル",
+		"Hide on &start" : "開始時に非表示(&S)",
+		"IMPORTANT : this object only works with QuickTime 2, it is provided for compatibility reasons only. Please use the new QuickTime 3 object which works with the latest versions of QuickTime and can play QuickTimeVR files." : "重要 : このオブジェクトは互換性維持の目的で提供されており、 QuickTime 2 のみで動作します。 通常は、最新版の QuickTime で動作し、 QuickTimeVR ファイルを再生できる QuickTime 3オブジェクトをお使いください。",
+		"OK" : "OK",
+		"Options" : "オプション",
+		"Setup QuickTime VR object" : "QuickTime VR オブジェクトの設定",
+		"Use &Current Frame Palette" : "現在のフレームパレットを使用(&C)",
+		"Zoom X2" : "2 倍に拡大"
+	},
+	"menu_20000" : {
+		"A new file" : "新しいファイル",
+		"A new file via a file selector" : "ファイルを選択して新しいファイル",
+		"Make Object Invisible" : "オブジェクトを非表示にする",
+		"Make Object Reappear" : "オブジェクトを表示",
+		"Play" : "再生",
+		"Position" : "位置",
+		"Set Horizontal size" : "水平サイズを変更",
+		"Set Position" : "位置を変更",
+		"Set Vertical size" : "垂直サイズを変更",
+		"Set X Position" : "X 位置を変更",
+		"Set Y Position" : "Y 位置を変更",
+		"Size" : "サイズ",
+		"Visibility" : "表示/非表示"
+	},
+	"menu_20001" : {
+		"Check whether a file is open ?" : "ファイルが開かれている",
+		"Is visible ?" : "表示されている",
+		"Mouse clicks within the QuickTime VR Window ?" : "QuickTime VR ウィンドウ内でマウスをクリック"
+	},
+	"menu_20002" : {
+		"Horizontal size" : "水平サイズ",
+		"Last error number" : "最後のエラー番号",
+		"Vertical size" : "垂直サイズ",
+		"X position" : "X 位置",
+		"Y position" : "Y 位置"
+	}
+}

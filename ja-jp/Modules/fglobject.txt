@@ -1,0 +1,59 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: Is branding enabled?" : "%o: ブランディングが有効",
+		"%o: Is cross-promotion enabled?" : "%o: クロスプロモーションが有効",
+		"%o: Is game running in premium mode?" : "%o: プレミアムモードでゲームを実行中",
+		"%o: Is unlock enabled?" : "%o: ロック解除が有効",
+		"A dialog box will ask for your name if you have a high score." : "ハイスコアを出すと名前の入力を求められます。",
+		"Check and and the Is cross promotion enabled? condition will return true." : "チェックすると、クロスプロモーションが有効 条件は真を返します。",
+		"Check and the Is Premium condition will return true" : "チェックすると、プレミアム条件は真を返します",
+		"Check and the Is branding enabled? condition will return true, and the sponsor logo can be displayed." : "チェックすると、ブランディングが有効 条件は真を返し、スポンサーロゴが表示可能となります。",
+		"Check and the Is unlock enabled? condition will return true." : "チェックすると、ロック解除が有効 条件は真を返します。",
+		"Check and the object will automatically display the logo of the sponsor, if authorised." : "チェックすると、オブジェクトは自動的にスポンサーのロゴを表示します (許可されている場合)。",
+		"Display leaderboard" : "リーダーボードを表示",
+		"Display sponsor logo" : "スポンサーロゴを表示",
+		"Display sponsor logo %0" : "スポンサーロゴ %0 を表示",
+		"Do you want to simulate the unlocking of your game?" : "ゲームのロック解除をシミュレートしますか？",
+		"Enable cross promotion" : "クロスプロモーションを有効化",
+		"Enable in app upgrade" : "アプリ内アップグレードを有効化",
+		"Enable sponsor branding" : "スポンサーブランディングを有効化",
+		"Enter 1 to display the logo, 0 to hide it" : "1 と入力するとロゴを表示し、 0 で非表示",
+		"FGL Object" : "FGL オブジェクト",
+		"Game is in premium mode" : "プレミアムモードでゲームを実行",
+		"HTML5 - fgl" : "HTML5 - fgl",
+		"Handle click on branding" : "ブランディングのクリックを処理",
+		"Interface with the fgl HTML5 Advertisement and game API" : "fgl HTML5 広告およびゲーム API のインターフェイス",
+		"Please enter the score" : "スコアを入力してください",
+		"Show advertisement" : "広告を表示",
+		"Show more games" : "他のゲームを表示",
+		"Simulation" : "シミュレーション",
+		"Submit score" : "スコアを送信",
+		"Unlock game" : "ゲームをロック解除",
+		"fgl" : "fgl",
+		"http://www.clickteam.com/francois/fglbrandinglogo.png" : "http://www.clickteam.com/francois/fglbrandinglogo.png"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Advertisements" : "広告",
+		"Display leaderboard" : "リーダーボードを表示",
+		"Leaderboards" : "リーダーボード",
+		"Show / hide sponsor logo" : "スポンサーロゴを表示/非表示",
+		"Show advertisement" : "広告を表示",
+		"Show more games" : "他のゲームを表示",
+		"Sponsor" : "スポンサー",
+		"Submit score" : "スコアを送信",
+		"Unlock game" : "ゲームをロック解除"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is cross-promotion enabled?" : "クロスプロモーションが有効",
+		"Is the game running in premium mode?" : "プレミアムモードでゲームを実行中",
+		"Is unlock enabled?" : "ロック解除が有効"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Get branding image URL" : "ブランディング画像 URL を取得"
+	}
+}

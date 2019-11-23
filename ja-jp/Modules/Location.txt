@@ -1,0 +1,48 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"A new location is available" : "新しい場所が利用できる",
+		"Accuracy" : "精度",
+		"Are location services enabled?" : "位置情報サービスが有効である",
+		"Best accuracy" : "最高精度",
+		"Choose the device accuracy" : "デバイスの精度を選択してください",
+		"Distance" : "距離",
+		"Enter the accuracy (0 to 4)" : "精度を入力 (0 から 4)",
+		"Enter the distance filter in meters" : "距離フィルタをメートル単位で入力",
+		"Enter the minimal distance in meters between two location updates" : "更新最短距離 (m) を入力してください",
+		"Force location retrieval" : "位置情報強制取得",
+		"Hundred meters" : "誤差 100 m",
+		"Kilometer" : "誤差 1 km",
+		"Location object" : "位置情報オブジェクト",
+		"Nearest ten meters" : "誤差 10 m",
+		"Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android)." : "iPhone や Android 携帯などの GPS を搭載したデバイスから現在の位置情報を取得します。",
+		"Set distance filter to %0" : "距離フィルタを %0 に変更",
+		"Set location accuracy to %0" : "位置情報精度を %0 に変更",
+		"Three kilometers" : "誤差 3 km"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Get location" : "位置を取得",
+		"Set accuracy" : "精度を変更",
+		"Set distance filter" : "距離フィルタを変更"
+	},
+	"menu_20001" : {
+		"A new location is available" : "新しい場所が利用できる",
+		"Conditions" : "条件",
+		"Location services enabled?" : "位置情報サービスが有効である"
+	},
+	"menu_20002" : {
+		"Accuracy" : "精度",
+		"Altitude" : "高度",
+		"Coordinates" : "座標",
+		"Course" : "コース",
+		"Distance filter" : "距離フィルタ",
+		"Expressions" : "数式",
+		"Latitude" : "緯度",
+		"Longitude" : "経度",
+		"Other values" : "他の値",
+		"Speed" : "速度",
+		"Time since last update" : "最終更新からの時間"
+	}
+}

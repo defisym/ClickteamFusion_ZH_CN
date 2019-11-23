@@ -1,0 +1,43 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"01Return string%s" : "01文字列%s を返す",
+		"01Return value%s" : "01値%s を返す",
+		"01Send %s" : "01%s を送信",
+		"Any sound will be terminated prior to sending a command" : "コマンドを送信する前にすべてのサウンドが終了します",
+		"Check this box to close the device when the frame ends" : "フレームの終了時にデバイスを閉じる場合はこのボックスをチェック",
+		"Check this box to open the device at start of frame" : "フレームの開始時にデバイスを開く場合にはこのボックスをチェック",
+		"Close MCI device at end of frame" : "フレームの終了時に MCI デバイスを閉じる",
+		"Close sound device before sending commands" : "コマンド送信前にサウンドデバイスを閉じる",
+		"Device" : "デバイス",
+		"Device name" : "デバイス名",
+		"Display all error messages" : "すべてのエラーメッセージを表示",
+		"Display in a dialog box any error message" : "ダイアログボックスにあらゆるエラーメッセージを表示",
+		"Enter the name of the device" : "デバイス名を入力",
+		"Last error: %i" : "最後のエラー: %i",
+		"MCI" : "MCI",
+		"MCI object" : "MCI オブジェクト",
+		"Microsoft standard for controlling any multimedia device connected to your computer." : "コンピュータに接続されているマルチメディアデバイスを制御します。",
+		"Open MCI device at start of frame" : "フレームの開始時に MCI デバイスを開く",
+		"Options" : "オプション",
+		"Pause command" : "一時停止コマンド",
+		"Please, enter a valid device name." : "有効なデバイス名を入力してください。",
+		"Resume command" : "再開コマンド",
+		"Return string: %s" : "文字列を返す: %s",
+		"String to send to the device when a Pause happens" : "一時停止の場合にデバイスに送信する文字列",
+		"String to send to the device when resuming from a pause" : "一時停止から再開する場合にデバイスに送信する文字列"
+	},
+	"menu_20000" : {
+		"Send a command" : "コマンドを送信"
+	},
+	"menu_20001" : {
+		"Compare to returned number" : "返された数と比較",
+		"Compare to returned string" : "返された文字列と比較"
+	},
+	"menu_20002" : {
+		"Last error number" : "最後のエラー番号",
+		"Return string" : "文字列を返す",
+		"Return value" : "値を返す"
+	}
+}

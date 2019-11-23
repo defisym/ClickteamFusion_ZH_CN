@@ -1,0 +1,33 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Block left click" : "00左クリックをブロック",
+		"00Block middle click" : "00中央クリックをブロック",
+		"00Block right click" : "00右クリックをブロック",
+		"00Unblock left click" : "00左クリックをブロック解除",
+		"00Unblock middle click" : "00中央クリックをブロック解除",
+		"00Unblock right click" : "00右クリックをブロック解除",
+		"Block left mouse button" : "左マウスボタンをブロック",
+		"Block middle mouse button" : "中央マウスボタンをブロック",
+		"Block right mouse button" : "右マウスボタンをブロック",
+		"Blocks the left, middle and/or right clicks of the mouse." : "マウスの左、中央および/または右ボタンのクリックをブロックします。",
+		"Click Blocker" : "クリックブロッカー",
+		"Click Blocker object" : "クリックブロッカーオブジェクト",
+		"Left mouse button %s" : "左マウスボタン %s",
+		"Left mouse clicks will have no effects" : "マウスの左ボタンクリックが無効になります",
+		"Middle mouse button %s" : "中央マウスボタン %s",
+		"Middle mouse clicks will have no effects" : "マウスの中央ボタンクリックが無効になります",
+		"Right mouse button %s" : "右マウスボタン %s",
+		"Right mouse clicks will have no effects" : "マウスの右ボタンクリックが無効になります",
+		"blocked" : "ブロック有効",
+		"unblocked" : "ブロック解除"
+	},
+	"menu_20000" : {
+		"&Left click" : "左クリック(&L)",
+		"&Middle click" : "中央クリック(&M)",
+		"&Right click" : "右クリック(&R)",
+		"Block" : "ブロック",
+		"Unblock" : "ブロック解除"
+	}
+}

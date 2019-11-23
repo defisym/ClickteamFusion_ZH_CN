@@ -1,0 +1,23 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Check this box to have the object move when the frame starts" : "フレーム開始時にオブジェクトが移動します",
+		"Check this box to have the object positionned out of the frame at start of frame" : "チェックすると、フレームの開始時にオブジェクトは動作領域外に配置されます",
+		"Choose the type of the movement" : "動作の種類を選択します",
+		"Destination X" : "領域外 X 座標",
+		"Destination Y" : "領域外 Y 座標",
+		"Direction" : "方向",
+		"Duration" : "動作時間",
+		"Enter the X coordinate out of the frame. Leave to 0 to use automatica calculation" : "動作領域外の X 座標を入力します。0 に設定すると自動的に計算されます",
+		"Enter the Y coordinate out of the frame. Leave to 0 to use automatica calculation" : "動作領域外の Y 座標を入力します。0 に設定すると自動的に計算されます",
+		"Enter the direction of the movement, 0 for right, 90 top, 180 left and 270 bottom" : "動作の方向を入力します。 0 = 右、 90 = 上、 180 = 左、 270 = 下",
+		"Enter the length of the movement, in milliseconds" : "動作する時間をミリ秒単位で入力します",
+		"InAndOut movement" : "イン＆アウト動作",
+		"Linear" : "直線",
+		"Move at start" : "開始時に移動",
+		"Movement type" : "動作の種類",
+		"Out at start" : "領域外から開始",
+		"Smooth" : "スムース"
+	}
+}

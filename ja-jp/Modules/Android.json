@@ -1,0 +1,644 @@
+
+{   "About":
+    {
+        "Name": "Android オブジェクト",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2012-2019 Clickteam",
+        "Website": "http://www.clickteam.com",
+        "Comment": "Android Exporter の一部です。 Android デバイス上での実行時に特別な機能を提供します。",
+        "URL": "http://www.clickteam.com",
+        "Help": "Android.chm",
+        "Identifier": "AndR",
+    },
+
+    "ActionMenu":
+    [
+        ["ログ",
+            
+            [0, "デバッグ ログ"],
+            [1, "エラー ログ"],
+            [2, "情報ログ"],
+            [3, "詳細ログ"],
+            [4, "警告ログ"],
+
+            "Separator",
+            
+            [5, "ログ タグを設定 (既定 = アプリケーション タイトル)"],
+        ],
+        
+        "Separator",
+        
+        ["スリープ防止",   
+            [6, "開始"],
+            [7, "停止"],
+        ],
+        
+        [10, "URL を開く"],
+
+        ["インテント (送信)",
+
+            [15, "カテゴリを追加"],
+            [36, "種類を変更"],
+
+            ["データを追加",
+                [16, "文字列"],
+                [17, "Boolean"],
+                [18, "Long"],
+                [40, "URI"]				
+            ],
+
+            "Separator",
+
+            [11, "インテントを開始"],
+            [21, "chooser を使用してインテントを開始"]
+        ],
+
+        ["インテント (受信)",
+
+            [19, "アクションに登録"],
+            [20, "アクションから登録解除"],
+        ],
+
+        "Separator",
+
+        ["キーボード",
+
+	        [13, "キーボードを表示"],
+        	[14, "キーボードを非表示"],
+        ],
+
+        "Separator",
+
+        [12, "バイブレーション"],
+
+        "Separator",
+
+        ["メニュー ...",
+	        [22, "オプション メニュー項目を有効化"],
+        	[23, "オプション メニュー項目を無効化"],
+	        [29, "アクションでメニューを開く"],
+			"Separator",
+			[43, "既定のメニュー ビヘイビアを無効化"],
+			[44, "既定のメニュービヘイビアを有効化"],
+        ],
+		
+        "Separator",
+
+        ["アクション/タイトルバー",
+	        [24, "アクション バーを表示"],
+        	[25, "アクション バーを非表示"],
+        ],
+
+        "Separator",
+
+        ["ナビゲーションバー",
+	        [33, "ナビゲーションバーを表示"],
+        	[34, "ナビゲーションバーを暗く表示"],
+	        [35, "ナビゲーションバーを非表示"],
+        ],
+
+        "Separator",
+
+		[
+		  "ステータス バーを",
+		  [ 9, "ステータス バーを表示" ],
+		  [ 8, "ステータス バーを非表示" ]
+		],
+
+		"Separator",
+
+        ["ハードウェア キー",
+	        [30, "ハードウェア キーを無効化"],
+        	[31, "ハードウェア キーを有効化"],
+        ],
+
+        "Separator",
+
+        [32, "アプリケーションを背面に移動"],		
+		
+        "Separator",
+
+        ["レイアウト方向",
+	        [26, "横向きで固定"],
+        	[27, "縦向きで固定"],
+        ],
+
+        "Separator",
+
+        [28, "スクリーンショットを保存"],		
+        [41, "画面の一部をキャプチャ"],			
+		
+        "Separator",
+
+        ["自動終了",
+			[37, "自動終了を無効化"],
+			[38, "自動終了を有効化"],
+        ],
+		
+        "Separator",
+
+        [39, "文字セットを変更"],
+		
+		"Separator",
+
+		[42, "ゲーム コントローラーを確認"],
+
+        "Separator",
+
+		[ 45, "没入モードを変更" ],
+
+		"Separator"
+    ],
+
+    "ConditionMenu":
+    [
+       [0, "デバイスが GPU を搭載している"],
+       
+       "Separator",
+       
+       [1, "ユーザーはローミング中である"],
+       [3, "ネットワークに接続されている"],
+       [14, "Bluetooth が有効である"],
+
+       "Separator",
+
+       [13, "デバイスがルート化されている"],
+
+       ["デバイスが接続されている",
+           [4, "任意の電源に"],
+
+           "Separator",
+
+           [5, "AC アダプターに"],
+           [6, "USB ポートに"],
+       ],
+
+       [7, "バッテリーが充電中である"],
+       [8, "バッテリーが放電中である"],
+       [9, "バッテリーがフル充電されている"],
+
+       "Separator",
+
+       [18, "インテントの受信時"],
+       [19, "任意のインテントの受信時"],
+
+       "Separator",
+
+       [10, "戻るボタンが押された時"],
+       [12, "メニュー ボタンが押された時"],
+
+       "Separator",
+
+       [15, "戻るボタンが押下されている"],
+       [16, "メニュー ボタンが押下されている"],
+
+       "Separator",
+
+       [17, "ボタンの状態を読み取る"],
+
+       "Separator",
+
+		[
+		  "Game Controller",
+		  [ 26, "コントローラーはゲームパッドが接続されている" ],
+		  [ 27, "コントローラーはジョイスティックが接続されている" ],
+		  [ 28, "コントローラーは DPAD が接続されている" ]
+		],
+
+		"Separator",
+
+       [20, "オプション メニュー項目が選択された時"],
+       [21, "任意のオプション メニュー項目が選択された時"],
+	   
+       "Separator",
+
+       [22, "キーボード表示時"],
+       [23, "キーボード非表示時"],
+       [24, "キーボードが表示されている"],
+	   
+		"Separator",
+
+		[ 25, "パーミッションが許可されている" ],
+
+		"Separator"
+    ],
+
+    "ExpressionMenu":
+    [
+       [0, "GPU 名"],
+       [1, "GPU 製造元"],
+       
+       "Separator",
+
+       [2, "電話: 一意の ID"],
+       [3, "電話: ネットワーク オペレータ"],
+       [11, "すべてのデバイス: 一意の ID"],
+
+       "Separator",
+
+       [6, "バッテリー充電パーセンテージ"],
+
+       "Separator",
+
+       [7, "画面の幅"],
+       [8, "画面の高さ"],
+       [17, "レンダラーの種類"],
+       [16, "広告の高さ"],
+
+       "Separator",
+
+       [9, "データ格納ディレクトリ"],
+       [10, "一時ディレクトリ"],
+       [13, "外部格納ディレクトリ"],
+       [28, "パブリック格納ディレクトリ"],
+		[ 31, "セカンダリ格納ディレクトリ" ],
+
+       "Separator",
+       
+       ["ランタイム",
+            [15, "ランタイム バージョン"],
+
+            "Separator",
+
+            [5, "アプリケーション タイトル"],
+            [12, "アプリケーション パッケージ名"],
+            [14, "アプリケーション バージョン"]
+       ],
+
+       ["インテント (受信)",
+            [18, "アクション"],
+            [19, "データ"],
+            "Separator",
+            ["追加データ (キー)",
+                [20, "文字列"],
+                [21, "Boolean"],
+                [22, "Long"]
+            ]
+       ],
+
+       "Separator",
+
+       [23, "選択されたオプション メニュー項目"],
+	   
+       "Separator",
+
+       ["デバイス情報",
+            [24, "Android API 番号"],
+
+            "Separator",
+
+            [25, "製造元"],
+            [26, "モデル"],
+            [27, "製品"],
+	    [29, "シリアル番号"],
+	    [30, "ユーザー Google アカウント"]
+       ],
+
+		"Separator",
+
+		[
+		  "Game Controller",
+		  [ 32, "最後に押されたボタン" ]
+
+		],
+		"Separator"
+    ],
+
+    "Actions":
+    [
+        { "Title": "デバッグ ログ : %0",
+          "Parameters": [["Text", "ログ テキスト"]] },
+        { "Title": "エラー ログ : %0",
+          "Parameters": [["Text", "ログ テキスト"]] },
+        { "Title": "情報ログ : %0",
+          "Parameters": [["Text", "ログ テキスト"]] },
+        { "Title": "詳細ログ : %0",
+          "Parameters": [["Text", "ログ テキスト"]] },
+        { "Title": "警告ログ : %0",
+          "Parameters": [["Text", "ログ テキスト"]] },
+          
+        { "Title": "ログ タグを %0 に変更",
+          "Parameters": [["Text", "ログ タグ (既定 = アプリケーション タイトル)"]] },
+          
+        { "Title": "スリープ防止を開始" },
+        { "Title": "スリープ防止を停止" },
+        
+        { "Title": "ステータス バーを非表示" },
+        { "Title": "ステータス バーを表示" },
+        
+        { "Title": "URL %0 を開く",
+          "Parameters": [["Text", "開く URL"]] },
+          
+        { "Title": "インテント (送信): インテント %0 を URI %1 で開始",
+          "Parameters": [["Text", "開始するインテント (例: \"android.intent.action.DIAL\")"],
+                        ["Text", "URI (例: \"tel:123\")"]] },
+
+        {"Title": "%0 ミリ秒間バイブレーション",
+            "Parameters": [["Integer", "再生時間 (ミリ秒)"]]
+        },
+
+        { "Title": "キーボードを表示" },
+        { "Title": "キーボードを非表示" },
+
+        { "Title": "インテント (送信): カテゴリ %0 を追加",
+          "Parameters": [["Text", "カテゴリ名"]]
+        },
+
+        { "Title": "インテント (送信): 文字列 %0 = %1 を追加",
+          "Parameters": [["Text", "名前"], ["Text", "値"]]
+        },
+
+        { "Title": "インテント (送信): boolean %0 = %1 を追加",
+          "Parameters": [["Text", "名前"], ["Integer", "値 (1 = 真, 0 = 偽)"]]
+        },
+
+        { "Title": "インテント (送信): long %0 = %1 を追加",
+          "Parameters": [["Text", "名前"], ["Integer", "値"]]
+        },
+
+        { "Title": "インテント (受信): アクション %0 に登録",
+          "Parameters": [["Text", "アクション"]]
+        },
+
+        { "Title": "インテント (受信): アクション %0 から登録解除",
+          "Parameters": [["Text", "アクション"]]
+        },
+
+        { "Title": "インテント (送信): インテント %0 を URI %1 (chooser, title: %2) で開始",
+          "Parameters": [["Text", "開始するインテント (例:  \"android.intent.action.DIAL\")"],
+                        ["Text", "URI (例: \"tel:123\")"],
+                        ["Text", "Chooser タイトル"]] },
+
+        { "Title": "オプション メニュー項目 %0 を有効化",
+          "Parameters": [["Text", "項目 ID"]]
+        },
+
+        { "Title": "オプション メニュー項目 %0 を無効化",
+          "Parameters": [["Text", "項目 ID"]]
+        },
+
+        { "Title": "アクション バーを表示" },
+        { "Title": "アクション バーを非表示" },
+		
+        { "Title": "横向きで固定" },
+        { "Title": "縦向きで固定" },
+		
+        { "Title": "スクリーンショットをファイル %0 に保存",
+          "Parameters": [["Text", "スクリーンショットのファイル名"]] },
+		  
+        { "Title": "アクションでメニューを開く" },
+		
+        { "Title": "ハードウェア キーを無効化" },
+        { "Title": "ハードウェア キーを有効化" },
+
+        { "Title": "アプリケーションを背面に移動" },
+		
+        { "Title": "ナビゲーションバーを表示" },
+        { "Title": "ナビゲーションバーを暗く表示" },
+        { "Title": "ナビゲーションバーを非表示" },
+        { "Title": "インテントの種類を %0 に変更",
+          "Parameters": [["Text", "インテントの種類"]]},		
+        { "Title": "自動終了を無効化" },
+        { "Title": "自動終了を有効化" },
+        { "Title": "文字セットを %0 に変更",
+          "Parameters": [["Integer", "文字セット (0: Unicode-既定, 1: ANSI)"]]},
+        { "Title": "インテント (送信): URI %0 = %1 を追加",
+          "Parameters": [["Text", "名前"], ["Text", "値"]]
+        },
+	{ "Title": "画面の一部をファイル %0 としてキャプチャ (x:%1, y:%2 から 幅:%3, 高さ:%4)",
+          "Parameters": [["Text", "スクリーンショットのファイル名"],
+			                   ["Integer", "X 座標"],
+			                   ["Integer", "Y 座標"],
+			                   ["Integer", "幅"],
+			                   ["Integer", "高さ"]]},
+
+		{
+		  "Title": "ゲームコントローラーを確認"
+		},
+
+		{
+		  "Title": "既定のメニュー ビヘイビアを無効化"
+		},
+
+		{
+		  "Title": "既定のメニュービヘイビアを有効化"
+		},
+
+		{
+		  "Title": "没入モードを %0 に変更",
+		  "Parameters": [
+			[ "Integer", "没入モード (0: 無効、 1: 有効)" ]
+		  ]
+		}
+
+    ],
+
+    "Conditions":
+    [
+        {   "Title": "%o : デバイスに GPU が搭載されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : ユーザーはローミング中である",
+            "Triggered": false
+        },
+        {   "Title": "%o : エクステンション例外時",
+            "Triggered": true,
+        },
+        {   "Title": "%o : ネットワークに接続されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : 任意の電源に接続されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : AC アダプターに接続されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : USB ポートに接続されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : バッテリーが充電中である",
+            "Triggered": false,
+        },
+        {   "Title": "%o : バッテリーが放電中である",
+            "Triggered": false,
+        },
+        {   "Title": "%o : バッテリーがフル充電されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : 戻るボタンが押された時",
+            "Triggered": true,
+        },
+        {   "Title": "%o : ホーム ボタンが押された時",
+            "Triggered": true,
+        },
+        {   "Title": "%o : メニュー ボタンが押された時",
+            "Triggered": true,
+        },
+        {   "Title": "%o : デバイスがルート化されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : Bluetooth が有効である",
+            "Triggered": false,
+        },
+        {   "Title": "%o : 戻るボタンが押下されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : メニュー ボタンが押下されている",
+            "Triggered": false,
+        },
+        {   "Title": "%o : ボタン %0 が押下されている",
+            "Triggered": false,
+            "Parameters": [["Integer", "キー コード"]]
+        },
+        {   "Title": "%o : アクション %0 でインテントの受信時",
+            "Triggered": true,
+            "Parameters": [["Text", "アクション"]]
+        },
+        {   "Title": "%o : 任意のインテントの受信時",
+            "Triggered": true
+        },
+        {   "Title": "%o : オプション メニュー項目 %0 の選択時",
+            "Triggered": true,
+            "Parameters": [["Text", "項目 ID"]]
+        },
+        {   "Title": "%o : 任意のオプション メニュー項目の選択時",
+            "Triggered": true
+        },
+        {   "Title": "%o : キーボード表示時",
+            "Triggered": true
+        },
+        {   "Title": "%o : キーボード非表示時",
+            "Triggered": true
+        },
+        {   "Title": "%o : キーボードが表示されている",
+        },
+		{
+		  "Title": "パーミッション %0 が許可されている",
+		  "Triggered": false,
+		  "Parameters": [
+			[ "Text", "パーミッション (例: android.permission.INTERNET)" ]
+		  ]
+		},
+		{
+		  "Title": "%o : コントローラーはゲームパッドが接続されている",
+		  "Triggered": false
+		},
+		{
+		  "Title": "%o : コントローラーはジョイスティックが接続されている",
+		  "Triggered": false
+		},
+		{
+		  "Title": "%o : コントローラーは DPAD が接続されている",
+		  "Triggered": false
+		 }
+    ],
+
+    "Expressions":
+    [
+        {   "Title": "GPU_Name$(",
+            "Returns": "Text"
+        },
+        {   "Title": "GPU_Vendor$(",
+            "Returns": "Text"
+        },
+        {   "Title": "PhoneID$(",
+            "Returns": "Text"
+        },
+        {   "Title": "Operator$(",
+            "Returns": "Text"
+        },
+        {   "Title": "StackTrace$(",
+            "Returns": "Text"
+        },
+        {   "Title": "AppTitle$(",
+            "Returns": "Text"
+        },
+        {   "Title": "BatteryPercentage(",
+            "Returns": "Integer"
+        },
+        {   "Title": "ScreenWidth(",
+            "Returns": "Integer"
+        },
+        {   "Title": "ScreenHeight(",
+            "Returns": "Integer"
+        },
+        {   "Title": "DataStorageDirectory$(",
+            "Returns": "Text"
+        },
+        {   "Title": "TempPath$(",
+            "Returns": "Text"
+        },
+        {   "Title": "DeviceID$(",
+            "Returns": "Text"
+        },
+        {   "Title": "PackageName$(",
+            "Returns": "Text"
+        },
+        {   "Title": "ExternalStorageDirectory$(",
+            "Returns": "Text"
+        },
+        {   "Title": "AppVersion$(",
+            "Returns": "Text"
+        },
+        {   "Title": "RuntimeVersion$(",
+            "Returns": "Text"
+        },
+        {   "Title": "AdHeight(",
+            "Returns": "Integer"
+        },
+        {   "Title": "Renderer$(",
+            "Returns": "Text"
+        },
+        {   "Title": "IntentAction$(",
+            "Returns": "Text"
+        },
+        {   "Title": "IntentData$(",
+            "Returns": "Text"
+        },
+        {   "Title": "IntentExtra_String$(",
+            "Returns": "Text",
+            "Parameters": [["Text", "名前"]]
+        },
+        {   "Title": "IntentExtra_Boolean(",
+            "Returns": "Integer",
+            "Parameters": [["Text", "名前"]]
+        },
+        {   "Title": "IntentExtra_Long(",
+            "Returns": "Integer",
+            "Parameters": [["Text", "名前"]]
+        },
+        {   "Title": "MenuItem$(",
+            "Returns": "Text"
+        },
+        {   "Title": "DeviceApiVersion(",
+            "Returns": "Integer"
+        },
+        {   "Title": "Manufacturer$(",
+            "Returns": "Text"
+        },
+        {   "Title": "Model$(",
+            "Returns": "Text"
+        },
+        {   "Title": "Product$(",
+            "Returns": "Text"
+        },
+        {   "Title": "PublicStorageDirectory(",
+            "Returns": "Text",
+            "Parameters": [["Text", "種類名 (ピクチャ、ムービー、文書、 DCIM、ダウンロード、音楽、etc.)"]]
+        },
+        {   "Title": "DeviceSerialNumber$(",
+            "Returns": "Text"
+        },
+        {   "Title": "UserGoogleAccount$(",
+            "Returns": "Text"
+		},
+		{
+		  "Title": "SecondaryExternalStorage$(",
+		  "Returns": "Text"
+		},
+		{
+		  "Title": "LastButtonPressed(",
+		  "Returns": "Integer"
+		}
+    ]
+}

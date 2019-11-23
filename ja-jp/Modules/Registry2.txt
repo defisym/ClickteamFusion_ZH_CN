@@ -1,0 +1,72 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: current key exists" : "%o: カレントキーが存在",
+		"%o: key %0\\%1 exists" : "%o: キー %0\\%1 が存在",
+		"%o: last action successful" : "%o: 最後のアクションが完了",
+		"%o: value %0 of current key exists" : "%o: カレントキーの値 %0 が存在",
+		"%o: value %2 of key %0\\%1 exists" : "%o: キー %0\\%1 の値 %2 が存在",
+		"0=32-bit, 1=64-bit" : "0 = 32-bit, 1 = 64-bit",
+		"Create current key" : "カレントキーを作成",
+		"Create key %0\\%1" : "キー %0\\%1 を作成",
+		"Current Key = %s" : "カレントキー = %s",
+		"Current Root Key = %s" : "カレントルートキー = %s",
+		"Delete current key" : "カレントキーを削除",
+		"Delete key %0\\%1" : "キー %0\\%1 を削除",
+		"Delete value %0 of current key" : "カレントキーの値 %0 を削除",
+		"Delete value %2 of key %0\\%1" : "キー %0\\%1 の値 %2 を削除",
+		"Invalid parameters." : "パラメータが無効です。",
+		"Key name" : "キー名",
+		"Registry2" : {
+			"2" : "レジストリ2",
+			"128" : "Registry2"
+		},
+		"Root key" : "ルートキー",
+		"Set 64-bit mode to %0" : "%0 を 64-bit モードに変更",
+		"Set current key to %0" : "カレントルートキーを %0 に変更",
+		"Set root key to %0" : "ルートキーを %0 に変更",
+		"Set value %0 of current key to %1" : "カレントキーの値 %0 を %1 に変更",
+		"Set value %2 of key %0\\%1 to %3" : "キー %0\\%1 の値 %2 を %3 に変更",
+		"The Registry2 object allows you to retrieve or write values from or to the registry." : "Registry2 オブジェクトは、レジストリから値を取得したり、書き込んだりすることができます。",
+		"The value you try to read from is not a DWORD value." : "読み取ろうとしている値は DWORD 値ではありません。",
+		"The value you try to read from is not a string value." : "読み取ろうとしている値は文字列値ではありません。",
+		"Value name" : "値名"
+	},
+	"dialog_101" : {
+		"Cancel" : "キャンセル",
+		"OK" : "OK",
+		"Select a root key" : "ルートキーを選択"
+	},
+	"menu_20000" : {
+		"Any Key" : "エニーキー",
+		"Create Current Key" : "カレントキーを作成",
+		"Create Key" : "キーを作成",
+		"Current Key" : "カレントキー",
+		"Delete Current Key" : "カレントキーを削除",
+		"Delete Key" : "キーを削除",
+		"Delete Value" : "値を削除",
+		"Set 64-bit mode" : "64-bit モードに変更",
+		"Set Current Key" : "カレントキーを変更",
+		"Set Current Root Key" : "カレントルートキーを変更",
+		"Set DWORD Value" : "DWORD 値を変更",
+		"Set String Value" : "文字列値を変更"
+	},
+	"menu_20001" : {
+		"Current key exists" : "カレントキーが存在",
+		"Key exists" : "キーが存在",
+		"Last action successful" : "最後のアクションが完了",
+		"Value exists" : "値が存在",
+		"Value exists in current key" : "カレントキーに値が存在"
+	},
+	"menu_20002" : {
+		"Any Key" : "エニーキー",
+		"Current Key" : "カレントキー",
+		"Get Current Key" : "カレントキーを取得",
+		"Get Current Root Key" : "カレントルートキーを取得",
+		"Get DWORD Value" : "DWORD 値を取得",
+		"Get String Value" : "文字列値を取得",
+		"Last error code" : "最後のエラーコード",
+		"Last error message" : "最後のエラーメッセージ"
+	}
+}

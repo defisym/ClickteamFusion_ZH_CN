@@ -1,0 +1,34 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only." : "倍精度浮動少数点数 (16 有効数字) に関連するシンプルな計算を実行できます。 Pro 版のみでご利用になれます。",
+		"Double-Precision Calculator" : "倍精度計算機",
+		"Double-Precision Calculator object" : "倍精度計算機オブジェクト",
+		"Enter the number of digits" : "桁数を入力",
+		"Enter the number of digits after the decimal point" : "少数点以下の桁数を入力",
+		"First number string" : "最初の数字列",
+		"Number of decimals" : "少数点以下の数",
+		"Number of digits" : "桁数",
+		"Number string" : "数字列",
+		"Second number string" : "2 番目の数字列",
+		"Set Format to %0 digits" : "フォーマットを %0 桁に変更",
+		"Set Format to %0 digits after decimal point" : "フォーマットを少数点以下 %0 桁に変更",
+		"Set Standard Format" : "フォーマットを標準に変更"
+	},
+	"menu_20000" : {
+		"&Standard" : "標準(&S)",
+		"N digits" : "N 桁",
+		"N digits after decimal point" : "少数点以下 N 桁",
+		"Set Format" : "フォーマットを変更"
+	},
+	"menu_20002" : {
+		"&Add" : "加算(&A)",
+		"&Divide" : "除算(&D)",
+		"&Multiply" : "乗算(&M)",
+		"&Subtract" : "減算(&S)",
+		"Format ..." : "フォーマット ...",
+		"N digits" : "N 桁",
+		"N digits after decimal point" : "少数点以下 N 桁"
+	}
+}

@@ -1,0 +1,63 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: Friends list has been loaded" : "%o:友達リストがロードされた",
+		"%o: Invitations sent" : "%o:送信された招待",
+		"%o: Local player has just authenticated" : "%o:ローカルプレイヤーがたった今認証された",
+		"%o: Local player is authenticated" : "%o:ローカルプレイヤーが認証されている",
+		"Add invitation to friend number %0" : "友達ナンバー %0 への詳細を追加",
+		"Allows Apple's Game Center features in your iOS application." : "作成した iOS アプリケーションで Apple Game Center 機能を使用します。",
+		"Authenticate OK" : "認証 OK",
+		"Authenticate at start of frame" : "フレームの開始時に認証",
+		"Authenticate local player" : "ローカルプレイヤーを認証",
+		"Enter friend index (starting at 0)" : "友達インデックスを入力 (0 から開始)",
+		"Enter the alias name of the simulated local player" : "シミュレートされたローカルプレイヤーのエイリアス名を入力します",
+		"Enter the player's simulated ID" : "プレイヤーのシミュレートされた ID を入力します",
+		"Friend number 1" : "友達ナンバー 1",
+		"Friend number 1 ID" : "友達ナンバー 1 の ID",
+		"Friend number 2" : "友達ナンバー 2",
+		"Friend number 2 ID" : "友達ナンバー 2 の ID",
+		"Game Center Connect" : "Game Center Connect",
+		"If checked, the local player will be authenticated at start of frame" : "有効の場合、ローカルプレイヤーがフレームの開始時に認証されます",
+		"Load friends list" : "友達リストをロード",
+		"Player's Alias" : "プレイヤーのエイリアス",
+		"Player's ID" : "プレイヤー ID",
+		"Reset invitations" : "招待をリセット",
+		"Send invitations" : "招待を送信",
+		"Simulates a correct local player authentication" : "正しいローカルプレイヤー認証をシミュレートします",
+		"Simulation" : "シミュレーション",
+		"The best player" : "ベストプレイヤー",
+		"Welcome back %s" : "お帰りなさい %s さん",
+		"johnny@gmail.com" : "johnny@gmail.com"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Add invitation" : "招待を追加",
+		"Authenticate local player" : "ローカルプレイヤーを認証",
+		"Friends" : "友達",
+		"Load friends list" : "友達リストをロード",
+		"Local player" : "ローカルプレイヤー",
+		"Reset invitations" : "招待をリセット",
+		"Send invitations" : "招待を送信"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Friend list has been loaded" : "友達リストがロードされた",
+		"Friends" : "友達",
+		"Invitations have been sent" : "招待が送信された",
+		"Local player" : "ローカルプレイヤー",
+		"Local player has just authenticated" : "ローカルプレイヤーがたった今認証された",
+		"Local player is authenticated" : "ローカルプレイヤーが認証されている"
+	},
+	"menu_20002" : {
+		"Expressions" : "数式",
+		"Friends" : "友達",
+		"Get friend ID" : "友達の ID を取得",
+		"Get friend alias" : "友達のエイリアスを取得",
+		"Get local player ID" : "ローカルプレイヤーの ID を取得",
+		"Get local player alias" : "ローカルプレイヤーのエイリアスを取得",
+		"Get number of friends" : "友達の数を取得",
+		"Local player" : "ローカルプレイヤー"
+	}
+}

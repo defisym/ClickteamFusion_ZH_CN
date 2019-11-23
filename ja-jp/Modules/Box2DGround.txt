@@ -1,0 +1,26 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Advanced" : "拡張設定",
+		"Bottom to top" : "下から上へ",
+		"Choose how the objects will collide with the ground" : "地形と他のオブジェクトが衝突した際の挙動を選択",
+		"Choose the direction of the ground to be created." : "同じインスタンスを持つ地形オブジェクトが結ぶリンクの進行方向を指定",
+		"Collision" : "衝突の種類",
+		"Defines the ground of the playfield" : "マップ上の地形および物理情報を定義します。",
+		"Direction" : "リンクの方向",
+		"Elasticity" : "弾力",
+		"Engine ID" : "エンジン ID",
+		"Enter the elasticity parameter of the ground." : "弾力の強さを入力",
+		"Enter the friction parameter of the ground." : "摩擦力の強さを入力",
+		"Enter the identifier of the engine to use for the ground." : "この物理オブジェクトを管理する物理制御エンジンの ID を入力",
+		"Friction" : "摩擦力",
+		"Left to right" : "左から右へ",
+		"Object" : "物理情報",
+		"Obstacle" : "障害物",
+		"Physics - Ground" : "物理 - 地形",
+		"Platform" : "下からすり抜けられる障害物",
+		"Right to left" : "右から左へ",
+		"Top to bottom" : "上から下へ"
+	}
+}

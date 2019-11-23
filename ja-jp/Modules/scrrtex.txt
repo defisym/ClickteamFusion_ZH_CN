@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"An error has occured while reading the file." : "ファイルの読み取り中にエラーが発生しました。",
+		"An error has occured while writing the file." : "ファイルの書き込み中にエラーが発生しました。",
+		"Application initialization error." : "アプリケーション初期化エラーです。",
+		"Cannot find %s!" : "%s が見つかりません！",
+		"Cannot initialize Application." : "アプリケーションを初期化できません。",
+		"Cannot load %s. This object might need an external program or library not yet installed." : "%s をロードできません。 このオブジェクトは外部プログラムまたは、インストールされていないライブラリを必要としています。",
+		"Error while opening file." : "ファイルを開く際にエラーが発生しました。",
+		"File error!" : "ファイルエラーです！",
+		"Joystick not connected or driver not installed." : "ジョイスティックが接続されていないか、ドライバがインストールされていません。",
+		"Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again." : "メモリー不足のためヘルプを開始できません。\n\n他のアプリケーションを終了してメモリーを解放した後、再試行してください。",
+		"Not enough memory!" : "メモリーが不足しています！",
+		"Screen Saver" : "スクリーンセーバー",
+		"Screen Saver.Click                   " : "Screen Saver.Click                   ",
+		"Screen saver description" : "スクリーンセーバーの説明",
+		"ScreenSaver" : "ScreenSaver",
+		"The current frame is not the same as the saved one." : "現在のフレームは保存されているフレームと異なっています。",
+		"There is not enough available space in the temporary drive. Free some disk space and try again." : "テンポラリドライブに十分な空き領域がありません。 空きディスク領域を確保して再試行してください。",
+		"This application has been built with an incompatible version of Clickteam Fusion." : "このアプリケーションは互換性のないバージョンの Clickteam Fusion でビルドされています。",
+		"This file is not a MMF application position file." : "このファイルは MMF アプリケーション位置ファイルではありません。",
+		"This file was not saved by this application." : "このファイルはこのアプリケーションで保存されていません。",
+		"This file was saved by a incompatible version of the application." : "このファイルは互換性のないバージョンのアプリケーションで保存されています。",
+		"This file was saved with an incompatible version of MMF runtime." : "このファイルは互換性のないバージョンの MMF ランタイムで保存されています。",
+		"This is not an application file!" : "これはアプリケーションファイルではありません！",
+		"Window initialization error." : "ウィンドウ初期化エラーです。",
+		"control.hlp" : "control.hlp",
+		"control.ini" : "control.ini"
+	},
+	"dialog_2003" : {
+		"Cancel" : "キャンセル",
+		"OK" : "OK",
+		"Play musics" : "音楽を再生",
+		"Play samples" : "サウンドを再生",
+		"Set-up" : "設定"
+	}
+}

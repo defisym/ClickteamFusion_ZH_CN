@@ -1,0 +1,51 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Hide" : "00非表示",
+		"00Image resize off" : "00イメージサイズ変更無効",
+		"00Image resize on" : "00イメージサイズ変更有効",
+		"00New picture from selector" : "00ファイルを選択して新しいピクチャ",
+		"00Show" : "00表示",
+		"00WARNING !!! Change this action to New picture" : "00警告！！！ このアクションは新しいピクチャに対して変更します",
+		"01%s: a picture is loaded" : "01%s: ピクチャがロードされている",
+		"01New picture : %s" : "01新しいピクチャ : %s",
+		"10%s: visible" : "10%s: 表示されている",
+		"Choose the picture to display" : "表示するピクチャを選択",
+		"Custom" : "カスタム",
+		"Displays an image file as background object." : "背景オブジェクトとしてイメージファイルを表示します。",
+		"First Pixel" : "左上のピクセル",
+		"Hide at start of frame" : "フレームの開始時に非表示",
+		"Hides the picture when the frame starts" : "フレーム開始時にピクチャを非表示",
+		"Picture" : "ピクチャ",
+		"Picture filename" : "ピクチャファイル名",
+		"Picture name: %s" : "ピクチャ名: %s",
+		"Picture object" : "ピクチャオブジェクト",
+		"Please select a picture" : "ピクチャを選択してください",
+		"Resize picture to the size of the object" : "オブジェクトのサイズにピクチャをサイズ変更",
+		"The picture will be stretched to match the size of the object itself" : "ピクチャはオブジェクトのサイズに合わせて引き伸ばされます",
+		"Transparent Color" : "透過色"
+	},
+	"menu_20000" : {
+		"Image resize off" : "イメージサイズの変更無効",
+		"Image resize on" : "イメージサイズの変更有効",
+		"Make Object Invisible" : "オブジェクトを非表示にする",
+		"Make Object Reappear" : "オブジェクトを表示",
+		"New picture" : "新しいピクチャ",
+		"New picture from selector" : "ファイルを選択して新しいピクチャ",
+		"Visibility" : "表示/非表示"
+	},
+	"menu_20001" : {
+		"A picture is loaded ?" : "ピクチャがロードされている",
+		"Is visible ?" : "表示されている"
+	},
+	"menu_20002" : {
+		"Get X position" : "X 位置を取得",
+		"Get Y position" : "Y 位置を取得",
+		"Get picture name" : "ピクチャ名を取得",
+		"Get picture original x size" : "ピクチャの元の x サイズを取得",
+		"Get picture original y size" : "ピクチャの元の y サイズを取得",
+		"Get picture screen x size" : "ピクチャ画面の x サイズを取得",
+		"Get picture screen y size" : "ピクチャ画面の y サイズを取得"
+	}
+}

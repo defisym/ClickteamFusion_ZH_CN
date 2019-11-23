@@ -1,0 +1,30 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"About" : "バージョン情報",
+		"Author" : "作者",
+		"Automatically set animation direction" : "アニメーションの方向を自動的に変更",
+		"Clickteam Movement Controller" : "Clickteam 動作コントローラー",
+		"Control Ext." : "Control Ext.",
+		"Direction" : "方向",
+		"Direction of the gravity / acceleration applied to the object in degrees." : "オブジェクトに適用される重力 / 加速の強さを設定します。",
+		"General Properties" : "全般のプロパティ",
+		"Gravity / Acceleration" : "重力 / 加速",
+		"Gravity or acceleration strength (depending on usage)" : "重力または加速の強さ (利用法に依存)",
+		"Initial Direction and Speed" : "初期方向と速度",
+		"Initial direction of the object in degrees." : "オブジェクトの初期方向を指定します。",
+		"Initial speed of the object." : "オブジェクトの初期速度です。",
+		"Initially moving at start of frame." : "フレームの開始時に移動を開始します。",
+		"Move at Start" : "開始時に移動",
+		"Movement will automatically set the animation direction from current angle." : "動作は現在の角度からアニメーションの方向を自動的に変更します。",
+		"Name of the extension used to interact with this movement." : "この動作との相互作用に使用するエクステンションの名前です。",
+		"Properties relating to the movements initial direction." : "動作の初期方向に関するプロパティです。",
+		"Released October 2006" : "Released October 2006",
+		"Speed" : "速度",
+		"Strength" : "強さ",
+		"Strength of the gravity / acceleration applied to the object" : "オブジェクトに適用される重力 / 加速の強さ",
+		"Vector" : "ベクター",
+		"Version" : "バージョン "
+	}
+}

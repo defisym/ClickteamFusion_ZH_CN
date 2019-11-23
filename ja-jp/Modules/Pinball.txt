@@ -1,0 +1,17 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Check if the object should move at start of frame" : "チェックすると、フレームの開始時にオブジェクトが動作を開始します",
+		"Choose the strengh of the gravity" : "重力の強さを設定",
+		"Deceleration" : "減速",
+		"Enter the deceleration factor" : "減速係数を入力",
+		"Enter the initial speed of the object" : "オブジェクトの初期速度を入力",
+		"Gravity" : "重力",
+		"Initial direction" : "初期方向",
+		"Initial speed" : "初期速度",
+		"Move at start" : "開始時に移動",
+		"Pinball movement" : "ピンボール動作",
+		"Please choose the intial direction of the object" : "オブジェクトの初期方向を選択してください"
+	}
+}

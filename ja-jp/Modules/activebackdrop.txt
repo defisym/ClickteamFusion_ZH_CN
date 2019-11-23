@@ -1,0 +1,40 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: is visible" : "%o: が表示されている",
+		"Active Backdrop" : "アクティブ背景",
+		"Changeable backdrop object" : "変更可能な背景オブジェクト",
+		"Check this box to make the object visible at start of frame" : "フレームの開始時にオブジェクトを表示する場合にはこのボックスをチェック",
+		"Click on the edit button to add/change the images" : "「編集」 ボタンをクリックして、イメージを追加/変更してください",
+		"Enter the X coordinate" : "X 座標を入力",
+		"Enter the Y coordinate" : "Y 座標を入力",
+		"Enter the image number (starting at 0)" : "イメージ番号を入力 (0 から開始)",
+		"Hide" : "非表示",
+		"Image list" : "イメージリスト",
+		"List of predefined images" : "定義済みイメージのリスト",
+		"Set X coordinate to %0" : "X 座標を %0 に変更",
+		"Set Y coordinate to %0" : "Y 座標を %0 に変更",
+		"Set image to %0" : "イメージを %0 に変更",
+		"Show" : "表示",
+		"Visible" : "表示されている"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Hide" : "非表示",
+		"Set X coordinate" : "X 座標を変更",
+		"Set Y coordinate" : "Y 座標を変更",
+		"Set image" : "イメージを変更",
+		"Show" : "表示"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is object visible" : "オブジェクトが表示されている"
+	},
+	"menu_20002" : {
+		"Expressions" : "数式",
+		"Get X coordinate" : "X 座標を取得",
+		"Get Y coordinate" : "Y 座標を取得",
+		"Get image number" : "イメージ番号を取得"
+	}
+}

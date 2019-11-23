@@ -1,0 +1,61 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: Application has been deactivated" : "%o:アプリケーションが無効化されている",
+		"%o: Application has been reactivated" : "%o:アプリケーションが再有効化されている",
+		"%o: Application received a memory warning" : "%o: アプリがメモリ警告を受けた",
+		"%o: Device can connect to %0" : "%o: デバイスが %0 に接続できる",
+		"%o: Device can connect to %0 via WWAN" : "%o: デバイスが WWAN 経由で %0 に接続できる",
+		"%o: Device can connect to %0 via Wifi" : "%o: デバイスが WiFi 経由で %0 に接続できる",
+		"%o: Device has Internet access" : "%o: デバイスがインターネットに接続している",
+		"%o: Device has Internet access via WWAN" : "%o: デバイスが WWAN 経由でインターネットに接続している",
+		"%o: Device has Internet access via Wifi" : "%o: デバイスが WiFi 経由でインターネットに接続している",
+		"%o: Device has local Wifi access" : "%o: デバイスが ローカル WiFi 接続している",
+		"%o: No error in iAD advertisement" : "%o:iAD 広告でエラーがない",
+		"%o: iAd is visible" : "%o: iAd が表示されている",
+		"Enable/disable iAd %0" : "iAd %0 を有効/無効",
+		"Enter 0 to disable iAd, 1 to enable" : "0 で iAD を無効化、 1 で有効化",
+		"Extra function for iOS applications." : "iOS アプリに追加機能を提供します。",
+		"Index" : "インデックス",
+		"Open URL %0" : "URL %0 を開く",
+		"Please enter the URL to open" : "URL を入力してください",
+		"Please enter the address of the host" : "ホストのアドレスを入力してください",
+		"Vibrate" : "バイブレーション",
+		"iOS" : "iOS"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Enable/disable iAd" : "iAd を有効/無効",
+		"Open URL" : "URL を開く",
+		"Vibrate" : "バイブレーション"
+	},
+	"menu_20001" : {
+		"Application has been deactivated" : "アプリケーションが無効化されている",
+		"Application has been reactivated" : "アプリケーションが再有効化されている",
+		"Application received a memory warning" : "アプリがメモリ警告を受けた",
+		"Can connect to 'hostname'" : "'hostname' に接続できる",
+		"Can connect to 'hostname' via WWAN" : "WWAN 経由で 'hostname' に接続できる",
+		"Can connect to 'hostname' via Wifi" : "WiFi 経由で 'hostname' に接続できる",
+		"Conditions" : "条件",
+		"Has Internet access" : "インターネットに接続している",
+		"Has Internet access over WWAN" : "WWAN 経由でインターネットに接続している",
+		"Has Internet access over Wifi" : "WiFi 経由でインターネットに接続している",
+		"Has local Wifi access" : "ローカル WiFi 接続している",
+		"Network" : "ネットワーク",
+		"No error in iAD advertisement" : "iAD 広告でエラーがない",
+		"iAd is visible" : "iAd が表示されている"
+	},
+	"menu_20002" : {
+		"Device name" : "デバイス名",
+		"Expressions" : "数式",
+		"Get Nth preferred language" : "優先言語を取得",
+		"Get number of preferred languages" : "優先言語の数を取得",
+		"Localization" : "ローカライズ",
+		"Localized model" : "ローカライズモデル",
+		"Model" : "モデル",
+		"System" : "システム",
+		"System name" : "システム名",
+		"System version" : "システムバージョン"
+	}
+}

@@ -1,0 +1,49 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: Is magnet active?" : "%o: マグネット機能が有効",
+		"Active at start" : "開始時に有効",
+		"Advanced" : "拡張設定",
+		"Attracts objects around itself" : "他のオブジェクトを引き寄せるマグネットを実装することが可能になります。",
+		"Check this box to make the magnet active at start of frame" : "フレームの開始時にマグネット機能を有効にする場合はチェック",
+		"Directions" : "方向",
+		"Directions of the magnet" : "引き寄せる方向を選択",
+		"Engine ID" : "エンジン ID",
+		"Enter 1 to turn on, 0 to turn off" : "機能状態を指定 （ 0:無効、 1:有効 ）",
+		"Enter the directions where the magnet will have effect" : "マグネットが他のオブジェクトを引き寄せる方向を指定",
+		"Enter the height of the object" : "高さを入力",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "この物理オブジェクトを管理する物理制御エンジンの ID を入力",
+		"Enter the strength of the magnet (0-100)" : "磁力の強さを指定（0～100）",
+		"Enter the strength of the magnet, from 0 to 100" : "磁力の強さを入力 （ 0 ～ 100 ）",
+		"Enter the width of the object" : "幅を入力",
+		"Physics - Magnet" : "物理 - マグネット",
+		"Please drop a 'Physics Engine' object in your frame." : "物理オブジェクトを利用する場合はフレーム中に 「物理 - 物理制御エンジン」 オブジェクトを設置してください。",
+		"Running : %i" : "機能状態 : %i",
+		"Set angle to %0" : "引き寄せる方向を %0 に変更",
+		"Set height to %0" : "高さを %0 に変更",
+		"Set magnet to %0" : "マグネット機能状態を %0 に変更",
+		"Set strength to %0" : "強さを %0 に変更",
+		"Set width to %0" : "幅を %0 に変更",
+		"Strength" : "強さ",
+		"Strength : %i" : "強さ : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Set angle" : "方向を変更",
+		"Set height" : "高さを変更",
+		"Set magnet ON/OFF" : "マグネット機能状態を変更",
+		"Set strength" : "強さを変更",
+		"Set width" : "幅を変更"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is magnet active?" : "マグネット機能が有効"
+	},
+	"menu_20002" : {
+		"Action zone height" : "有効範囲の高さを取得",
+		"Action zone width" : "有効範囲の幅を取得",
+		"Expressions" : "Expressions",
+		"Magnet strength" : "磁力の強さを取得"
+	}
+}

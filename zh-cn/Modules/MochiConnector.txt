@@ -1,8 +1,0 @@
-﻿{
-	"version" : 1,
-	"lang" : 2052,
-	"general" : {
-		"Mochi Connector" : "Mochi 连接器",
-		"Obsolete. This object is provided for compatibility reasons only. This object is required for the other Mochi extensions to function" : "已过期。 这个对象提供兼容性。 需要其他 Mochi 扩展的功能支持"
-	}
-}

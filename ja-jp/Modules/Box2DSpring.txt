@@ -1,0 +1,30 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Activated : %i" : "有効 : %i",
+		"Active at start" : "開始時に有効",
+		"Advanced" : "拡張設定",
+		"Angle : %i degrees" : "角度 : %i 度",
+		"Auto rotation" : "物理エンジンによる回転処理を利用",
+		"Box" : "判定を矩形に",
+		"Check this box to make your spring active when the frame starts" : "フレームの開始時にジャンプ台としての機能を有効にする場合はチェック",
+		"Check to enable automatic rotations of the image" : "画像の回転に物理エンジンによる自動処理を利用する場合にチェック",
+		"Check to resample the image of the object when rotating it (slower for large number of objects)." : "オブジェクトの回転描画をなめらかに行いたい場合はチェック（当オプションを有効にしたオブジェクトが多い場合は処理が遅くなる恐れあり）",
+		"Circle" : "判定を円形に",
+		"Collision shape" : "当たり判定の種類",
+		"Engine ID" : "エンジン ID",
+		"Enter the direction of the spring" : "ジャンプ台を利用したときのジャンプの方向を指定",
+		"Enter the identifier of the movement, that must match the identifier of the engine object." : "この物理オブジェクトを管理する物理制御エンジンの ID を入力",
+		"Enter the strength of the spring, (0 = inactive)" : "ジャンプ台のバネの強さを入力（0 で無効）",
+		"Physics - Spring" : "物理 - ジャンプ台",
+		"Please choose the shape of the collision box" : "このオブジェクトに利用する当たり判定の形状を選択",
+		"Please drop a 'Physics Engine' object in your frame." : "物理オブジェクトを利用する場合はフレーム中に 「物理 - 物理制御エンジン」 オブジェクトを設置してください。",
+		"Shape of first image" : "画像から判定を生成",
+		"Smooth rotations" : "回転処理をより高精度に",
+		"Spring directions" : "ジャンプの方向",
+		"Strength" : "強さ",
+		"Strength : %i" : "強さ : %i",
+		"Type : Spring" : "種類 : バネ"
+	}
+}

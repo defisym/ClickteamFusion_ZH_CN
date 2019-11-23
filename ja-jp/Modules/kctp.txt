@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Read Info" : "00情報を読み取る",
+		"00Reset info" : "00情報をリセット",
+		"10%s: Application never used?" : "10%s: アプリケーションが未使用",
+		"10%s: Data Integrity Problem?" : "10%s: データ整合性の問題",
+		"10%s: Is trial period expired?" : "10%s: 試用期間が経過",
+		"11%s: number of days since first use %s" : "11%s: 最初に使用してからの日数 %s",
+		"11%s: number of days since highest last use %s" : "11%s: 最高日からの日数 %s",
+		"Allows you to make demo versions that expire after a given time." : "一定期間経過後に試用期限が切れるデモバージョンを作成できます。",
+		"Display Message %0 (title=%1)" : "メッセージ %0 (タイトル=%1) を表示",
+		"Message Text" : "メッセージテキスト",
+		"Set Private Data to %0" : "プライベートデータを %0 に変更",
+		"Trial Period Object" : "試用期間オブジェクト",
+		"Window Title" : "ウィンドウタイトル"
+	},
+	"dialog_101" : {
+		"&Help" : "ヘルプ(&H)",
+		"&Reset" : "リセット(&R)",
+		"&Shared by all users (requires administrator rights)" : "すべてのユーザーで共有 (要管理者権限)(&S)",
+		"Cancel" : "キャンセル",
+		"Compatible with V1" : "バージョン 1 との互換性を保つ",
+		"Expiration" : "期限切れ",
+		"OK" : "OK",
+		"Product ID (8 characters)" : "製品 ID (8 文字)",
+		"Tests" : "テスト",
+		"Trial Period Duration (number of days)" : "試用期間 (日数)",
+		"Trial Period Object Setup" : "試用期間オブジェクトの設定"
+	},
+	"menu_20000" : {
+		"Display Message" : "メッセージを表示",
+		"Read Info" : "情報を読み取る",
+		"Reset Info" : "情報をリセット",
+		"Set Private Data" : "プライベートデータを変更"
+	},
+	"menu_20001" : {
+		"Compare number of days since first use" : "最初に使用してからの日数を比較",
+		"Compare number of days since highest use" : "最高日からの日数を比較",
+		"Data Integrity Problem?" : "データ整合性の問題",
+		"Is Trial Period Expired?" : "試用期間が経過",
+		"Never used?" : "未使用"
+	},
+	"menu_20002" : {
+		"Number of days since first use" : "最初に使用してからの日数",
+		"Number of days since highest use" : "最高日からの日数",
+		"Private Data" : "プライベートデータ"
+	}
+}

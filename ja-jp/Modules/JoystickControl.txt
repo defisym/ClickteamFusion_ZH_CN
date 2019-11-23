@@ -1,0 +1,55 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Allows you to control the virtual joystick input." : "仮想ジョイスティック入力をコントロールすることができます。",
+		"Enter 1 for left handed" : "左利きにするには 1 を入力",
+		"Enter 1 to display button 1, 0 to hide it" : "ボタン 1 を表示するには 1、表示しない場合は 0 を入力",
+		"Enter 1 to display button 2, 0 to hide it" : "ボタン 2 を表示するには 1、表示しない場合は 0 を入力",
+		"Enter 1 to display joystick, 0 to hide it" : "ジョイスティックを表示するには 1、表示しない場合は 0 を入力",
+		"Enter the binary mask. 0001:top 0010:bottom 0100:left 1000:right 10000:fire1 100000:fire2" : "バイナリマスクを入力してください。0001:top 0010:bottom 0100:left 1000:right 10000:fire1 100000:fire2",
+		"Joystick Control object" : "ジョイスティックコントロールオブジェクト",
+		"Set X button 1 to %0" : "X ボタン 1 を %0 に変更",
+		"Set X button 2 to %0" : "X ボタン 2 を %0 に変更",
+		"Set X joystick to %0" : "X ジョイスティックを %0 に変更",
+		"Set Y button 1 to %0" : "Y ボタン 1 を %0 に変更",
+		"Set Y button 2 to %0" : "Y ボタン 2 を %0 に変更",
+		"Set Y joystick to %0" : "Y ジョイスティックを %0 に変更",
+		"Set button 1 position to %0" : "ボタン 1 の位置を %0 に変更",
+		"Set button 2 position to %0" : "ボタン 2 の位置を %0 に変更",
+		"Set joystick mask to %0" : "ジョイスティックマスクを %0 に変更",
+		"Set joystick position to %0" : "ジョイスティックの位置を %0 に変更",
+		"Start accelerometer joystick" : "加速度センサージョイスティックを開始",
+		"Start/stop touch joystick %0 (joystick), %1 (button 1), %2 (button 2), %3 (left handed)" : "タッチジョイスティック %0 (ジョイスティック)、 %1 (ボタン 1)、 %2 (ボタン 2)、 %3 (左利き) を開始/停止",
+		"Stop accelerometer joystick" : "加速度センサージョイスティックを停止"
+	},
+	"menu_20000" : {
+		"Accelerometer" : "加速度センサー",
+		"Actions" : "アクション",
+		"Set button 1 X coordinate" : "ボタン 1 の X 座標を変更",
+		"Set button 1 Y coordinate" : "ボタン 1 の Y 座標を変更",
+		"Set button 1 position" : "ボタン 1 の位置を変更",
+		"Set button 2 X coordinate" : "ボタン 2 の X 座標を変更",
+		"Set button 2 Y coordinate" : "ボタン 2 の Y 座標を変更",
+		"Set button 2 position" : "ボタン 2 の位置を変更",
+		"Set joystick X coordinate" : "ジョイスティックの X 座標を変更",
+		"Set joystick Y coordinate" : "ジョイスティックの Y 座標を変更",
+		"Set joystick mask" : "ジョイスティックマスクを変更",
+		"Set joystick position" : "ジョイスティックの位置を変更",
+		"Start accelerometer joystick" : "加速度センサージョイスティックを開始",
+		"Start/stop touch joystick" : "タッチジョイスティックを開始/停止",
+		"Stop accelerometer joystick" : "加速度センサージョイスティックを停止",
+		"Touch joystick" : "タッチジョイスティック"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件"
+	},
+	"menu_20002" : {
+		"Button 1" : "ボタン 1",
+		"Button 2" : "ボタン 2",
+		"Expressions" : "数式",
+		"Touch joystick" : "タッチジョイスティック",
+		"X Coordinate" : "X 座標",
+		"Y Coordinate" : "Y 座標"
+	}
+}

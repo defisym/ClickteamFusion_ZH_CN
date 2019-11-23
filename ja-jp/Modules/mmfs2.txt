@@ -1,0 +1,20 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%s files (%s)" : "%s ファイル (%s)",
+		"All files (*.*)|*.*||" : "すべてのファイル (*.*)|*.*||",
+		"Animation files" : "アニメーションファイル",
+		"Graphic files" : "グラフィックファイル",
+		"Image files" : "イメージファイル",
+		"Unknown format" : "不明なフォーマット"
+	},
+	"dialog_100" : {
+		"# frames :" : "フレーム数 :",
+		"Depth :" : "色深度 :",
+		"Height :" : "高さ :",
+		"Information" : "情報",
+		"Type :" : "種類 :",
+		"Width :" : "幅 :"
+	}
+}

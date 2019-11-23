@@ -1,0 +1,25 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Achieved" : "達成済み",
+		"Achievement title" : "達成項目のタイトル",
+		"Click Edit to draw the images of the achievement" : "編集をクリックして達成項目の画像を描画",
+		"Description of the achievement, after completion" : "達成項目の説明 (達成後)",
+		"Description of the achievement, before completion" : "達成項目の説明 (達成前)",
+		"Displays one Game Center achievement in your iOS application." : "作成した iOS アプリケーションで Game Center の達成項目を 1 つ表示します。",
+		"Enter the achievement identifier as defined in iTunes Connect" : "iTunes Connect で定義されている達成項目の識別子を入力",
+		"Game Center Achievement" : "Game Center Achievement",
+		"Identifier" : "識別子",
+		"Images" : "イメージ",
+		"Unachieved" : "未達成"
+	},
+	"menu_20002" : {
+		"Expressions" : "数式",
+		"Get achievement achieved description" : "達成した項目の説明を取得",
+		"Get achievement maximum points" : "達成項目の最大ポイントを取得",
+		"Get achievement percentage" : "達成項目のパーセントを取得",
+		"Get achievement title" : "達成項目のタイトルを取得",
+		"Get achievement unachieved description" : "達成していない項目の説明を取得"
+	}
+}

@@ -1,0 +1,26 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Accelerometer object" : "加速度センサーオブジェクト",
+		"Device orientation changed" : "デバイスの方向が変更された",
+		"Retrieve data from the accelerometer on devices that support it (such as the iPhone or some Android phones)." : "iPhone や Android 携帯など、加速度センサーを搭載したデバイスからデータを取得します。"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Device orientation changed" : "デバイスの方向が変更された"
+	},
+	"menu_20002" : {
+		"Device orientation" : "デバイスの方向",
+		"Direct values" : "直接値",
+		"Expressions" : "数式",
+		"Gravity isolated values" : "重力分離値",
+		"Instantaneous values" : "瞬間値",
+		"X acceleration" : "X 軸の加速度",
+		"Y acceleration" : "Y 軸の加速度",
+		"Z acceleration" : "Z 軸の加速度"
+	}
+}

@@ -1,0 +1,48 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Advanced" : "拡張設定",
+		"All the objects under the pin" : "ピン位置にあるすべてのオブジェクト",
+		"Check and all the objects will be linked to the position of the pin." : "関連付けしたオブジェクトをピン位置に留まらせる場合はチェック",
+		"Choose how many objects should be linked together." : "ジョイントに関連付けさせるオブジェクト範囲を選択",
+		"Creates revolute joints between objects." : "仮想ピンを利用してオブジェクト間の回転ジョイントを作成できます。",
+		"Destroy joint" : "ジョイントを破壊",
+		"Engine ID" : "エンジン ID",
+		"Enter the higher limit angle, in degrees (0 - 360)" : "回転角度の上限値を入力 （ 0 ～ 360 ）",
+		"Enter the identifier of the engine to use for the ground." : "この物理オブジェクトを管理する物理制御エンジンの ID を入力",
+		"Enter the lower angle limit. If greater than the higher limit, no limit will be applied." : "回転角度の下限値を入力 （下限値が上限値を上回る場合は無効）",
+		"Enter the lower limit angle, in degrees (0 - 360)" : "回転角度の下限値を入力 （ 0 ～ 360 ）",
+		"Enter the speed of the motor (-250 - 250)" : "モーターの回転速度を入力 （ -250 ～ 250 ）",
+		"Enter the speed of the motor. Negative values turn counter clockwise." : "モーターの回転速度を入力 （正数で時計回り、負数で逆時計回り）",
+		"Enter the torque of the motor" : "モーターの回転力を入力",
+		"Enter the torque of the motor." : "モーターの回転力を入力",
+		"Enter the upper angle limit. If lower than the lower limit, no limit will be applied." : "回転角度の上限値を入力 （上限値が下限値を下回る場合は無効）",
+		"Joint" : "ジョイント設定",
+		"Link to the ground" : "ピン留めする",
+		"Lower angle" : "回転角度の下限",
+		"Motor" : "モーターの設定",
+		"Only the two topmost objects" : "ピン位置の上位二層にあるオブジェクト",
+		"Physics - Joint" : "物理 - ジョイント",
+		"Please drop a 'Physics Engine' object in your frame." : "物理オブジェクトを利用する場合はフレーム中に 「物理 - 物理制御エンジン」 オブジェクトを設置してください。",
+		"Set angle limits to %0 (lower angle) and %1 (upper angle)" : "回転角度の下限値を %0 、上限値を %1 に変更",
+		"Set motor to %0 (torque) and %1 (strength)" : "モーターのトルクを %0 、回転速度を %1 に変更",
+		"Speed" : "速度",
+		"Torque" : "モーターの回転力",
+		"Type" : "種類",
+		"Upper angle" : "回転角度の上限"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Destroy joint" : "ジョイントを破壊",
+		"Set angle limits" : "回転角度の制限値を変更",
+		"Set joint motor" : "モーターの設定を変更"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Lower angle limit" : "回転角度の下限を取得",
+		"Motor speed" : "モーターの回転速度を取得",
+		"Motor torque" : "モーターの回転力を取得",
+		"Upper angle limit" : "回転角度の上限を取得"
+	}
+}

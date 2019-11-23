@@ -1,0 +1,106 @@
+{   "About":
+    {
+        "Name": "Android カメラオブジェクト",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2014 Clickteam",
+        "Website": "http://www.clickteam.com",
+        "Comment": "Android Exporter の一部です。 カメラ機能を提供します。",
+        "URL": "http://www.clickteam.com",
+        "Help": "Help\\ACamera.chm",
+        "Identifier": "ACam",
+    },
+
+    "ActionMenu":
+    [
+        [0, "アルバム名を変更"],
+        [1, "写真を撮る"],
+        [2, "動画を撮る"],
+        "Separator",
+        [3, "ギャラリーから選択"],
+        "Separator"
+		
+	],
+
+    "ConditionMenu":
+    [
+        [0, "写真が撮影された"],
+        [1, "動画が撮影された"],
+        [2, "ギャラリーが返した"],
+        [3, "エラーが発生した"]
+		
+    ],
+
+    "ExpressionMenu":
+    [
+        [0, "エラーを取得"],
+        [1, "エラー文字列を取得"],
+        [2, "画像パスを取得"],
+        [3, "動画パスを取得"],
+        [4, "ギャラリーパスを取得"],
+        [5, "カメラの番号を取得"],
+        "Separator",
+        [6, "画像角度を取得"],
+        "Separator"
+
+    ],
+
+    "Actions":
+    [
+        { "Title": "アルバム名を %0 に変更",
+			"Parameters": [["Text", "アルバム名を入力"]] },
+		  
+        { "Title": "カメラ %0 を使用し、タイトル %1、説明 %2 で写真を撮る",
+			"Parameters": [["Integer", "カメラ (0: 背面、 1: 前面)"],
+			             ["Text", "タイトルを入力"],
+		          	     ["Text", "説明を入力"]] },
+        
+	{ "Title": "カメラ %0 を使用してビデオを撮影",
+		"Parameters": [["Integer", "カメラ (0: 背面、 1: 前面)"]]  },
+		
+        { "Title": "種類 %0 をギャラリーから選択",
+			"Parameters": [["Integer", "種類を選択 (0: すべて、 1: 写真、 2: 動画)"]] }		  		  	  		  
+   ],
+
+    "Conditions":
+    [
+        {   "Title": "%o : 写真が撮影された",
+            "Triggered": true
+        },
+        {   "Title": "%o : 動画が撮影された",
+            "Triggered": true
+        },
+        {   "Title": "%o : ギャラリーが返した",
+            "Triggered": true
+        },
+        {   "Title": "%o : エラーが発生した",
+            "Triggered": true
+        }	
+	],
+
+    "Expressions":
+    [
+        {   "Title": "Error(",
+            "Returns": "Integer"
+        },
+		{   "Title": "Error$(",
+            "Returns": "Text"
+        },
+		{   "Title": "ImagePath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "VideoPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "GalleryPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "NumberOfCameras(",
+            "Returns": "Integer"
+        },
+		{   "Title": "ImageAngle(",
+            "Returns": "Integer"
+        }
+	]
+}
+
+

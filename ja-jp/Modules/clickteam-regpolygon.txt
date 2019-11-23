@@ -1,0 +1,32 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"About" : "バージョン情報",
+		"Author" : "作者",
+		"Central x co-ordinate of movement." : "動作の中央の X 座標です。",
+		"Central y co-ordinate of movement." : "動作の中央の Y 座標です。",
+		"Centre X" : "中央の X",
+		"Centre Y" : "中央の Y",
+		"Clickteam Movement Controller" : "Clickteam 動作コントローラー",
+		"Control Ext." : "Control Ext.",
+		"General Properties" : "全般のプロパティ",
+		"Initially moving at start of frame." : "フレームの開始時に移動を開始します。",
+		"Move at Start" : "開始時に移動",
+		"Name of the extension used to interact with this movement." : "この動作との相互作用に使用するエクステンションの名前です。",
+		"Number of Sides" : "辺の数",
+		"Number of polygon sides, three for a triangle, four for a square etc." : "多角形の辺の数です。 3 つなら三角形、4 つなら四角形です。",
+		"Outer radius of the polygon in pixels." : "多角形の外半径をピクセル単位で指定します。",
+		"Polygon Properties" : "多角形のプロパティ",
+		"Properties relating to the movement." : "動作に関するプロパティです。",
+		"Properties relating to the regular polygon movement." : "標準多角形動作に関するプロパティです。",
+		"Radius" : "半径",
+		"Regular Polygon" : "標準多角形",
+		"Released October 2006" : "Released October 2006",
+		"Rotation Angle" : "回転角度",
+		"Rotational angle of the polygon." : "多角形の回転角度です。",
+		"Velocity" : "速度",
+		"Velocity of the object, negative values reverse the movement direction." : "オブジェクトの速度です。 負の値を指定すると動作の方向を反転します。",
+		"Version" : "バージョン "
+	}
+}

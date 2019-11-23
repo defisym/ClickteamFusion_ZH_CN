@@ -1,0 +1,35 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o is enabled" : "%o が有効",
+		"Allows the movement of the objects located above it." : "上にあるオブジェクトの移動を許可します。",
+		"Disable" : "無効",
+		"Enable" : "有効",
+		"Enter new height" : "新しい高さを入力",
+		"Enter new width" : "新しい幅を入力",
+		"Movement enabled" : "移動が有効",
+		"Moves all the objects above it." : "すべてのオブジェクトを移動",
+		"Object Mover" : "オブジェクト移動",
+		"Set height to %0" : "高さを %0 に変更",
+		"Set width to %0" : "幅を %0 に変更"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Activation" : "アクティブ",
+		"Disable" : "無効",
+		"Enable" : "有効",
+		"Set height" : "高さを変更",
+		"Set width" : "幅を変更",
+		"Size" : "サイズ"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is enabled?" : "有効"
+	},
+	"menu_20002" : {
+		"Expressions" : "数式",
+		"Get height" : "高さを取得",
+		"Get width" : "幅を取得"
+	}
+}

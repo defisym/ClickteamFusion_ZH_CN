@@ -1,0 +1,165 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Advanced Scrolling" : "高度なスクロール",
+		"Back" : "戻る",
+		"Bands" : "帯",
+		"Cell" : "セル",
+		"Cross rain" : "雨 (斜め)",
+		"Diagonal" : "対角線",
+		"Door" : "ドア",
+		"Fade" : "フェード",
+		"Line" : "ライン",
+		"Mosaic" : "モザイク",
+		"Open" : "開く",
+		"Push" : "プッシュ",
+		"Rain" : "雨",
+		"Scrolling" : "スクロール",
+		"Spot width: %d%%" : "スポット幅: %d%%",
+		"Square" : "矩形",
+		"Standard transitions" : "標準トランジション",
+		"Stretch" : "引き伸ばし",
+		"Stretch 2" : "引き伸ばし 2",
+		"Turn" : "ターン",
+		"Turn 2" : "ターン 2",
+		"Weft" : "トラム",
+		"ZigZag 2" : "ジグザグ 2",
+		"Zigzag" : "ジグザグ",
+		"Zoom" : "拡大/縮小",
+		"Zoom 2" : "拡大縮小 2"
+	},
+	"dialog_102" : {
+		"Direction" : "方向",
+		"From &bottom to top" : "下から上へ(&B)",
+		"From &left to right" : "左から右へ(&L)",
+		"From &right to left" : "右から左へ(&R)",
+		"From &top to bottom" : "上から下へ(&T)",
+		"Number of bands:" : "バンド数:",
+		"Spin1" : "Spin1"
+	},
+	"dialog_103" : {
+		"&Bottom-left corner" : "左下隅(&B)",
+		"&Center" : "中央(&C)",
+		"&Horizontal" : "水平(&H)",
+		"&Top-right corner" : "右上隅(&T)",
+		"&Vertical" : "垂直(&V)",
+		"Bottom-&right corner" : "右下隅(&R)",
+		"Direction" : "方向",
+		"Slider1" : "Slider1",
+		"Start from" : "開始地点",
+		"Top-&left corner" : "左上隅(&L)"
+	},
+	"dialog_104" : {
+		"Slider1" : "Slider1"
+	},
+	"dialog_105" : {
+		"Direction" : "方向",
+		"Horizontal, from center to &left && right" : "水平 - 中央から左右へ(&L)",
+		"Horizontal, from left && &right to center" : "水平 - 左右から中央へ(&R)",
+		"Vertical, from center to &top && bottom" : "垂直 - 中央から上下へ(&T)",
+		"Vertical, from top && &bottom to center" : "垂直 - 上下から中央へ(&B)"
+	},
+	"dialog_106" : {
+		"Direction" : "方向",
+		"From &bottom to top" : "下から上へ(&B)",
+		"From &left to right" : "左から右へ(&L)",
+		"From &right to left" : "右から左へ(&R)",
+		"From &top to bottom" : "上から下へ(&T)"
+	},
+	"dialog_107" : {
+		"Slider1" : "Slider1",
+		"Square Size" : "矩形サイズ",
+		"with Stretch for the inside square" : "内部矩形を伸長"
+	},
+	"dialog_108" : {
+		"&Randomly" : "ランダム(&R)",
+		"&Style 1" : "スタイル 1(&S)",
+		"&Style 2" : "スタイル 2(&S)",
+		"&Style 3" : "スタイル 3(&S)",
+		"&Style 4" : "スタイル 4(&S)",
+		"&Style 5" : "スタイル 5(&S)",
+		"&Style 6" : "スタイル 6(&S)",
+		"&Style 7" : "スタイル 7(&S)",
+		"&Style 8" : "スタイル 8(&S)"
+	},
+	"dialog_109" : {
+		"Horizontal" : "水平",
+		"Nb Lines" : "行数",
+		"Scrolling" : "スクロール",
+		"Slider1" : "Slider1",
+		"Vertical" : "垂直"
+	},
+	"dialog_110" : {
+		"Horizontal" : "水平",
+		"Number of lines :" : "行の数",
+		"Slider1" : "Slider1",
+		"Vertical" : "垂直"
+	},
+	"dialog_112" : {
+		"Bottom Left" : "左下",
+		"Bottom Right" : "右下",
+		"Top Left" : "左上",
+		"Top Right" : "右上"
+	},
+	"dialog_113" : {
+		"4 corners" : "四隅",
+		"Bottom Left" : "左下",
+		"Bottom Middle" : "中央下",
+		"Bottom Right" : "右下",
+		"Center" : "中央",
+		"Middle Left" : "中央左",
+		"Middle Right" : "中央右",
+		"Top Left" : "左上",
+		"Top Middle" : "中央上",
+		"Top Right" : "右上"
+	},
+	"dialog_114" : {
+		"Inverse Rotation" : "逆回転",
+		"Number of rotations" : "回転数",
+		"See Full Image" : "全画像表示",
+		"Slider1" : "Slider1"
+	},
+	"dialog_115" : {
+		"Bottom Left" : "左下",
+		"Bottom Middle" : "中央下",
+		"Bottom Right" : "右下",
+		"Center H" : "水平方向の中央",
+		"Center H+V" : "水平、垂直方向の中央",
+		"Center V" : "垂直方向の中央",
+		"Middle Left" : "中央左",
+		"Middle Right" : "中央右",
+		"Top Left" : "左上",
+		"Top Middle" : "中央上",
+		"Top Right" : "右上"
+	},
+	"dialog_116" : {
+		"Open (Scrolling)" : "開く (スクロール)",
+		"Open (Stretch)" : "開く (引き伸ばし)",
+		"Slide (H)" : "スライド (水平)",
+		"Slide (V)" : "スライド (垂直)",
+		"Slide (to Bottom Left)" : "スライド (左下へ)",
+		"Slide (to Bottom Right)" : "スライド (右下へ)",
+		"Slide (to Top Left)" : "スライド (左上へ)",
+		"Slide (to Top Right)" : "スライド (右上へ)"
+	},
+	"dialog_117" : {
+		"Zoom In" : "拡大",
+		"Zoom Out" : "縮小"
+	},
+	"dialog_118" : {
+		"Cols" : "列",
+		"Rows" : "行",
+		"Slider1" : "Slider1"
+	},
+	"dialog_119" : {
+		"2 Directions (Horizontal)" : "2 方向 (水平)",
+		"2 Directions (Vertical)" : "2 方向 (垂直)",
+		"4 Directions" : "4 方向"
+	},
+	"dialog_120" : {
+		"Inverse Rotation" : "逆回転",
+		"Nb Rotations" : "回転数",
+		"Slider1" : "Slider1"
+	}
+}

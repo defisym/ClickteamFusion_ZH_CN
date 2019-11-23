@@ -1,0 +1,51 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: Is treadmill active?" : "%o: ベルトコンベアが有効",
+		"Active at start" : "開始時に有効",
+		"Advanced" : "拡張設定",
+		"Angle" : "角度",
+		"Angle : %g degrees" : "角度 : %g 度",
+		"Check this box to make the treadmill active at start of frame" : "フレームの開始時にベルトコンベアの機能を有効にする場合はチェック",
+		"Direction of the treadmill" : "ベルトコンベアの方向を入力 （ 0 ～ 360 ）",
+		"Engine ID" : "エンジン ID",
+		"Enter 1 to turn on, 0 to turn off" : "機能状態を指定 （ 0:無効、 1:有効 ）",
+		"Enter the direction of the treadmill" : "ベルトコンベアの回転の方向を指定",
+		"Enter the height of the object" : "高さを入力",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "この物理オブジェクトを管理する物理制御エンジンの ID を入力",
+		"Enter the speed of the treadmill (0-100)" : "ベルトコンベアの回転速度を指定（0～100）",
+		"Enter the speed of the treadmill, from 0 to 100" : "ベルトコンベアの速度を入力 （ 0 ～ 100 ）",
+		"Enter the width of the object" : "幅を入力",
+		"Moves objects at constant speed in one direction" : "他のオブジェクトを指定した方向へ強制的に移動させるトレッドミルを実装することが可能になります。",
+		"Physics - Treadmill" : "物理 - ベルトコンベア",
+		"Please drop a 'Physics Engine' object in your frame." : "物理オブジェクトを利用する場合はフレーム中に 「物理 - 物理制御エンジン」 オブジェクトを設置してください。",
+		"Running : %i" : "機能状態 : %i",
+		"Set angle to %0 degrees" : "ベルトコンベアの方向を %0 に変更",
+		"Set height to %0" : "高さを %0 に変更",
+		"Set speed to %0" : "ベルトコンベアの速度を %0 に変更",
+		"Set treadmill to %0" : "ベルトコンベアの状態を %0 に変更",
+		"Set width to %0" : "幅を %0 に変更",
+		"Speed" : "速度",
+		"Strength : %i" : "強さ : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Set angle" : "方向を変更",
+		"Set height" : "高さを変更",
+		"Set speed" : "ベルトコンベアの速度を変更",
+		"Set treadmill ON/OFF" : "ベルトコンベアの状態を変更",
+		"Set width" : "幅を変更"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is treadmill active?" : "ベルトコンベアが有効"
+	},
+	"menu_20002" : {
+		"Action zone height" : "有効範囲の高さを取得",
+		"Action zone width" : "有効範囲の幅を取得",
+		"Expressions" : "Expressions",
+		"Treadmill angle" : "ベルトコンベアの方向を取得",
+		"Treadmill speed" : "ベルトコンベアの速度を取得"
+	}
+}

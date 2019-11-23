@@ -1,0 +1,43 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Get row" : "00行を収録",
+		"00New statement" : "00新しいステートメント",
+		"00Select a data source" : "00データソースを選択",
+		"00Select a data source via a selector" : "00ファイルを指定してデータソースを選択",
+		"01Send SQL command %s" : "01SQL コマンド %s を送信",
+		"01Set row max length to %s" : "01行の最大長を %s に変更",
+		"10%s: can get data" : "10%s: データを取得可能",
+		"Column number" : "列番号",
+		"ODBC" : "ODBC",
+		"ODBC object" : "ODBC オブジェクト",
+		"Provides a direct way of accessing information from an external database." : "外部データベースの情報にアクセスすることを可能にします。"
+	},
+	"dialog_20003" : {
+		"&Browse" : "参照(&B)",
+		"&Help" : "ヘルプ(&H)",
+		"Cancel" : "キャンセル",
+		"Data source" : "データソース",
+		"OK" : "OK",
+		"Setup ODBC object" : "ODBC オブジェクトの設定"
+	},
+	"menu_20000" : {
+		"Get row" : "行を取得",
+		"New statement" : "新しいステートメント",
+		"Select data source" : "データソースを選択",
+		"Select data source via a selector" : "ファイルを指定してデータソースを選択",
+		"Send SQL command" : "SQL コマンドを送信",
+		"Set row max length" : "行の最大長を変更"
+	},
+	"menu_20001" : {
+		"Can get data ?" : "データを取得可能"
+	},
+	"menu_20002" : {
+		"Get columns count" : "列の数を取得",
+		"Get name of column" : "列の名前を取得",
+		"Get number in column" : "列内の数を取得",
+		"Get rows count" : "行の数を取得",
+		"Get text in column" : "列内のテキストを取得"
+	}
+}

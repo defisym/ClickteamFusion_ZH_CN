@@ -1,0 +1,30 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"About" : "バージョン情報",
+		"Author" : "作者",
+		"Automatically handle speed increase" : "速度増加を自動処理",
+		"By how many pixels the invaders move in the x-direction." : "インベーダーが横方向に移動するピクセル数です。",
+		"By how many pixels the invaders move in the y-direction." : "インベーダーが縦方向に移動するピクセル数です。",
+		"Clickteam Movement Controller" : "Clickteam 動作コントローラー",
+		"Control Ext." : "Control Ext.",
+		"Global Invader Properties" : "インベーダーの全般プロパティ",
+		"Handle speed increase when fewer invaders automatically." : "インベーダーの数が少なくなってきた場合に自動的に速度をアップします。",
+		"How often the invaders move." : "インベーダーの移動頻度です。",
+		"Initial direction" : "初期方向",
+		"Invaders" : "インベーダー",
+		"Left" : "左",
+		"Move at Start" : "開始時に移動",
+		"Name of the extension used to interact with this movement." : "この動作との相互作用に使用するエクステンションの名前です。",
+		"Properties relating to the invader movement." : "インベーダー動作に関するプロパティです。",
+		"Released October 2006" : "Released October 2006",
+		"Right" : "右",
+		"Speed" : "速度",
+		"Step Size in X" : "ステップサイズ X",
+		"Step Size in Y" : "ステップサイズ Y",
+		"The direction in which all invaders will move at initially." : "開始時にすべてのインベーダーが移動する方向です。",
+		"Version" : "バージョン ",
+		"Will the invaders be moving at start of frame." : "フレーム開始時にインベーダーが移動します。"
+	}
+}

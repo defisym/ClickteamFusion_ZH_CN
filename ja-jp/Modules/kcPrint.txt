@@ -1,0 +1,52 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Change printing method to best fit" : "00印刷方式をページに収めるに変更",
+		"00Change printing method to scale" : "00印刷方式を倍率指定に変更",
+		"00Change printing method to stretch to page" : "00印刷方式をページ全体に引き伸ばすに変更",
+		"00Print blank page" : "00空白ページを印刷",
+		"00Print client zone" : "00クライアント領域を印刷",
+		"00Print screen" : "00画面を印刷",
+		"00Print window" : "00ウィンドウを印刷",
+		"00Setup printer" : "00プリンタの設定",
+		"01Print Text %s" : "01テキスト %s を印刷",
+		"01Print Text file %s" : "01テキストファイル %s を印刷",
+		"01Print zone %s" : "01領域 %s を印刷",
+		"01Set x scale to %s" : "01x の倍率を %s に変更",
+		"01Set y scale to %s" : "01y の倍率を %s に変更",
+		"Allows you to print the screen or an area of your application window." : "アプリケーションウィンドウの画面または領域を印刷できます。",
+		"Print" : "印刷",
+		"Print object" : "印刷オブジェクト",
+		"Printing '%s'" : "'%s' 印刷中",
+		"Printing band #%d" : "バンド #%d を印刷中",
+		"Printing datas" : "データを印刷中",
+		"Printing page #%d" : "ページ #%d を印刷中",
+		"Sending datas to printer..." : "データをプリンタに送信中...",
+		"on %s on %s" : "on %s on %s"
+	},
+	"dialog_PRINTING" : {
+		"Cancel" : "キャンセル",
+		"PRINTER" : "PRINTER",
+		"Print Bitmap" : "ビットマップを印刷",
+		"Printing" : "印刷中",
+		"Spooling..." : "スプール中...",
+		"on Printer" : "プリンタ"
+	},
+	"menu_20000" : {
+		"Best fit" : "ページに収める",
+		"Print Client zone" : "クライアント領域を印刷",
+		"Print Screen" : "画面を印刷",
+		"Print Text" : "テキストを印刷",
+		"Print Text file" : "テキストファイルを印刷",
+		"Print Window" : "ウィンドウを印刷",
+		"Print blank page" : "空白ページを印刷",
+		"Print zone..." : "領域を印刷...",
+		"Printer Setup" : "プリンタの設定",
+		"Printing method" : "印刷方式",
+		"Scale" : "倍率指定",
+		"Set x scale" : "x の倍率を変更",
+		"Set y scale" : "y の倍率を変更",
+		"Stretch to page" : "ページ全体に引き伸ばす"
+	}
+}

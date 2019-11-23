@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Allows you to retrieve system information (user name, language, environment variables, etc.). For Pro version only." : "システム情報 (ユーザー名、言語、環境変数、他) を取得することができます。 Pro 版のみでご利用になれます。",
+		"Computer langage: %i   " : "コンピュータの言語:  %i   ",
+		"Computer name: %s" : "コンピュータ名: %s",
+		"Langage name: %s" : "言語名: %s",
+		"OS" : "OS",
+		"OS object" : "OS オブジェクト",
+		"User langage name: %s" : "ユーザー言語名:  %s",
+		"User langage: %i" : "ユーザーの言語: %i",
+		"User name: %s" : "ユーザー名:  %s",
+		"Windows 10" : "Windows 10",
+		"Windows 2000" : "Windows 2000",
+		"Windows 7" : "Windows 7",
+		"Windows 8" : "Windows 8",
+		"Windows 95" : "Windows 95",
+		"Windows 98" : "Windows 98",
+		"Windows ME" : "Windows ME",
+		"Windows NT" : "Windows NT",
+		"Windows NT 4" : "Windows NT 4",
+		"Windows Vista" : "Windows Vista",
+		"Windows XP" : "Windows XP",
+		"Windows version: %i" : "Windows バージョン:  %i",
+		"Windows version: %s" : "Windows バージョン:  %s"
+	},
+	"menu_20002" : {
+		"&Environment Variable" : "環境変数(&E)",
+		"&Windows Version (index)" : "Windows バージョン (インデックス)(&W)",
+		"Computer &Name" : "コンピュータ名(&N)",
+		"System Default &Language ID" : "システムの既定言語識別子(&L)",
+		"System Default &Language Name" : "システムの既定言語名(&L)",
+		"User Default L&anguage ID" : "ユーザーの既定言語識別子(&A)",
+		"User Default L&anguage Name" : "ユーザーの既定言語名(&A)",
+		"User Na&me" : "ユーザー名(&M)",
+		"Windows Version (text)" : "Windows バージョン (テキスト)"
+	}
+}

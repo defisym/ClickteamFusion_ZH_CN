@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"00Reset error" : "00エラーをリセット",
+		"01Close channel %s" : "01チャンネル %s を閉じる",
+		"01Open channel %s as %s" : "01チャンネル %s を %s として開く",
+		"02Send number %s to slot %s" : "02数 %s をスロット %s に送信",
+		"02Send string %s to slot %s" : "02文字列 %s をスロット %s に送信",
+		"10%s : Error" : "10%s : エラー",
+		"11%s : Message available on channel %s" : "11%s : チャンネル %s でメッセージが利用可能",
+		"Allows applications to communicate through a local network by opening a channel for communication between two computers." : "2 台のコンピュータ間で通信チャネルを開くことにより、ローカルネットワークを介した通信を可能にします。",
+		"Channel number" : "チャンネル番号",
+		"Last error: %s" : "最後のエラー: %s",
+		"Network" : "ネットワーク",
+		"Network object" : "ネットワークオブジェクト",
+		"Number to Send" : "送信する数",
+		"Slot name" : "スロット名",
+		"String to send" : "送信する文字列"
+	},
+	"menu_20000" : {
+		"Close channel" : "チャンネルを閉じる",
+		"Open channel" : "チャンネルを開く",
+		"Reset error" : "エラーをリセット",
+		"Send number" : "数を送信",
+		"Send string" : "文字列を送信"
+	},
+	"menu_20001" : {
+		"Error" : "エラー",
+		"Message available" : "メッセージが利用可能"
+	},
+	"menu_20002" : {
+		"Get current status" : "現在のステータスを取得",
+		"Get last error" : "最後のエラーを取得",
+		"Get last error string" : "最後のエラー文字列を取得",
+		"Get number" : "数を取得",
+		"Get string" : "文字列を取得"
+	}
+}

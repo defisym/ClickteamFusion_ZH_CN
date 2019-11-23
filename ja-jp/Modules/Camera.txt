@@ -1,0 +1,26 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Allow the user to edit the picture or movie" : "ユーザーにピクチャやムービーの編集を許可します",
+		"Camera" : "カメラ",
+		"Editable" : "編集許可",
+		"Extra function for iOS applications." : "iOS アプリに追加機能を提供します。",
+		"Is camera available?" : "カメラが利用可能",
+		"Record and save movie" : "ムービーを記録して保存",
+		"Save picture" : "写真を保存",
+		"Take picture" : "写真を撮る"
+	},
+	"menu_20000" : {
+		"Actions" : "アクション",
+		"Movie" : "ムービー",
+		"Pictures" : "写真",
+		"Record and save movie" : "ムービーを記録して保存",
+		"Save picture" : "写真を保存",
+		"Take picture" : "写真を撮る"
+	},
+	"menu_20001" : {
+		"Conditions" : "条件",
+		"Is camera available?" : "カメラが利用可能"
+	}
+}

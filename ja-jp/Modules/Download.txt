@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"#Title#Enter the name of the destination file..." : "#Title#保存するファイル名を入力...",
+		"%o: Connection error in slot %0" : "%o: 接続エラー; スロット %0",
+		"%o: Download aborted in slot %0" : "%o: ダウンロード中止; スロット %0",
+		"%o: Download in progress slot %0" : "%o: ダウンロード中; スロット %0",
+		"%o: Download successfully completed slot %0" : "%o: ダウンロード完了; スロット %0",
+		"Abort download slot %0" : "ダウンロードを中止; スロット %0",
+		"Allows you to download file from the Internet." : "インターネットからファイルをダウンロードできます。",
+		"Average speed : %i bytes per second" : "平均速度 : %i バイト/秒",
+		"Current URL : %s" : "現在の URL : %s",
+		"Download Object" : "ダウンロードオブジェクト",
+		"Download file, Url=%0, destination=%1, slot %2" : "ダウンロードファイル, Url=%0, 保存先=%1, スロット %2",
+		"Download object" : "ダウンロードオブジェクト",
+		"Enter file URL" : "ファイルの URL を入力",
+		"Enter the URL of the file. It must begin with HTTP:// or HTTPS://" : "ファイルの URL を入力してください。 HTTP:// または HTTPS:// で始まります",
+		"Enter the slot number (1-4)" : "スロット番号 (1-4) を入力",
+		"Number of bytes read : %i" : "読み込みバイト数 : %i",
+		"Pause download slot %0" : "ダウンロードを一時停止; スロット %0",
+		"Resume download slot %0" : "ダウンロードを再開; スロット %0",
+		"Size of the file to download : %i" : "ダウンロードするファイルのサイズ : %i",
+		"Slot 1" : "スロット 1",
+		"Slot 2" : "スロット 2",
+		"Slot 3" : "スロット 3",
+		"Slot 4" : "スロット 4"
+	},
+	"menu_20000" : {
+		"Abort download" : "ダウンロードを中止",
+		"Download file" : "ダウンロードファイル",
+		"Pause download" : "ダウンロードを一時停止",
+		"Resume download" : "ダウンロードを再開"
+	},
+	"menu_20001" : {
+		"Connection error?" : "接続エラー",
+		"Download aborted?" : "ダウンロード中止",
+		"Download in progress?" : "ダウンロード中",
+		"Download successfully completed?" : "ダウンロード完了"
+	},
+	"menu_20002" : {
+		"Current URL" : "現在の URL",
+		"Current download percentage" : "現在のダウンロードパーセンテージ",
+		"Current download position" : "現在のダウンロード位置",
+		"Current speed (bytes per second)" : "現在のスピード (バイト/秒)",
+		"Estimated download time" : "予想ダウンロード時間",
+		"Get file size (without download)" : "ファイルサイズを取得 (ダウンロードせずに)",
+		"Total file size" : "合計ファイルサイズ"
+	}
+}
