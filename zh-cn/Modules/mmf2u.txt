@@ -506,7 +506,7 @@
 		"Allow borders" : "允许边框",
 		"Allow borders when Keep Screen Ratio is selected" : "勾选“保持屏幕比例”时允许边框",
 		"Allow offline" : "允许脱机",
-		"Allow the joystick/keyboard/手柄 to control the mouse." : "允许使用摇杆/键盘/手柄来控制鼠标.",
+		"Allow the joystick/keyboard/手柄 to control the mouse." : "允许使用摇杆/键盘/手柄来控制鼠标",
 		"Allow user to switch to/from full screen" : "允许全屏切换",
 		"Allows the frame effect to use the previous display, for example for motion blur effects." : "允许场景特效使用前一帧显示的内容，例如用于实现运动模糊效果。",
 		"Allows to reduce the CPU usage when the application is idle. Selecting this option may slightly reduce the performance of the application." : "当程序空闲时允许减少CPU使用。勾选此项可能略微降低程序的性能。",
