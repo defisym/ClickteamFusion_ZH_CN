@@ -24,6 +24,8 @@
 		"Application from current frame" : "現在のフレームのアプリケーション",
 		"Are you sure you want to reset the qualifiers to their default values?" : "オブジェクトグループを既定の値にリセットしますか？",
 		"Base frame" : "ベースフレーム",
+		"Behaviors, Frame events, Global events" : "オブジェクトイベント, フレームイベント, グローバルイベント",
+		"Behaviors, Global events, Frame events" : "オブジェクトイベント, グローバルイベント, フレームイベント",
 		"Build cache" : "ビルドキャッシュ",
 		"Caches built parts of the application to reduce the time taken by next builds. Note: this increases the size used by the application in the Windows temporary folder." : "ビルド済みのアプリのパーツをキャッシュして、次のビルドにかかる時間を短縮できます。注意: Windows の一時フォルダーでアプリケーションが使用するサイズが増えます。",
 		"Cannot paste events that contain immediate conditions to a child event." : "子イベントの即時条件を含むイベントを貼り付けることはできません。",
@@ -48,7 +50,11 @@
 		"Find occurrences of %s in all frames of current application..." : "現在のアプリケーションのすべてのフレームで %s のオカレンスを検索...",
 		"Find occurrences of %s in current frame..." : "現在のフレームで %s のオカレンスを検索...",
 		"Frame events" : "フレームイベント",
+		"Frame events, Behaviors, Global events" : "フレームイベント, オブジェクトイベント, グローバルイベント",
+		"Frame events, Global events, Behaviors" : "フレームイベント, グローバルイベント, オブジェクトイベント",
 		"Fusion will use this frame to find the names of alterable values and animations." : "Fusion はこのフレームを使って変数の名前とアニメーションを検索します。",
+		"Global events, Behaviors, Frame events" : "グローバルイベント, オブジェクトイベント, フレームイベント",
+		"Global events, Frame events, Behaviors" : "グローバルイベント, フレームイベント, オブジェクトイベント",
 		"Instead of cumulating app loop times for each frame, reports the slowest app loops." : "各フレームのアプリのループ回数を累積せず、最も遅いアプリループを報告します。",
 		"Keeps images highly compressed in RAM and reduces loading time in Windows stand-alone apps. Note: loading will be slower when you run the app from Fusion." : "イメージを高圧縮率で RAM 内に格納し、Windows スタンドアローンアプリのロード時間を短縮します。 注意: Fusion からアプリを起動すると、通常よりロード時間はかかります。",
 		"Layer = %s" : "レイヤー = %s",
@@ -82,7 +88,13 @@
 		"Total time" : "合計時間",
 		"Unknown" : "不明",
 		"Unselect this option if you want to start/end profiling the application manually with profiling actions." : "解析のアクションを使って手動でアプリケーションの解析を開始/終了したい場合はこのオプションを選択しないでください。",
-		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows のみ] このオプションを選択するとサウンドの開始が少し遅延します。 「サウンドを再生」アクション実行後速やかにサウンドを開始する必要がある場合は選択しないでください。"
+		"Without this option counters and strings have no alterable values, strings, nor flags." : "...",
+		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows のみ] このオプションを選択するとサウンドの開始が少し遅延します。 「サウンドを再生」アクション実行後速やかにサウンドを開始する必要がある場合は選択しないでください。",
+
+		"_TODO_" : "the following strings need to be translated",
+		"Allow alterable values for counters and strings" : "",
+		"Event order" : "",
+		"Export as text" : ""
 	},
 	"dialog_2007" : {
 		"Actions" : "アクション",
@@ -107,6 +119,12 @@
 		"OK" : "OK",
 		"Object data" : "オブジェクトデータ",
 		"Object names" : "オブジェクト名",
-		"Objects" : "オブジェクト"
+		"Objects" : "オブジェクト",
+		"Qualifiers" : "オブジェクトグループ"
+	},
+	"_details_" : {
+		"Number_of_translated_lines" : 112,
+		"Number_of_untranslated_lines" : 3,
+		"Number_of_untranslated_words" : 12
 	}
 }

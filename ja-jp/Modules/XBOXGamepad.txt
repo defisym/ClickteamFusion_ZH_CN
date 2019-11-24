@@ -26,7 +26,7 @@
 		"Handling of the XBOX gamepad." : "Xbox ゲームパッドをコントロールします。",
 		"If checked, the sticks and the shoulders will return 0 within a dead zone at the center, to counteract device imprecision" : "有効の場合、スティックおよびショルダーはデッドゾーン内で 0 を返し、デバイスの不正確さを是正します",
 		"Left motor (0-100)" : "左モーター (0-100)",
-		"Number of the players, 1 for p1, 2 for p2, 4 for p3, 8 for p4 or any combination" : "プレイヤー数 (1 人 = p1、 2人 = p2、 4 人 = p3、 8 人 = p4 またはこれらの組み合わせ)",
+		"Number of the players, 1 for p1, 2 for p2, 4 for p3, 8 for p4 or any combination" : "プレイヤー数 (1 = p1、 2 = p2、 4 = p3、 8 = p4 またはこれらの組み合わせ)",
 		"Player number, from 0 to 3" : "プレイヤー番号 (1 から 4)",
 		"Player numbers" : "プレイヤー番号",
 		"Right motor (0-100)" : "右モーター (0-100)",

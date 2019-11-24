@@ -703,6 +703,7 @@
 		"Brackets" : "ブラケット",
 		"Branch node %0" : "ノード %0 を分岐",
 		"Branch node..." : "ノードを分岐...",
+		"Break" : "Break",
 		"Breakable" : "破壊可能",
 		"Bring to back" : "最背面に移動",
 		"Bring to front" : "最前面に移動",
@@ -842,6 +843,7 @@
 		"Check this option to prevent the window to be resized by the user" : "ユーザーによるウィンドウのサイズ変更を許可しません",
 		"Check this option to show the menu bar when the application starts." : "アプリケーションの開始時にメニューバーを表示します。",
 		"Checking..." : "チェック中...",
+		"Child events" : "子イベント",
 		"Children" : "子",
 		"Choose Transparent Color" : "透過色を選択",
 		"Choose a music" : "音楽を選択",
@@ -1041,6 +1043,7 @@
 		"Customize toolbars and menus.\nCustomize" : "ツールバーとメニューをカスタマイズする\nカスタマイズ",
 		"Cut\nCut" : "切り取り\n切り取り",
 		"Cut the selection and put it on the Clipboard\nCut" : "選択を切り取ってクリップボードにコピー\n切り取り",
+		"D-pad" : "D-pad",
 		"Dangers" : "危険物",
 		"Data" : "データ",
 		"Data Elements\nData Elements" : "データエレメンツ\nデータエレメンツ",
@@ -1542,9 +1545,9 @@
 		"Forward" : "進む",
 		"Fourth static text displayed in the wizard page." : "ウィザードページに表示される 4 つ目の静的テキストです。",
 		"Frame" : {
-			"11052" : "フレーム",
 			"6211" : "動作領域",
-			"9230" : "フレーム"
+			"9230" : "フレーム",
+			"11052" : "フレーム"
 		},
 		"Frame %d" : "フレーム %d",
 		"Frame %d - %s" : "フレーム %d - %s",
@@ -1936,8 +1939,8 @@
 		"License" : "ライセンス",
 		"Limit conditions" : "条件を制限",
 		"Line" : {
-			"12055" : "線",
-			"6569" : "行"
+			"6569" : "行",
+			"12055" : "線"
 		},
 		"Line #%i, action #%i : %s\r\n" : "行 #%i, アクション #%i : %s\r\n",
 		"Line #%i, condition #%i : %s\r\n" : "行 #%i, 条件 #%i : %s\r\n",
@@ -2111,10 +2114,10 @@
 		"Neutral Matter" : "ニュートラルマター",
 		"Never" : "実行しない",
 		"New" : {
-			"11384" : "新規作成",
-			"1004" : "新規作成",
-			"16027" : "新規",
 			"11186" : "新規作成",
+			"11384" : "新規作成",
+			"16027" : "新規",
+			"1004" : "新規作成",
 			"16017" : "新規"
 		},
 		"New Application\nNew Application" : "新規アプリケーションを作成\n新規アプリケーションを作成",
@@ -2189,9 +2192,9 @@
 		"Number to binary string" : "整数をバイナリ文字列に",
 		"Number to hexadecimal string" : "整数を16 進数に",
 		"Numbers" : {
-			"12031" : "番号",
+			"12051" : "番号",
 			"13800" : "数字",
-			"12051" : "番号"
+			"12031" : "番号"
 		},
 		"Numeric conversion of current string" : "現在の文字列の数値化",
 		"OK" : "OK",
@@ -2350,15 +2353,15 @@
 		"Pick an object at random" : "オブジェクトをランダムに選択",
 		"Pick and count objects" : "オブジェクトを選択してカウント",
 		"Pick objects with %0 off" : "%0 が無効のオブジェクトを選択",
-		"Pick objects with %0 on" : "%0 が無効のオブジェクトを選択",
+		"Pick objects with %0 on" : "%0 が有効のオブジェクトを選択",
 		"Pick objects with reference to their value" : "値を参照してオブジェクトを選択",
 		"Pick or count   " : "選択またはカウント   ",
 		"Picture" : "ピクチャ",
 		"Picture frame" : "ピクチャフレーム",
 		"Pixel shader version" : "ピクセルシェーダーバージョン",
 		"Platform" : {
-			"12022" : "ジャンプとはしご",
-			"12062" : "下からすり抜けられる障害物"
+			"12062" : "下からすり抜けられる障害物",
+			"12022" : "ジャンプとはしご"
 		},
 		"Play" : "再生",
 		"Play Animation" : "アニメーションを再生",
@@ -2485,8 +2488,8 @@
 		"Put the selected object to the frame by simple click and/or paint patterns of objects\nPaint mode" : "オブジェクトをクリックおよび/またはペイントパターンで選択されたオブジェクトをフレームに配置してください\nペイントモード",
 		"Qualifier(s)" : "オブジェクトグループ",
 		"Question" : {
-			"2002" : "問題",
-			"6499" : "質問"
+			"6499" : "質問",
+			"2002" : "問題"
 		},
 		"Question & Answer" : "問題と回答",
 		"Quick Backdrop" : "クイック背景",
@@ -3559,7 +3562,16 @@
 		"when installer exits" : "インストーラ終了時",
 		"while end page is displayed" : "最後のページが表示されている間",
 		"x:888888, y:888888" : "x:888888, y:888888",
-		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲"
+		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲",
+
+		"_TODO_" : "the following strings need to be translated",
+		"Convert OGG sounds to MP3 at build time" : "",
+		"Displays and handles the joystick as a D-pad. If this option is checked, the D-pad images Up/Down/Left/Right are used instead of the Front/Back images." : "",
+		"Down (pressed)" : "",
+		"Error: cannot use this bitrate for sound '%s'." : "",
+		"Left (pressed)" : "",
+		"Right (pressed)" : "",
+		"Up (pressed)" : ""
 	},
 	"dialog_100" : {
 		"&Buy Now !" : "今すぐ購入！(&B)",
@@ -3616,7 +3628,10 @@
 		"E&xtract" : "抽出(&X)",
 		"List1" : "List1",
 		"Options" : "オプション",
-		"Sounds" : "サウンド"
+		"Sounds" : "サウンド",
+
+		"_TODO_" : "the following strings need to be translated",
+		"Convert to..." : ""
 	},
 	"dialog_200" : {
 		"&Add" : "追加(&A)",
@@ -4064,7 +4079,7 @@
 		"Tolerance" : "許容誤差"
 	},
 	"dialog_4140" : {
-		"G" : "G",
+		"C" : "C",
 		"Quick Move" : "クイックムーブ",
 		"Spin1" : "Spin1",
 		"x" : "x",
@@ -4961,7 +4976,8 @@
 		"List1" : "List1",
 		"List2" : "List2",
 		"OK" : "OK",
-		"Play with Audio Player" : "AudioPlayer で再生"
+		"Play with Audio Player" : "AudioPlayer で再生",
+		"Use expression" : "数式を使う"
 	},
 	"dialog_14197" : {
 		"&Play" : "再生(&P)",
@@ -5753,6 +5769,7 @@
 		"New Pro&ject" : "新規プロジェクトを作成(&J)",
 		"Open P&roject" : "プロジェクトを開く(&R)",
 		"Order B&y" : "並べ替え(&Y)",
+		"Pain&t Mode" : "ペイントモード",
 		"Recent File" : "最近使用したファイル",
 		"S&plit" : "分割(&P)",
 		"S&toryboard Editor" : "ストーリーボードエディタ(&T)",
@@ -6443,5 +6460,10 @@
 		"Output" : "Output",
 		"Sou&rce directory" : "ソースディレクトリ(&R)",
 		"Texts" : "テキスト"
+	},
+	"_details_" : {
+		"Number_of_translated_lines" : 5858,
+		"Number_of_untranslated_lines" : 8,
+		"Number_of_untranslated_words" : 50
 	}
 }
