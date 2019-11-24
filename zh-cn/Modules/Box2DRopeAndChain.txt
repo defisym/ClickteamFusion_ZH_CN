@@ -50,7 +50,7 @@
 		"Please choose the object to detach" : "请选择对象去脱离",
 		"Please choose the object to test" : "请选择对象去测试",
 		"Please choose the position" : "位置を選択",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Please enter the X coordinate" : "Please enter the X coordinate",
 		"Please enter the Y coordinate" : "Please enter the Y coordinate",
 		"Please enter the name of the loop" : "Please enter the name of the loop",

@@ -46,7 +46,7 @@
 		"Border Color" : "边框色",
 		"Bottom" : "下",
 		"Center" : "中间",
-		"Check here, if you want to display the ads over the frame" : "帧画面上显示广告",
+		"Check here, if you want to display the ads over the frame" : "勾选此项以在场景上方显示广告",
 		"Devices list: " : "设备列表: ",
 		"Display Overframe " : "外框上显示 ",
 		"Full" : "全部",
@@ -112,5 +112,5 @@
 	"menu_20002" : {
 
 		"Last Error" : "最后错误"
-	},
+	}
 }

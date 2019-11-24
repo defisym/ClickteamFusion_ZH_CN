@@ -5,8 +5,8 @@
 		"00Check" : "00选中",
 		"00Disable" : "00禁用",
 		"00Enable" : "00启用",
-		"00Make Object Invisible" : "00使不可视",
-		"00Make Object Reappear" : "00使可视",
+		"00Make Object Invisible" : "00使对象不可见",
+		"00Make Object Reappear" : "00使对象可见",
 		"00Uncheck" : "00取消选中",
 		"00WARNING !!! Change this action to NOT Box checked" : "00WARNING !!! Change this action to NOT Box checked",
 		"01Attach Menu Option %s" : "01添加菜单选项 %s",
@@ -21,7 +21,7 @@
 		"01Set vertical position to %s" : "01置垂直位置为 %s",
 		"01Set vertical size to %s" : "01置垂直大小为 %s",
 		"10Button %s clicked" : "10按钮 %s 被点击",
-		"10Button %s is visible" : "10按钮 %s 可视",
+		"10Button %s is visible" : "10按钮 %s 可见",
 		"10Checkbox %s checked" : "10复选框 %s 被选中",
 		"Alignment" : "对齐",
 		"Background Color" : "背景色",
@@ -84,22 +84,22 @@
 		"Disable a radio button" : "禁用一个单选按钮",
 		"Enable" : "启用",
 		"Enable a radio button" : "启用一个单选按钮",
-		"Make Object Invisible" : "使不可视",
-		"Make Object Reappear" : "使可视",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
 		"Select a radio button" : "选择一个单选按钮",
 		"Set Horizontal Size" : "置水平大小",
 		"Set Radio button" : "置单选按钮",
 		"Set Vertical Size" : "置垂直大小",
 		"Size" : "大小",
 		"Uncheck" : "取消选择",
-		"Visibility" : "显示/不显示"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Box checked ?" : "方框已选中？",
 		"Button clicked ?" : "按钮被点击？",
 		"Is enabled ?" : "启用？",
 		"Is radio button enabled ?" : "单选按钮启用？",
-		"Is visible ?" : "可视？"
+		"Is visible ?" : "可见？"
 	},
 	"menu_20002" : {
 		"Text of the button" : "按钮文本",

@@ -44,7 +44,7 @@
 		"Google" : "Google",
 		"Hide" : "隐藏",
 		"Is %o enabled?" : "%o 启用?",
-		"Is %o visible?" : "%o 可视?",
+		"Is %o visible?" : "%o 可见?",
 		"Join" : "加入",
 		"Keyboard" : "键盘",
 		"Layout" : "布局",
@@ -76,7 +76,7 @@
 		"Text" : "文本",
 		"Text color" : "文本颜色",
 		"URL" : "URL",
-		"Uncheck to hide the object at start of frame" : "取消选中以在帧开始时隐藏对象",
+		"Uncheck to hide the object at start of frame" : "取消选中以在场景开始时隐藏对象",
 		"Visible at start" : "开始时可见",
 		"Yahoo" : "Yahoo",
 		"Yes" : "是",
@@ -91,7 +91,7 @@
 		"Set background color" : "置背景颜色",
 		"Set text" : "置文本",
 		"Show" : "显示",
-		"Visibility" : "可见/不可见"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Conditions" : "条件",

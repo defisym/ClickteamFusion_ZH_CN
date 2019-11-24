@@ -17,7 +17,7 @@
 		"Final Y" : "最终 Y",
 		"General Properties" : "一般属性",
 		"Initial angle of the sine wave in degrees." : "正弦波的初始角度。",
-		"Initially moving at start of frame." : "帧画面开始时移动",
+		"Initially moving at start of frame." : "场景开始时移动",
 		"Line Properties" : "直线属性",
 		"Move at Start" : "开始时移动",
 		"Name of the extension used to interact with this movement." : "与此运动交互的扩展的名称",

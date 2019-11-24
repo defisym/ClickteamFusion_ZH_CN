@@ -14,7 +14,7 @@
 		"01Set position at %s" : "01设置位置在 %s",
 		"01Set vertical size to %s" : "01置垂直大小为 %s",
 		"10%s: a file is opened" : "10%s: 一个文件已打开",
-		"10%s: visible" : "10%s: 可视",
+		"10%s: visible" : "10%s: 可见",
 		"21User %s within %s" : "21User %s within %s",
 		"Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead." : "Plays QuickTimeVR 2 files. Obsolete, please use the QuickTime object instead.",
 		"Please select a QuickTime VR file" : "Please select a QuickTime VR file",
@@ -51,11 +51,11 @@
 		"Set X Position" : "设置X 位置",
 		"Set Y Position" : "设置Y 位置",
 		"Size" : "大小",
-		"Visibility" : "显示/不显示"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Check whether a file is open ?" : "文件已打开？",
-		"Is visible ?" : "可视？",
+		"Is visible ?" : "可见？",
 		"Mouse clicks within the QuickTime VR Window ?" : "Mouse clicks within the QuickTime VR Window ?"
 	},
 	"menu_20002" : {

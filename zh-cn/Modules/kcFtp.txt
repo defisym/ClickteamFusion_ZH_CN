@@ -92,7 +92,7 @@
 		"Open" : "打开",
 		"Open URL" : "打开URL",
 		"Open connection at start" : "开始时打开连接",
-		"Open the connection when the frame starts" : "帧画面开始时打开连接",
+		"Open the connection when the frame starts" : "场景开始时打开连接",
 		"Options" : "选项",
 		"Out of memory." : "内存不足",
 		"Password" : "密码",

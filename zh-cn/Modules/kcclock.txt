@@ -71,7 +71,7 @@
 		"Friday" : "星期五",
 		"I, II, III, IV ..." : "I, II, III, IV...",
 		"I, II, III, IV..." : "I, II, III, IV...",
-		"Invisible" : "不可视",
+		"Invisible" : "不可见",
 		"January" : "一月",
 		"July" : "七月",
 		"June" : "六月",
@@ -127,8 +127,8 @@
 	},
 	"menu_20000" : {
 		"Count down" : "倒计时",
-		"Make object invisible" : "使对象不可视",
-		"Make object reappear" : "使对象可视",
+		"Make object invisible" : "使对象不可见",
+		"Make object reappear" : "使对象可见",
 		"Pause count down" : "暂停倒计时",
 		"Pause stop watch" : "暂停秒表",
 		"Position" : "位置",
@@ -151,12 +151,12 @@
 		"Start count down" : "开始倒计时",
 		"Start stop watch" : "开始秒表",
 		"Stop watch" : "秒表",
-		"Visibility" : "显示/不显示"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Compare to chrono" : "比较计时",
 		"Compare to count down" : "比较倒计时",
-		"Is visible ?" : "可视？",
+		"Is visible ?" : "可见？",
 		"New clock day ?" : "新时钟日？",
 		"New clock hour ?" : "新时钟时？",
 		"New clock minute ?" : "新时钟分？",

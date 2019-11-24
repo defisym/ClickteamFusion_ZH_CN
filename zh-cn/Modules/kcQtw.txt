@@ -42,7 +42,7 @@
 		"10%s: Text track present" : "10%s: 文本轨道存在",
 		"10%s: Video track enable" : "10%s: 视频轨道启用",
 		"10%s: Video track present" : "10%s: 视频轨道存在",
-		"10%s: visible" : "10%s: 可视",
+		"10%s: visible" : "10%s: 可见",
 		"10%s:a file is opened" : "10%s: 文件已打开",
 		"10%s:end of video" : "10%s:视频结尾",
 		"10%s:start of video" : "10%s:视频开头",
@@ -58,10 +58,10 @@
 	"dialog_20003" : {
 		"&Add QuickTime Control Bar" : "添加QuickTime控制条",
 		"&Browse" : "浏览(&B)",
-		"&Display video under frame editor" : "显示视频在帧编辑器下",
+		"&Display video under frame editor" : "在场景编辑器下显示视频",
 		"&Help" : "帮助(&H)",
 		"&Looping" : "&Looping",
-		"&Play QuickTime at start of frame" : "帧开始时播放QuickTime",
+		"&Play QuickTime at start of frame" : "场景开始时播放QuickTime",
 		"&Use default size" : "使用默认大小(&U)",
 		"&Zoom X2" : "放大2倍",
 		"Cancel" : "取消",
@@ -71,7 +71,7 @@
 		"OK" : "OK",
 		"Options" : "选项",
 		"Setup QuickTime object" : "设置QuickTime对象",
-		"Use &Current Frame Palette" : "使用当前帧调色板(&C)"
+		"Use &Current Frame Palette" : "使用当前场景调色板(&C)"
 	},
 	"menu_20000" : {
 		"A Time Position" : "时间位置",
@@ -93,8 +93,8 @@
 		"Forward" : "前进",
 		"Looping Off" : "循环 关",
 		"Looping On" : "循环 开",
-		"Make Object Invisible" : "使不可视",
-		"Make Object Reappear" : "使可视",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
 		"Pause" : "暂停",
 		"Play" : "播放",
 		"Resume" : "恢复",
@@ -106,14 +106,14 @@
 		"Step by Step (in frames)" : "单步 (单位/帧)",
 		"Stop" : "停止",
 		"Tracks" : "轨道",
-		"Visibility" : "显示/非显示"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Check whether a file is open ?" : "文件是否已打开？",
 		"Compare to current time position ?" : "比较当前时间位置？",
 		"Is QuickTime at end position ?" : "QuickTime 在结束位置？",
 		"Is QuickTime at start position ?" : "QuickTime 在开始位置？",
-		"Is visible ?" : "可视？",
+		"Is visible ?" : "可见？",
 		"Mouse clicks within the QuickTime Window ?" : "QuickTime 窗口内点击鼠标？",
 		"Mpeg track enabled ?" : "Mpeg 轨道启用？",
 		"Mpeg track present ?" : "Mpeg 轨道存在？",

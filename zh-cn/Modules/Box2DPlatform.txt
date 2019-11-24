@@ -53,7 +53,7 @@
 		"No jump" : "无跳跃",
 		"Object" : "对象",
 		"Physics - Platform movement" : "物理 - 平台运动",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Please enter the acceleration factor of the object (0 = no acceleration, maximum = immediate start)" : "输入对象的加速系数 (0 = 无加速, 最大值 = 立即开始)",
 		"Please enter the deceleration factor of the object (0 = no deceleration, maximum =immediate stop)" : "输入物体的减速系数（0 =无减速，最大值=立即停止）",
 		"Please enter the maximum speed of the object." : "请输入对象的最大速度.",

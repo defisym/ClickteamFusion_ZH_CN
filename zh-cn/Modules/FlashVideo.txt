@@ -4,7 +4,7 @@
 	"general" : {
 		"An error has occured" : "发生错误",
 		"Auto-resize" : "自动调整大小",
-		"Check this box to automatically put the video on pause at start of frame." : "画面帧开始时自动使视频暂停",
+		"Check this box to automatically put the video on pause at start of frame." : "勾线此项，使视频在场景开始时自动暂停",
 		"Check this box to automatically resize the video object to the original size of the video at start." : "开始时自动重新调整视频大小为原尺寸",
 		"Check to have the video loop" : "循环播放视频",
 		"Displays a FLV video file from the Internet" : "从互联网显示flv文件",

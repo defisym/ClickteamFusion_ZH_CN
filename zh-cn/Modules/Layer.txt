@@ -9,7 +9,7 @@
 		"%o: %0 Below %1?" : "%o: %0 在 %1 后面？",
 		"%o: %0 Between %1 and %2?" : "%o: %0 在 %1 与 %2 之间",
 		"%o: Layer %0 is visible?" : "%o: 分层 %0 可见？",
-		"Allows you to change the order of the objects in a frame. Can also show, hide or move layers." : "在帧画面里改变对象的排序。可以显示，隐藏，移动图层。",
+		"Allows you to change the order of the objects in a frame. Can also show, hide or move layers." : "允许改变场景中的对象次序，隐藏/显示或移动层",
 		"Alpha-blending coefficient (0-255)" : "Alpha混合系数 (0-255)",
 		"Bring %0 Forward %1" : "%0 前进 %1",
 		"Bring %0 Forward One" : "%0 前进一次",
@@ -112,7 +112,7 @@
 		"Sort" : "排序",
 		"Store Fixed Value" : "存储固定值",
 		"Swap two Objects" : "互换两个对象",
-		"Visibility" : "显示/不显示"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"By Index" : "索引",

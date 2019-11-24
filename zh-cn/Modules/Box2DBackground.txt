@@ -47,7 +47,7 @@
 		"Physics - Background" : "物理 - 背景",
 		"Platform" : "平台",
 		"Please choose the shape of the collision box" : "请选择碰撞盒的形状",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Prismatic joint" : "棱形关节",
 		"Revolute joint" : "旋转关节",
 		"Shape of first image" : "首个图像的图形",

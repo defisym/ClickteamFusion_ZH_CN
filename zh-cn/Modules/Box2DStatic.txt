@@ -63,7 +63,7 @@
 		"Object" : "对象",
 		"Physics - Static movement" : "物理 - 静态运动",
 		"Please choose the shape of the collision box" : "选择碰撞盒的形状",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Prismatic joint" : "移动关节",
 		"Revolute joint" : "回转关节",
 		"Shape of first image" : "首个图像形状",

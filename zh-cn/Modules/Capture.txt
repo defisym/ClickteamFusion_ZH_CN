@@ -14,7 +14,7 @@
 		"01Set Area Origin to (%s, %s)" : "01置区域起点 (%s, %s)",
 		"01Set filename to %s" : "01置文件名为 %s",
 		"Any files|*.*||" : "任何文件|*.*||",
-		"At start of frame" : "帧开始时",
+		"At start of frame" : "场景开始时",
 		"BMP files (*.bmp)|*.bmp||" : "BMP 文件 (*.bmp)|*.bmp||",
 		"Cannot change directory to \"%s\"" : "无法改变目录到 \"%s\"",
 		"Cannot create temporary directory..." : "无法创建临时目录...",

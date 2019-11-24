@@ -93,7 +93,7 @@
 		"Load %0" : "载入 %0",
 		"Load ascii file %0 with delimitor %1" : "载入ascii文件%0 ,分隔符%1",
 		"Makes the cells editable by the user" : "使单元格可由用户编辑",
-		"Makes the object visible at start of frame" : "使对象在帧开始时可见",
+		"Makes the object visible at start of frame" : "使对象在场景开始时可见",
 		"My Action Parameter" : "我的动作参数",
 		"My Condition Parameter" : "我的条件参数",
 		"My Expression Parameter" : "我的表达式参数",

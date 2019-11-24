@@ -24,7 +24,7 @@
 		"Motor" : "发动机设置",
 		"Only the two topmost objects" : "仅顶层两个对象",
 		"Physics - Joint" : "物理 - 关节",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Set angle limits to %0 (lower angle) and %1 (upper angle)" : "设置角度限制为 %0 下限，与 %1 上限",
 		"Set motor to %0 (torque) and %1 (strength)" : "设置发动机为 %0扭矩，与 %1强度",
 		"Speed" : "速度",

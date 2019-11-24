@@ -63,7 +63,7 @@
 		"Physics - 8 Directions movement" : "物理 - 八方向运动",
 		"Please choose the authorised directions" : "选择许可方向",
 		"Please choose the shape of the collision box" : "选择碰撞盒形状",
-		"Please drop a 'Physics Engine' object in your frame." : "拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Please enter the acceleration factor of the object (0 = no acceleration, maximum = immediate start)" : "输入对象的加速系数(0 = 无加速度, 最大值 = 立即开始)",
 		"Please enter the deceleration factor of the object (0 = no deceleration, maximum = immediate stop)" : "减速系数(0 = 无减速度, 最大值 = 立即停止)",
 		"Please enter the maximum speed of the object." : "请输入对象的最大速度",

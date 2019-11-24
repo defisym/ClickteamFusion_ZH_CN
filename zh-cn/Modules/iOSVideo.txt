@@ -13,7 +13,7 @@
 		"Begin seeking forward" : "从前面开始",
 		"Check to display an Air Play button in the movie player" : "在电影播放器中显示Air Play按钮",
 		"Check to display the movie in full screen" : "全屏播放",
-		"Check to make the movie play at start of frame" : "帧开始时播放",
+		"Check to make the movie play at start of frame" : "场景开始时播放",
 		"Check to repeat the movie when it reaches the end" : "当电影结束时重复播放",
 		"Choose how to scale the movie" : "影片缩放",
 		"Choose what kind of controls are available in the movie player" : "选择电影播放器中可用的控件",

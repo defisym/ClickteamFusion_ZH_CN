@@ -18,7 +18,7 @@
 		"Enter the strength of the magnet, from 0 to 100" : "输入力度  0 ～ 100",
 		"Enter the width of the object" : "Enter the width of the object",
 		"Physics - Magnet" : "物理 - 磁铁",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Running : %i" : "磁铁状态 : %i",
 		"Set angle to %0" : "设置角度为 %0",
 		"Set height to %0" : "设置高度为 %0",

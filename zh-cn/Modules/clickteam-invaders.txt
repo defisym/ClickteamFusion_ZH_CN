@@ -25,6 +25,6 @@
 		"Step Size in Y" : "在Y轴步长",
 		"The direction in which all invaders will move at initially." : "The direction in which all invaders will move at initially",
 		"Version" : "版本 ",
-		"Will the invaders be moving at start of frame." : "入侵者在帧开始时移动。"
+		"Will the invaders be moving at start of frame." : "入侵者在场景开始时移动。"
 	}
 }

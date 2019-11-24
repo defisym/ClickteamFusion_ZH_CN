@@ -38,7 +38,7 @@
 		"10%s: Has Focus" : "10%s: 拥有焦点",
 		"10%s: List dropped" : "10%s: 下拉列表显示",
 		"10%s: Selection changed" : "10%s: 改变所选",
-		"10%s: Visible" : "10%s: 可视",
+		"10%s: Visible" : "10%s: 可见",
 		"Automatically displays a scroll bar if necessary" : "如果必要，自动显示滚动条",
 		"Background" : "背景",
 		"Background color" : "背景色",
@@ -59,7 +59,7 @@
 		"Enter the new text" : "输入新文本",
 		"Flag" : "开关",
 		"Hide on start" : "开始时隐藏",
-		"Hides the Combo box at start of frame" : "帧画面开始时隐藏组合框",
+		"Hides the Combo box at start of frame" : "场景开始时隐藏组合框",
 		"If selected, first item will be number one. Number zero if not." : "如果选择，首个项目是编号1，否则是0",
 		"Index" : "索引",
 		"Line number to insert at" : "插入到行编号",
@@ -106,8 +106,8 @@
 		"Load drives list" : "载入驱动器列表",
 		"Load list file" : "载入列表文件",
 		"Lose Focus" : "失去焦点",
-		"Make Object Invisible" : "使对象不可视",
-		"Make Object Reappear" : "使对象可视",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
 		"Reset" : "重置",
 		"Save list file" : "保存列表文件",
 		"Scroll To End" : "滚动到末尾",
@@ -122,14 +122,14 @@
 		"Set line data" : "置行数据",
 		"Set text color" : "置文本颜色",
 		"Size" : "大小",
-		"Visibility" : "可视/不可视"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Double clicked ?" : "双击？",
 		"Has focus ?" : "拥有焦点？",
 		"Is enabled ?" : "启用？",
 		"Is list dropped ?" : "是下拉列表？",
-		"Is visible ?" : "可视？",
+		"Is visible ?" : "可见？",
 		"Selection changed ?" : "改变所选？"
 	},
 	"menu_20002" : {

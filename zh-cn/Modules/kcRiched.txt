@@ -91,7 +91,7 @@
 		"10%s has the input focus" : "10%s 拥有输入焦点",
 		"10%s is enabled" : "10%s 是启用",
 		"10%s is read-only" : "10%s 是只读",
-		"10%s is visible" : "10%s 是可视",
+		"10%s is visible" : "10%s 可见",
 		"10%s: link clicked" : "10%s: 点击链接",
 		"10%sParagraph has a bullet" : "10%s 段落拥有条目",
 		"10%sParagraph is aligned on the left" : "10%s 段落是左对齐",
@@ -130,7 +130,7 @@
 		"Keep file internal" : "Keep file internal",
 		"Keep file internal, you wont need an external file" : "Keep file internal, you wont need an external file",
 		"Link text" : "链接文本",
-		"Makes the object visible at start of frame" : "帧画面开始时使对象可视",
+		"Makes the object visible at start of frame" : "场景开始时使对象可见",
 		"Makes the text unmodifiable" : "使文本不可修改",
 		"Multilevel UNDO" : "多级撤消",
 		"Name of RTF file" : "RTF 文件名",
@@ -165,7 +165,7 @@
 		"Uses the features of RichEdit 2" : "使用RichEdit2的功能",
 		"Vertical autoscroll" : "垂直自动滚动",
 		"Vertical scroll bar" : "垂直滚动条",
-		"Visible at start" : "开始时可视",
+		"Visible at start" : "开始时可见",
 		"Window" : "窗口"
 	},
 	"menu_20000" : {
@@ -251,7 +251,7 @@
 		"Underline" : "下划线",
 		"Undo" : "撤销",
 		"Unselect block" : "取消选择块",
-		"Visibility" : "显示/不显示",
+		"Visibility" : "可见性",
 		"Window" : "窗口"
 	},
 	"menu_20001" : {
@@ -275,7 +275,7 @@
 		"Is link? (2.0)" : "是链接？ (2.0)",
 		"Is object enabled?" : "对象启用？",
 		"Is object read-only?" : "对象只读？",
-		"Is object visible?" : "对象可视？",
+		"Is object visible?" : "对象可见？",
 		"Is protected?" : "保护？",
 		"Is striked out?" : "删除线？",
 		"Is text available in the clipboard?" : "剪贴板中文本可用?",
@@ -295,7 +295,7 @@
 		"Get Y Position" : "取Y位置",
 		"Get caret line" : "取插入符的行",
 		"Get caret position" : "取插入符的位置",
-		"Get first visible line" : "取首个可视行",
+		"Get first visible line" : "取首个可见行",
 		"Get font color" : "取字体颜色",
 		"Get font name" : "取字体名",
 		"Get font size" : "取字体大小",

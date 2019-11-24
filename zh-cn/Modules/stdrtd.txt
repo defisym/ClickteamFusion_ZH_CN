@@ -22,7 +22,7 @@
 		"Escape" : "Escape",
 		"Execute" : "执行",
 		"File error!" : "文件错误",
-		"Frame %d" : "帧 %d",
+		"Frame %d" : "场景 %d",
 		"Heap" : "Heap",
 		"Home" : "Home",
 		"Ins" : "Ins",

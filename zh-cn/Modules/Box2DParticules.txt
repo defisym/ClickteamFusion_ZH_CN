@@ -89,7 +89,7 @@
 		"Particle images" : "粒子图像",
 		"Particles" : "粒子",
 		"Physics - Particles" : "物理 - 粒子",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Scale" : "比例",
 		"Set animation loop to %0" : "置动画循环为 %0",
 		"Set animation speed to %0" : "置动画速度为 %0",

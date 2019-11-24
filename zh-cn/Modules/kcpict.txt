@@ -10,13 +10,13 @@
 		"00WARNING !!! Change this action to New picture" : "00警告！！！ 变更新图片的此动作",
 		"01%s: a picture is loaded" : "01%s: 一个图片已载入",
 		"01New picture : %s" : "01新图片 : %s",
-		"10%s: visible" : "10%s: 可视",
+		"10%s: visible" : "10%s: 可见",
 		"Choose the picture to display" : "选择要显示的图片",
 		"Custom" : "自定义",
 		"Displays an image file as background object." : "显示图像文件为背景对象",
 		"First Pixel" : "第一个像素",
-		"Hide at start of frame" : "帧画面开始时隐藏",
-		"Hides the picture when the frame starts" : "当帧开始时隐藏图片",
+		"Hide at start of frame" : "场景开始时隐藏",
+		"Hides the picture when the frame starts" : "当场景开始时隐藏图片",
 		"Picture" : "图片",
 		"Picture filename" : "图片文件名",
 		"Picture name: %s" : "图片名称: %s",
@@ -29,15 +29,15 @@
 	"menu_20000" : {
 		"Image resize off" : "图像不可重调整",
 		"Image resize on" : "图像可重调整",
-		"Make Object Invisible" : "使对象不可视",
-		"Make Object Reappear" : "使对象可视",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
 		"New picture" : "新图片",
 		"New picture from selector" : "从选择器新建图片",
-		"Visibility" : "可视/不可视"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"A picture is loaded ?" : "图片已载入？",
-		"Is visible ?" : "可视？"
+		"Is visible ?" : "可见？"
 	},
 	"menu_20002" : {
 		"Get X position" : "取X位置",

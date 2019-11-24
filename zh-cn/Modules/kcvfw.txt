@@ -22,7 +22,7 @@
 		"10%s: end of video" : "10%s: 视频结束",
 		"10%s: file is opened" : "10%s: 文件已打开",
 		"10%s: start of video" : "10%s: 视频开始",
-		"10%s: visible" : "10%s: 可视",
+		"10%s: visible" : "10%s: 可见",
 		"11%s: current frame %s" : "11%s: 当前帧 %s",
 		"11%s: current time %s" : "11%s: 当前时间 %s",
 		"21User %s within %s" : "21User %s within %s",
@@ -67,8 +67,8 @@
 		"Beginning" : "开头",
 		"End" : "最后",
 		"Forward" : "前进",
-		"Make Object Invisible" : "使不可视",
-		"Make Object Reappear" : "使可视",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
 		"Pause" : "暂停",
 		"Play" : "播放",
 		"Resume" : "恢复",
@@ -78,7 +78,7 @@
 		"Size" : "大小",
 		"Step by Step (in frames)" : "逐步 (帧単位)",
 		"Stop" : "停止",
-		"Visibility" : "可视/不可视"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Check whether a file is open ?" : "文件是否已打开？",
@@ -86,7 +86,7 @@
 		"Compare to current time position ?" : "比较当前时间位置",
 		"Is AVI at end position ?" : "AVI 在最终位置？",
 		"Is AVI at start position ?" : "AVI 在开始位置？",
-		"Is visible ?" : "可视？",
+		"Is visible ?" : "可见？",
 		"Mouse clicks within the AVI window ?" : "鼠标在AVI窗口内点击"
 	},
 	"menu_20002" : {

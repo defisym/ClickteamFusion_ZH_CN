@@ -13,7 +13,7 @@
 		"01Set horizontal position to %s" : "01置水平位置为 %s",
 		"01Set position to %s" : "01置位置为 %s",
 		"01Set vertical position to %s" : "01置垂直位置为 %s",
-		"10Hiscore table %s is visible" : "10高分表 %s 可视",
+		"10Hiscore table %s is visible" : "10高分表 %s 可见",
 		"Automatically checks for highscore at start of frame" : "Automatically checks for highscore at start of frame",
 		"Check at start" : "开始时选中",
 		"Content" : "内容",
@@ -81,19 +81,19 @@
 		"Change one score" : "更改得分",
 		"File" : "文件",
 		"Insert a hiscore" : "插入高分",
-		"Make object invisible" : "使对象不可视",
-		"Make object reappear" : "使对象可视",
+		"Make object invisible" : "使对象不可见",
+		"Make object reappear" : "使对象可见",
 		"Position" : "位置",
 		"Reset" : "重置",
 		"Select position..." : "选择位置...",
 		"Set Horizontal Position" : "置水平位置",
 		"Set Vertical Position" : "置垂直位置",
 		"Set current file" : "置当前文件",
-		"Visibility" : "可视/不可视"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Has player a hiscore?" : "获得了高分？",
-		"Is visible ?" : "可视？"
+		"Is visible ?" : "可见？"
 	},
 	"menu_20002" : {
 		"Hiscore name" : "高分名称",

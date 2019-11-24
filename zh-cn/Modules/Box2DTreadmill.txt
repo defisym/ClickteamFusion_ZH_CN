@@ -19,7 +19,7 @@
 		"Enter the width of the object" : "输入对象宽度",
 		"Moves objects at constant speed in one direction" : "在一个方向上以恒定的速度移动物体",
 		"Physics - Treadmill" : "物理 - 输送机",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里.",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Running : %i" : "输送机状态 : %i",
 		"Set angle to %0 degrees" : "设置角度为 %0",
 		"Set height to %0" : "设置高度为 %0",

@@ -36,7 +36,7 @@
 		"10%s: Enable" : "10%s: 启用",
 		"10%s: Has Focus" : "10%s: 拥有焦点",
 		"10%s: Selection changed" : "10%s: 所选已改变",
-		"10%s: Visible" : "10%s: 可视",
+		"10%s: Visible" : "10%s: 可见",
 		"3D look" : "3D 显示",
 		"Allows you to display checkmarks for all the items, only the selected items or the items with non null data." : "Allows you to display checkmarks for all the items, only the selected items or the items with non null data.",
 		"Allows you to display checkmarks or arrows for each item" : "为每个项目显示选中标记或箭头",
@@ -66,7 +66,7 @@
 		"Flag" : "开关",
 		"Grouped style" : "组合样式",
 		"Hide on start" : "开始时隐藏",
-		"Hides the object at start of frame" : "帧画面开始时隐藏对象",
+		"Hides the object at start of frame" : "场景开始时隐藏对象",
 		"If selected, first item will be number one. Number zero if not." : "如果选择，首个项目序号为1，否则为0",
 		"Index" : "索引",
 		"Lets you create customizable lists of strings in your applications." : "让你创建自定义字符串列表",
@@ -122,8 +122,8 @@
 		"Load drives list" : "载入驱动列表",
 		"Load list file" : "载入列表文件",
 		"Lose Focus" : "失去焦点",
-		"Make Object Invisible" : "使对象不可视",
-		"Make Object Reappear" : "使对象可视",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
 		"Reset" : "重置",
 		"Save list file" : "保存列表文件",
 		"Scroll To End" : "滚动到末尾",
@@ -137,13 +137,13 @@
 		"Set line data" : "置行数据",
 		"Set text color" : "置文本色",
 		"Size" : "大小",
-		"Visibility" : "显示/不显示"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Double clicked ?" : "双击？",
 		"Has focus ?" : "拥有焦点？",
 		"Is enabled ?" : "启用？",
-		"Is visible ?" : "可视？",
+		"Is visible ?" : "可见？",
 		"Selection changed ?" : "选择已改变？"
 	},
 	"menu_20002" : {

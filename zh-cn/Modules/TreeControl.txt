@@ -3,7 +3,7 @@
 	"lang" : 2052,
 	"general" : {
 		"%o has input focus" : "%o 拥有输入焦点",
-		"%o is visible" : "%o 可视",
+		"%o is visible" : "%o 可见",
 		"%o: Clicked with left button" : "%o : 左键已点击",
 		"%o: Clicked with right button" : "%o : 右键已点击",
 		"%o: Double-clicked" : "%o: 双击",
@@ -55,8 +55,8 @@
 		"Links the elements of the tree with thin lines" : "以细线连接树的成员",
 		"Load Tree (%0)" : "载入树 (%0)",
 		"Lose Focus" : "失去焦点",
-		"Make the object disabled at start of frame" : "帧画面开始时使对象禁用",
-		"Make the object visible at start of frame" : "帧画面开始时使对象可见",
+		"Make the object disabled at start of frame" : "场景开始时使对象禁用",
+		"Make the object visible at start of frame" : "场景开始时使对象可见",
 		"Makes the labels editable" : "允许编辑标签",
 		"Name" : "名称",
 		"Open Folder %0" : "打开文件夹 %0",
@@ -139,8 +139,8 @@
 		"Insert Item" : "插入项目",
 		"Load Tree" : "载入数",
 		"Lose Focus" : "失去焦点",
-		"Make Object Invisible" : "使对象不可视",
-		"Make Object Reappear" : "使对象可视",
+		"Make Object Invisible" : "使对象不可见",
+		"Make Object Reappear" : "使对象可见",
 		"New/Delete" : "新建/删除",
 		"Open Folder" : "打开文件夹",
 		"Reset" : "重置",
@@ -155,7 +155,7 @@
 		"Set background color" : "置背景色",
 		"Size" : "大小",
 		"Sort Children" : "排序子",
-		"Visibility" : "显示/不显示"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"&Has input focus ?" : "拥有输入焦点？(&H)",
@@ -164,7 +164,7 @@
 		"Conditions" : "条件",
 		"Double-clicked?" : "双击？",
 		"Is Folder ?" : "是文件夹？",
-		"Is Visible ?" : "可视？",
+		"Is Visible ?" : "可见？",
 		"On Item Created" : "项目创建时",
 		"On Item Deleted" : "项目删除时",
 		"On Item Text Changed" : "项目文本改变时",

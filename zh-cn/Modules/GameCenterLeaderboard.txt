@@ -8,7 +8,7 @@
 		"%o: Scores and names have been received" : "%o:分数和名称已接收",
 		"All time" : "所有时间",
 		"Check to automatically send Player 1 score at start" : "开始时自动发送玩家1的分数",
-		"Check to retrive the names and scores of the leaderboard at start of frame." : "帧开始时获取排行榜的名称和分数",
+		"Check to retrive the names and scores of the leaderboard at start of frame." : "场景开始时获取排行榜的名称和分数",
 		"Choose which hi-scores to display" : "选择高分显示",
 		"Display" : "显示",
 		"Display default leaderboard" : "显示默认排行",

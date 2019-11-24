@@ -2,7 +2,7 @@
 	"version" : 1,
 	"lang" : 2052,
 	"general" : {
-		"Check if the object should move at start of frame" : "检测对象可能在帧开始时移动",
+		"Check if the object should move at start of frame" : "检测对象是否应在场景开始时移动",
 		"Choose the strengh of the gravity" : "选择重力的强度",
 		"Deceleration" : "减速",
 		"Enter the deceleration factor" : "输入减速系数",

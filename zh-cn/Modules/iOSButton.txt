@@ -52,7 +52,7 @@
 		"Enable" : "启用",
 		"Hide" : "隐藏",
 		"Show" : "显示",
-		"Visibility" : "可见/不可见"
+		"Visibility" : "可见性"
 	},
 	"menu_20001" : {
 		"Button clicked" : "按钮点击",

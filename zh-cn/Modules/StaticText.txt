@@ -6,7 +6,7 @@
 		"%o: Click with right button" : "%o : 右键点击",
 		"%o: Double click" : "%o: 双击",
 		"%o: Hide" : "%o: 隐藏",
-		"%o: Is object visible?" : "%o: 对象可视？",
+		"%o: Is object visible?" : "%o: 对象可见？",
 		"%o: Set background color to %0" : "%o: 设置背景色为 %0",
 		"%o: Set height to %0" : "%o: 设置高度为 %0",
 		"%o: Set text color to %0" : "%o: 设置文本色为 %0",
@@ -32,7 +32,7 @@
 		"Enter the text to display" : "输入显示的文本",
 		"Font color" : "字体颜色",
 		"Left" : "左",
-		"Makes the control visible at start of frame" : "帧画面开始使控件可视",
+		"Makes the control visible at start of frame" : "控件在场景开始可见",
 		"Path ellipsis" : "路径省略",
 		"Replaces part of the string by ... in the middle to fit" : "替换字符串单元 ... 在中间",
 		"Replaces the end of the string by ... to fit" : "替换字符串尾部 ...",
@@ -45,7 +45,7 @@
 		"Text" : "文本",
 		"Text alignement" : "对齐文本",
 		"Vertical center" : "垂直居中",
-		"Visible at start" : "开始时可视",
+		"Visible at start" : "开始时可见",
 		"Window" : "窗口"
 	},
 	"dialog_112" : {
@@ -71,7 +71,7 @@
 		"Clicked with right button?" : "右键点击",
 		"Conditions" : "条件",
 		"Double click?" : "双击？",
-		"Is object visible?" : "对象可视？",
+		"Is object visible?" : "对象可见？",
 		"Window" : "窗口"
 	},
 	"menu_20002" : {

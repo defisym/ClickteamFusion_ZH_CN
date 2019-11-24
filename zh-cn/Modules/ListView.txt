@@ -98,7 +98,7 @@
 		"Show grid lines" : "显示网格线",
 		"Show grid lines (as in an Excel sheet" : "显示网格线 (Excel样式)",
 		"Show selection" : "显示所选",
-		"Shows the objet at start of frame" : "帧开始时显示对象",
+		"Shows the objet at start of frame" : "场景开始时显示对象",
 		"Thick border" : "粗边框",
 		"Visible at start" : "开始时可见",
 		"Window" : "窗口",

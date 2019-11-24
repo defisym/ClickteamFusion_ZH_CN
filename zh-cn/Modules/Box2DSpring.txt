@@ -19,7 +19,7 @@
 		"Enter the strength of the spring, (0 = inactive)" : "输入弹簧的力度（0 = 无效）",
 		"Physics - Spring" : "物理 - 弹簧",
 		"Please choose the shape of the collision box" : "选择碰撞盒的形状",
-		"Please drop a 'Physics Engine' object in your frame." : "请拖拽一个物理引擎对象到你的帧里。",
+		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
 		"Shape of first image" : "第一个图像的形状",
 		"Smooth rotations" : "平滑旋转",
 		"Spring directions" : "弹簧方向",

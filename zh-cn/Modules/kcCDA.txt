@@ -28,8 +28,8 @@
 		"Play track at start" : "开始时播放音轨",
 		"Play when minimized" : "最小化时播放",
 		"Position in current track: %02i:%02i" : "当前音轨的位置: %02i:%02i",
-		"Stop playing at end of frame" : "帧结束后停止播放",
-		"Stops the music at end of frame" : "帧结束后停止音乐",
+		"Stop playing at end of frame" : "场景结束后停止播放",
+		"Stops the music at end of frame" : "场景结束后停止音乐",
 		"Total length of disk: %02i:%02i:%02i" : "光盘的总长度: %02i:%02i:%02i"
 	},
 	"menu_20000" : {
