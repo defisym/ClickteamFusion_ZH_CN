@@ -24,6 +24,8 @@
 		"Application from current frame" : "从当前场景开始运行应用程序",
 		"Are you sure you want to reset the qualifiers to their default values?" : "您确定要将分组标记重置为默认值？",
 		"Base frame" : "基准场景",
+		"Behaviors, Frame events, Global events" : "对象行为，场景事件，全局事件",
+		"Behaviors, Global events, Frame events" : "对象行为，全局事件，场景事件",
 		"Cannot paste events that contain immediate conditions to a child event." : "无法将包含立即条件的事件粘贴至子事件。",
 		"Children time" : "子事件用时",
 		"Clickteam Fusion 2.5+" : "Clickteam Fusion 2.5+",
@@ -42,7 +44,11 @@
 		"Find occurrences of %s in all frames of current application..." : "在当前应用程序的所有场景中查找%s...",
 		"Find occurrences of %s in current frame..." : "在当前场景中查找%s...",
 		"Frame events" : "场景事件",
+		"Frame events, Behaviors, Global events" : "场景事件，对象行为，全局事件",
+		"Frame events, Global events, Behaviors" : "场景事件，全局事件，对象行为",
 		"Fusion will use this frame to find the names of alterable values and animations." : "Fusion将于全局事件中使用基于此场景对象的变量名与动画名。",
+		"Global events, Behaviors, Frame events" : "全局事件，对象行为，场景事件",
+		"Global events, Frame events, Behaviors" : "全局事件，场景事件，对象行为",
 		"Instead of cumulating app loop times for each frame, reports the slowest app loops." : "仅记录最慢循环耗时，而非累计耗时",
 		"Keeps images highly compressed in RAM and reduces loading time in Windows stand-alone apps. Note: loading will be slower when you run the app from Fusion." : "使图像在内存中保持压缩状态，以减少Windows程序的加载时间。\n\n注意：该选项会增加从Fusion内运行应用程序时的加载时间。",
 		"Layer = %s" : "层 = %s",
@@ -75,7 +81,12 @@
 		"Total time" : "总用时",
 		"Unknown" : "未知",
 		"Unselect this option if you want to start/end profiling the application manually with profiling actions." : "取消此项勾选以通过事件启动/停止分析。",
-		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[仅限Windows]该选项可能会导致音频播放延迟。取消勾选可减少播放音频的等待时间。"
+		"Without this option counters and strings have no alterable values, strings, nor flags." : "勾选此项以为计数器对象和字符串对象启用可变值、可变字符串与开关",
+		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[仅限Windows]该选项可能会导致音频播放延迟。取消勾选可减少播放音频的等待时间。",
+		"Allow alterable values for counters and strings" : "允许计数器对象和字符串对象拥有变量",
+		"Event order" : "事件执行顺序",
+		"Export as text" : "以文本形式导出"
+
 	},
 	"dialog_2007" : {
 
@@ -101,6 +112,7 @@
 		"OK" : "确定",
 		"Object data" : "对象数据",
 		"Object names" : "对象名",
-		"Objects" : "对象"
+		"Objects" : "对象",
+		"Qualifiers" :"分组标记"
 	}
 }

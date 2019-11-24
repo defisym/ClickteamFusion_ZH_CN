@@ -43,7 +43,11 @@
 		"Set repeat flag to %0" : "设置重复标志 %0",
 		"Stop" : "停止",
 		"iOS/MacOS Video" : "iOS/MacOS 视频",
-		"iOS/MacOS Video object" : "iOS/MacOS 视频对象"
+		"iOS/MacOS Video object" : "iOS/MacOS 视频对象",
+		"%o: On video end" : "%o: 视频结束播放时",
+		"%o: On video ready" : "%o: 视频准备就绪时",
+		"%o: On video start" : "%o: 视频开始播放时"
+
 	},
 	"menu_20000" : {
 		"Actions" : "动作",
@@ -64,7 +68,10 @@
 		"Conditions" : "条件",
 		"Movie is paused" : "影片暂停",
 		"Movie is playing" : "影片播放",
-		"Movie is stopped" : "影片停止"
+		"Movie is stopped" : "影片停止",
+		"On Video End" : "视频结束播放时",
+		"On Video Ready" : "视频准备就绪时",
+		"On Video Start" : "视频开始播放时"
 	},
 	"menu_20002" : {
 		"Current player state" : "当前播放状态",

@@ -700,7 +700,8 @@
 		"Brackets" : "括号",
 		"Branch node %0" : "分支节点 %0",
 		"Branch node..." : "分支节点...",
-		"Breakable" : "",
+		"Break" : "跳出子事件",
+		"Breakable" : "可破坏",
 		"Bring to back" : "移动到底层",
 		"Bring to front" : "移动到顶层",
 		"Brush tool\nBrush tool" : "画笔工具\n画笔工具",
@@ -839,7 +840,8 @@
 		"Check this option to prevent the window to be resized by the user" : "选中此项，阻止用户调整窗口的大小",
 		"Check this option to show the menu bar when the application starts." : "选中此项 应用程序启动时将显示菜单栏。",
 		"Checking..." : "检查中...",
-		"Children" : "",
+		"Child events" : "子事件",
+		"Children" : "子",
 		"Choose Transparent Color" : "选择透明色",
 		"Choose a music" : "选择一个音乐",
 		"Choose a music file" : "选择一个音乐文件",
@@ -1038,7 +1040,8 @@
 		"Customize Quick Access Toolbar..." : "自定义快速访问工具栏...",
 		"Customize toolbars and menus.\nCustomize" : "自定义工具栏和菜单\n自定义",
 		"Cut\nCut" : "剪切\n剪切",
-		"Cut the selection and put it on the Clipboard\nCut" : "剪切所选内容并放至剪切板\n剪切",
+		"Cut the selection and put it on the Clipboatherd\nCut" : "剪切所选内容并放至剪切板\n剪切",
+		"D-pad" : "十字键",
 		"Dangers" : "",
 		"Data" : "",
 		"Data Elements\nData Elements" : "数据元素\n数据元素",
@@ -3557,7 +3560,15 @@
 		"when installer exits" : "当安装程序退出",
 		"while end page is displayed" : "当显示最后一页",
 		"x:888888, y:888888" : "x:888888, y:888888",
-		"zone (%i,%i) to (%i,%i)" : "区域 (%i,%i) 到 (%i,%i)"
+		"zone (%i,%i) to (%i,%i)" : "区域 (%i,%i) 到 (%i,%i)",
+		"Convert OGG sounds to MP3 at build time" : "构建时将OGG格式的音频转换为MP3格式",
+		"Displays and handles the joystick as a D-pad. If this option is checked, the D-pad images Up/Down/Left/Right are used instead of the Front/Back images." : "将摇杆作为十字键显示和处理。勾选此项后，十字键的上/下/左/右图像将取代要干的前景/背景图片",
+		"Down (pressed)" : "下(按下)",
+		"Error: cannot use this bitrate for sound '%s'." : "错误 : 无法为音频 '%s' 使用该比特率",
+		"Left (pressed)" : "左(按下)",
+		"Right (pressed)" : "右(按下)",
+		"Up (pressed)" : "上(按下)"
+
 	},
 	"dialog_100" : {
 		"&Buy Now !" : "现在购买(&B)",
@@ -3614,7 +3625,8 @@
 		"E&xtract" : "提取(&X)",
 		"List1" : "列表1",
 		"Options" : "选项",
-		"Sounds" : "声音"
+		"Sounds" : "声音",
+		"Convert to..." : "转换为..."
 	},
 	"dialog_200" : {
 		"&Add" : "添加(&A)",
@@ -4060,7 +4072,7 @@
 		"Tolerance" : "误差"
 	},
 	"dialog_4140" : {
-		"G" : "G",
+		"C" : "C",
 		"Quick Move" : "快速移动",
 		"Spin1" : "Spin1",
 		"x" : "x",
@@ -4957,7 +4969,8 @@
 		"List1" : "List1",
 		"List2" : "List2",
 		"OK" : "确定",
-		"Play with Audio Player" : "音频播放器播放"
+		"Play with Audio Player" : "音频播放器播放",
+		"Use expression" : "使用表达式"		
 	},
 	"dialog_14197" : {
 		"&Play" : "播放(&P)",
@@ -5749,6 +5762,7 @@
 		"New Pro&ject" : "新工程(&J)",
 		"Open P&roject" : "打开工程(&R)",
 		"Order B&y" : "排序(&Y)",
+		"Pain&t Mode" : "绘图模式",
 		"Recent File" : "最近的文件",
 		"S&plit" : "拆分(&P)",
 		"S&toryboard Editor" : "故事板编辑器(&T)",
@@ -6429,10 +6443,5 @@
 		"Output" : "Output",
 		"Sou&rce directory" : "Source directory(&R)",
 		"Texts" : "Texts"
-	},
-	"_details_" : {
-		"Number_of_translated_lines" : 5783,
-		"Number_of_untranslated_lines" : 1,
-		"Number_of_untranslated_words" : 1
 	}
 }
