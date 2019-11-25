@@ -7,7 +7,7 @@
 		"Angle" : "角度",
 		"Angle : %g degrees" : "角度 : %g 度",
 		"Blowing at start" : "开始时吹风",
-		"Check this box and the fan will blow at the start of the frame" : "Check this box and the fan will blow at the start of the frame",
+		"Check this box and the fan will blow at the start of the frame" : "勾选此项，使风扇在场景开始时吹风",
 		"Direction of the air" : "风向（ 0 ～ 360）",
 		"Engine ID" : "引擎 ID",
 		"Enter 1 to turn on, 0 to turn off" : "输入 0:关 ，1:开",

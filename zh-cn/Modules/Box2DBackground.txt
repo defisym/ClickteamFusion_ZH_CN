@@ -7,7 +7,7 @@
 		"Advanced" : "高级",
 		"Anchor" : "锚点",
 		"Auto rotation" : "自动旋转",
-		"Box" : "包围盒",
+		"Box" : "矩形",
 		"Check to enable automatic rotations of the image" : "Check to enable automatic rotations of the image",
 		"Check to resample the image of the object when rotating it (slower for large number of objects)." : "Check to resample the image of the object when rotating it (slower for large number of objects).",
 		"Choose the behavior of the object" : "选择对象的行为",

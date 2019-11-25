@@ -10,7 +10,7 @@
 		"Anchor" : "锚点",
 		"Angle : %i degrees" : "角度 : %i 度",
 		"Auto rotation" : "自动旋转",
-		"Box" : "包围盒",
+		"Box" : "矩形",
 		"Check this mark to increase the precision of the collision detection (slower)" : "选中此项，提高碰撞检测的精度(慢)",
 		"Check to enable automatic rotations of the image" : "自动旋转图像",
 		"Check to resample the image of the object when rotating it (slower for large number of objects)." : "Check to resample the image of the object when rotating it (slower for large number of objects).",

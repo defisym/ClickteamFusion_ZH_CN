@@ -2,29 +2,29 @@
 	"version" : 1,
 	"lang" : 2052,
 	"general" : {
-		"%o: Is treadmill active?" : "%o: 输送机激活？",
+		"%o: Is treadmill active?" : "%o: 传送带激活？",
 		"Active at start" : "开始时激活",
 		"Advanced" : "高级",
 		"Angle" : "角度",
 		"Angle : %g degrees" : "角度 : %g 度",
-		"Check this box to make the treadmill active at start of frame" : "帧开始时激活输送机",
-		"Direction of the treadmill" : "输送机的方向 （ 0 ～ 360 ）",
+		"Check this box to make the treadmill active at start of frame" : "场景开始时激活传送带",
+		"Direction of the treadmill" : "传送带方向 （ 0 ～ 360 ）",
 		"Engine ID" : "引擎 ID",
 		"Enter 1 to turn on, 0 to turn off" : "输入1为开，0为关",
-		"Enter the direction of the treadmill" : "输入输送机的方向",
+		"Enter the direction of the treadmill" : "输入传送带的方向",
 		"Enter the height of the object" : "输入对象高度",
-		"Enter the identifier of the engine if multiple engines are used on the same frame." : "如果在同一帧上使用多个引擎，请输入引擎的id.",
-		"Enter the speed of the treadmill (0-100)" : "输送机的速度（0～100）",
-		"Enter the speed of the treadmill, from 0 to 100" : "输送机的速度 （ 0 ～ 100 ）",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "如果在同一场景上使用多个引擎，请输入引擎的id.",
+		"Enter the speed of the treadmill (0-100)" : "传送带的速度（0～100）",
+		"Enter the speed of the treadmill, from 0 to 100" : "传送带的速度 （ 0 ～ 100 ）",
 		"Enter the width of the object" : "输入对象宽度",
 		"Moves objects at constant speed in one direction" : "在一个方向上以恒定的速度移动物体",
-		"Physics - Treadmill" : "物理 - 输送机",
+		"Physics - Treadmill" : "物理 - 传送带",
 		"Please drop a 'Physics Engine' object in your frame." : "请为该场景添加物理引擎对象",
-		"Running : %i" : "输送机状态 : %i",
+		"Running : %i" : "传送带状态 : %i",
 		"Set angle to %0 degrees" : "设置角度为 %0",
 		"Set height to %0" : "设置高度为 %0",
 		"Set speed to %0" : "设置速度为 %0",
-		"Set treadmill to %0" : "设置输送机为 %0",
+		"Set treadmill to %0" : "设置传送带为 %0",
 		"Set width to %0" : "设置宽度为 %0",
 		"Speed" : "速度",
 		"Strength : %i" : "力度 : %i"
@@ -34,18 +34,18 @@
 		"Set angle" : "设置角度",
 		"Set height" : "设置高度",
 		"Set speed" : "设置速度",
-		"Set treadmill ON/OFF" : "设置输送机状态开或关",
+		"Set treadmill ON/OFF" : "设置传送带状态开或关",
 		"Set width" : "设置宽度"
 	},
 	"menu_20001" : {
 		"Conditions" : "条件",
-		"Is treadmill active?" : "输送机激活？"
+		"Is treadmill active?" : "传送带激活？"
 	},
 	"menu_20002" : {
 		"Action zone height" : "有效范围高度",
 		"Action zone width" : "有效范围宽度",
 		"Expressions" : "表达式",
-		"Treadmill angle" : "输送机角度",
-		"Treadmill speed" : "输送机速度"
+		"Treadmill angle" : "传送带角度",
+		"Treadmill speed" : "传送带速度"
 	}
 }

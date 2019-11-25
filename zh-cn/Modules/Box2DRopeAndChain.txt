@@ -4,10 +4,10 @@
 	"general" : {
 		"%o: An element collides with %0" : "%o: 一个成员碰撞到 %0",
 		"%o: An element collides with a backdrop" : "%o: 一个成员碰撞到背景",
-		"%o: An element leaves the frame on the bottom" : "%o: 一个成员离开帧在底部",
-		"%o: An element leaves the frame on the left" : "%o: 一个成员离开帧在左边",
-		"%o: An element leaves the frame on the right" : "%o: 一个成员离开帧在右边",
-		"%o: An element leaves the frame on the top" : "%o: 一个成员离开帧在顶部",
+		"%o: An element leaves the frame on the bottom" : "%o: 一个成员于底部离开场景",
+		"%o: An element leaves the frame on the left" : "%o: 一个成员于左侧离开场景",
+		"%o: An element leaves the frame on the right" : "%o: 一个成员于右侧离开场景",
+		"%o: An element leaves the frame on the top" : "%o: 一个成员于顶部离开场景",
 		"%o: On each element, loop name %0" : "%o: 在每个成员，循环名 %0",
 		"Advanced" : "高级",
 		"Angle" : "角度",
@@ -80,7 +80,7 @@
 	},
 	"menu_20001" : {
 		"An element collides" : "成员碰撞",
-		"An element leaves the frame" : "成员离开帧",
+		"An element leaves the frame" : "成员离开",
 		"Conditions" : "Conditions",
 		"On each element" : "每个成员",
 		"On the bottom" : "在底部",

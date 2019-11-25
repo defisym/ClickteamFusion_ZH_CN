@@ -11,7 +11,7 @@
 		"Anchor" : "锚点",
 		"Angle : %i degrees" : "角度 : %i 度",
 		"Auto rotation" : "自动旋转",
-		"Box" : "包围盒",
+		"Box" : "矩形",
 		"Check this box to allow your object to go in reverse direction" : "选中此项允许你的对象反向走动",
 		"Check this mark to increase the precision of the collision detection (slower)" : "选中此项，提高碰撞检测的精度(慢)",
 		"Check to enable automatic rotations of the image" : "自动旋转图像",

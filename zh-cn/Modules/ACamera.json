@@ -7,7 +7,7 @@
         "Comment": "安卓资源管理器一部分。提供照相机功能",
         "URL": "http://www.clickteam.com",
         "Help": "Help\\ACamera.chm",
-        "Identifier": "ACam",
+        "Identifier": "ACam"
     },
 
     "ActionMenu":

@@ -6,7 +6,7 @@
 		"Active at start" : "开始时激活",
 		"Advanced" : "高级",
 		"Attracts objects around itself" : "吸引周围的对象到自身",
-		"Check this box to make the magnet active at start of frame" : "Check this box to make the magnet active at start of frame",
+		"Check this box to make the magnet active at start of frame" : "勾选此项，在场景开始时激活磁力",
 		"Directions" : "方向",
 		"Directions of the magnet" : "Directions of the magnet",
 		"Engine ID" : "引擎 ID",
