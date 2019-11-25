@@ -63,11 +63,11 @@
 		"Set value (item)" : "设置数值 (项目)"
 	},
 	"menu_20002" : {
-		"Get string" : "取字符串",
-		"Get string (group - item)" : "取字符串 (组 - 项目)",
-		"Get string (item)" : "取字符串 (项目)",
-		"Get value" : "取数值",
-		"Get value (group - item)" : "取数值 (组 - 项目)",
-		"Get value (item)" : "取数值 (项目)"
+		"Get string" : "获取字符串",
+		"Get string (group - item)" : "获取字符串 (组 - 项目)",
+		"Get string (item)" : "获取字符串 (项目)",
+		"Get value" : "获取数值",
+		"Get value (group - item)" : "获取数值 (组 - 项目)",
+		"Get value (item)" : "获取数值 (项目)"
 	}
 }

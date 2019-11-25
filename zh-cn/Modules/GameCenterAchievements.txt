@@ -51,8 +51,8 @@
 		"Normal size" : "普通大小",
 		"Percent" : "百分比",
 		"Reset achievements" : "重置成就",
-		"Retrieve list of achievements" : "取成就列表",
-		"Retrieve list of achievements at start" : "开始时取成就列表",
+		"Retrieve list of achievements" : "获取成就列表",
+		"Retrieve list of achievements at start" : "开始时获取成就列表",
 		"Send achievement %0, percent %1" : "发送成就 %0 , 进度 %1",
 		"Send achievement number %0, percent %1" : "发送成就编号 %0 , 进度 %1",
 		"Set banner text to %0" : "设置横幅文本为 %0",
@@ -98,13 +98,13 @@
 		"By identifier" : "以id",
 		"By index" : "以索引",
 		"Expressions" : "表达式",
-		"Get achievement achieved description" : "取成就达成的描述",
-		"Get achievement identifier" : "取成就id",
-		"Get achievement index" : "取成就索引",
-		"Get achievement maximum points" : "取成就最大点数",
-		"Get achievement percentage" : "取成就进度",
-		"Get achievement title" : "取成就标题",
-		"Get achievement unachieved description" : "取成就未达成的描述",
-		"Get number of achievements" : "取成就数量"
+		"Get achievement achieved description" : "获取成就达成的描述",
+		"Get achievement identifier" : "获取成就id",
+		"Get achievement index" : "获取成就索引",
+		"Get achievement maximum points" : "获取成就最大点数",
+		"Get achievement percentage" : "获取成就进度",
+		"Get achievement title" : "获取成就标题",
+		"Get achievement unachieved description" : "获取成就未达成的描述",
+		"Get number of achievements" : "获取成就数量"
 	}
 }

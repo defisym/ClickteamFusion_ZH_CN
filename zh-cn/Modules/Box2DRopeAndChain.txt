@@ -95,7 +95,7 @@
 		"Coordinates" : "坐标",
 		"Current element index" : "当前成员索引",
 		"Expressions" : "Expressions",
-		"Loop index" : "取成员循环索引",
+		"Loop index" : "获取成员循环索引",
 		"X coordinate of element" : "成员的头部X坐标",
 		"X coordinate of end of element" : "成员的尾部的X坐标",
 		"X coordinate of middle of element" : "成员的中间的X坐标",

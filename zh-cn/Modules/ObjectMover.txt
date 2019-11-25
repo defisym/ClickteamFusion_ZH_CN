@@ -29,7 +29,7 @@
 	},
 	"menu_20002" : {
 		"Expressions" : "表达式",
-		"Get height" : "取高度",
-		"Get width" : "取宽度"
+		"Get height" : "获取高度",
+		"Get width" : "获取宽度"
 	}
 }

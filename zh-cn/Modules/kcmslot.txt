@@ -30,10 +30,10 @@
 		"Message available" : "消息可用"
 	},
 	"menu_20002" : {
-		"Get current status" : "取当前状态",
-		"Get last error" : "取最后错误",
-		"Get last error string" : "取最后错误字符串",
-		"Get number" : "取数字",
-		"Get string" : "取字符串"
+		"Get current status" : "获取当前状态",
+		"Get last error" : "获取最后错误",
+		"Get last error string" : "获取最后错误字符串",
+		"Get number" : "获取数字",
+		"Get string" : "获取字符串"
 	}
 }

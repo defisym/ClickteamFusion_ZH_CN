@@ -102,6 +102,6 @@
 	},
 	"menu_20002" : {
 		"Expressions" : "表达式",
-		"Get current text" : "取当前文本"
+		"Get current text" : "获取当前文本"
 	}
 }

@@ -37,8 +37,8 @@
 	"menu_20002" : {
 		"Expressions" : "表达式",
 		"Get screen height" : "获取屏幕高度",
-		"Get screen orientation" : "取屏幕方向",
+		"Get screen orientation" : "获取屏幕方向",
 		"Get screen width" : "获取屏幕宽度",
-		"Get window rotation" : "取窗口旋转"
+		"Get window rotation" : "获取窗口旋转"
 	}
 }

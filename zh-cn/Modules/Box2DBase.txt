@@ -147,17 +147,17 @@
 		"Expressions" : "表达式",
 		"Frequency" : "频率",
 		"Gravity" : "重力设置",
-		"Iterations" : "取精度",
-		"Lower angle limit" : "取旋转角度下限",
-		"Lower translation limit" : "取可动范围下限",
+		"Iterations" : "精度",
+		"Lower angle limit" : "旋转角度下限",
+		"Lower translation limit" : "可动范围下限",
 		"Motor speed" : "电机的速度",
 		"Motor strength" : "电机的强度",
 		"Position iterations" : "坐标的计算精度",
 		"Prismatic joints" : "移动关节",
 		"Revolute joints" : "回转关节",
 		"Strength" : "强度",
-		"Upper angle limit" : "取旋转角度上限",
-		"Upper translation limit" : "取可动范围上限",
+		"Upper angle limit" : "旋转角度上限",
+		"Upper translation limit" : "可动范围上限",
 		"Velocity iterations" : "速度的计算精度"
 	}
 }

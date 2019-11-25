@@ -42,9 +42,9 @@
 		"On new item" : "新建道具时"
 	},
 	"menu_20002" : {
-		"Get consumable amount" : "取消耗品数量",
-		"Get item ID" : "取道具ID",
-		"Get item count" : "取道具属性",
-		"Get item property" : "取道具属性"
+		"Get consumable amount" : "获取消耗品数量",
+		"Get item ID" : "获取道具ID",
+		"Get item count" : "获取道具属性",
+		"Get item property" : "获取道具属性"
 	}
 }

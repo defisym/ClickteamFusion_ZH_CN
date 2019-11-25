@@ -53,11 +53,11 @@
 	"menu_20002" : {
 		"Expressions" : "表达式",
 		"Friends" : "好友",
-		"Get friend ID" : "取好友 ID",
-		"Get friend alias" : "取好友别名",
-		"Get local player ID" : "取本地玩家 ID",
-		"Get local player alias" : "取本地玩家别名",
-		"Get number of friends" : "取好友数量",
+		"Get friend ID" : "获取好友 ID",
+		"Get friend alias" : "获取好友别名",
+		"Get local player ID" : "获取本地玩家 ID",
+		"Get local player alias" : "获取本地玩家别名",
+		"Get number of friends" : "获取好友数量",
 		"Local player" : "本地玩家"
 	}
 }

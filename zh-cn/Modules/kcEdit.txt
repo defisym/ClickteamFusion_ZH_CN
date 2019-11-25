@@ -145,15 +145,15 @@
 	},
 	"menu_20002" : {
 		"Color" : "颜色",
-		"Get Background Color" : "取背景色",
-		"Get Text Color" : "取文本颜色",
-		"Get X Size" : "取X大小",
-		"Get Y Size" : "取Y大小",
-		"Get first visible line" : "取首个可见行",
-		"Get line count" : "取行数",
-		"Get numeric value" : "取数值",
-		"Get selected text" : "取被选择文本",
-		"Get text" : "取文本",
+		"Get Background Color" : "获取背景色",
+		"Get Text Color" : "获取文本颜色",
+		"Get X Size" : "获取X大小",
+		"Get Y Size" : "获取Y大小",
+		"Get first visible line" : "获取首个可见行",
+		"Get line count" : "获取行数",
+		"Get numeric value" : "获取数值",
+		"Get selected text" : "获取被选择文本",
+		"Get text" : "获取文本",
 		"Size" : "大小"
 	}
 }

@@ -45,9 +45,9 @@
 		"is Equal" : "等于"
 	},
 	"menu_20002" : {
-		"Get shared String" : "取共享字符",
-		"Get shared value" : "取共享数值",
-		"Get string from shared value" : "从共享数值取字符串",
-		"Get value from shared string" : "从共享字符串取数值"
+		"Get shared String" : "获取共享字符",
+		"Get shared value" : "获取共享数值",
+		"Get string from shared value" : "从共享数值获取字符串",
+		"Get value from shared string" : "从共享字符串获取数值"
 	}
 }

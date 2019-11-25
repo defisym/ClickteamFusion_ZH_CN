@@ -115,6 +115,6 @@
 		"Set output to &clipboard" : "置输出到剪切板(&C)"
 	},
 	"menu_20002" : {
-		"Get &Filename" : "取文件名(&F)"
+		"Get &Filename" : "获取文件名(&F)"
 	}
 }

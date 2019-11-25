@@ -81,15 +81,15 @@
 		"&Preloader" : "预加载(&P)",
 		"&Server" : "服务(&S)",
 		"&System" : "系统",
-		"Get Float Result" : "取返回小数",
-		"Get Integer Result" : "取返回整数",
-		"Get String Result" : "取返回字符串",
-		"Get application domain" : "取程序主域",
-		"Get loaded length" : "取已加载长度",
-		"Get percent loaded" : "取已加载百分比",
-		"Get string" : "取字符串",
-		"Get system language" : "取系统语言",
-		"Get total length" : "取总长度",
-		"Get window domain" : "取窗口主域"
+		"Get Float Result" : "获取返回小数",
+		"Get Integer Result" : "获取返回整数",
+		"Get String Result" : "获取返回字符串",
+		"Get application domain" : "获取程序主域",
+		"Get loaded length" : "获取已加载长度",
+		"Get percent loaded" : "获取已加载百分比",
+		"Get string" : "获取字符串",
+		"Get system language" : "获取系统语言",
+		"Get total length" : "获取总长度",
+		"Get window domain" : "获取窗口主域"
 	}
 }

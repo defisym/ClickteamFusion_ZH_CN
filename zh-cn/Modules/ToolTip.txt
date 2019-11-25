@@ -75,10 +75,10 @@
 		"User clicks on a link" : "用户在一行上点击"
 	},
 	"menu_20002" : {
-		"Get appearance timer" : "取出现时间",
-		"Get background color" : "取背景色",
-		"Get display timer" : "取显示时间",
-		"Get text color" : "取文本色",
-		"Get tooltip text" : "取工具提示文本"
+		"Get appearance timer" : "获取出现时间",
+		"Get background color" : "获取背景色",
+		"Get display timer" : "获取显示时间",
+		"Get text color" : "获取文本色",
+		"Get tooltip text" : "获取工具提示文本"
 	}
 }

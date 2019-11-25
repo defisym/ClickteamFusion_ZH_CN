@@ -62,6 +62,6 @@
 	},
 	"menu_20002" : {
 		"Expressions" : "表达式",
-		"Retrieve text of button" : "取按钮的文本"
+		"Retrieve text of button" : "获取按钮的文本"
 	}
 }

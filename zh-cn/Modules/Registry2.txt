@@ -62,10 +62,10 @@
 	"menu_20002" : {
 		"Any Key" : "任意键",
 		"Current Key" : "当前键",
-		"Get Current Key" : "取当前键",
+		"Get Current Key" : "获取当前键",
 		"Get Current Root Key" : "当前根键",
-		"Get DWORD Value" : "取DWORD数值",
-		"Get String Value" : "取字符串数值",
+		"Get DWORD Value" : "获取DWORD数值",
+		"Get String Value" : "获取字符串数值",
 		"Last error code" : "最后错误代码",
 		"Last error message" : "最后错误信息"
 	},

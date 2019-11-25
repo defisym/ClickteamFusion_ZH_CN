@@ -74,8 +74,8 @@
 	},
 	"menu_20002" : {
 		"Expressions" : "表达式",
-		"Get Item Text" : "取项目文本",
-		"Get Last Selected Item" : "取最后选择项",
-		"Get Menu Count" : "取菜单数量"
+		"Get Item Text" : "获取项目文本",
+		"Get Last Selected Item" : "获取最后选择项",
+		"Get Menu Count" : "获取菜单数量"
 	}
 }

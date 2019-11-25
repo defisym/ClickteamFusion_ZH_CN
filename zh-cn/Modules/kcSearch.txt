@@ -79,12 +79,12 @@
 		"Whole word search ?" : "搜索全词？"
 	},
 	"menu_20002" : {
-		"Get index building progression" : "取索引建立进度",
-		"Get result file name" : "取返回文件名",
-		"Get result line number" : "取返回行号",
-		"Get result position in line" : "取返回行位置",
-		"Get searched directory" : "取搜索目录",
-		"Get searched text" : "取搜索文本",
-		"Get searched wildcards" : "取搜索通配符"
+		"Get index building progression" : "获取索引建立进度",
+		"Get result file name" : "获取返回文件名",
+		"Get result line number" : "获取返回行号",
+		"Get result position in line" : "获取返回行位置",
+		"Get searched directory" : "获取搜索目录",
+		"Get searched text" : "获取搜索文本",
+		"Get searched wildcards" : "获取搜索通配符"
 	}
 }

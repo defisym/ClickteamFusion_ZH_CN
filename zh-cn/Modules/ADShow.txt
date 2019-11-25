@@ -64,14 +64,14 @@
 	},
 	"menu_20002" : {
 		"Expressions" : "表达式",
-		"Get Current Position" : "取当前位置",
-		"Get Duration" : "取播放时长",
-		"Get Height" : "取高度",
-		"Get Rate" : "取播放速度",
-		"Get Source Height" : "取源高度",
-		"Get Source Width" : "取源宽度",
-		"Get Volume" : "取音量",
-		"Get Width" : "取宽度",
+		"Get Current Position" : "获取当前位置",
+		"Get Duration" : "获取播放时长",
+		"Get Height" : "获取高度",
+		"Get Rate" : "获取播放速度",
+		"Get Source Height" : "获取源高度",
+		"Get Source Width" : "获取源宽度",
+		"Get Volume" : "获取音量",
+		"Get Width" : "获取宽度",
 		"Size" : "大小"
 	}
 }

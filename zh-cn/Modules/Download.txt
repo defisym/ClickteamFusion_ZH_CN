@@ -44,7 +44,7 @@
 		"Current download position" : "当前下载位置",
 		"Current speed (bytes per second)" : "当前速度 (字节/秒)",
 		"Estimated download time" : "估计下载时间",
-		"Get file size (without download)" : "取文件大小",
+		"Get file size (without download)" : "获取文件大小",
 		"Total file size" : "全部文件大小"
 	}
 }

@@ -40,12 +40,12 @@
 		"Is visible ?" : "可见？"
 	},
 	"menu_20002" : {
-		"Get X position" : "取X位置",
-		"Get Y position" : "取Y位置",
-		"Get picture name" : "取图片名称",
-		"Get picture original x size" : "取图片原始X",
-		"Get picture original y size" : "取图片原始Y",
-		"Get picture screen x size" : "取图片在屏幕上的X",
-		"Get picture screen y size" : "取图片在屏幕上的Y"
+		"Get X position" : "获取X位置",
+		"Get Y position" : "获取Y位置",
+		"Get picture name" : "获取图片名称",
+		"Get picture original x size" : "获取图片原始X",
+		"Get picture original y size" : "获取图片原始Y",
+		"Get picture screen x size" : "获取图片在屏幕上的X",
+		"Get picture screen y size" : "获取图片在屏幕上的Y"
 	}
 }

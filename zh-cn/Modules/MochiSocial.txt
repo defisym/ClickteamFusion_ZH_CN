@@ -37,9 +37,9 @@
 		"User not logged in" : "用户未登陆"
 	},
 	"menu_20002" : {
-		"Get player name" : "取玩家名",
-		"Get player profile image URL" : "取玩家简介图像网址",
-		"Get player unique identifier" : "取玩家唯一标识符",
-		"Get user data read value" : "取用户数据读取值"
+		"Get player name" : "获取玩家名",
+		"Get player profile image URL" : "获取玩家简介图像网址",
+		"Get player unique identifier" : "获取玩家唯一标识符",
+		"Get user data read value" : "获取用户数据读取值"
 	}
 }

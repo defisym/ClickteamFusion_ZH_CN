@@ -51,6 +51,6 @@
 
 		"Error String" : "错误字符串",
 		"Error Value" : "错误值",
-		"Get Status" : "取状态"
+		"Get Status" : "获取状态"
 	}
 }

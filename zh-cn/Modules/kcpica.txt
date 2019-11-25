@@ -117,20 +117,20 @@
 		"Is wrap mode ON ?" : "Is wrap mode ON ?"
 	},
 	"menu_20002" : {
-		"Get Angle" : "取角度",
-		"Get Horizontal Offset" : "取水平偏移",
-		"Get Horizontal Zoom Factor" : "取水平缩放系数",
-		"Get Hot Spot X" : "取热点X",
-		"Get Hot Spot Y" : "取热点Y",
-		"Get Original Height" : "取源高度",
-		"Get Original Width" : "取源宽度",
-		"Get Resized Height" : "取重调整高度",
-		"Get Resized Width" : "取重调整宽度",
-		"Get Screen Height" : "取屏幕高度",
-		"Get Screen Width" : "取屏幕宽度",
-		"Get Semitransparency ratio" : "取半透明比例",
-		"Get Vertical Offset" : "取垂直偏移",
-		"Get Vertical Zoom Factor" : "取垂直缩放系数",
-		"Get picture name" : "取图片名"
+		"Get Angle" : "获取角度",
+		"Get Horizontal Offset" : "获取水平偏移",
+		"Get Horizontal Zoom Factor" : "获取水平缩放系数",
+		"Get Hot Spot X" : "获取热点X",
+		"Get Hot Spot Y" : "获取热点Y",
+		"Get Original Height" : "获取源高度",
+		"Get Original Width" : "获取源宽度",
+		"Get Resized Height" : "获取重调整高度",
+		"Get Resized Width" : "获取重调整宽度",
+		"Get Screen Height" : "获取屏幕高度",
+		"Get Screen Width" : "获取屏幕宽度",
+		"Get Semitransparency ratio" : "获取半透明比例",
+		"Get Vertical Offset" : "获取垂直偏移",
+		"Get Vertical Zoom Factor" : "获取垂直缩放系数",
+		"Get picture name" : "获取图片名"
 	}
 }

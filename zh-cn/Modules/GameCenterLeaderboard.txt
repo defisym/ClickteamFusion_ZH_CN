@@ -50,8 +50,8 @@
 	"menu_20000" : {
 		"Actions" : "动作",
 		"Display default leaderboard" : "显示默认排行榜",
-		"Get leaderboard title" : "取排行榜标题",
-		"Get list of scores and names" : "取分数和名称列表",
+		"Get leaderboard title" : "获取排行榜标题",
+		"Get list of scores and names" : "获取分数和名称列表",
 		"Leaderboard" : "排行榜",
 		"Send local player score" : "发送本地玩家得分",
 		"Set TimeScope" : "置时间范围",

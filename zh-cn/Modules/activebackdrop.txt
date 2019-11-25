@@ -33,8 +33,8 @@
 	},
 	"menu_20002" : {
 		"Expressions" : "表达式",
-		"Get X coordinate" : "取X坐标",
-		"Get Y coordinate" : "取Y坐标",
-		"Get image number" : "取图像编号"
+		"Get X coordinate" : "获取X坐标",
+		"Get Y coordinate" : "获取Y坐标",
+		"Get image number" : "获取图像编号"
 	}
 }

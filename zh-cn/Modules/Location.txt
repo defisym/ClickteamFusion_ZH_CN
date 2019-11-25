@@ -23,7 +23,7 @@
 	},
 	"menu_20000" : {
 		"Actions" : "操作",
-		"Get location" : "取位置",
+		"Get location" : "获取位置",
 		"Set accuracy" : "置精度",
 		"Set distance filter" : "置距离过滤器"
 	},

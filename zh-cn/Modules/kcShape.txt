@@ -4,7 +4,7 @@
 	"general" : {
 		"00Disable" : "00禁用",
 		"00Enable" : "00启用",
-		"00Get picture file from selector" : "00从选择器取图片文件",
+		"00Get picture file from selector" : "00从选择器获取图片文件",
 		"00Set elliptical shape" : "00设置椭圆形状",
 		"00Set standard shape" : "00设置标准形状",
 		"01Set rounded rectangle shape (%s,%s)" : "01设置圆角矩形形状 (%s,%s)",

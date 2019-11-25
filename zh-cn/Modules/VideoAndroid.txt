@@ -102,14 +102,14 @@
 	"menu_20002" : {
 
 		"Error Number" : "错误编号",
-		"Get Frame Height" : "取窗口高度",
-		"Get Frame Width" : "取窗口宽度",
-		"Get Position" : "取位置",
-		"Get Video Duration" : "取视频时长",
-		"Get Video Filename" : "取视频文件名",
-		"Get Video Height" : "取视频高度",
-		"Get Video URL" : "取视频网址",
-		"Get Video Width" : "取视频宽度",
+		"Get Frame Height" : "获取窗口高度",
+		"Get Frame Width" : "获取窗口宽度",
+		"Get Position" : "获取位置",
+		"Get Video Duration" : "获取视频时长",
+		"Get Video Filename" : "获取视频文件名",
+		"Get Video Height" : "获取视频高度",
+		"Get Video URL" : "获取视频网址",
+		"Get Video Width" : "获取视频宽度",
 		"Position to HMS" : "HMS的位置"
 	},
 }

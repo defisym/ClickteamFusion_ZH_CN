@@ -2,7 +2,7 @@
 	"version" : 1,
 	"lang" : 2052,
 	"general" : {
-		"00Get row" : "00取行",
+		"00Get row" : "00获取行",
 		"00New statement" : "00新建数据库操作对象",
 		"00Select a data source" : "00选择数据源",
 		"00Select a data source via a selector" : "00通过选择器选择一个数据源",
@@ -23,7 +23,7 @@
 		"Setup ODBC object" : "设置ODBC 对象"
 	},
 	"menu_20000" : {
-		"Get row" : "取行",
+		"Get row" : "获取行",
 		"New statement" : "新建数据库操作对象",
 		"Select data source" : "选择数据源",
 		"Select data source via a selector" : "通过选择器选择一个数据源",
@@ -34,10 +34,10 @@
 		"Can get data ?" : "能获得数据？"
 	},
 	"menu_20002" : {
-		"Get columns count" : "取列数",
-		"Get name of column" : "取列名称",
-		"Get number in column" : "取列里的数字",
-		"Get rows count" : "取总行数",
-		"Get text in column" : "取列里的文本"
+		"Get columns count" : "获取列数",
+		"Get name of column" : "获取列名称",
+		"Get number in column" : "获取列里的数字",
+		"Get rows count" : "获取总行数",
+		"Get text in column" : "获取列里的文本"
 	}
 }
