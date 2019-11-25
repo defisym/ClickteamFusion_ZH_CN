@@ -35,7 +35,7 @@
 		"Set Angle to %0°" : "置角度为 %0 °",
 		"Set Horizontal Offset to %0" : "置水平偏移为 %0",
 		"Set Hot Spot to (%0, %1)" : "置热点为 (%0, %1)",
-		"Set Hot Spot to bottom-center" : "置热点为中下",
+		"Set Hot Spot to bottom-center" : "置热点为底部中央",
 		"Set Hot Spot to bottom-left" : "置热点为左下",
 		"Set Hot Spot to bottom-right" : "置热点为右下",
 		"Set Hot Spot to center" : "置热点为居中",

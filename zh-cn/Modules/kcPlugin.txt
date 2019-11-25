@@ -61,7 +61,7 @@
 		"&Download" : "下载(&D)",
 		"&Javascript" : "&Javascript",
 		"Browser name" : "浏览名",
-		"Build number" : "编译编号",
+		"Build number" : "版本号",
 		"Current URL" : "当前URL",
 		"Get Float Result" : "取返回浮点数",
 		"Get Integer Result" : "取返回整数",

@@ -21,7 +21,7 @@ Clickteam Fusion 2.5非官方汉化
 #### 修订
 
 - Defisym
-- 阿撒
+- 阿撒 (CallOfAS)
 
 #### 原始翻译
 

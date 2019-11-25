@@ -6,7 +6,7 @@
 		"%o: Button clicked" : "%o:按钮点击?",
 		"%o: Button is visible" : "%o: 按钮可见",
 		"Add contact" : "添加联系人",
-		"Bottom" : "下",
+		"Bottom" : "底部",
 		"Button text" : "按钮文本",
 		"Button type" : "按钮类型",
 		"Button's images" : "按钮图像",

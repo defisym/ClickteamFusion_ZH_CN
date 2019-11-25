@@ -40,7 +40,7 @@
 		"11%s: current tab %s" : "11%s: 当前选项卡 %s",
 		"11%s: selected item of combo box %s %s" : "11%s: 组合框 %s 的选中项 %s",
 		"11%s: selected item of list box %s %s" : "11%s: 列表框 %s 的选中项 %s",
-		"Align Bottom Borders" : "对齐底边",
+		"Align Bottom Borders" : "底端对齐",
 		"Align Centers" : "对齐居中",
 		"Align Left Borders" : "对齐左边",
 		"Align Right Borders" : "对齐右边",

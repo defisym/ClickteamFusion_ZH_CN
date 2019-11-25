@@ -110,7 +110,7 @@
 		"The following object cannot be created: \"%s\".\n\nDo you want to continue anyway?" : "以下对象无法创建: \"%s\"\n\n继续吗？",
 		"The following object cannot be created: \"%s\".\nError message reported: %s\n\nDo you want to continue anyway?" : "以下对象无法创建: \"%s\"\n错误消息报告: %s\n\n继续吗？",
 		"There is not enough available space in the temporary drive. Free some disk space and try again." : "没有足够的可用空间在临时驱动器。释放一些磁盘空间，然后再试一次。",
-		"This application has been built with an incompatible version of Clickteam Fusion." : "此应用程序使用不兼容的Clickteam Fusion版本构建。",
+		"This application has been built with an incompatible version of Clickteam Fusion." : "此应用程序使用不兼容的Clickteam Fusion版本生成。",
 		"This file is not a MMF application position file." : "此文件不是MMF程序位置文件",
 		"This file was not saved by this application." : "此文件未通过此程序保存。",
 		"This file was saved by a incompatible version of the application." : "此文件通过不兼容的程序版本保存",

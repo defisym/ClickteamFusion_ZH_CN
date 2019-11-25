@@ -18,11 +18,11 @@
 		"00Set subdirectories search on" : "00查找子目录 开",
 		"00Set whole word search off" : "00全词匹配 关",
 		"00Set whole word search on" : "00全词匹配 开",
-		"00Stop build index" : "00停止构建索引",
+		"00Stop build index" : "00停止建立索引",
 		"00Stop searching" : "00停止查找",
 		"00Text found" : "00找到文本",
 		"00Whole word search" : "00全词匹配",
-		"01Build index for %s" : "01%s 构建索引",
+		"01Build index for %s" : "01%s 建立索引",
 		"01Find text %s" : "01查找文本 %s",
 		"01Load index %s" : "01载入索引 %s",
 		"01Save index %s" : "01保存索引 %s",
@@ -47,7 +47,7 @@
 		"Wildcards" : "通配符"
 	},
 	"menu_20000" : {
-		"Build index" : "构建索引",
+		"Build index" : "建立索引",
 		"Case search" : "区分大小写",
 		"Find first entry in index" : "查找索引的第一项",
 		"Find next" : "查找下一个",
@@ -65,12 +65,12 @@
 		"Set search directory" : "置搜索目录",
 		"Set search files wildcards" : "设置搜索文件的通配符",
 		"Simple search" : "简单搜索",
-		"Stop building index" : "停止构建索引",
+		"Stop building index" : "停止建立索引",
 		"Stop searching" : "停止搜索",
 		"Whole word search" : "搜索全词"
 	},
 	"menu_20001" : {
-		"Building index ?" : "构建索引中？",
+		"Building index ?" : "建立索引中？",
 		"Case search ?" : "区分大小写？",
 		"Index Built ?" : "索引建立？",
 		"Search in progress ?" : "搜索中？",
