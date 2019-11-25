@@ -8,7 +8,7 @@
         "Comment": "提供控制OUYA",
         "URL": "http://www.clickteam.com",
         "Help": "OUYA.chm",
-        "Identifier": "OUYA",
+        "Identifier": "OUYA"
     },
 
     "ActionMenu":
@@ -16,7 +16,7 @@
         ["IAP",
             [0, "IAP初始化"],
             [1, "设置当前产品"],
-            [2, "购买当前产品"],
+            [2, "购买当前产品"]
         ],
        "Separator",
         [3, "定义触摸板为主面板"]

@@ -88,7 +88,7 @@
 		"Video Filename" : "视频文件名",
 		"Video Resource name" : "视频资源名",
 		"Video URL" : "视频网址",
-		"Set Video Controller": "置视频控制器",
+		"Set Video Controller": "置视频控制器"
 	},
 	"menu_20001" : {
 
@@ -111,5 +111,5 @@
 		"Get Video URL" : "获取视频网址",
 		"Get Video Width" : "获取视频宽度",
 		"Position to HMS" : "HMS的位置"
-	},
+	}
 }
