@@ -974,7 +974,7 @@
 			"2172" : "控制"
 			
 		},
-		"Controlled by an extension" : "由插件控制",
+		"Controlled by an extension" : "由扩展控制",
 		"Conversions" : "转换",
 		"Convert float to string" : "将浮点数转换为字符串",
 		"Convert number to string" : "将数字转换为字符串",
@@ -1447,7 +1447,7 @@
 		"Extension Filename" : "扩展文件名",
 		"Extension Info" : "扩展信息",
 		"Extension Name" : "扩展名称",
-		"Extensions that are available for the Developer version only" : "扩展仅开发者版本可以使用",
+		"Extensions that are available for the Developer version only" : "该扩展仅开发者版本可以使用",
 		"Extract binary file" : "提取内嵌文件",
 		"Extract binary file %0" : "提取内嵌文件 %0",
 		"Extract left sub-string" : "提取字符串左边",
@@ -3092,7 +3092,7 @@
 		"Third static text displayed in the wizard page." : "向导页面中显示第三个静态文本。",
 		"Third static text displayed in the wizard page. This text is displayed above the \"Launch\" check box if you selected a file to launch after exiting the install program." : "向导页面中显示第三个静态文本。此文本显示在'启动'复选框的上面。在安装程序退出后如果你选择一个文件去启动。",
 		"This animation requires %d Kb of memory. It may take a long time to import.\n\nDo you want to continue?" : "此动画需要%d Kb的内存。 它可能需要一段时间来导入。\n\n你想继续？",
-		"This application has been saved with the Unicode version of following extensions:\n\r\n\r%s\n\rInstall the Unicode version of these extensions and then restart the program." : "此程序已保存对于以下Unicode版本的扩展 :\n\r\n\r%s\n\r 安装这些Unicode版本的扩展并启动程序。",
+		"This application has been saved with the Unicode version of following extensions:\n\r\n\r%s\n\rInstall the Unicode version of these extensions and then restart the program." : "该应用程序使用了以下扩展的Unicode版本 :\n\r\n\r%s\n\r 安装这些扩展并重启应用程序",
 		"This application requires the following extensions :\n\r\n\r%s\n\rInstall these extensions and then click Retry." : "此程序需要以下扩展 :\n\r\n\r%s\n\r安装这些扩展并点击重试。",
 		"This disk contains files. These files will not be removed. Click OK to continue." : "该磁盘包含的文件。这些文件将不会被删除。单击确定按钮继续。",
 		"This exporter needs the following program: %s.\n\nPlease install it if it's not already installed, click OK and then select its directory in the selector." : "此导出工具需要以下程序: %s 。如果它尚未安装请安装它，单击确定，然后在选择里选择它的目录。",
