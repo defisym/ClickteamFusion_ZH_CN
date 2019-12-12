@@ -32,6 +32,10 @@ Clickteam Fusion 2.5非官方汉化
 
 ## Changelogs
 
+### 20191212
+
+- 初步完成了Layer Object翻译的修订
+
 ### 20191124
 
 - 完成了R292.16新增条目的汉化
