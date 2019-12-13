@@ -16,6 +16,7 @@
 		"Add a new child event" : "新規子イベントを追加",
 		"All applications" : "すべてのアプリケーション",
 		"All frames of current application" : "現在のアプリケーションのすべてのフレーム",
+		"Allow alterable values for counters and strings" : "カウンターと文字列の変数を許可",
 		"Allows you to customize qualifiers names and icons for this application." : "オブジェクトグループの名前とこのアプリケーションのアイコンをカスタマイズできます。",
 		"Application %s, Frame %s, behaviors..." : "アプリケーション %s, フレーム %s, オブジェクトグループ...",
 		"Application %s, Frame %s, events..." : "アプリケーション %s, フレーム %s, イベント...",
@@ -44,6 +45,7 @@
 		"Event line #%d, Comment" : "イベント行 #%d, コメント",
 		"Event line #%d, Condition #%d" : "イベント行 #%d, 条件 #%d",
 		"Event line #%d, Group" : "イベント行 #%d, グループ",
+		"Event order" : "イベント順",
 		"Events" : "イベント",
 		"Find" : "検索",
 		"Find occurrences of %s in all applications..." : "すべてのアプリケーションで %s のオカレンスを検索...",
@@ -90,10 +92,6 @@
 		"Unselect this option if you want to start/end profiling the application manually with profiling actions." : "解析のアクションを使って手動でアプリケーションの解析を開始/終了したい場合はこのオプションを選択しないでください。",
 		"Without this option counters and strings have no alterable values, strings, nor flags." : "...",
 		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows のみ] このオプションを選択するとサウンドの開始が少し遅延します。 「サウンドを再生」アクション実行後速やかにサウンドを開始する必要がある場合は選択しないでください。",
-
-		"_TODO_" : "the following strings need to be translated",
-		"Allow alterable values for counters and strings" : "",
-		"Event order" : "",
 		"Export as text" : ""
 	},
 	"dialog_2007" : {
@@ -121,10 +119,5 @@
 		"Object names" : "オブジェクト名",
 		"Objects" : "オブジェクト",
 		"Qualifiers" : "オブジェクトグループ"
-	},
-	"_details_" : {
-		"Number_of_translated_lines" : 112,
-		"Number_of_untranslated_lines" : 3,
-		"Number_of_untranslated_words" : 12
 	}
 }

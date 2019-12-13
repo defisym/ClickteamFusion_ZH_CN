@@ -978,6 +978,7 @@
 		},
 		"Controlled by an extension" : "エクステンションでコントロール",
 		"Conversions" : "変換",
+		"Convert OGG sounds to MP3 at build time" : "ビルド時に OGG サウンドを MP3 に変換",
 		"Convert float to string" : "浮動少数を文字列に変換",
 		"Convert number to string" : "数字を文字列に変換",
 		"Convert string to lower case" : "文字列を小文字に変換",
@@ -1177,6 +1178,7 @@
 		"Display tutorial" : "チュートリアルを表示",
 		"Displayed below the directory name." : "ディレクトリ名の下に表示されます。",
 		"Displays a multiple-choice question on the screen and allows the user to select an answer." : "多肢選択問題を画面に表示し、ユーザーに回答を選択させます。",
+		"Displays and handles the joystick as a D-pad. If this option is checked, the D-pad images Up/Down/Left/Right are used instead of the Front/Back images." : "ジョイスティックを D-pad として表示し、処理します。 このオプションが有効の場合、ジョイスティックの前/後 画像の代わりに、D-pad の上/下/左/右 画像が使用されます。",
 		"Displays the iAd advertisement, only if iAd is enabled in the iOS properties of the application" : "アプリケーションの iOS プロパティで iAd が有効の場合のみ、 iAd 広告を表示します。",
 		"Displays the number of lives that each player has left in a game." : "各プレイヤーがゲームで所持している残りのライフの数を表示します。",
 		"Dissolving" : "ディゾルブ",
@@ -1207,6 +1209,7 @@
 		"Don't restrict at bounds" : "境界で制限しない",
 		"Doors" : "扉",
 		"Down" : "下",
+		"Down (pressed)" : "下 (押下)",
 		"Down Arrow" : "下矢印",
 		"Download error, please retry!" : "ダウンロードエラー。 再試行してください！",
 		"Download failed." : "ダウンロードに失敗しました。",
@@ -1413,6 +1416,7 @@
 		"Error: cannot connect to the Internet." : "エラー: インターネットに接続できません。",
 		"Error: cannot copy APK file to destination directory." : "エラー: APK ファイルを保存先ディレクトリにコピーできません。",
 		"Error: cannot create temporary file." : "エラー: テンポラリファイルを作成できません。",
+		"Error: cannot use this bitrate for sound '%s'." : "エラー: サウンド '%s’ にこのビットレートは使用できません。",
 		"Error: no signed APK file was built, verify the key store path and key name in the Android settings of your application." : "エラー: 署名されていない APK ファイルがビルドされました。 アプリケーションの Android 設定でキー保存パスおよびキー名が正しいか確認してください。",
 		"Error: the following icon file is not in the source directory:" : "エラー:次のアイコンファイルがソースディレクトリに存在していません:",
 		"Escape" : "Escape",
@@ -1927,6 +1931,7 @@
 		"Leaves in the right ?" : "右から消える",
 		"Leaves in the top ?" : "上から消える",
 		"Left" : "左",
+		"Left (pressed)" : "左 (押下)",
 		"Left Arrow" : "左矢印",
 		"Left handed" : "左利き",
 		"Left pressed" : "左押下時",
@@ -2599,6 +2604,7 @@
 		"Reverse at End" : "終点で反転",
 		"Rewind" : "巻き戻し",
 		"Right" : "右",
+		"Right (pressed)" : "右 (押下)",
 		"Right Arrow" : "右矢印",
 		"Right pressed" : "右押下時",
 		"Right$( >Enter string here<, >Enter number of characters< )" : "Right$( >文字列を入力<, >文字数を入力< )",
@@ -3256,6 +3262,7 @@
 		"Untitled" : "無題",
 		"Untitled.txt" : "Untitled.txt",
 		"Up" : "上",
+		"Up (pressed)" : "上 (押下)",
 		"Up + Left/Right Arrow" : "上 + 左/右矢印",
 		"Up Arrow" : "上矢印",
 		"Update" : "更新",
@@ -3562,16 +3569,7 @@
 		"when installer exits" : "インストーラ終了時",
 		"while end page is displayed" : "最後のページが表示されている間",
 		"x:888888, y:888888" : "x:888888, y:888888",
-		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲",
-
-		"_TODO_" : "the following strings need to be translated",
-		"Convert OGG sounds to MP3 at build time" : "",
-		"Displays and handles the joystick as a D-pad. If this option is checked, the D-pad images Up/Down/Left/Right are used instead of the Front/Back images." : "",
-		"Down (pressed)" : "",
-		"Error: cannot use this bitrate for sound '%s'." : "",
-		"Left (pressed)" : "",
-		"Right (pressed)" : "",
-		"Up (pressed)" : ""
+		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲"
 	},
 	"dialog_100" : {
 		"&Buy Now !" : "今すぐ購入！(&B)",
@@ -3625,13 +3623,11 @@
 		"&Play from disk" : "ディスクから再生(&P)",
 		"&Preload" : "プリロード(&P)",
 		"&Replace" : "入れ替え(&R)",
+		"Convert to..." : "変換...",
 		"E&xtract" : "抽出(&X)",
 		"List1" : "List1",
 		"Options" : "オプション",
-		"Sounds" : "サウンド",
-
-		"_TODO_" : "the following strings need to be translated",
-		"Convert to..." : ""
+		"Sounds" : "サウンド"
 	},
 	"dialog_200" : {
 		"&Add" : "追加(&A)",
@@ -6460,10 +6456,5 @@
 		"Output" : "Output",
 		"Sou&rce directory" : "ソースディレクトリ(&R)",
 		"Texts" : "テキスト"
-	},
-	"_details_" : {
-		"Number_of_translated_lines" : 5858,
-		"Number_of_untranslated_lines" : 8,
-		"Number_of_untranslated_words" : 50
 	}
 }
