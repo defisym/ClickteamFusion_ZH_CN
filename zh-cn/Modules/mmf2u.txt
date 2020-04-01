@@ -105,7 +105,7 @@
 		"(%i,%i) from %s" : "相对于%s的(%i,%i)",
 		"(%i,%i) layer %i" : "(%i,%i) 图层 %i",
 		"(%li)" : "(%li)",
-		"(Build %s%d.%d)" : "(生成 %s%d.%d)",
+		"(Build %s%d.%d)" : "(%s%d.%d)",
 		"(deleted frame, please replace action)" : "(该场景已被删除)",
 		"(not an obstacle)" : "(不是障碍物)",
 		"* More in Action Editor (%i actions left)" : "更多的动作编辑(剩余 %i 个动作)",
