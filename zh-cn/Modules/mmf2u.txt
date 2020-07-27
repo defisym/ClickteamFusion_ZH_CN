@@ -3967,7 +3967,7 @@
 		"Any" : "任意",
 		"Cancel" : "取消",
 		"Create new object" : "创建新对象",
-		"Current" : "当前颜色",
+		"Current" : "当前平台",
 		"Html5" : "Html5",
 		"List1" : "List1",
 		"Mac" : "Mac",
