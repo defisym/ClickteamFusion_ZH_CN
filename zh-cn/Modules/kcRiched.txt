@@ -2,7 +2,7 @@
 	"version" : 1,
 	"lang" : 2052,
 	"general" : {
-		"0 : no case, 1 : case sensitive, 2 : whole word, 3 : both" : "0 :不分大小写，1 : 区分大小写， 2 : 全词匹配, 3 : 二者",
+		"0 : no case, 1 : case sensitive, 2 : whole word, 3 : both" : "0 :不分大小写，1 : 区分大小写， 2 : 全字匹配, 3 : 二者",
 		"00Align paragraph to the left" : "00段落左对齐",
 		"00Align paragraph to the right" : "00段落右对齐",
 		"00Bold off" : "00粗体 关",
