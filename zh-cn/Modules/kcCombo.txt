@@ -57,7 +57,7 @@
 		"Enter the data to store" : "输入保存的数据",
 		"Enter the index of the line" : "输入行的索引",
 		"Enter the new text" : "输入新文本",
-		"Flag" : "开关",
+		"Flag" : "标志",
 		"Hide on start" : "开始时隐藏",
 		"Hides the Combo box at start of frame" : "场景开始时隐藏下拉列表",
 		"If selected, first item will be number one. Number zero if not." : "如果选择，首个项目是编号1，否则是0",

@@ -45,7 +45,7 @@
 		"MPEG object" : "MPEG 对象",
 		"Name of video file" : "视频文件名",
 		"Play at start" : "开始时播放",
-		"Plays MPEG files. Note: you should use the AVI or DirectShow object rather than this object." : "播放MPEG文件。注意：你应该使用AVI或DirectShow对象而不是此对象",
+		"Plays MPEG files. Note: you should use the AVI or DirectShow object rather than this object." : "播放MPEG文件。注意 : 你应该使用AVI或DirectShow对象而不是此对象",
 		"Please install MPEG drivers on your machine first." : "请首先在你的机器上安装MPEG驱动程序",
 		"Please select an MPEG file" : "请选择一个MPEG文件",
 		"Please, enter a valid MPEG filename." : "请输入一个有效的MPEG文件名。",

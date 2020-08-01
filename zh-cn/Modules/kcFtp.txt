@@ -115,7 +115,7 @@
 		"Set Current directory" : "置当前目录",
 		"Show a progress bar" : "显示进度条",
 		"Show progress window" : "显示进度窗口",
-		"System registry entries have been removed and the INI file (if any) was deleted." : "系统注册表项已被删除并且INI文件（如果有）被删除",
+		"System registry entries have been removed and the INI file (if any) was deleted." : "系统注册表项已被删除并且INI文件(如果有)被删除",
 		"The file is too large to open." : "打开的文件太大",
 		"This program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s." : "此程序连接到缺失的导出%s在文件%s，此机器可能有%s不兼容版本",
 		"This program requires the file %s, which was not found on this system." : "此程序需要文件%s,但是在系统上找不到",

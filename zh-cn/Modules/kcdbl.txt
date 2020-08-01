@@ -2,7 +2,7 @@
 	"version" : 1,
 	"lang" : 2052,
 	"general" : {
-		"Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only." : "允许您对双精度浮点数（16位有效数字）进行简单计算。 仅适用于Pro版本.",
+		"Allows you to perform simple calculations on double-precision floating point numbers (16 significant digits). For Pro version only." : "允许您对双精度浮点数(16位有效数字)进行简单计算。 仅适用于Pro版本.",
 		"Double-Precision Calculator" : "双精度计算器",
 		"Double-Precision Calculator object" : "双精度计算器对象",
 		"Enter the number of digits" : "输入位数",

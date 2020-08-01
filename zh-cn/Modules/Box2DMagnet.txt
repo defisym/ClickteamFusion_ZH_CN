@@ -14,7 +14,7 @@
 		"Enter the directions where the magnet will have effect" : "Enter the directions where the magnet will have effect",
 		"Enter the height of the object" : "Enter the height of the object",
 		"Enter the identifier of the engine if multiple engines are used on the same frame." : "Enter the identifier of the engine if multiple engines are used on the same frame.",
-		"Enter the strength of the magnet (0-100)" : "输入力度（0～100）",
+		"Enter the strength of the magnet (0-100)" : "输入力度(0～100)",
 		"Enter the strength of the magnet, from 0 to 100" : "输入力度  0 ～ 100",
 		"Enter the width of the object" : "Enter the width of the object",
 		"Physics - Magnet" : "物理 - 磁铁",

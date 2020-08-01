@@ -63,7 +63,7 @@
 		"Enter the data to store" : "输入数据去保存",
 		"Enter the index of the line" : "输入行的索引",
 		"Enter the new text" : "输入新文本",
-		"Flag" : "开关",
+		"Flag" : "标志",
 		"Grouped style" : "组合样式",
 		"Hide on start" : "开始时隐藏",
 		"Hides the object at start of frame" : "场景开始时隐藏对象",

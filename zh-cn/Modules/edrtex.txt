@@ -47,7 +47,7 @@
 		"Execute" : "执行",
 		"File error!" : "文件错误",
 		"Fixed value: %d" : "固定值 : %d",
-		"Flags" : "开关",
+		"Flags" : "标志",
 		"Frame %d" : "场景 %d",
 		"Frame number: %i" : "场景编号: %i",
 		"Frames per second: %i" : "每秒帧数: %i",
@@ -138,10 +138,10 @@
 	},
 	"dialog_101" : {
 		"Cancel" : "取消",
-		"Change flag's value" : "改变开关值",
+		"Change flag's value" : "改变标志值",
 		"FALSE" : "假",
 		"OK" : "OK",
-		"Please enter the new value of the flag" : "输入开关新值",
+		"Please enter the new value of the flag" : "输入标志新值",
 		"TRUE" : "真"
 	},
 	"dialog_102" : {

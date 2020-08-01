@@ -58,7 +58,7 @@
 		"Enter new line height" : "输入新的行高度",
 		"Enter the column number of the bottom right cell to select" : "输入要选择的右下方单元格的列号",
 		"Enter the column number of the top left cell to select" : "输入要选择的左上方单元格的列号",
-		"Enter the delimitor (empty string for TAB)" : "输入分隔符（TAB为空字符）",
+		"Enter the delimitor (empty string for TAB)" : "输入分隔符(TAB为空字符)",
 		"Enter the line number of the bottom right cell to select" : "输入要选择的右下方单元格的行号",
 		"Enter the line number of the top left cell to select" : "输入要选择的左上方单元格的行号",
 		"Enter the name of the file" : "输入文件名",

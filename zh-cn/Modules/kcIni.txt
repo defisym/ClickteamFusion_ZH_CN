@@ -11,7 +11,7 @@
 		"01Set item value %s" : "01设置项目的值为 %s",
 		"A file without path will be created in the system folder, a file with a path will be created at the given location" : "A file without path will be created in the system folder, a file with a path will be created at the given location",
 		"Allows you to store and retrieve any value or text to/from .INI files." : "允许你存储和获取任意值或文本 .ini文件",
-		"Check this box to create the INI file in the user's Application Data folder (MMFApplications sub-directory)" : "选中此框来创建ini文件到用户的程序文件夹（MMF程序的子目录）",
+		"Check this box to create the INI file in the user's Application Data folder (MMFApplications sub-directory)" : "选中此框来创建ini文件到用户的程序文件夹(MMF程序的子目录)",
 		"Create INI file in Application Data folder" : "在程序数据文件夹里创建INI文件",
 		"Current file: %s" : "当前文件: %s",
 		"Current group: %s" : "当前组: %s",

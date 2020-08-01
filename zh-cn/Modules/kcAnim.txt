@@ -45,7 +45,7 @@
 		"Number of frames: %i  " : "帧数量: %i  ",
 		"Options" : "选项",
 		"Play from disk" : "从磁盘播放",
-		"Play the file directly from disk (saves memory)" : "从磁盘直接播放文件（节省内存）",
+		"Play the file directly from disk (saves memory)" : "从磁盘直接播放文件(节省内存)",
 		"Plays animation files (FLI, GIF, AVI)." : "播放动画文件 (FLI, GIF, AVI)",
 		"Restart the animation at the end" : "动画结束后重新播放",
 		"Select an animation" : "选择动画",

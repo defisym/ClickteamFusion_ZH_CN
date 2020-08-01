@@ -2,7 +2,7 @@
 	"version" : 1,
 	"lang" : 2052,
 	"general" : {
-		"Allows you to retrieve system information (user name, language, environment variables, etc.). For Pro version only." : "允许您获取系统信息（用户名，语言，环境变量等）。 仅适用于Pro版本。",
+		"Allows you to retrieve system information (user name, language, environment variables, etc.). For Pro version only." : "允许您获取系统信息(用户名，语言，环境变量等)。 仅适用于Pro版本。",
 		"Computer langage: %i   " : "计算机的语言: %i   ",
 		"Computer name: %s" : "计算机的名称: %s",
 		"Langage name: %s" : "语言名称: %s",

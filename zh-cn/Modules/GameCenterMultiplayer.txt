@@ -13,7 +13,7 @@
 		"Display matchmaking interface" : "显示配对界面",
 		"Enter the data string" : "输入字符串数据",
 		"Enter the group identifier" : "输入组ID",
-		"Enter the index of the player (starting at 0)" : "输入玩家的索引（从0开始）",
+		"Enter the index of the player (starting at 0)" : "输入玩家的索引(从0开始)",
 		"Enter the maximum number of players" : "输入最大玩家人数",
 		"Enter the maximum number of players for your game" : "输入最大玩家人数",
 		"Enter the minimum number of players" : "输入最小玩家人数",
@@ -67,8 +67,8 @@
 		"Get current number of players connected" : "获取当前连接的玩家数量",
 		"Get data" : "获取数据",
 		"Get disconnected player alias" : "断开连接的玩家别名",
-		"Get player alias (from index)" : "获取玩家别名（从索引）",
-		"Get player alias (from last event)" : "获取玩家别名（从最后事件）",
-		"Get player index (from last event)" : "获取玩家索引（从最后事件）"
+		"Get player alias (from index)" : "获取玩家别名(从索引)",
+		"Get player alias (from last event)" : "获取玩家别名(从最后事件)",
+		"Get player index (from last event)" : "获取玩家索引(从最后事件)"
 	}
 }

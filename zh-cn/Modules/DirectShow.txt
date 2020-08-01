@@ -32,7 +32,7 @@
 		"%o: Toggle Full Screen" : "%o: 切换全屏",
 		"AVI Files|*.avi|MIDI Files|*.mid|MPEG Files|*.mpg|MP3 Files|*.mp3|WAV Files|*.wav|WMA Files|*.wma|WMV Files|*.wmv|All Files|*.*|" : "AVI 文件|*.avi|MIDI 文件|*.mid|MPEG 文件|*.mpg|MP3 文件|*.mp3|WAV 文件|*.wav|WMA 文件|*.wma|WMV 文件|*.wmv|所有文件|*.*|",
 		"Allows free resize of the object" : "允许自由改变对象尺寸",
-		"Automatically brings the video window to top after loading a new file. Note: this option doesn't move the application window in front of the other top level windows." : "载入一个新的文件后自动将视频窗口置顶。注：此选项不会移动应用程序窗口前的其他顶层窗口。",
+		"Automatically brings the video window to top after loading a new file. Note: this option doesn't move the application window in front of the other top level windows." : "载入一个新的文件后自动将视频窗口置顶。注 : 此选项不会移动应用程序窗口前的其他顶层窗口。",
 		"Border" : "边框",
 		"Bring video window to top when loading a movie" : "当载入一个影片时将视频窗口置顶",
 		"Chapter Index" : "篇章索引",

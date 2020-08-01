@@ -19,7 +19,7 @@
 		"Clear gestures" : "清除手势",
 		"Enable recognition" : "启用识别",
 		"Enter 1 to turn ON, 0 to turn OFF" : "输入1为开，0为关",
-		"Enter the list of gestures (please see documentation)" : "输入手势的列表（请参见文档）",
+		"Enter the list of gestures (please see documentation)" : "输入手势的列表(请参见文档)",
 		"Enter the maximum number of touches stored in the object." : "输入对象的触摸存储的最大数量",
 		"Enter the name of the gesture" : "手势名称",
 		"Enter the new coordinate" : "新坐标",

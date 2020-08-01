@@ -14,7 +14,7 @@
 		"Elastic zoom to screen horizontal scale %0 in %1ms, factor %2" : "拉伸缩放屏幕水平比例 %0 在 %1毫秒，因素 %2",
 		"Elastic zoom to screen scale %0 in %1ms, factor %2" : "拉伸缩放屏幕比例 %0 在 %1毫秒，因素 %2",
 		"Elastic zoom to screen vertical scale %0 in %1ms, factor %2" : "拉伸缩放屏幕垂直比例 %0 在 %1毫秒，因素 %2",
-		"Enter the angle of the screen, in degrees (0-360)" : "平面角度 （0 ～ 360）",
+		"Enter the angle of the screen, in degrees (0-360)" : "平面角度 (0 ～ 360)",
 		"Enter the duration of one shake, in ms (example: 40)" : "摇晃1次时长 (単位: 毫秒)(例: 40)",
 		"Enter the height of the shake, in pixels" : "摇晃高度(単位: 像素)",
 		"Enter the horizontal coordinate of the point where the hot spot of the screen will be drawn (use 'center' to put it in the middle)" : "Enter the horizontal coordinate of the point where the hot spot of the screen will be drawn (use 'center' to put it in the middle)",

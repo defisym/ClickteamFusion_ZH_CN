@@ -9,7 +9,7 @@
 		"Creates revolute joints between objects." : "创建对象之间的转动关节",
 		"Destroy joint" : "销毁关节",
 		"Engine ID" : "引擎 ID",
-		"Enter the higher limit angle, in degrees (0 - 360)" : "输入最高角度限制 （ 0 ～ 360 ）",
+		"Enter the higher limit angle, in degrees (0 - 360)" : "输入最高角度限制 ( 0 ～ 360 )",
 		"Enter the identifier of the engine to use for the ground." : "Enter the identifier of the engine to use for the ground.",
 		"Enter the lower angle limit. If greater than the higher limit, no limit will be applied." : "Enter the lower angle limit. If greater than the higher limit, no limit will be applied.",
 		"Enter the lower limit angle, in degrees (0 - 360)" : "Enter the lower limit angle, in degrees (0 - 360)",
