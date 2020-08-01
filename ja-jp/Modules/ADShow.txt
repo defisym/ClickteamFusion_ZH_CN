@@ -35,6 +35,8 @@
 		"Stretch" : "引き伸ばし",
 		"Title number" : "タイトル番号",
 		"Total duration: %i" : "合計時間: %i",
+		"Use Media Foundation API instead of Direct Show in DirectX 11 mode." : "DirectX 11 モードで Direct Show の代わりに Media Foundation API を使用します。",
+		"Use Media Foundation with DirectX 11" : "DirectX 11 で Media Foundation を使用",
 		"Volume: %i" : "音量: %i",
 		"Volume: 0 to 1000" : "音量: 0 - 1000",
 		"Width" : "幅"
