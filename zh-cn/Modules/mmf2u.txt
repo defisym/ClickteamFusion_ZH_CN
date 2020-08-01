@@ -4394,14 +4394,14 @@
 	"dialog_8012" : {
 		"Do not show this message again" : "不重复显示此信息",
 		"How to do..." : "如何做...",
-		"Important: You must set the hot spot of an object to its feet when using platform movement." : "重要 : 当使用平台运动时，必须为对象的脚设置热点。",
+		"Important: You must set the hot spot of an object to its feet when using platform movement." : "重要 : 当使用平台运动时，必须将热点设置于对象的脚部。",
 		"OK" : "确定",
 		"Warning" : "警告"
 	},
 	"dialog_8013" : {
 		"Do not show this message again" : "不重复显示此信息",
 		"How to do..." : "如何做...",
-		"Important: the hot spot of an object with a physical movement must be positionned at the center of mass of the object." : "重要 : 对象热点的物理运动必须在对象的质量中心。",
+		"Important: the hot spot of an object with a physical movement must be positionned at the center of mass of the object." : "重要 : 当对象使用物理运动时，必须将热点设置于对象的质心。",
 		"OK" : "确定",
 		"Warning" : "警告"
 	},
@@ -4411,11 +4411,11 @@
 		"OK" : "确定",
 		"Search events" : "搜索事件",
 		"Search for" : "搜索",
-		"Search in actions" : "动作里搜索",
-		"Search in conditions" : "条件里搜索",
-		"Search in group titles" : "组标题里搜索",
-		"Search in remarks" : "备注里搜索",
-		"Whole words only" : "仅搜整个词"
+		"Search in actions" : "在动作中搜索",
+		"Search in conditions" : "在条件中搜索",
+		"Search in group titles" : "在事件组名称中搜索",
+		"Search in remarks" : "在备注中搜索",
+		"Whole words only" : "全字匹配"
 	},
 	"dialog_8051" : {
 		"Cancel" : "取消",
@@ -4423,7 +4423,7 @@
 		"OK" : "确定",
 		"Search for" : "搜索",
 		"Search objects" : "搜索对象",
-		"Whole words only" : "仅搜整个词"
+		"Whole words only" : "全字匹配"
 	},
 	"dialog_9070" : {
 		"&Help" : "帮助(&H)",
