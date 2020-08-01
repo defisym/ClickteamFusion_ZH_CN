@@ -35,6 +35,8 @@
 		"Stretch" : "拉伸",
 		"Title number" : "标题编号",
 		"Total duration: %i" : "总时长: %i",
+		"Use Media Foundation API instead of Direct Show in DirectX 11 mode." : "在DirectX 11模式下使用Media Foundation API替代Direct Show",
+		"Use Media Foundation with DirectX 11" : "在DirectX 11模式下使用Media Foundation",
 		"Volume: %i" : "音量: %i",
 		"Volume: 0 to 1000" : "音量: 0 - 1000",
 		"Width" : "宽度"
