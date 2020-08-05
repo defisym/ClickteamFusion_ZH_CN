@@ -30,29 +30,160 @@ Clickteam Fusion 2.5非官方汉化
 
 - murong
 
-## Changelogs
+## 翻译进度
 
-### 20191212
+### 版本
 
-- 初步完成了Layer Object翻译的修订
+2020080 R292.26
 
-### 20191124
+### 校对状态
 
-- 完成了R292.16新增条目的汉化
-
-### 20191122
-
-- 指代场景的Frame翻译初步统一为场景
-
-### 20191121_2
-
-- 比对修订2.5+的文本翻译
-- 提交至GitHub
-
-### 20191121_1
-
-- 修正了Run Application From Current Frame、Add a Child Event、Insert→New Parent Event的汉化错误
-
-### 20190913
-
-- 移除了分组表记图标的汉化
+|文件|校对状态|
+|---|---|
+|ACamera||
+|accelerometer||
+|activebackdrop||
+|AdMob||
+|ADShow||
+|Android||
+|AndroidDialog||
+|Box2D8Directions||
+|Box2DAxial||
+|Box2DBackground||
+|Box2DBase||
+|Box2DBouncingBall||
+|Box2DFan||
+|Box2DGround||
+|Box2DJoint||
+|Box2DMagnet||
+|Box2DParticules||
+|Box2DPlatform||
+|Box2DRaceCar||
+|Box2DRopeAndChain||
+|Box2DSpaceShip||
+|Box2DSpring||
+|Box2DStatic||
+|Box2DTreadmill||
+|Camera||
+|Capture||
+|cctrans||
+|cfex|√|
+|clickteam-circular||
+|clickteam-dragdrop||
+|clickteam-invaders||
+|clickteam-movement-controll||
+|clickteam-presentation||
+|clickteam-regpolygon||
+|clickteam-simple_ellipse||
+|clickteam-sinewave||
+|clickteam-vector||
+|DataGrid||
+|DirectShow||
+|DlgBox||
+|Download||
+|edrt||
+|edrtex||
+|Explorer||
+|fglflash||
+|fglobject||
+|Flash||
+|FlashVideo||
+|FontPacker||
+|GameCenterAchievement||
+|GameCenterAchievements||
+|GameCenterConnect||
+|GameCenterLeaderboard||
+|GameCenterMultiplayer||
+|HTML5||
+|HTML5Video||
+|InAndOut||
+|InAndOutController||
+|InAppAndroid||
+|InputType||
+|iOS||
+|iOSButton||
+|iOSMultipleEdit||
+|iOSSingleEdit||
+|iOSStore||
+|iOSVideo||
+|JoystickControl||
+|kcActiveX||
+|kcAnim||
+|kcArray||
+|kcBoxA||
+|kcBoxB||
+|kcButton||
+|kcCDA||
+|KcClkBlk||
+|kcclock||
+|kcCombo||
+|kcCursor||
+|kcdbl||
+|kcDraw||
+|kcEdit||
+|kcFile||
+|kcFtp||
+|kcHiSc||
+|kcIni||
+|kcjoy||
+|kcList||
+|kcMci||
+|kcMixer||
+|kcMpeg||
+|kcmslot||
+|kcODBC||
+|kcpica||
+|kcpict||
+|kcPlugin||
+|kcPrint||
+|kcQtvr||
+|kcQtw||
+|kcQtw3||
+|kcRiched||
+|kcSearch||
+|kcShape||
+|kcShare||
+|kcsyso||
+|kcTaskPr||
+|kctp||
+|kcvfw||
+|kcWCtrl||
+|Layer|部分|
+|ListView||
+|lnchrt||
+|Location||
+|mmf2u|部分|
+|mmfs2||
+|MobileFont||
+|MobileUtilities||
+|MochiAnalytics||
+|MochiCoins||
+|MochiConnector||
+|MochiScores||
+|MochiSocial||
+|MultipleTouch||
+|ObjectMover||
+|Oldini||
+|OUYA||
+|OUYA||
+|Pinball||
+|PopupMenu||
+|Quiz||
+|Registry2||
+|RuntimeFlash||
+|RuntimeHTML5.Devel||
+|RuntimeHTML5.Final||
+|RuntimeHTML5.Free.Full||
+|RuntimeHTML5.Free.||
+|RuntimeHTML5.Full.Devel||
+|RuntimeHTML5.Full.Final||
+|ScreenZoom||
+|ServerError||
+|SpaceShip||
+|StaticText||
+|stdrt||
+|stdrtd||
+|ToolTip||
+|TreeControl||
+|VideoAndroid||
+|XBOXGamepad||
