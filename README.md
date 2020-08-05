@@ -32,9 +32,9 @@ Clickteam Fusion 2.5非官方汉化
 
 ## 翻译进度
 
-### 版本
+### 当前版本
 
-2020080 R292.26
+20200801 R292.26
 
 ### 校对状态
 
@@ -67,8 +67,8 @@ Clickteam Fusion 2.5非官方汉化
 |Camera||
 |Capture||
 |cctrans||
-|cfex|√|
-|clickteam-circular||
+|cfex|完成|
+|clickteam-circular|完成|
 |clickteam-dragdrop||
 |clickteam-invaders||
 |clickteam-movement-controll||

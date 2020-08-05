@@ -7,7 +7,7 @@
 		"Leaderboard ID" : "积分榜 ID",
 		"Mochi Scores" : "Mochi 积分榜",
 		"Name" : "名称",
-		"Obsolete. This object is provided for compatibility reasons only." : "已过期，此对象仅提供兼容性支持",
+		"Obsolete. This object is provided for compatibility reasons only." : "已过期,此对象仅提供兼容性支持",
 		"Score" : "得分",
 		"Set Leaderboard ID to %0" : "设置积分榜ID 为 %0",
 		"Show leaderboard" : "显示积分榜",

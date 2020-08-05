@@ -4,7 +4,7 @@
         "Author": "Clickteam",
         "Copyright": "Copyright (C) 2014 Clickteam",
         "Website": "http://www.clickteam.com",
-        "Comment": "它是Android导出器的一部分。 它相当于旧的INI对象。 当您需要保持与旧应用程序的兼容性时，请使用它。 ",
+        "Comment": "它是Android导出器的一部分。 它相当于旧的INI对象。 当您需要保持与旧应用程序的兼容性时,请使用它。 ",
         "URL": "http://www.clickteam.com",
         "Help": "",
         "Identifier": "AOin",

@@ -12,7 +12,7 @@
 		"Background Color ..." : "背景色 ...",
 		"Bank of Images to use" : "使用图像库",
 		"Clear Image Bank" : "清除图像库",
-		"File must be named in lowercase and no space" : "文件必须命名为小写，没有空格",
+		"File must be named in lowercase and no space" : "文件必须命名为小写,没有空格",
 		"Goto Beginning" : "跳转到开头",
 		"Goto End" : "跳转到末尾",
 		"Height Value" : "高度值",
@@ -21,7 +21,7 @@
 		"Mute Video" : "静音视频",
 		"Pause Video" : "暂停视频",
 		"Play Video" : "播放视频",
-		"Position value in seconds (exam: 11.25)" : "位置值 (単位: 秒， 例: 11.25)",
+		"Position value in seconds (exam: 11.25)" : "位置值 (単位: 秒, 例: 11.25)",
 		"Remove" : "移除",
 		"Resume Video" : "恢复视频",
 		"Seek to %0" : "定位到 %0",
@@ -66,7 +66,7 @@
 		"Videos to Pack ..." : "打包视频 ...",
 		"Width Value" : "宽度值",
 		"Set video media controller timeout to %0 secs.": "置视频媒体控制器超时为 %0 秒",
-		"Media Controller Timeout (0:OFF, X: value in secs)": "频媒体控制器超时 (0: 关，X: 单位秒)"
+		"Media Controller Timeout (0:OFF, X: value in secs)": "频媒体控制器超时 (0: 关,X: 单位秒)"
 	},
 	"menu_20000" : {
 

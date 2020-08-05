@@ -13,7 +13,7 @@
 		"Hide login widget" : "隐藏登录控件",
 		"Key" : "密钥",
 		"Mochi Social" : "Mochi 社交",
-		"Obsolete. This object is provided for compatibility reasons only." : "已过期，此对象仅提供兼容性支持",
+		"Obsolete. This object is provided for compatibility reasons only." : "已过期,此对象仅提供兼容性支持",
 		"Read user data at key %0" : "读取用户数据在密钥 %0",
 		"Show login widget" : "显示登录控件",
 		"Value" : "Value",

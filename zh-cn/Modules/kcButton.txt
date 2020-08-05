@@ -63,7 +63,7 @@
 		"Tooltip" : "提示",
 		"Transparent" : "透明",
 		"Type" : "类型",
-		"Used to create push buttons, check boxes, radio buttons and bitmap buttons." : "用来创建按钮，选择框，单选按钮与位图按钮"
+		"Used to create push buttons, check boxes, radio buttons and bitmap buttons." : "用来创建按钮,选择框,单选按钮与位图按钮"
 	},
 	"dialog_20006" : {
 		"Cancel" : "取消",

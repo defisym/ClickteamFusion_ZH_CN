@@ -36,7 +36,7 @@
 		"Save string %0 and name %1" : "保存 字符串%0 与 名称 %1",
 		"Set Developer Payload to %0" : "置开发者有效载荷为 %0",
 		"Specific settings for Billings" : "计费的特殊设置",
-		"String obtained from developer console when a new app is created, called License Public Key" : "当一个新应用被创建，从开发者控制台取得字符串，调用许可证公开密钥",
+		"String obtained from developer console when a new app is created, called License Public Key" : "当一个新应用被创建,从开发者控制台取得字符串,调用许可证公开密钥",
 		"String value" : "字符串置",
 		"Subscription SKU:%0 with Id:%1" : "SKU %0 订购ID: %1"
 	},

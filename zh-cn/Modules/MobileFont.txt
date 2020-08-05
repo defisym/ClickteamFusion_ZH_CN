@@ -19,7 +19,7 @@
 		"Create the image" : "创建图像",
 		"Creates an empty font image for your to draw the characters" : "创建一个空的字体图像来绘制字符",
 		"Displays graphical fonts in your HTML5 or Java Mobile applications." : "在HTML5或Java Mobile应用中显示图形字体",
-		"Enter 0 to display from left to right, 1 from right to left" : "输入0从左到右显示，1从右到左显示",
+		"Enter 0 to display from left to right, 1 from right to left" : "输入0从左到右显示,1从右到左显示",
 		"Enter a space to be added between each character. Can be negative." : "输入要在每个字符之间添加的空间。 可以是负值.",
 		"Enter a space to be added between each line. Can be negative." : "输入要在每行之间添加的空间,可以是负值.",
 		"Enter the height of the characters in the image" : "输入图像中的字符高度",

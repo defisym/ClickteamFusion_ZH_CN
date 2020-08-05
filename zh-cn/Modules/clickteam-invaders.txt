@@ -7,7 +7,7 @@
 		"Automatically handle speed increase" : "自动处理速度增加",
 		"By how many pixels the invaders move in the x-direction." : "入侵者在X方向上移动多少像素。",
 		"By how many pixels the invaders move in the y-direction." : "入侵者在Y方向上移动多少像素。",
-		"Clickteam Movement Controller" : "Clickteam 运动控制器",
+		"Clickteam Movement Controller" : "Clickteam 运动控制",
 		"Control Ext." : "Control Ext.",
 		"Global Invader Properties" : "全局的入侵者的属性",
 		"Handle speed increase when fewer invaders automatically." : "Handle speed increase when fewer invaders automatically.",

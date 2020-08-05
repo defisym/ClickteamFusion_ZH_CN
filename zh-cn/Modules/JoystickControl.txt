@@ -4,9 +4,9 @@
 	"general" : {
 		"Allows you to control the virtual joystick input." : "控制虚拟摇杆输入",
 		"Enter 1 for left handed" : "输入1为惯用左手",
-		"Enter 1 to display button 1, 0 to hide it" : "输入1 则显示按钮1，0为隐藏它",
-		"Enter 1 to display button 2, 0 to hide it" : "输入2 则显示按钮2，0为隐藏它",
-		"Enter 1 to display joystick, 0 to hide it" : "输入1 则显示操纵杆，0为隐藏它",
+		"Enter 1 to display button 1, 0 to hide it" : "输入1 则显示按钮1,0为隐藏它",
+		"Enter 1 to display button 2, 0 to hide it" : "输入2 则显示按钮2,0为隐藏它",
+		"Enter 1 to display joystick, 0 to hide it" : "输入1 则显示操纵杆,0为隐藏它",
 		"Enter the binary mask. 0001:top 0010:bottom 0100:left 1000:right 10000:fire1 100000:fire2" : "输入二进制掩码。0001:上 0010:下 0100:左 1000:右 10000:按钮1 100000:按钮2",
 		"Joystick Control object" : "操纵杆控制对象",
 		"Set X button 1 to %0" : "置X 按钮1 为 %0",

@@ -66,7 +66,7 @@
 		"Smartbanner" : "智能广告",
 		"Specific settings for AdMob" : "广告的设置",
 		"Standard" : "标准",
-		"Tag Child-directed Treatment (0:No, 1:Yes)" : "标签添加面向儿童 (0:否， 1:是)",
+		"Tag Child-directed Treatment (0:No, 1:Yes)" : "标签添加面向儿童 (0:否, 1:是)",
 		"Test devices (separated by commas)" : "测试设备 (逗号分隔)",
 		"Testing Devices" : "测试设备",
 		"Text Color" : "文本颜色",

@@ -12,7 +12,7 @@
 		"Drop object when dragged outside area" : "Drop object when dragged outside area",
 		"Even if the area changes or a Set Position action is used, the object remains within the area." : "Even if the area changes or a Set Position action is used, the object remains within the area.",
 		"Force object within allowed area" : "Force object within allowed area",
-		"General Properties" : "一般属性",
+		"General Properties" : "常规属性",
 		"Height" : "高度",
 		"Height of allowed rectangle in pixels." : "Height of allowed rectangle in pixels.",
 		"If the object is attempted to be dragged outside the area should it be dropped." : "If the object is attempted to be dragged outside the area should it be dropped.",

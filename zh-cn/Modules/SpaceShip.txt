@@ -10,7 +10,7 @@
 		"Choose the initial direction of the object" : "选择对象的初始方向",
 		"Choose the rotation speed of the object" : "选择对象的旋转速度",
 		"Choose the strength of the gravity" : "选择重力的强度",
-		"Clickteam Movement Controller" : "Clickteam 运动控制器",
+		"Clickteam Movement Controller" : "Clickteam 运动控制",
 		"Control Ext." : "Control Ext.",
 		"Deceleration :" : "减速度 :",
 		"Enter the initial speed value" : "输入初始速度",

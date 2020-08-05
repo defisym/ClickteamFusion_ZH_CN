@@ -5,7 +5,7 @@
 		"%o: is visible" : "%o: 可见",
 		"Active Backdrop" : "活动背景",
 		"Changeable backdrop object" : "可变的背景对象",
-		"Check this box to make the object visible at start of frame" : "勾选此项，使对象在场景开始时可见",
+		"Check this box to make the object visible at start of frame" : "勾选此项,使对象在场景开始时可见",
 		"Click on the edit button to add/change the images" : "点击编辑按钮去添加或更改图像",
 		"Enter the X coordinate" : "输入X坐标",
 		"Enter the Y coordinate" : "输入Y坐标",

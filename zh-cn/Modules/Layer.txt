@@ -9,7 +9,7 @@
 		"%o: %0 Below %1?" : "%o: %0 在 %1 下一层？",
 		"%o: %0 Between %1 and %2?" : "%o: %0 在 %1 与 %2 之间",
 		"%o: Layer %0 is visible?" : "%o: 图层 %0 可见？",
-		"Allows you to change the order of the objects in a frame. Can also show, hide or move layers." : "允许你改变场景中的对象次序，同时也允许你隐藏/显示或移动图层",
+		"Allows you to change the order of the objects in a frame. Can also show, hide or move layers." : "允许你改变场景中的对象次序,同时也允许你隐藏/显示或移动图层",
 		"Alpha-blending coefficient (0-255)" : "不透明度混合系数 (0-255)",
 		"Bring %0 Forward %1" : "将 %0 上移 %1 层",
 		"Bring %0 Forward One" : "将 %0 上移一层",

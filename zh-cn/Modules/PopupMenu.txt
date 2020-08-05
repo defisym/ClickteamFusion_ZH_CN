@@ -15,7 +15,7 @@
 		"%o: Show Menu" : "%o: 显示菜单",
 		"%o: Show Menu at %0" : "%o: 显示菜单在 %0",
 		"1 to check, 0 to uncheck" : "1 为选中、 0 为取消选中",
-		"1 to enable, 0 to disable" : "1 为启用， 0 为禁用",
+		"1 to enable, 0 to disable" : "1 为启用, 0 为禁用",
 		"Content of the menu" : "菜单的内容",
 		"Edit content" : "编辑内容",
 		"Filename" : "文件名",

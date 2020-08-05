@@ -15,7 +15,7 @@
 		"%o: No error in iAD advertisement" : "%o:iAD 广告没有错误",
 		"%o: iAd is visible" : "%o: iAd 可见",
 		"Enable/disable iAd %0" : "启用/禁用 iAd %0",
-		"Enter 0 to disable iAd, 1 to enable" : "输入 0禁用iAd，1启用",
+		"Enter 0 to disable iAd, 1 to enable" : "输入 0禁用iAd,1启用",
 		"Extra function for iOS applications." : "适用于iOS应用的额外功能",
 		"Index" : "索引",
 		"Open URL %0" : "打开URL %0",

@@ -22,7 +22,7 @@
 		"Displays movies on iOS/MacOS devices" : "在iOS/MacOS设备上显示电影",
 		"Embedded" : "内嵌",
 		"End seeking" : "结束定位",
-		"Enter 0 to stop the movie at end, 1 to repeat it" : "输入0电影结束后停止，1为重复",
+		"Enter 0 to stop the movie at end, 1 to repeat it" : "输入0电影结束后停止,1为重复",
 		"Enter movie's URL or filename" : "输入电影的网址或文件名",
 		"Enter the files URL or name if included in the Xcode project" : "输入文件URL或名称(如果包含在Xcode项目中)",
 		"Enter time in milliseconds" : "输入时间(毫秒)",

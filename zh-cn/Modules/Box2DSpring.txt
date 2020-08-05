@@ -8,7 +8,7 @@
 		"Angle : %i degrees" : "角度 : %i 度",
 		"Auto rotation" : "自动旋转",
 		"Box" : "矩形",
-		"Check this box to make your spring active when the frame starts" : "勾选此项，在场景开始时激活弹簧",
+		"Check this box to make your spring active when the frame starts" : "勾选此项,在场景开始时激活弹簧",
 		"Check to enable automatic rotations of the image" : "启用图像的自动旋转",
 		"Check to resample the image of the object when rotating it (slower for large number of objects)." : "Check to resample the image of the object when rotating it (slower for large number of objects)",
 		"Circle" : "圆形",

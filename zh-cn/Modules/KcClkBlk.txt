@@ -11,7 +11,7 @@
 		"Block left mouse button" : "限制鼠标左键",
 		"Block middle mouse button" : "限制鼠标中键",
 		"Block right mouse button" : "限制鼠标右键",
-		"Blocks the left, middle and/or right clicks of the mouse." : "限制鼠标左键，中键和右键的点击。",
+		"Blocks the left, middle and/or right clicks of the mouse." : "限制鼠标左键,中键和右键的点击。",
 		"Click Blocker" : "点击限制器",
 		"Click Blocker object" : "点击限制器对象",
 		"Left mouse button %s" : "%s 鼠标左键",

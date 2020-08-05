@@ -41,7 +41,7 @@
 		"Make Invisible" : "变为不可见",
 		"Make Visible" : "使可见",
 		"Max frames to skip" : "最大帧跳过",
-		"Maximum number of frame to skip if machine is too slow" : "如果机器太慢，跳帧的最大数量",
+		"Maximum number of frame to skip if machine is too slow" : "如果机器太慢,跳帧的最大数量",
 		"Number of frames: %i  " : "帧数量: %i  ",
 		"Options" : "选项",
 		"Play from disk" : "从磁盘播放",

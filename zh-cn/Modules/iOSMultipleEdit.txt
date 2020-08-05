@@ -31,7 +31,7 @@
 		"Enter the X coordinate of the position when editing" : "编辑时X坐标的位置",
 		"Enter the Y coordinate of the position when editing" : "编辑时Y坐标的位置",
 		"Enter the speed (1-100)" : "速度 (1-100)",
-		"Enter the speed of the movement, from 1 to 100" : "输入移动速度，从1到100",
+		"Enter the speed of the movement, from 1 to 100" : "输入移动速度,从1到100",
 		"Enter the text to be contained in the edit box at start" : "开始时编辑框中包含的文本",
 		"Go" : "Go",
 		"Google" : "谷歌",

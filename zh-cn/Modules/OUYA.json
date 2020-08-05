@@ -136,7 +136,7 @@
 
     "Actions":
     [
-        { "Title": "IAP初始化 开发商ID %0 ，密钥文件 %1",
+        { "Title": "IAP初始化 开发商ID %0 ,密钥文件 %1",
           "Parameters": [
                 ["Text", "开发商 ID"], 
                 ["File", "密钥文件"]

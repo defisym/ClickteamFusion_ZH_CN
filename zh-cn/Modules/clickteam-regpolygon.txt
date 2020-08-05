@@ -8,9 +8,9 @@
 		"Central y co-ordinate of movement." : "运动的y坐标中心",
 		"Centre X" : "中心 X",
 		"Centre Y" : "中心 Y",
-		"Clickteam Movement Controller" : "Clickteam 运动控制器",
+		"Clickteam Movement Controller" : "Clickteam 运动控制",
 		"Control Ext." : "Control Ext.",
-		"General Properties" : "一般属性",
+		"General Properties" : "常规属性",
 		"Initially moving at start of frame." : "开始时移动",
 		"Move at Start" : "开始时移动",
 		"Name of the extension used to interact with this movement." : "与此运动交互的扩展的名称",
@@ -26,7 +26,7 @@
 		"Rotation Angle" : "旋转角度",
 		"Rotational angle of the polygon." : "多边形的旋转角度",
 		"Velocity" : "速度",
-		"Velocity of the object, negative values reverse the movement direction." : "对象的速度，负值反向运动。",
+		"Velocity of the object, negative values reverse the movement direction." : "对象的旋转速度,输入负值以反向运动",
 		"Version" : "版本 "
 	}
 }

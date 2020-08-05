@@ -13,7 +13,7 @@
 		"Item ID" : "道具ID",
 		"Item tag or unique ID" : "道具标签或唯一ID",
 		"Mochi Coins" : "Mochi 硬币",
-		"Obsolete. This object is provided for compatibility reasons only." : "已过期，此对象仅提供兼容性支持",
+		"Obsolete. This object is provided for compatibility reasons only." : "已过期,此对象仅提供兼容性支持",
 		"Property name" : "属性名",
 		"Remove consumable %0" : "移除消耗品 %0",
 		"Set consumable %0 to %1" : "设置消耗品 %0 为 %1",

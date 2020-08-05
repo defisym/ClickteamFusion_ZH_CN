@@ -19,7 +19,7 @@
 		"Friend number 2" : "好友2",
 		"Friend number 2 ID" : "好友2 的ID",
 		"Game Center Connect" : "游戏中心连接",
-		"If checked, the local player will be authenticated at start of frame" : "如果选中，本地玩家将在场景开始时进行身份验证",
+		"If checked, the local player will be authenticated at start of frame" : "如果选中,本地玩家将在场景开始时进行身份验证",
 		"Load friends list" : "载入好友列表",
 		"Player's Alias" : "玩家别名",
 		"Player's ID" : "玩家 ID",

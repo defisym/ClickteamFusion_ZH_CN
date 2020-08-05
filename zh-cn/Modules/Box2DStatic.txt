@@ -34,7 +34,7 @@
 		"Enter the elasticity factor of the object (0 = no bounce)" : "对象的弹性(0 = 无弹性)",
 		"Enter the frequency of the joint in Hz." : "振动数(単位Hz)",
 		"Enter the friction index (0 = no friction)" : "摩擦系数(0 = 无摩擦)",
-		"Enter the identifier of the movement, that must match the identifier of the engine object." : "输入运动的ID，必须与引擎对象的ID匹配",
+		"Enter the identifier of the movement, that must match the identifier of the engine object." : "输入运动的ID,必须与引擎对象的ID匹配",
 		"Enter the initial direction of the object" : "对象的初始方向",
 		"Enter the lower angle limit in degrees. No limit is set if upper limit is below lower limit." : "Enter the lower angle limit in degrees. No limit is set if upper limit is below lower limit.",
 		"Enter the lower limit in pixels. No limit is set if upper limit is below lower limit." : "Enter the lower limit in pixels. No limit is set if upper limit is below lower limit.",

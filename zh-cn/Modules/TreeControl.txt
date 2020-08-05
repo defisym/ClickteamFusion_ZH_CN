@@ -14,7 +14,7 @@
 		"%o: Selection Changed" : "%o: 选择被改变",
 		"%o: Set background color to %0" : "%o: 置背景色为 %0",
 		"Always show selection" : "总是显示所选",
-		"Always show the selected item, even when the window is not selected" : "总是显示所选项目，即使窗口没有被选择",
+		"Always show the selected item, even when the window is not selected" : "总是显示所选项目,即使窗口没有被选择",
 		"Background color" : "背景色",
 		"Border" : "边框",
 		"Client egde" : "客户区边缘",
@@ -47,7 +47,7 @@
 		"Identifier" : "ID",
 		"Image Index (1-based)" : "图像索引 (从1开始)",
 		"Index" : "索引",
-		"Insert After ID, or -1 for beginning, -2 for end" : "插入到ID之后，或-1到开头，-2到末尾",
+		"Insert After ID, or -1 for beginning, -2 for end" : "插入到ID之后,或-1到开头,-2到末尾",
 		"Insert Folder (%0, %1, %2)" : "插入文件夹 (%0, %1, %2)",
 		"Insert Item (%0, %1, %2)" : "插入项目 (%0, %1, %2)",
 		"Item" : "项目",
@@ -94,7 +94,7 @@
 		"Value" : "值",
 		"Visible at start" : "开始时显示",
 		"Window" : "窗口",
-		"Windows control, allows you to display a hierarchical list of items." : "操作系统控件，允许显示项目分层列表。"
+		"Windows control, allows you to display a hierarchical list of items." : "操作系统控件,允许显示项目分层列表。"
 	},
 	"dialog_109" : {
 		"Cancel" : "取消",

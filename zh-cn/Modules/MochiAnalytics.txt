@@ -5,7 +5,7 @@
 		"End play" : "播放完毕",
 		"Event tag" : "事件标签",
 		"Mochi Analytics" : "Mochi 解析",
-		"Obsolete. This object is provided for compatibility reasons only." : "已过期，此对象仅提供兼容性支持",
+		"Obsolete. This object is provided for compatibility reasons only." : "已过期,此对象仅提供兼容性支持",
 		"Start play (tag %0)" : "开始播放 (标签 %0)",
 		"Tag (default: gameplay)" : "标签 (默认: 游戏播放)",
 		"Track event %0 with value %1" : "跟踪事件 %0  对于值 %1",
