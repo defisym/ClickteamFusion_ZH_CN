@@ -109,7 +109,7 @@
 		"Set Vertical size" : "置垂直大小",
 		"Set Volume" : "置音量",
 		"Size" : "大小",
-		"Step by Step (in frames)" : "单步 (单位/帧)",
+		"Step by Step (in frames)" : "逐帧",
 		"Stop" : "停止",
 		"Tracks" : "轨道",
 		"Visibility" : "可见性"

@@ -81,8 +81,8 @@ Clickteam Fusion 2.5非官方汉化
 |DirectShow||
 |DlgBox||
 |Download||
-|edrt||
-|edrtex||
+|edrt|完成|
+|edrtex|完成|
 |Explorer||
 |fglflash||
 |fglobject||

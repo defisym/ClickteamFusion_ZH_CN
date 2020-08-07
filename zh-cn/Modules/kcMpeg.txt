@@ -77,7 +77,7 @@
 		"Set MPEG Play Position to..." : "置MPEG播放位置...",
 		"Set Vertical size" : "置垂直大小",
 		"Size" : "大小",
-		"Step by Step (in frames)" : "单步 (每帧)",
+		"Step by Step (in frames)" : "逐帧",
 		"Stop" : "停止",
 		"Visibility" : "可见性"
 	},

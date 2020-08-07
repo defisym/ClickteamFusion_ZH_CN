@@ -76,7 +76,7 @@
 		"Set Horizontal size" : "置水平大小",
 		"Set Vertical size" : "置垂直大小",
 		"Size" : "大小",
-		"Step by Step (in frames)" : "逐步 (帧単位)",
+		"Step by Step (in frames)" : "逐帧",
 		"Stop" : "停止",
 		"Visibility" : "可见性"
 	},
