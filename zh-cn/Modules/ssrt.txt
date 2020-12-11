@@ -1,0 +1,29 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"Cannot find %s!" : "无法找到%s",
+		"Cannot initialize application." : "无法初始化应用程序",
+		"Cannot load %s. This object might need an external program or library not yet installed." : "无法加载%s.该对象可能需要一个你尚未安装的外部程序或库",
+		"Error while opening file." : "打开文件时出现错误",
+		"File error!" : "文件错误",
+		"Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again." : "没有足够的内存来打开帮助\n\n退出一个或更多的应用程序来增加可用内存并重试",
+		"Not enough memory!" : "内存不足",
+		"Screen Saver" : "屏幕保护程序",
+		"Screen Saver.Click                   " : "Screen Saver.Click                   ",
+		"Screen saver description" : "屏幕保护程序描述",
+		"ScreenSaver" : "ScreenSaver",
+		"There is not enough available space in the temporary drive. Free some disk space and try again." : "临时路径所在驱动器的可用空间不足，释放空间并重试",
+		"This application has been built with an incompatible version of Clickteam Fusion." : "该程序使用不兼容的Clickteam Fusion版本生成",
+		"Unknown format!" : "未知格式",
+		"control.hlp" : "control.hlp",
+		"control.ini" : "control.ini"
+	},
+	"dialog_2003" : {
+		"Cancel" : "取消",
+		"OK" : "OK",
+		"Play musics" : "播放音乐",
+		"Play samples" : "播放音效",
+		"Set-up" : "设定"
+	}
+}

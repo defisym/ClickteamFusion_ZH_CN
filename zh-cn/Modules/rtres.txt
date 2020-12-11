@@ -1,0 +1,73 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%d (Num. keypad)" : "%d (小键盘)",
+		"An error has occured while reading the file." : "读取文件时出现错误",
+		"An error has occured while writing the file." : "写入文件时出现错误",
+		"Backspace" : "退格键",
+		"Clear" : "清除",
+		"Control" : "Ctrl",
+		"Del" : "Del",
+		"Down Arrow" : "下箭头",
+		"End" : "End",
+		"Enter" : "Enter",
+		"Escape" : "Escape",
+		"Execute" : "执行",
+		"Home" : "Home",
+		"Ins" : "Ins",
+		"Joystick not connected or driver not installed." : "手柄未连接或驱动未安装",
+		"Left Arrow" : "左箭头",
+		"Page Down" : "Page Down",
+		"Page Up" : "Page Up",
+		"Right Arrow" : "右箭头",
+		"Select" : "选择",
+		"Shift" : "Shift",
+		"Space bar" : "Space",
+		"Tab" : "Tab",
+		"The current frame is not the same as the saved one." : "当前场景与保存场景不相同",
+		"This file is not a position file." : "该文件不是位置文件",
+		"This file was not saved by this application." : "该文件并非由该程序保存",
+		"This file was saved by a incompatible version of the application." : "该文件由该应用程序的不兼容版本保存",
+		"This file was saved with an incompatible version of MMF runtime." : "该文件由不兼容的MMF运行时版本保存",
+		"Up Arrow" : "上箭头"
+	},
+	"dialog_110" : {
+		"About" : "关于",
+		"OK" : "OK"
+	},
+	"dialog_111" : {
+		"Application paused" : "应用程序已暂停",
+		"Continue" : "继续"
+	},
+	"dialog_112" : {
+		"Cancel" : "取消",
+		"Default Controls" : "默认控制器",
+		"Joystick 1" : "手柄按键 1",
+		"Joystick 2" : "手柄按键 2",
+		"Joystick 3" : "手柄按键 3",
+		"Joystick 4" : "手柄按键 4",
+		"Keyboard" : "键盘",
+		"OK" : "OK",
+		"Player controls" : "玩家控制器"
+	},
+	"dialog_113" : {
+		"Button 1" : "按钮 1",
+		"Button 2" : "按钮 2",
+		"Button 3" : "按钮 3",
+		"Button 4" : "按钮 4",
+		"Cancel" : "取消",
+		"Down" : "下",
+		"Keyboard setup" : "键盘设置",
+		"Left" : "左",
+		"OK" : "OK",
+		"Press a key ... (or ESC to cancel)" : "等待按键...(按下ESC取消)",
+		"Right" : "右",
+		"Up" : "上"
+	},
+	"dialog_114" : {
+		"Cancel" : "取消",
+		"Enter password" : "输入密码",
+		"OK" : "OK"
+	}
+}

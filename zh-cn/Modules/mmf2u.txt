@@ -3567,6 +3567,11 @@
 		"while end page is displayed" : "当显示最后一页",
 		"x:888888, y:888888" : "x:888888, y:888888",
 		"zone (%i,%i) to (%i,%i)" : "区域 (%i,%i) 到 (%i,%i)",
+		"Keep DLL's and extensions out of the EXE." : "将DLL和插件保存于EXE外",
+		"Modules sub-directory" : "模块子路径",
+		"The extensions are copied to this sub-directory when the EXE is built, if the Unpacked EXE option is selected." : "当不打包EXE选项被选中时，在生成EXE时插件将会被拷贝至该子路径",
+		"Unpacked EXE" : "不打包EXE",
+		"Warning: the following fonts cannot be embedded:\n\n" : "警告:下列字体无法嵌入\n\n",
 		"Convert OGG sounds to MP3 at build time" : "生成时将OGG格式的音频转换为MP3格式",
 		"Displays and handles the joystick as a D-pad. If this option is checked, the D-pad images Up/Down/Left/Right are used instead of the Front/Back images." : "将摇杆作为十字键显示和处理。勾选此项后,十字键的上/下/左/右图像将取代要干的前景/背景图片",
 		"Down (pressed)" : "下(按下)",
@@ -4403,6 +4408,11 @@
 		"How to do..." : "如何做...",
 		"Important: the hot spot of an object with a physical movement must be positionned at the center of mass of the object." : "重要 : 当对象使用物理运动时,必须将热点设置于对象的质心。",
 		"OK" : "确定",
+		"Warning" : "警告"
+	},
+	"dialog_8014" : {
+		"Do not show this message again" : "不再显示该信息",
+		"OK" : "OK",
 		"Warning" : "警告"
 	},
 	"dialog_8050" : {
