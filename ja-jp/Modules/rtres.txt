@@ -1,0 +1,73 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%d (Num. keypad)" : "%d (テンキー)",
+		"An error has occured while reading the file." : "ファイルの読み取り中にエラーが発生しました。",
+		"An error has occured while writing the file." : "ファイルの書き込み中にエラーが発生しました。",
+		"Backspace" : "Backspace",
+		"Clear" : "クリア",
+		"Control" : "Ctrl",
+		"Del" : "Del",
+		"Down Arrow" : "下矢印",
+		"End" : "End",
+		"Enter" : "Enter",
+		"Escape" : "Escape",
+		"Execute" : "実行",
+		"Home" : "Home",
+		"Ins" : "Ins",
+		"Joystick not connected or driver not installed." : "ジョイスティックが接続されていないか、ドライバがインストールされていません。",
+		"Left Arrow" : "左矢印",
+		"Page Down" : "Page Down",
+		"Page Up" : "Page Up",
+		"Right Arrow" : "右矢印",
+		"Select" : "選択",
+		"Shift" : "Shift",
+		"Space bar" : "Space",
+		"Tab" : "Tab",
+		"The current frame is not the same as the saved one." : "現在のフレームは保存されているフレームと異なっています。",
+		"This file is not a position file." : "このファイルは MMF アプリケーション位置ファイルではありません。",
+		"This file was not saved by this application." : "このファイルはこのアプリケーションで保存されていません。",
+		"This file was saved by a incompatible version of the application." : "このファイルは互換性のないバージョンのアプリケーションで保存されています。",
+		"This file was saved with an incompatible version of MMF runtime." : "このファイルは互換性のないバージョンの MMF ランタイムで保存されています。",
+		"Up Arrow" : "上矢印"
+	},
+	"dialog_110" : {
+		"About" : "バージョン情報",
+		"OK" : "OK"
+	},
+	"dialog_111" : {
+		"Application paused" : "アプリケーション一時停止",
+		"Continue" : "続行"
+	},
+	"dialog_112" : {
+		"Cancel" : "キャンセル",
+		"Default Controls" : "既定のコントロール",
+		"Joystick 1" : "ジョイスティック 1",
+		"Joystick 2" : "ジョイスティック 2",
+		"Joystick 3" : "ジョイスティック 3",
+		"Joystick 4" : "ジョイスティック 4",
+		"Keyboard" : "キーボード",
+		"OK" : "OK",
+		"Player controls" : "プレイヤーコントロール"
+	},
+	"dialog_113" : {
+		"Button 1" : "ボタン 1",
+		"Button 2" : "ボタン 2",
+		"Button 3" : "ボタン 3",
+		"Button 4" : "ボタン 4",
+		"Cancel" : "キャンセル",
+		"Down" : "下",
+		"Keyboard setup" : "キーボード設定",
+		"Left" : "左",
+		"OK" : "OK",
+		"Press a key ... (or ESC to cancel)" : "キーを押してください... ESC を押すとキャンセルします。",
+		"Right" : "右",
+		"Up" : "上"
+	},
+	"dialog_114" : {
+		"Cancel" : "キャンセル",
+		"Enter password" : "パスワードを入力",
+		"OK" : "OK"
+	}
+}

@@ -2120,10 +2120,10 @@
 		"Neutral Matter" : "ニュートラルマター",
 		"Never" : "実行しない",
 		"New" : {
-			"11186" : "新規作成",
-			"11384" : "新規作成",
-			"16027" : "新規",
 			"1004" : "新規作成",
+			"11186" : "新規作成",
+			"16027" : "新規",
+			"11384" : "新規作成",
 			"16017" : "新規"
 		},
 		"New Application\nNew Application" : "新規アプリケーションを作成\n新規アプリケーションを作成",
@@ -3574,7 +3574,12 @@
 		"when installer exits" : "インストーラ終了時",
 		"while end page is displayed" : "最後のページが表示されている間",
 		"x:888888, y:888888" : "x:888888, y:888888",
-		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲"
+		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲",
+		"Keep DLL's and extensions out of the EXE." : "",
+		"Modules sub-directory" : "",
+		"The extensions are copied to this sub-directory when the EXE is built, if the Unpacked EXE option is selected." : "",
+		"Unpacked EXE" : "",
+		"Warning: the following fonts cannot be embedded:\n\n" : ""
 	},
 	"dialog_100" : {
 		"&Buy Now !" : "今すぐ購入！(&B)",
@@ -4404,6 +4409,11 @@
 		"Do not show this message again" : "今後このメッセージを表示しない",
 		"How to do..." : "方法...",
 		"Important: the hot spot of an object with a physical movement must be positionned at the center of mass of the object." : "重要 : 物理エンジンによる移動処理を行うオブジェクトは、\n\n　　　　 ホットスポットを質量中心点に位置させておく必要があります。",
+		"OK" : "OK",
+		"Warning" : "警告"
+	},
+	"dialog_8014" : {
+		"Do not show this message again" : "今後このメッセージを表示しない",
 		"OK" : "OK",
 		"Warning" : "警告"
 	},

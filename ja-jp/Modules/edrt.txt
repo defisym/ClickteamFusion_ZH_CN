@@ -24,10 +24,9 @@
 		"An error has occured while reading the file." : "ファイルの読み取り中にエラーが発生しました。",
 		"An error has occured while writing the file." : "ファイルの書き込み中にエラーが発生しました。",
 		"Animation" : "アニメーション",
-		"Application initialization error." : "アプリケーション初期化エラーです。",
 		"Backspace" : "Backspace",
 		"Cannot find %s!" : "%s が見つかりません！",
-		"Cannot initialize Application." : "アプリケーションを初期化できません。",
+		"Cannot initialize application." : "アプリケーションを初期化できません。",
 		"Cannot load %s. This object might need an external program or library not yet installed." : "%s をロードできません。 このオブジェクトは外部プログラムまたは、インストールされていないライブラリを必要としています。",
 		"Clear" : "クリア",
 		"Control" : "Ctrl",
@@ -35,8 +34,6 @@
 		"Deceleration: %i   " : "減速: %i   ",
 		"Del" : "Del",
 		"Direction: %i   " : "方向: %i   ",
-		"Don't play music." : "音楽を再生しません。",
-		"Don't play samples." : "サウンドを再生しません。",
 		"Down Arrow" : "下矢印",
 		"End" : "End",
 		"Enter" : "Enter",
@@ -48,7 +45,6 @@
 		"File error!" : "ファイルエラーです！",
 		"Fixed value: %d" : "固定値 : %d",
 		"Flags" : "フラグ",
-		"Frame %d" : "フレーム %d",
 		"Frame number: %i" : "フレーム番号: %i",
 		"Frames per second: %i" : "フレーム/秒: %i",
 		"Global strings" : "グローバル文字列",
@@ -83,8 +79,6 @@
 		"Other objects" : "その他のオブジェクト",
 		"Page Down" : "Page Down",
 		"Page Up" : "Page Up",
-		"Play music." : "音楽を再生します。",
-		"Play samples." : "サウンドを再生します。",
 		"Please enter a new text" : "新しいテキストを入力してください",
 		"Please enter the new maximum value" : "新しい最大値を入力してください",
 		"Please enter the new minimum value" : "新しい最小値を入力してください",
@@ -111,11 +105,10 @@
 		"The following object cannot be created: \"%s\".\nError message reported: %s\n\nDo you want to continue anyway?" : "次のオブジェクトを作成できません: \"%s\"\nエラーメッセージの内容: %s\n\n続行しますか？",
 		"There is not enough available space in the temporary drive. Free some disk space and try again." : "テンポラリドライブに十分な空き領域がありません。 空きディスク領域を確保して再試行してください。",
 		"This application has been built with an incompatible version of Clickteam Fusion." : "このアプリケーションは互換性のないバージョンの Clickteam Fusion でビルドされています。",
-		"This file is not a MMF application position file." : "このファイルは MMF アプリケーション位置ファイルではありません。",
+		"This file is not a position file." : "このファイルは MMF アプリケーション位置ファイルではありません。",
 		"This file was not saved by this application." : "このファイルはこのアプリケーションで保存されていません。",
 		"This file was saved by a incompatible version of the application." : "このファイルは互換性のないバージョンのアプリケーションで保存されています。",
 		"This file was saved with an incompatible version of MMF runtime." : "このファイルは互換性のないバージョンの MMF ランタイムで保存されています。",
-		"This is not an application file!" : "これはアプリケーションファイルではありません！",
 		"Time: %02i:%02i" : "時間: %02i:%02i",
 		"Time: %02i:%02i:%02i" : "時間: %02i:%02i:%02i",
 		"Type: 8 directions" : "種類: 8 方向",
@@ -127,13 +120,13 @@
 		"Type: platform" : "種類: ジャンプとはしご",
 		"Type: race" : "種類: レース",
 		"Type: static" : "種類: 静的",
+		"Unknown format!" : "不明なフォーマットです！",
 		"Up Arrow" : "上矢印",
 		"User animation #%i " : "ユーザーアニメーション #%i ",
 		"Value: %i" : "値 : %i",
 		"Value: %s" : "値 : %s",
 		"Video" : "ビデオ",
 		"Width: %i, Height: %i            " : "幅 : %i、 高さ: %i            ",
-		"Window initialization error." : "ウィンドウ初期化エラーです。",
 		"X: %i, Y: %i            " : "X: %i, Y: %i            "
 	},
 	"dialog_101" : {
@@ -150,11 +143,26 @@
 		"OK" : "OK",
 		"Please enter a new number" : "新しい番号を入力してください"
 	},
-	"dialog_700" : {
+	"dialog_110" : {
+		"About" : "バージョン情報",
+		"OK" : "OK"
+	},
+	"dialog_111" : {
 		"Application paused" : "アプリケーション一時停止",
 		"Continue" : "続行"
 	},
-	"dialog_701" : {
+	"dialog_112" : {
+		"Cancel" : "キャンセル",
+		"Default Controls" : "既定のコントロール",
+		"Joystick 1" : "ジョイスティック 1",
+		"Joystick 2" : "ジョイスティック 2",
+		"Joystick 3" : "ジョイスティック 3",
+		"Joystick 4" : "ジョイスティック 4",
+		"Keyboard" : "キーボード",
+		"OK" : "OK",
+		"Player controls" : "プレイヤーコントロール"
+	},
+	"dialog_113" : {
 		"Button 1" : "ボタン 1",
 		"Button 2" : "ボタン 2",
 		"Button 3" : "ボタン 3",
@@ -168,24 +176,9 @@
 		"Right" : "右",
 		"Up" : "上"
 	},
-	"dialog_703" : {
+	"dialog_114" : {
 		"Cancel" : "キャンセル",
 		"Enter password" : "パスワードを入力",
-		"OK" : "OK"
-	},
-	"dialog_704" : {
-		"Cancel" : "キャンセル",
-		"Default Controls" : "既定のコントロール",
-		"Joystick 1" : "ジョイスティック 1",
-		"Joystick 2" : "ジョイスティック 2",
-		"Joystick 3" : "ジョイスティック 3",
-		"Joystick 4" : "ジョイスティック 4",
-		"Keyboard" : "キーボード",
-		"OK" : "OK",
-		"Player controls" : "プレイヤーコントロール"
-	},
-	"dialog_705" : {
-		"About" : "バージョン情報",
 		"OK" : "OK"
 	},
 	"dialog_14116" : {
