@@ -2437,7 +2437,7 @@
 		"Please select the directory of %s" : "请选择 %s 的目录",
 		"Please select the sln file at the root of the XNA project and try again." : "Please select the sln file at the root of the XNA project and try again.",
 		"Polygon tool\nPolygon tool" : "多边形工具\n多边形工具",
-		"Popup Window" : "弹出窗口",
+		"Popup Window" : "弹出式窗口",
 		"Portrait" : "纵向",
 		"Portrait (automatic)" : "纵向 (自动)",
 		"Portrait (flipped)" : "纵向 (反转)",
