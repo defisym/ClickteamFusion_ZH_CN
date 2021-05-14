@@ -5,7 +5,7 @@
 		"%d (Num. keypad)" : "%d (小键盘)",
 		"%d Kb" : "%d Kb",
 		"%d Mb" : "%d Mb",
-		"%d Objects" : "%d 对象",
+		"%d Objects" : "%d 个对象",
 		"%d.%3.3d Mb" : "%d.%3.3d Mb",
 		"%s #%i" : "%s #%i",
 		"%s: \"%s\"" : "%s: \"%s\"",
