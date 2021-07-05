@@ -92,7 +92,10 @@
 		"Unknown" : "不明",
 		"Unselect this option if you want to start/end profiling the application manually with profiling actions." : "解析のアクションを使って手動でアプリケーションの解析を開始/終了したい場合はこのオプションを選択しないでください。",
 		"Without this option counters and strings have no alterable values, strings, nor flags." : "...",
-		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows のみ] このオプションを選択するとサウンドの開始が少し遅延します。 「サウンドを再生」アクション実行後速やかにサウンドを開始する必要がある場合は選択しないでください。"
+		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows のみ] このオプションを選択するとサウンドの開始が少し遅延します。 「サウンドを再生」アクション実行後速やかにサウンドを開始する必要がある場合は選択しないでください。",
+		"&Event explorer" : "",
+		"Convert blocks of backdrops to quick backdrops" : "",
+		"Event explorer" : ""
 	},
 	"dialog_2007" : {
 		"Actions" : "アクション",
@@ -119,5 +122,10 @@
 		"Object names" : "オブジェクト名",
 		"Objects" : "オブジェクト",
 		"Qualifiers" : "オブジェクトグループ"
+	},
+	"_details_" : {
+		"Number_of_translated_lines" : 115,
+		"Number_of_untranslated_lines" : 3,
+		"Number_of_untranslated_words" : 11
 	}
 }

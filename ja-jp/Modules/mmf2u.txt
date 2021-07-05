@@ -972,9 +972,9 @@
 		"Continuous Brush\nContinuous Brush" : "実線ブラシ\n実線ブラシ",
 		"Contract docked window" : "ﾄﾞｯｷﾝｸﾞ ｳｨﾝﾄﾞｳを縮小表示",
 		"Control" : {
-			"2172" : "コントロール",
 			"2067" : "Ctrl",
-			"11344" : "コントロール"
+			"11344" : "コントロール",
+			"2172" : "コントロール"
 		},
 		"Controlled by an extension" : "エクステンションでコントロール",
 		"Conversions" : "変換",
@@ -1550,9 +1550,9 @@
 		"Forward" : "進む",
 		"Fourth static text displayed in the wizard page." : "ウィザードページに表示される 4 つ目の静的テキストです。",
 		"Frame" : {
-			"6211" : "動作領域",
 			"9230" : "フレーム",
-			"11052" : "フレーム"
+			"11052" : "フレーム",
+			"6211" : "動作領域"
 		},
 		"Frame %d" : "フレーム %d",
 		"Frame %d - %s" : "フレーム %d - %s",
@@ -1571,12 +1571,12 @@
 		"Frame number (1-based)" : "フレーム番号 (1 から開始)",
 		"Frame position" : "フレームの位置",
 		"Frame position has just been loaded" : {
-			"8241" : "フレーム位置をロード",
-			"8191" : "フレームの位置をロードした"
+			"8191" : "フレームの位置をロードした",
+			"8241" : "フレーム位置をロード"
 		},
 		"Frame position has just been saved" : {
-			"8190" : "フレームの位置を保存した",
-			"8240" : "フレーム位置を保存"
+			"8240" : "フレーム位置を保存",
+			"8190" : "フレームの位置を保存した"
 		},
 		"Frame size" : "動作領域のサイズ",
 		"Free version" : "フリーバージョン",
@@ -2120,10 +2120,10 @@
 		"Neutral Matter" : "ニュートラルマター",
 		"Never" : "実行しない",
 		"New" : {
-			"1004" : "新規作成",
-			"11186" : "新規作成",
-			"16027" : "新規",
 			"11384" : "新規作成",
+			"1004" : "新規作成",
+			"16027" : "新規",
+			"11186" : "新規作成",
 			"16017" : "新規"
 		},
 		"New Application\nNew Application" : "新規アプリケーションを作成\n新規アプリケーションを作成",
@@ -2367,8 +2367,8 @@
 		"Picture frame" : "ピクチャフレーム",
 		"Pixel shader version" : "ピクセルシェーダーバージョン",
 		"Platform" : {
-			"12062" : "下からすり抜けられる障害物",
-			"12022" : "ジャンプとはしご"
+			"12022" : "ジャンプとはしご",
+			"12062" : "下からすり抜けられる障害物"
 		},
 		"Play" : "再生",
 		"Play Animation" : "アニメーションを再生",
@@ -2495,8 +2495,8 @@
 		"Put the selected object to the frame by simple click and/or paint patterns of objects\nPaint mode" : "オブジェクトをクリックおよび/またはペイントパターンで選択されたオブジェクトをフレームに配置してください\nペイントモード",
 		"Qualifier(s)" : "オブジェクトグループ",
 		"Question" : {
-			"6499" : "質問",
-			"2002" : "問題"
+			"2002" : "問題",
+			"6499" : "質問"
 		},
 		"Question & Answer" : "問題と回答",
 		"Quick Backdrop" : "クイック背景",
@@ -3575,11 +3575,25 @@
 		"while end page is displayed" : "最後のページが表示されている間",
 		"x:888888, y:888888" : "x:888888, y:888888",
 		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲",
+		", %s times" : "",
+		", frequency %s" : "",
+		", on a loop" : "",
+		", on channel #%s" : "",
+		", pan %s" : "",
+		", volume %s" : "",
+		"Allow global events to count objects that don't exist" : "",
+		"Channel Sample Name" : "",
+		"Channel number (1..48, or 0 for first available)" : "",
 		"Keep DLL's and extensions out of the EXE." : "",
+		"Legacy storage" : "",
 		"Modules sub-directory" : "",
+		"Only 65535 event lines are allowed." : "",
+		"Play Sample (all parameters)" : "",
+		"Play sample %0%2%1%3%4%5" : "",
 		"The extensions are copied to this sub-directory when the EXE is built, if the Unpacked EXE option is selected." : "",
 		"Unpacked EXE" : "",
-		"Warning: the following fonts cannot be embedded:\n\n" : ""
+		"Warning: the following fonts cannot be embedded:\n\n" : "",
+		"When an object doesn't exist in the frame, keep 'Compare Number of Objects' conditions (with 0 as number of objects) instead of removing the event." : ""
 	},
 	"dialog_100" : {
 		"&Buy Now !" : "今すぐ購入！(&B)",
@@ -5834,6 +5848,7 @@
 		"&Go to..." : "移動(&G)...",
 		"&Group of Events" : "イベントグループ(&G)",
 		"&Help" : "ヘルプ(&H)",
+		"&In" : "拡大(&I)",
 		"&Insert" : "挿入(&I)",
 		"&Install Program" : "インストールプログラム(&I)",
 		"&Invert Selection" : "選択を反転(&I)",
@@ -5846,6 +5861,7 @@
 		"&Open..." : "開く(&O)...",
 		"&Other" : "その他(&O)",
 		"&Other Events" : "その他のイベント(&O)",
+		"&Out" : "縮小(&O)",
 		"&Paste" : "貼り付け(&P)",
 		"&Preferences" : "環境設定(&P)",
 		"&Previous Frame" : "前のフレーム(&P)",
@@ -5870,6 +5886,7 @@
 		"&Unselect" : "選択を解除(&U)",
 		"&View" : "表示(&V)",
 		"&Window" : "ウィンドウ(&W)",
+		"&Zoom" : "拡大/縮小(&Z)",
 		"A&pplication" : "アプリケーション(&P)",
 		"C&lone" : "クローン(&L)",
 		"C&lose Project" : "プロジェクトを閉じる(&L)",
@@ -6474,5 +6491,10 @@
 		"Output" : "Output",
 		"Sou&rce directory" : "ソースディレクトリ(&R)",
 		"Texts" : "テキスト"
+	},
+	"_details_" : {
+		"Number_of_translated_lines" : 5880,
+		"Number_of_untranslated_lines" : 19,
+		"Number_of_untranslated_words" : 118
 	}
 }
