@@ -85,8 +85,10 @@
 		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[仅限Windows]该选项可能会导致音频播放延迟。取消勾选可减少播放音频的等待时间。",
 		"Allow alterable values for counters and strings" : "允许计数器对象和字符串对象拥有变量",
 		"Event order" : "事件执行顺序",
-		"Export as text" : "以文本形式导出"
-
+		"Export as text" : "以文本形式导出",
+		"Event explorer" : "事件大纲",
+		"&Event explorer" : "事件大纲",
+		"Convert blocks of backdrops to quick backdrops" : "将成块排列的背景对象转化为快速背景对象"
 	},
 	"dialog_2007" : {
 
