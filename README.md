@@ -34,7 +34,17 @@ Clickteam Fusion 2.5非官方汉化
 
 ### 当前版本
 
-20200801 R292.26
+↓这个版本信息经常忘了改O_o，一切请以Commit记录为准，通常来说Summary为汉化的版本号
+
+版本:**R293.3**
+更新于:**20210706**
+
+本次更新移除了许多现版本已不再使用的文件(例:Flash相关)，建议将原汉化删除后**重新安装**汉化文件
+
+### 翻译状态
+
+|文件|翻译状态|
+|AndroidPlus|尚未翻译|
 
 ### 校对状态
 
@@ -47,6 +57,7 @@ Clickteam Fusion 2.5非官方汉化
 |ADShow||
 |Android||
 |AndroidDialog||
+|AndroidPlus||
 |Box2D8Directions||
 |Box2DAxial||
 |Box2DBackground||
@@ -82,12 +93,8 @@ Clickteam Fusion 2.5非官方汉化
 |DlgBox||
 |Download||
 |edrt|完成|
-|edrtex|完成|
 |Explorer||
-|fglflash||
 |fglobject||
-|Flash||
-|FlashVideo||
 |FontPacker||
 |GameCenterAchievement||
 |GameCenterAchievements||
@@ -150,27 +157,20 @@ Clickteam Fusion 2.5非官方汉化
 |kcWCtrl||
 |Layer|部分|
 |ListView||
-|lnchrt||
 |Location||
 |mmf2u|部分|
 |mmfs2||
 |MobileFont||
 |MobileUtilities||
-|MochiAnalytics||
-|MochiCoins||
-|MochiConnector||
-|MochiScores||
-|MochiSocial||
 |MultipleTouch||
 |ObjectMover||
 |Oldini||
-|OUYA||
 |OUYA||
 |Pinball||
 |PopupMenu||
 |Quiz||
 |Registry2||
-|RuntimeFlash||
+|rtres||
 |RuntimeHTML5.Devel||
 |RuntimeHTML5.Final||
 |RuntimeHTML5.Free.Full||
@@ -186,4 +186,5 @@ Clickteam Fusion 2.5非官方汉化
 |ToolTip||
 |TreeControl||
 |VideoAndroid||
+|XboxConnect|完成|
 |XBOXGamepad||
