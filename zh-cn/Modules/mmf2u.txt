@@ -6322,7 +6322,7 @@
 		"Delete any action in column" : "删除列内所有动作",
 		"Display properties" : "显示属性",
 		"Hide" : "隐藏",
-		"Hide objects with qualifier" : "隐藏选取的对象",
+		"Hide objects with qualifier" : "隐藏具有该分组标记的对象",
 		"Insert hidden object" : "插入隐藏对象",
 		"Insert object folder" : "插入对象文件夹",
 		"Open Behavior 1" : "打开行为1",
