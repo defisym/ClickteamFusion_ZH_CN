@@ -430,7 +430,7 @@
 		"65536 colors" : "65536 色",
 		"90 degrees anticlockwise" : "逆时针旋转90度",
 		"90 degrees clockwise" : "顺时针旋转90度",
-		"96x96 image, that represents your application on an Android device’s Home screen." : "分辨率为96x96的图像,用于主屏幕图标",
+		"192x192 image, that represents your application on an Android device’s Home screen." : "分辨率为192x192的图像,用于在主屏幕上显示应用图标",
 		"< &Back" : "< 返回(&B)",
 		"<Empty>" : "<空>",
 		"<Non-existent menu option>" : "<不存在的菜单选项>",

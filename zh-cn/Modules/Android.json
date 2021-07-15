@@ -76,7 +76,10 @@
         ["菜单 ...",
 	        [22, "启用选项菜单项目"],
         	[23, "禁用选项菜单项目"],
-	        [29, "通过动作打开菜单"]
+	        [29, "通过动作打开菜单"],
+            "Separator",
+			[43, "禁用默认菜单行为"],
+			[44, "启用默认菜单行为"]
         ],
 		
         "Separator",
@@ -96,9 +99,9 @@
 
         "Separator",
 
-        ["硬件按键",
-	        [30, "禁用硬件按键"],
-        	[31, "启用硬件按键"]
+        ["实体按键",
+	        [30, "禁用实体按键"],
+        	[31, "启用实体按键"]
         ],
 
         "Separator",
@@ -114,7 +117,8 @@
 
         "Separator",
 
-        [28, "保存截屏"],		
+        [28, "截取屏幕"],
+        [41, "截取部分屏幕"],			
 		
         "Separator",
 
@@ -125,9 +129,17 @@
 		
         "Separator",
 
-        [39, "置字符集"],
+        [39, "设置字符集"],
 		
-        "Separator"
+        "Separator",
+
+        [42, "检查游戏控制器"],
+
+        "Separator",
+
+		[ 45, "设置沉浸模式" ],
+
+		"Separator"
     ],
 
     "ConditionMenu":
@@ -178,6 +190,14 @@
 
        "Separator",
 
+       ["游戏控制器",
+        [ 26, "是否连接了具有游戏手柄的控制器" ],
+        [ 27, "是否连接了具有摇杆的控制器" ],
+        [ 28, "是否连接了具有DPad的控制器" ]
+      ],
+
+      "Separator",
+
        [20, "选择菜单的项目被选择时"],
        [21, "任意选择菜单的项目被选择时"],
 	   
@@ -185,8 +205,13 @@
 
        [22, "键盘显示时"],
        [23, "键盘隐藏时"],
-       [24, "键盘可见？"]
+       [24, "键盘可见？"],
 	   
+       "Separator",
+
+		[ 25, "是否成功获取了权限" ],
+
+		"Separator"
     ],
 
     "ExpressionMenu":
@@ -257,7 +282,16 @@
             [27, "产品"],
 	    [29, "序列号"],
 	    [30, "用户谷歌帐户"]
-       ]
+       ],
+
+       "Separator",
+
+		[
+		  "游戏控制器",
+		  [ 32, "最后按下的按键" ]
+
+		],
+		"Separator"
     ],
 
     "Actions":
@@ -333,6 +367,9 @@
           "Parameters": [["Text", "项目 ID"]]
         },
 
+        {"Title": "禁用默认菜单行为"},  
+        {"Title": "启用默认菜单行为"},
+
         { "Title": "显示动作标题栏" },
         { "Title": "隐藏动作标题栏" },
 		
@@ -360,7 +397,25 @@
           "Parameters": [["Integer", "字符集 (0:Unicode-默认, 1:ANSI)"]]},
         { "Title": "添加信使 (发送): URI %0 = %1",
           "Parameters": [["Text", "名称"], ["Text", "值"]]
-        }
+        },
+
+        { "Title": "截取部分屏幕到文件 %0 (X:%1,Y:%1,宽:%3,高:%4)",
+            "Parameters": [
+                ["Text", "文件名"],
+                ["Integer", "X 坐标"],
+                ["Integer", "Y 坐标"],
+                ["Integer", "宽"],
+                ["Integer", "高"]
+            ]
+        },
+  
+          {"Title": "检查游戏控制器"},
+
+          {"Title": "设置沉浸模式为 %0",
+            "Parameters": [
+              [ "Integer", "沉浸模式 (0:禁用 1:启用)" ]
+            ]
+          }
 
     ],
 
@@ -399,7 +454,7 @@
         {   "Title": "%o : 返回按钮按下时",
             "Triggered": true
         },
-        {   "Title": "%o : 主机按钮按下时",
+        {   "Title": "%o : 主页按钮按下时",
             "Triggered": true
         },
         {   "Title": "%o : 菜单按钮按下时",
@@ -442,7 +497,26 @@
             "Triggered": true
         },
         {   "Title": "%o : 键盘可见？"
-        }
+        },
+        {
+            "Title": "是否获取了 %0 权限",
+            "Triggered": false,
+            "Parameters": [
+              [ "Text", "权限名 (例: android.permission.INTERNET)" ]
+            ]
+          },
+          {
+            "Title": "%o : 是否连接了具有游戏手柄的控制器",
+            "Triggered": false
+          },
+          {
+            "Title": "%o : 是否连接了具有摇杆的控制器",
+            "Triggered": false
+          },
+          {
+            "Title": "%o : 是否连接了具有DPad的控制器",
+            "Triggered": false
+           }
     ],
 
     "Expressions":
@@ -536,13 +610,21 @@
         },
         {   "Title": "PublicStorageDirectory(",
             "Returns": "Text",
-            "Parameters": [["Text", "类型名 (图片、电影、文件、 DCIM、下载、音乐、其他.)"]]
+            "Parameters": [["Text", "类型名 (图片、电影、文件、 DCIM、下载、音乐、其他)"]]
         },
         {   "Title": "DeviceSerialNumber$(",
             "Returns": "Text"
         },
         {   "Title": "UserGoogleAccount$(",
             "Returns": "Text"
-        }
+        },
+        {
+            "Title": "SecondaryExternalStorage$(",
+            "Returns": "Text"
+          },
+          {
+            "Title": "LastButtonPressed(",
+            "Returns": "Integer"
+          }
     ]
 }
