@@ -432,7 +432,7 @@
 		"65536 colors" : "65536 色",
 		"90 degrees anticlockwise" : "反時計周りに 90 度回転",
 		"90 degrees clockwise" : "時計回りに 90 度回転",
-		"96x96 image, that represents your application on an Android device’s Home screen." : "Android 端末のホーム画面に表示されるアプリケーションアイコン (サイズは 96 x 96 ピクセル) です。",
+		"192x192 image, that represents your application on an Android device’s Home screen." : "Android 端末のホーム画面に表示されるアプリケーションアイコン (サイズは 192 x 192 ピクセル) です。",
 		"< &Back" : "< 戻る(&B)",
 		"<Empty>" : "<空>",
 		"<Non-existent menu option>" : "<存在しないメニューオプション>",
