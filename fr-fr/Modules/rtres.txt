@@ -1,0 +1,73 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%d (Num. keypad)" : "%d (clavier numérique)",
+		"An error has occured while reading the file." : "Erreur lors de la lecture du fichier.",
+		"An error has occured while writing the file." : "Erreur lors de l'écriture du fichier.",
+		"Backspace" : "Retour arrière",
+		"Clear" : "Effacer",
+		"Control" : "Contrôle",
+		"Del" : "Suppr.",
+		"Down Arrow" : "Flèche vers le bas",
+		"End" : "Fin",
+		"Enter" : "Entrée",
+		"Escape" : "Echap.",
+		"Execute" : "Exécuter",
+		"Home" : "Home",
+		"Ins" : "Insertion",
+		"Joystick not connected or driver not installed." : "Joystick non connecté, ou pilote non installé.",
+		"Left Arrow" : "Flèche gauche",
+		"Page Down" : "Page Bas",
+		"Page Up" : "Page Haut",
+		"Right Arrow" : "Flèche droite",
+		"Select" : "Sélectionner",
+		"Shift" : "Maj.",
+		"Space bar" : "Barre d'espacement",
+		"Tab" : "Onglet",
+		"The current frame is not the same as the saved one." : "La frame courante n'est pas la même que celle enregistrée.",
+		"This file is not a position file." : "Ce fichier n'est pas un fichier position.",
+		"This file was not saved by this application." : "Ce fichier n'a pas été enregistré avec cette application.",
+		"This file was saved by a incompatible version of the application." : "Ce fichier a été enregistré avec une version incompatible de l'application.",
+		"This file was saved with an incompatible version of MMF runtime." : "Ce fichier a été enregistré avec une version incompatible du runtime MMF.",
+		"Up Arrow" : "Flèche Haut"
+	},
+	"dialog_110" : {
+		"About" : "A propos de",
+		"OK" : "OK"
+	},
+	"dialog_111" : {
+		"Application paused" : "Application en pause",
+		"Continue" : "Continuer"
+	},
+	"dialog_112" : {
+		"Cancel" : "Annuler",
+		"Default Controls" : "Contrôles par défaut.",
+		"Joystick 1" : "Joystick 1",
+		"Joystick 2" : "Joystick 2",
+		"Joystick 3" : "Joystick 3",
+		"Joystick 4" : "Joystick 4",
+		"Keyboard" : "Clavier",
+		"OK" : "OK",
+		"Player controls" : "Contrôles joueur"
+	},
+	"dialog_113" : {
+		"Button 1" : "Bouton 1",
+		"Button 2" : "Bouton 2",
+		"Button 3" : "Bouton 3",
+		"Button 4" : "Bouton 4",
+		"Cancel" : "Annuler",
+		"Down" : "Bas",
+		"Keyboard setup" : "Configuration clavier",
+		"Left" : "Gauche",
+		"OK" : "OK",
+		"Press a key ... (or ESC to cancel)" : "Appuyez sur une touche ... (Echap pour annuler)",
+		"Right" : "Droite",
+		"Up" : "Haut"
+	},
+	"dialog_114" : {
+		"Cancel" : "Annuler",
+		"Enter password" : "Entrer le mot de passe",
+		"OK" : "OK"
+	}
+}

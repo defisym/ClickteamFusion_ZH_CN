@@ -35,6 +35,8 @@
 		"Stretch" : "Etirer",
 		"Title number" : "Pièce numéro",
 		"Total duration: %i" : "Durée totale: %i",
+		"Use Media Foundation API instead of Direct Show in DirectX 11 mode." : "Utiliser Media Foundation au lieu de Direct Show en mode DirectX11",
+		"Use Media Foundation with DirectX 11" : "Utiliser Media Foundation avec DirectX 11",
 		"Volume: %i" : "Volume: %i",
 		"Volume: 0 to 1000" : "Volume: 0 à 1000",
 		"Width" : "Largeur"

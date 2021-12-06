@@ -24,10 +24,9 @@
 		"An error has occured while reading the file." : "Erreur lors de la lecture du fichier.",
 		"An error has occured while writing the file." : "Erreur lors de l'écriture du fichier.",
 		"Animation" : "Animation",
-		"Application initialization error." : "Erreur d'initialisation de l'application.",
 		"Backspace" : "Retour arrière",
 		"Cannot find %s!" : "Impossible de trouver %s!",
-		"Cannot initialize Application." : "Impossible d'initialiser l'application.",
+		"Cannot initialize application." : "Impossible d'initialiser l'application.",
 		"Cannot load %s. This object might need an external program or library not yet installed." : "Impossible de charger %s. Cet objet a peut-être besoin d'un programme externe ou d'une librairie non installée.",
 		"Clear" : "Effacer",
 		"Control" : "Contrôle",
@@ -35,8 +34,6 @@
 		"Deceleration: %i   " : "Décélération: %i   ",
 		"Del" : "Suppr.",
 		"Direction: %i   " : "Direction: %i   ",
-		"Don't play music." : "Pas de musiques",
-		"Don't play samples." : "Pas d'échantillons sonores.",
 		"Down Arrow" : "Flèche vers le bas",
 		"End" : "Fin",
 		"Enter" : "Entrée",
@@ -48,7 +45,6 @@
 		"File error!" : "Erreur de fichier!",
 		"Fixed value: %d" : "Valeur fixe: %d",
 		"Flags" : "Drapeaux",
-		"Frame %d" : "Scène %d",
 		"Frame number: %i" : "Scène numéro: %i",
 		"Frames per second: %i" : "Images par seconde: %i",
 		"Global strings" : "Chaînes globales",
@@ -83,8 +79,6 @@
 		"Other objects" : "Autres objets",
 		"Page Down" : "Page Bas",
 		"Page Up" : "Page Haut",
-		"Play music." : "Jouer la musique.",
-		"Play samples." : "Jouer les sons.",
 		"Please enter a new text" : "Entrez un nouveau texte svp",
 		"Please enter the new maximum value" : "Entrez la nouvelle valeur maximale",
 		"Please enter the new minimum value" : "Entrez la nouvelle valeur minimale",
@@ -111,11 +105,10 @@
 		"The following object cannot be created: \"%s\".\nError message reported: %s\n\nDo you want to continue anyway?" : "L'objet suivant ne peut être créé: \"%s\".\nMessage d'erreur rapporté: %s\n\nVoulez-vous continuer quand même?",
 		"There is not enough available space in the temporary drive. Free some disk space and try again." : "Il n'y a pas assez d'espace disponible sur le drive temporaire. Libérez de l'espace disque et ré-essayez.",
 		"This application has been built with an incompatible version of Clickteam Fusion." : "Cette application a été construite avec une version incompatible de Clickteam Fusion.",
-		"This file is not a MMF application position file." : "Ce fichier n'est pas un fichier position d'application MMF.",
+		"This file is not a position file." : "Ce fichier n'est pas un fichier position.",
 		"This file was not saved by this application." : "Ce fichier n'a pas été enregistré avec cette application.",
 		"This file was saved by a incompatible version of the application." : "Ce fichier a été enregistré avec une version incompatible de l'application.",
 		"This file was saved with an incompatible version of MMF runtime." : "Ce fichier a été enregistré avec une version incompatible du runtime MMF.",
-		"This is not an application file!" : "Ce n'est pas un fichier application!",
 		"Time: %02i:%02i" : "Temps: %02i:%02i",
 		"Time: %02i:%02i:%02i" : "Temps: %02i:%02i:%02i",
 		"Type: 8 directions" : "Type: 8 directions",
@@ -127,13 +120,13 @@
 		"Type: platform" : "Type: plateforme",
 		"Type: race" : "Type: voiture de course",
 		"Type: static" : "Type: statique",
+		"Unknown format!" : "Format inconnu!",
 		"Up Arrow" : "Flèche Haut",
 		"User animation #%i " : "Animation utilisateur #%i ",
 		"Value: %i" : "Valeur: %i",
 		"Value: %s" : "Valeur: %s",
 		"Video" : "Video",
 		"Width: %i, Height: %i            " : "Largeur: %i, Hauteur: %i            ",
-		"Window initialization error." : "Erreur d'initialisation de la fenêtre.",
 		"X: %i, Y: %i            " : "X: %i, Y: %i            "
 	},
 	"dialog_101" : {
@@ -150,11 +143,26 @@
 		"OK" : "OK",
 		"Please enter a new number" : "Entrez un nouveau nombre"
 	},
-	"dialog_700" : {
+	"dialog_110" : {
+		"About" : "A propos de",
+		"OK" : "OK"
+	},
+	"dialog_111" : {
 		"Application paused" : "Application en pause",
 		"Continue" : "Continuer"
 	},
-	"dialog_701" : {
+	"dialog_112" : {
+		"Cancel" : "Annuler",
+		"Default Controls" : "Contrôles par défaut.",
+		"Joystick 1" : "Joystick 1",
+		"Joystick 2" : "Joystick 2",
+		"Joystick 3" : "Joystick 3",
+		"Joystick 4" : "Joystick 4",
+		"Keyboard" : "Clavier",
+		"OK" : "OK",
+		"Player controls" : "Contrôles joueur"
+	},
+	"dialog_113" : {
 		"Button 1" : "Bouton 1",
 		"Button 2" : "Bouton 2",
 		"Button 3" : "Bouton 3",
@@ -168,24 +176,9 @@
 		"Right" : "Droite",
 		"Up" : "Haut"
 	},
-	"dialog_703" : {
+	"dialog_114" : {
 		"Cancel" : "Annuler",
 		"Enter password" : "Entrer le mot de passe",
-		"OK" : "OK"
-	},
-	"dialog_704" : {
-		"Cancel" : "Annuler",
-		"Default Controls" : "Contrôles par défaut.",
-		"Joystick 1" : "Joystick 1",
-		"Joystick 2" : "Joystick 2",
-		"Joystick 3" : "Joystick 3",
-		"Joystick 4" : "Joystick 4",
-		"Keyboard" : "Clavier",
-		"OK" : "OK",
-		"Player controls" : "Contrôles joueur"
-	},
-	"dialog_705" : {
-		"About" : "A propos de",
 		"OK" : "OK"
 	},
 	"dialog_14116" : {
@@ -228,5 +221,10 @@
 	},
 	"menu_14119" : {
 		"Edit" : "Edition"
+	},
+	"menu_14123" : {
+		"Display named values only" : "Afficher valeurs nommées seules",
+		"Edit" : "Edition",
+		"Remove all ojbects" : "Enlever tous les objets"
 	}
 }
