@@ -1,0 +1,20 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%s files (%s)" : "%s fichiers (%s)",
+		"All files (*.*)|*.*||" : "Tous les fichiers (*.*)|*.*||",
+		"Animation files" : "Fichiers Animations",
+		"Graphic files" : "Fichiers Graphiques",
+		"Image files" : "Fichiers Images",
+		"Unknown format" : "Format Inconnu"
+	},
+	"dialog_100" : {
+		"# frames :" : "Nb Images :",
+		"Depth :" : "Profondeur :",
+		"Height :" : "Hauteur :",
+		"Information" : "Information",
+		"Type :" : "Type :",
+		"Width :" : "Largeur :"
+	}
+}

@@ -1,0 +1,19 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"End play" : "Fin du jeu",
+		"Event tag" : "Tag événement",
+		"Mochi Analytics" : "Mochi Analytics",
+		"Obsolete. This object is provided for compatibility reasons only." : "Obsolète. Cet objet est fourni seulement pour des raisons de compatibilité.",
+		"Start play (tag %0)" : "Départ du jeu (tag %0)",
+		"Tag (default: gameplay)" : "Tag (défaut: gameplay)",
+		"Track event %0 with value %1" : "Pister événement %0 avec valeur %1",
+		"Value (default: 1)" : "Valeur (défaut: 1)"
+	},
+	"menu_20000" : {
+		"End play" : "Fin du jeu",
+		"Start play" : "Départ du jeu",
+		"Track event" : "Pister événement"
+	}
+}

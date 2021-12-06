@@ -1,0 +1,452 @@
+
+{   "About":
+    {
+        "Name": "Objet OUYA",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2013 Clickteam",
+        "Website": "http://www.clickteam.com",
+        "Comment": "Composant du module Android. Fournit des fonctions spécifiques pour l'exécution sur une console OUYA.",
+        "URL": "http://www.clickteam.com",
+        "Help": "Help/OUYA.chm",
+        "Identifier": "OUYA",
+    },
+
+    "ActionMenu":
+    [
+        ["IAP",
+            [0, "Initialiser IAP"],
+            [1, "Fixer produit actuel"],
+            [2, "Acheter produit actuel"],
+        ],
+       "Separator",
+        [3, "Définir un pavé tactile comme pavé principal"]
+    ],
+
+    "ConditionMenu":
+    [
+       [30, "L'appareil est-il une console OUYA?"],
+       "Separator",
+       ["Un bouton a été pressé",
+           [15, "O"],
+           [16, "U"],
+           [17, "Y"],
+           [18, "A"],
+           [19, "L1"],
+           [20, "L2"],
+           [21, "R1"],
+           [22, "R2"],
+           [23, "Menu"],
+           [24, "D-Pad Haut"],
+           [25, "D-Pad Bas"],
+           [26, "D-Pad Gauche"],
+           [27, "D-Pad Droite"],
+           [28, "R3"],
+           [29, "L3"]
+       ],
+       ["Un bouton a été relâché",
+           [31, "O"],
+           [32, "U"],
+           [33, "Y"],
+           [34, "A"],
+           [35, "L1"],
+           [36, "L2"],
+           [37, "R1"],
+           [38, "R2"],
+           [39, "Menu"],
+           [40, "D-Pad Haut"],
+           [41, "D-Pad Bas"],
+           [42, "D-Pad Gauche"],
+           [43, "D-Pad Droite"],
+           [44, "R3"],
+           [45, "L3"]
+       ],
+       ["Un bouton est-il pressé pour un joueur donné?",
+           [0, "O"],
+           [1, "U"],
+           [2, "Y"],
+           [3, "A"],
+           [4, "L1"],
+           [5, "L2"],
+           [6, "R1"],
+           [7, "R2"],
+           [8, "Menu"],
+           [9, "D-Pad Haut"],
+           [10, "D-Pad Bas"],
+           [11, "D-Pad Gauche"],
+           [12, "D-Pad Droite"],
+           [13, "R3"],
+           [14, "L3"]
+       ],
+       "Separator",
+       ["IAP",
+            [48, "IAP initialisé"],
+            [49, "L'initialisation d'IAP a échoué"],
+            "Separator",
+            [46, "Produit sélectionné"],
+            [53, "La sélection d'un produit a échoué"],
+            "Separator",
+            [51, "Achat effectué"],
+            [52, "Un achat a échoué"],
+            "Separator",
+            [50, "Le joueur a un produit?"]
+       ],
+       "Separator",
+	   [54, "Le bouton Système a été pressé 2 fois"]
+    ],
+
+    "ExpressionMenu":
+    [
+        [0, "Numéro de joueur actuel"],
+        "Separator",
+        ["Valeur d'un axe (joueur actuel)",
+            [1, "X manette gauche"],
+            [2, "Y manette gauche"],
+            "Separator",
+            [3, "X manette droite"],
+            [4, "Y manette droite"],
+            "Separator",
+            [12, "Manette L2"],
+            [13, "Manette R2"]
+        ],
+        ["Valeur d'un axe (numéro de joueur)",
+            [5, "X manette gauche"],
+            [6, "Y manette gauche"],
+            "Separator",
+            [7, "X manette droite"],
+            [8, "Y manette droite"],
+            "Separator",
+            [14, "Manette L2"],
+            [15, "Manette R2"]
+        ],
+        "Separator",
+        ["IAP",
+            [9, "Nom produit actuel"],
+            [10, "Prix produit actuel en US cents"],
+            [19, "Monnaie d'achat produit actuel"],
+            [20, "Prix d'achat produit actuel"],
+            [11, "UUID joueur"]
+        ],
+        "Separator",
+        ["Extras ...",
+            [16, "Nom utilisateur"],
+            [17, "Nom console"],
+            [18, "Appareil supporté"]
+        ]
+    ],
+
+    "Actions":
+    [
+        { "Title": "Initialiser IAP avec ID développeur %0, fichier clef %1",
+          "Parameters": [
+                ["Text", "ID développeur"], 
+                ["File", "Fichier clef"]
+          ]
+        },
+        { "Title": "Sélectionner produit %0",
+          "Parameters": [
+                ["Text", "ID produit"] 
+          ]
+        },
+        { "Title": "Acheter produit actuel"},
+	{ "Title": "Définir le pavé tactile du contrôleur %0 comme pavé par défaut",
+            "Parameters": [["Integer", "Numéro de contrôleur (0 à 3)"]]
+        }
+    ],
+
+    "Conditions":
+    [
+        {   "Title": "%o : le bouton O est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton U est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton Y est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton A est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton L1 est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton L2 est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton R1 est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton R2 est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton Menu est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : la direction Haut du D-Pad est-elle pressée pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : la direction Bas du D-Pad est-elle pressée pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : la direction Gauche du D-Pad est-elle pressée pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : la direction Droite du D-Pad est-elle pressée pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton R3 est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+        {   "Title": "%o : le bouton L3 est-il pressé pour le joueur %0?",
+            "Triggered": false,
+            "Parameters": [
+                ["Integer", "Numéro de joueur"]
+            ]
+        },
+
+        {   "Title": "%o : Le bouton O a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton U a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton Y a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton A a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton L1 a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton L2 a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton R1 a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton R2 a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton Menu a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Haut du D-Pad a été pressée",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Bas du D-Pad a été pressée",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Gauche du D-Pad a été pressée",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Droite du D-Pad a été pressée",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton R3 a été pressé",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton L3 a été pressé",
+            "Triggered": true
+        },
+
+        {   "Title": "%o : L'appareil est une console OUYA?",
+            "Triggered": false
+        },
+
+        {   "Title": "%o : Le bouton O a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton U a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton Y a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton A a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton L1 a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton L2 a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton R1 a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton R2 a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton Menu a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Haut du D-Pad a été relâchée",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Bas du D-Pad a été relâchée",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Gauche du D-Pad a été relâchée",
+            "Triggered": true
+        },
+        {   "Title": "%o : La direction Droite du D-Pad a été relâchée",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton R3 a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton L3 a été relâché",
+            "Triggered": true
+        },
+        {   "Title": "%o : un produit a été sélectionné",
+            "Triggered": true
+        },
+        {   "Title": "%o : un UUID a été réceptionné",
+            "Triggered": true
+        },
+        {   "Title": "%o : IAP a été initialisé",
+            "Triggered": true
+        },
+        {   "Title": "%o : l'initialisation d'IAP a échoué",
+            "Triggered": true
+        },
+        {   "Title": "%o : le joueur a-t-il le produit %0?",
+            "Parameters": [["Text", "ID produit"]],
+            "Triggered": false
+        },
+        {   "Title": "%o : un achat a réussi",
+            "Triggered": true
+        },
+        {   "Title": "%o : un achat a échoué",
+            "Triggered": true
+        },
+        {   "Title": "%o : la sélection d'un produit a échoué",
+            "Triggered": true
+        },
+        {   "Title": "%o : Le bouton Système a été pressé 2 fois",
+            "Triggered": true
+        }
+    ],
+
+    "Expressions":
+    [
+        {   "Title": "CurrentPlayer(",
+            "Returns": "Integer"
+        },
+        {   "Title": "LeftStickX(",
+            "Returns": "Float"
+        },
+        {   "Title": "LeftStickY(",
+            "Returns": "Float"
+        },
+        {   "Title": "RightStickX(",
+            "Returns": "Float"
+        },
+        {   "Title": "RightStickY(",
+            "Returns": "Float"
+        },
+        {   "Title": "LeftStickXForPlayer(",
+            "Returns": "Float",
+            "Parameters": [["Integer", "Joueur"]]
+        },
+        {   "Title": "LeftStickYForPlayer(",
+            "Returns": "Float",
+            "Parameters": [["Integer", "Joueur"]]
+        },
+        {   "Title": "RightStickXForPlayer(",
+            "Returns": "Float",
+            "Parameters": [["Integer", "Joueur"]]
+        },
+        {   "Title": "RightStickYForPlayer(",
+            "Returns": "Float",
+            "Parameters": [["Integer", "Joueur"]]
+        },
+        {   "Title": "ProductName$(",
+            "Returns": "Text",
+            "Parameters": []
+        },
+        {   "Title": "ProductPriceinUSCents(",
+            "Returns": "Float",
+            "Parameters": []
+        },
+        {   "Title": "GamerUUID$(",
+            "Returns": "Text",
+            "Parameters": []
+        },
+        {   "Title": "L2_Stick(",
+            "Returns": "Float"
+        },
+        {   "Title": "R2_Stick(",
+            "Returns": "Float"
+        },
+        {   "Title": "L2_StickForPlayer(",
+            "Returns": "Float",
+            "Parameters": [["Integer", "Joueur"]]
+		},
+        {   "Title": "R2_StickForPlayer(",
+            "Returns": "Float",
+            "Parameters": [["Integer", "Joueur"]]
+		},	
+        {   "Title": "UserName$(",
+            "Returns": "Text"
+        },
+        {   "Title": "ConsoleName$(",
+            "Returns": "Text"
+        },
+        {   "Title": "SupportedDevice(",
+            "Returns": "Integer"
+        },
+        {   "Title": "ProductPurchaseCurrency$(",
+            "Returns": "Text",
+            "Parameters": []
+        },
+        {   "Title": "ProductPurchasePrice$(",
+            "Returns": "Text",
+            "Parameters": []
+        }
+    ]
+}
+

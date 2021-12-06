@@ -1,0 +1,26 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Allow the user to edit the picture or movie" : "Permet à l'utilisateur d'éditer la photo ou le film.",
+		"Camera" : "Camera",
+		"Editable" : "Editable",
+		"Extra function for iOS applications." : "Fonctions supplémentaires pour les applications iOS",
+		"Is camera available?" : "L'appareil photo est'il disponible?",
+		"Record and save movie" : "Enregistrer et sauver film",
+		"Save picture" : "Sauver la photo",
+		"Take picture" : "Prendre une photo"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Movie" : "Film",
+		"Pictures" : "Photos",
+		"Record and save movie" : "Enregistrer et sauver film",
+		"Save picture" : "Sauver la photo",
+		"Take picture" : "Prendre une photo"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is camera available?" : "L'appareil photo est'il disponible?"
+	}
+}

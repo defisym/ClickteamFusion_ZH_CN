@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Allows you to retrieve system information (user name, language, environment variables, etc.). For Pro version only." : "Vous permet de récupérer des informations système (nom d'utilisateur, variables d'environnement etc.). Pour la version Pro seulement.",
+		"Computer langage: %i   " : "Langage de l'ordinateur: %i   ",
+		"Computer name: %s" : "Nom de l'ordinateur: %s",
+		"Langage name: %s" : "Nom du langage: %s",
+		"OS" : "OS",
+		"OS object" : "Objet OS",
+		"User langage name: %s" : "Nom du langage utilisateur: %s",
+		"User langage: %i" : "Langage utilisateur: %i",
+		"User name: %s" : "Nom d'utilisateur: %s",
+		"Windows 10" : "Windows 10",
+		"Windows 2000" : "Windows 2000",
+		"Windows 7" : "Windows 7",
+		"Windows 8" : "Windows 8",
+		"Windows 95" : "Windows 95",
+		"Windows 98" : "Windows 98",
+		"Windows ME" : "Windows ME",
+		"Windows NT" : "Windows NT",
+		"Windows NT 4" : "Windows NT 4",
+		"Windows Vista" : "Windows Vista",
+		"Windows XP" : "Windows XP",
+		"Windows version: %i" : "Version de Windows: %i",
+		"Windows version: %s" : "Version de Windows: %s"
+	},
+	"menu_20002" : {
+		"&Environment Variable" : "Variable d'environnement",
+		"&Windows Version (index)" : "Version de Windows (index)",
+		"Computer &Name" : "Nom de l'ordinateur",
+		"System Default &Language ID" : "ID du langage par défaut du système",
+		"System Default &Language Name" : "Nom du langage par défaut du système",
+		"User Default L&anguage ID" : "ID du langage par défaut de l'utilisateur",
+		"User Default L&anguage Name" : "Nom du langage par défaut de l'utilisateur",
+		"User Na&me" : "Nom de l'utilisateur",
+		"Windows Version (text)" : "Version de Windows (texte)"
+	}
+}

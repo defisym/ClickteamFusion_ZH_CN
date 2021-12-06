@@ -1,0 +1,45 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: Application has been deactivated" : "%o: L'application a été désactivée",
+		"%o: Application has been reactivated" : "%o: L'application a été réactivée",
+		"%o: Back key is pressed" : "%o: La touche retour a été pressée",
+		"%o: Music is playing in the background " : "%o: une musique est en train de jouer en fond",
+		"Assign gamepad(s) %1 to player %0" : "Assigner le(s) gamepad(s) %1  au joueur %0",
+		"Check this box to simulate trial mode during the developpement of your game" : "Cochez cette case pour simuler le mode évaluation.",
+		"Enter gamepad(s) (1 for gp1, 2 for gp 2, 4 for gp 3, 8 for gp 4, or any combination)" : "Entrer les gamepads (1 pour gp 1, 2 pour gp 2, 4 pour gp 3, 8 pour gp 4 ou toute combinaison)",
+		"Enter player number (1-4)" : "Entrez le numéro du joueur (1-4)",
+		"Enter the duration of the vibration, in seconds" : "Entrez la durée de la vibration (en secondes)",
+		"Enter the player index, 1, 2, 3 or 4" : "Entrez l'index du joueur, 1, 2, 3 ou 4",
+		"Extra function for XNA applications." : "Fonctions supplémentaires pour les applications XNA",
+		"Game is in trial mode" : "Le jeu est en évaluation",
+		"Open URL %0" : "Ouvrir l'URL %0",
+		"Open storage device selector" : "Ouvrir le sélecteur de sauvegarde",
+		"Please enter the URL to open" : "Entrez l'URL à ouvrir",
+		"Set system player index to %0" : "Fixer l'index du joueur système à %0",
+		"Simulate trial mode" : "Simuler le mode évaluation",
+		"Storage device selector shown on screen." : "Le sélecteur de sauvegarde est affiché.",
+		"Vibrate phone for %0 seconds" : "Faire vibrer le téléphone pendant %0 secondes",
+		"XNA" : "XNA",
+		"XNA Object" : "Objet XNA"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Assign gamepad to player" : "Affecter un gamepad à un joueur",
+		"Open URL" : "Ouvrir URL",
+		"Open storage device selector" : "Ouvrir le sélecteur de sauvegarde",
+		"Set system player" : "Fixer le joueur système",
+		"Vibrate phone" : "Faire vibrer le téléphone",
+		"XBox" : "XBox"
+	},
+	"menu_20001" : {
+		"Application has been deactivated" : "L'application a été désactivée",
+		"Application has been reactivated" : "L'application a été réactivée",
+		"Back key is pressed" : "La touche Retour Arrière est pressée",
+		"Conditions" : "Conditions",
+		"Game is in trial mode" : "Le jeu est en évaluation",
+		"Music is playing in the background" : "Une musique est en train de jouer en fond",
+		"Windows Phone" : "Windows Phone"
+	}
+}

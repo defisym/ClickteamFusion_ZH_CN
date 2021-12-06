@@ -1,0 +1,30 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Activated : %i" : "Activé : %i",
+		"Active at start" : "Actif au lancement",
+		"Advanced" : "Avancé",
+		"Angle : %i degrees" : "Angle : %i degrés",
+		"Auto rotation" : "Rotations automatiques",
+		"Box" : "Boîte",
+		"Check this box to make your spring active when the frame starts" : "Cochez cette case pour que le ressort soit actif au lancement de la scène",
+		"Check to enable automatic rotations of the image" : "Cochez cette case pour autoriser les rotations automatiques des images",
+		"Check to resample the image of the object when rotating it (slower for large number of objects)." : "Cochez cette case pour ré-échantillonner l'image lors de sa rotation (plus lent pour un grand nombre d'images)",
+		"Circle" : "Cercle",
+		"Collision shape" : "Forme de collision",
+		"Engine ID" : "ID Moteur",
+		"Enter the direction of the spring" : "Entrez la direction du ressort",
+		"Enter the identifier of the movement, that must match the identifier of the engine object." : "Entrez l'identifieur du mouvement, qui doit correspondre à l'identifieur du moteur physique",
+		"Enter the strength of the spring, (0 = inactive)" : "Entrez la puissance du ressort (0 = inactif).",
+		"Physics - Spring" : "Physique - Ressort",
+		"Please choose the shape of the collision box" : "Choisissez la forme de la boîte de collision",
+		"Please drop a 'Physics Engine' object in your frame." : "Veuillez déposer un objet \"Physique - Moteur\" dans votre scène",
+		"Shape of first image" : "Forme de la première image",
+		"Smooth rotations" : "Ré-échantillonner lors de la rotation",
+		"Spring directions" : "Direction ressort",
+		"Strength" : "Force",
+		"Strength : %i" : "Puissance : %i",
+		"Type : Spring" : "Type : Ressort"
+	}
+}

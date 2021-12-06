@@ -1,0 +1,52 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: On Ad Clicked" : "%o: Une pub a été cliquée?",
+		"%o: On Ad Closed" : "%o: Une pub a été fermée?",
+		"%o: On Ad Error" : "%o: Erreur?",
+		"%o: On Ad Loaded" : "%o: Une pub a été chargée?",
+		"%o: On Ad Shown" : "%o: Une pub a été montrée?",
+		"%o: On Api Ready" : "%o: L'API est prête?",
+		"6V4" : "6V4",
+		"Disable Ads" : "Désactiver les pubs",
+		"Enable Ads" : "Autoriser les pubs",
+		"Enter Ad Size (0:320x250, 1:90x90)" : "Entrez taille pub (0:320x250, 1:90x90)",
+		"Enter Delay Value (in msecs, default is 3000)" : "Entrez le délai (en msecs, 3000 par défaut)",
+		"Enter Timeout Value (in msecs, default is 0)" : "Entrez la valeur de timeout (en msecs, 0 par défaut)",
+		"FGL - flash" : "FGL - flash",
+		"FGL Flash" : "FGL Flash",
+		"FGL Object for Flash. Provides special functionalities for FGL Ads in flash applications." : "Objet FGL pour Flash. Permet d'afficher des pubs FGL dans les applications Flash.",
+		"Game Id (from FGL dashboard)" : "ID du jeu (du tableau de bord de FGL)",
+		"Request Ad" : "Demander pub",
+		"Set Ad Delay to %0" : "Mettre le délai de pub à %0",
+		"Set Ad Size to %0" : "Mettre la taille de pub à %0",
+		"Set Ad Timeout to %0" : "Mettre le timeout de pub à %0",
+		"Set Game ID to %0" : "Mettre l'ID du jeu à %0",
+		"Show Ad" : "Montrer pub",
+		"just a review." : "..."
+	},
+	"menu_20000" : {
+		"Disable Ads" : "Désactiver les pubs",
+		"Enable Ads" : "Autoriser les pubs",
+		"Request Ad" : "Demander pub",
+		"Set Ad Delay" : "Définir le délai des pubs",
+		"Set Ad Size" : "Définir la taille des pubs",
+		"Set Ad Timeout" : "Définir le timeout des pubs",
+		"Set Game ID" : "Définir l'ID du jeu",
+		"Show Ad" : "Montrer pub"
+	},
+	"menu_20001" : {
+		"On Ad Clicked" : "Une pub a été cliquée",
+		"On Ad Closed" : "Une pub a été fermée",
+		"On Ad Error" : "Erreur",
+		"On Ad Loaded" : "Une pub a été chargée",
+		"On Ad Shown" : "Une pub a été montrée",
+		"On Api Ready" : "L'API est prête"
+	},
+	"menu_20002" : {
+		"Error String" : "Chaîne Erreur",
+		"Error Value" : "Valeur Erreur",
+		"Get Status" : "Etat pub"
+	}
+}

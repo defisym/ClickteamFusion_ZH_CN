@@ -1,0 +1,13 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Cannot create file in temporary directory !" : "Impossible de créer fichier dans répertoire temporaire !",
+		"Cannot create subdirectory in temporary directory !" : "Impossible de créer sous-répertoire dans répertoire temporaire !",
+		"Cannot open executable file !" : "Impossible d'ouvrir le fichier exécutable !",
+		"Cannot write to temporary file !" : "Impossible d'écrire dans fichier temporaire !",
+		"Invalid data in executable file !" : "Données invalides dans le fichier exécutable !",
+		"Not enough memory !" : "Pas assez de mémoire !",
+		"The disk that contains the Windows temporary directory is full !\n\nPlease free some space and retry." : "Le disque qui contient le répertoire temporaire de Windows est plein !\n\nVeuillez libérer de l'espace, puis réessayez."
+	}
+}

@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"An error has occured while reading the file." : "Erreur lors de la lecture du fichier.",
+		"An error has occured while writing the file." : "Erreur lors de l'écriture du fichier.",
+		"Application initialization error." : "Erreur d'initialisation de l'application.",
+		"Cannot find %s!" : "Impossible de trouver %s!",
+		"Cannot initialize Application." : "Impossible d'initialiser l'application.",
+		"Cannot load %s. This object might need an external program or library not yet installed." : "Impossible de charger %s. Cet objet a peut-être besoin d'un programme externe ou d'une librairie non installée.",
+		"Error while opening file." : "Erreur lors de l'ouverture du fichier.",
+		"File error!" : "Erreur de fichier!",
+		"Joystick not connected or driver not installed." : "Joystick non connecté, ou pilote non installé.",
+		"Not enough memory to start Help.\n\nQuit one or more applications to increase available memory, and then try again." : "Pas assez de mémoire pour lancer l'aide.\n\nQuittez les applications ouvertes pour augmenter la mémoire libre et réessayez.",
+		"Not enough memory!" : "Pas assez de mémoire!",
+		"Screen Saver" : "Economiseur d'écran",
+		"Screen Saver.Click                   " : "Screen Saver.Click                   ",
+		"Screen saver description" : "Description de l'économiseur d'écran",
+		"ScreenSaver" : "ScreenSaver",
+		"The current frame is not the same as the saved one." : "La frame courante n'est pas la même que celle enregistrée.",
+		"There is not enough available space in the temporary drive. Free some disk space and try again." : "Il n'y a pas assez d'espace disponible sur le drive temporaire. Libérez de l'espace disque et ré-essayez.",
+		"This application has been built with an incompatible version of Clickteam Fusion." : "Cette application a été construite avec une version incompatible de Clickteam Fusion.",
+		"This file is not a MMF application position file." : "Ce fichier n'est pas un fichier position d'application MMF.",
+		"This file was not saved by this application." : "Ce fichier n'a pas été enregistré avec cette application.",
+		"This file was saved by a incompatible version of the application." : "Ce fichier a été enregistré avec une version incompatible de l'application.",
+		"This file was saved with an incompatible version of MMF runtime." : "Ce fichier a été enregistré avec une version incompatible du runtime MMF.",
+		"This is not an application file!" : "Ce n'est pas un fichier application!",
+		"Window initialization error." : "Erreur d'initialisation de la fenêtre.",
+		"control.hlp" : "control.hlp",
+		"control.ini" : "control.ini"
+	},
+	"dialog_2003" : {
+		"Cancel" : "Annuler",
+		"OK" : "OK",
+		"Play musics" : "Jouer les musiques",
+		"Play samples" : "Jouer les sons",
+		"Set-up" : "Installation"
+	}
+}

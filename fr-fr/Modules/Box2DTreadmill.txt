@@ -1,0 +1,51 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: Is treadmill active?" : "%o : Le tapis roulant est-il actif?",
+		"Active at start" : "Actif au lancement",
+		"Advanced" : "Avancé",
+		"Angle" : "Angle",
+		"Angle : %g degrees" : "Angle : %g degrés",
+		"Check this box to make the treadmill active at start of frame" : "Cochez cette case pour activer le tapis roulant en début de scène",
+		"Direction of the treadmill" : "Direction du tapis roulant",
+		"Engine ID" : "ID Moteur",
+		"Enter 1 to turn on, 0 to turn off" : "Entrez 1  pour mettre en marche, 0 pour arrêter",
+		"Enter the direction of the treadmill" : "Entrez la direction du tapis roulant",
+		"Enter the height of the object" : "Entrez la longueur de l'objet",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "Entrez l'identifieur du moteur si plusieurs moteurs sont utilisés sur la même scène",
+		"Enter the speed of the treadmill (0-100)" : "Entrez la votesse du tapis roulant (0-100)",
+		"Enter the speed of the treadmill, from 0 to 100" : "Entrez la vitesse du tapis roulant, de 0 à 100",
+		"Enter the width of the object" : "Entrez la largeur de l'objet",
+		"Moves objects at constant speed in one direction" : "Fait bouger les objets à une vitesse constante dans une direction",
+		"Physics - Treadmill" : "Physique - Tapis Roulant",
+		"Please drop a 'Physics Engine' object in your frame." : "Veuillez déposer un objet \"Physique - Moteur\" dans votre scène",
+		"Running : %i" : "Fonctionnement : %i",
+		"Set angle to %0 degrees" : "Fixer l'angle à %0 degrés",
+		"Set height to %0" : "Fixer la hauteur à %0",
+		"Set speed to %0" : "Fixer la vitesse à %0",
+		"Set treadmill to %0" : "Fixer marche/arrêt à %0",
+		"Set width to %0" : "Fixer la largeur à %0",
+		"Speed" : "Vitesse",
+		"Strength : %i" : "Puissance : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Set angle" : "Fixer l'angle",
+		"Set height" : "Fixer hauteur",
+		"Set speed" : "Fixer la vitesse",
+		"Set treadmill ON/OFF" : "Arrêter / lancer le tapis roulant",
+		"Set width" : "Fixer largeur"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is treadmill active?" : "Le tapis roulant est-il actif?"
+	},
+	"menu_20002" : {
+		"Action zone height" : "Hauteur de la zone d'action",
+		"Action zone width" : "Largeur de la zone d'action",
+		"Expressions" : "Expressions",
+		"Treadmill angle" : "Angle du tapis roulant",
+		"Treadmill speed" : "Vitesse du tapis roulant"
+	}
+}

@@ -1,0 +1,43 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"01Return string%s" : "Chaîne de retour %0",
+		"01Return value%s" : "Valeur de retour %0",
+		"01Send %s" : "Envoyer %0",
+		"Any sound will be terminated prior to sending a command" : "Tout son sera terminé avant l'envoi d'une commande",
+		"Check this box to close the device when the frame ends" : "Cochez cette case pour fermer le périphérique quand la scène se termine",
+		"Check this box to open the device at start of frame" : "Cocher cette case pour ouvrir le périphérique au début de la scène",
+		"Close MCI device at end of frame" : "Fermer le périphérique MCI en fin de scène",
+		"Close sound device before sending commands" : "Fermer les périphériques de son avant d'envoyer des commandes",
+		"Device" : "Périphérique",
+		"Device name" : "Nom de l'appareil",
+		"Display all error messages" : "Afficher tous les messages d'erreur",
+		"Display in a dialog box any error message" : "Affiche dans une boîte de dialogue tout message d'erreur",
+		"Enter the name of the device" : "Entrer le nom du périphérique",
+		"Last error: %i" : "Dernière erreur: %i",
+		"MCI" : "MCI",
+		"MCI object" : "Objet MCI",
+		"Microsoft standard for controlling any multimedia device connected to your computer." : "Le standard Microsoft pour contrôler tout périphérique multimédia connecté à votre ordinateur.",
+		"Open MCI device at start of frame" : "Ouvrir le périphérique MCI au début de la scène",
+		"Options" : "Options",
+		"Pause command" : "Commande de pause",
+		"Please, enter a valid device name." : "Entrez un nom de device valide.",
+		"Resume command" : "Commande de reprise",
+		"Return string: %s" : "Chaîne de retour: %s",
+		"String to send to the device when a Pause happens" : "Chaîne envoyée au périphérique lorsque l'on passe en pause.",
+		"String to send to the device when resuming from a pause" : "Chaîne envoyée au périphérique lorsque l'on sort de pause."
+	},
+	"menu_20000" : {
+		"Send a command" : "Envoyer une commande"
+	},
+	"menu_20001" : {
+		"Compare to returned number" : "Comparer au chiffre retourné",
+		"Compare to returned string" : "Comparer à la chaîne retournée"
+	},
+	"menu_20002" : {
+		"Last error number" : "Dernier numéro de message d'erreur",
+		"Return string" : "Chaîne de retour",
+		"Return value" : "Valeur de retour"
+	}
+}

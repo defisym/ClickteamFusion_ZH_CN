@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"00Read Info" : "Informations de lecture",
+		"00Reset info" : "Information de mise à zéro",
+		"10%s: Application never used?" : "%o: l'application n'a jamais été utilisée?",
+		"10%s: Data Integrity Problem?" : "%o: problème d'intégrité des données?",
+		"10%s: Is trial period expired?" : "%o: La période d'essai est terminée?",
+		"11%s: number of days since first use %s" : "%o: Nombre de jours depuis la première utilisation de %0",
+		"11%s: number of days since highest last use %s" : "%o: Nombre de jours depuis la dernière utilisation de %0",
+		"Allows you to make demo versions that expire after a given time." : "Vous permet de créer des versions démo qui expirent après une certaine date.",
+		"Display Message %0 (title=%1)" : "Afficher message %0 (titre=%1)",
+		"Message Text" : "Texte du message",
+		"Set Private Data to %0" : "Fixer donnée privée à %0",
+		"Trial Period Object" : "Objet Période d'Essai",
+		"Window Title" : "Titre de la fenêtre"
+	},
+	"dialog_101" : {
+		"&Help" : "&Aide",
+		"&Reset" : "&Remise à zéro",
+		"&Shared by all users (requires administrator rights)" : "Partagé par tous les utilisateurs (nécessite droits admin.)",
+		"Cancel" : "Annuler",
+		"Compatible with V1" : "Compatible avec V1",
+		"Expiration" : "Expiration",
+		"OK" : "OK",
+		"Product ID (8 characters)" : "Identifieur de produit (8 car.)",
+		"Tests" : "Tests",
+		"Trial Period Duration (number of days)" : "Durée période d'essai (nombre de jours)",
+		"Trial Period Object Setup" : "Configuration objet Période d'Essai"
+	},
+	"menu_20000" : {
+		"Display Message" : "Afficher message",
+		"Read Info" : "Lire les informations",
+		"Reset Info" : "RAZ informations",
+		"Set Private Data" : "Changer donnée privée"
+	},
+	"menu_20001" : {
+		"Compare number of days since first use" : "Comparer au nombre de jours depuis la première utilisation",
+		"Compare number of days since highest use" : "Comparer au nombre de jours depuis la plus grande utilisation",
+		"Data Integrity Problem?" : "Problème d'intégrité des données",
+		"Is Trial Period Expired?" : "La période d'essai est achevée?",
+		"Never used?" : "Jamais utilisé?"
+	},
+	"menu_20002" : {
+		"Number of days since first use" : "Nombre de jours depuis la première utilisation",
+		"Number of days since highest use" : "Nombre de jours depuis la plus grande utilisation",
+		"Private Data" : "Donnée privée"
+	}
+}

@@ -1,0 +1,27 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o : On leaderboard closed" : "%o : Fermeture tableau des scores",
+		"%o : On leaderboard displayed" : "%o : Ouverture tableau des scores",
+		"Leaderboard ID" : "ID tableau des scores",
+		"Mochi Scores" : "Mochi Scores",
+		"Name" : "Nom",
+		"Obsolete. This object is provided for compatibility reasons only." : "Obsolète. Cet objet est fourni seulement pour des raisons de compatibilité.",
+		"Score" : "Score",
+		"Set Leaderboard ID to %0" : "Définir l'ID du tableau des scores à %0",
+		"Show leaderboard" : "Montrer tableau des scores",
+		"Submit score %0 and ask for a name" : "Soumettre score %0 et demander un nom",
+		"Submit score %0 with name %1" : "Soumettre score %0 avec comme nom %1"
+	},
+	"menu_20000" : {
+		"Set leaderboard ID" : "Définir ID tableau des scores",
+		"Show leaderboard" : "Montrer tableau des scores",
+		"Submit score (ask for a name)" : "Soumettre score (demander un nom)",
+		"Submit score (specify a name)" : "Soumettre score (spécifier un nom)"
+	},
+	"menu_20001" : {
+		"On leaderboard closed" : "Fermeture tableau des scores",
+		"On leaderboard displayed" : "Ouverture tableau des scores"
+	}
+}

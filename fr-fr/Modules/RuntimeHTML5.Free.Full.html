@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+APPCACHE
+<style type="text/css">
+  h1 {
+	  font-family: Arial, Helvetica, sans-serif;
+	  color: #F00;
+	  font-size: x-large;
+  }
+  p {
+	  font-family: Arial, Helvetica, sans-serif;
+	  color: #000;
+	  font-size: small;
+  }
+  body {
+	  background-color: #FFF;
+  }
+  #bloctxt {
+	  border-left-width: 5px;
+	  border-left-style: solid;
+	  border-left-color: #F00;
+	  padding-left: 10px;
+	  position: absolute;
+	  left: 50%%;
+	  width: 600px;
+	  margin-left: -260px
+  }
+</style>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+  <!-- Autorise le plein écran sur les mobiles iOS -->
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=device-dpi" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="HandheldFriendly" content="true" />
+
+  <title>MMFNAME HTML5 Runtime</title>
+
+	<script>
+	   	// Detection des ancien navigateurs qui ne supportent pas l'element Canvas
+		// Appelle une page par defaut
+	    if (!document.createElement("canvas").getContext)
+	    {
+			window.open("http://www.clickteam.com/fr/html5-fallback", "_self");
+		}
+	</script>
+
+  	<!-- EXTRASOURCES -->
+	<!-- Charge le code Javascript...-->
+    <script src="JSPATH"></script>
+  
+    <script>
+	    // Detecte si le fichier HTML est lance localement
+	    // Vous pouvez enlever ce code dans la version finale
+	    if (window.location.protocol == "file:")
+	    {
+		    document.write('<div id="bloctxt">');
+		    document.write("<h1>Impossible de lancer l'application...</h1>");
+		    document.write("<p>Les navigateurs Internet modernes ne vous permettent pas de lancer des pages Web <br>directement a partir de l'ordinateur.<br>");
+		    document.write("Un glisser-deposer d'un fichier HTML ne fonctionnera pas plus, quelle que soit la machine.<br>");
+		    document.write("Utilisez l'option Construire & Lancer pour tester votre application (elle lance un serveur Web local),<br>") 
+		    document.write("ou t&eacutel&eacutechargez votre application sur un serveur Web...</p>");
+		    document.write('</div>');
+		    throw new error("Cannot run application");
+	    }
+    </script>
+</head>
+
+<body>
+    <div>
+        <div style="position:absolute; top:0px; left:0px; -webkit-user-select: none;">
+            <canvas id="MMFCanvas" width="CWIDTH" height="CHEIGHT">
+                Votre navigateur ne supporte pas l'element Canvas.
+            </canvas>    
+        </div>
+    </div>
+
+    <script>
+        window.rs = "JSPATH";
+        window.fs = "FSPATH";
+    </script>
+    <script>
+        // RUNTIMESTART
+        // Endroit ou l'application est effectivement lancee
+        window.addEventListener("load", windowLoaded, false);
+        function windowLoaded()
+        {
+            // Appelle le runtime
+            // Premier parametre : le nom de l'element Canvas
+            // Second parametre : chemin vers le fichier CCH. Les sons et les images doivent se trouver a cote 
+            new Runtime("MMFCanvas", "CCHPATH");
+        }
+        // RUNTIMESTARTEND
+    </script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: current key exists" : "%o: la clé courante existe",
+		"%o: key %0\\%1 exists" : "%o: la clé %0\\%1 existe",
+		"%o: last action successful" : "%o: dernière action réussie",
+		"%o: value %0 of current key exists" : "%o: la valeur %0 existe dans la clé courante",
+		"%o: value %2 of key %0\\%1 exists" : "%o: la valeur %2 existe dans la clé %0\\%1",
+		"0=32-bit, 1=64-bit" : "0=32-bits, 1=64-bits",
+		"Create current key" : "Créer clé courante",
+		"Create key %0\\%1" : "Créer clé %0\\%1",
+		"Current Key = %s" : "Clé courante = %s",
+		"Current Root Key = %s" : "Clé racine courante = %s",
+		"Delete current key" : "Supprimer clé courante",
+		"Delete key %0\\%1" : "Supprimer clé %0\\%1",
+		"Delete value %0 of current key" : "Supprimer la valeur %0 de la clé courante",
+		"Delete value %2 of key %0\\%1" : "Supprimer la valeur %2 de la clé %0\\%1",
+		"Invalid parameters." : "Paramètre(s) invalide(s).",
+		"Key name" : "Nom de clé",
+		"Registry2" : "Registry2",
+		"Root key" : "Clé racine",
+		"Set 64-bit mode to %0" : "Mettre mode 64-bits à %0",
+		"Set current key to %0" : "Utiliser %0 comme clé courante",
+		"Set root key to %0" : "Définir la clé racine à %0",
+		"Set value %0 of current key to %1" : "Fixer la valeur %0 de la clé courante à %1",
+		"Set value %2 of key %0\\%1 to %3" : "Fixer la valeur %0 de la clé %0\\%1 à %3",
+		"The Registry2 object allows you to retrieve or write values from or to the registry." : "L'objet Registry2 vous autorise à lire et écrire des valeurs dans le registre.",
+		"The value you try to read from is not a DWORD value." : "La valeur que vous essayez de lire n'est pas une valeur DWORD.",
+		"The value you try to read from is not a string value." : "La valeur que vous essayez de lire n'est pas une valeur chaîne.",
+		"Value name" : "Nom de la valeur"
+	},
+	"dialog_101" : {
+		"Cancel" : "Annuler",
+		"OK" : "OK",
+		"Select a root key" : "Sélectionnez une clef racine"
+	},
+	"menu_20000" : {
+		"Any Key" : "Toute Clé",
+		"Create Current Key" : "Créer Clé Courante",
+		"Create Key" : "Créer Clé",
+		"Current Key" : "Clé Courante",
+		"Delete Current Key" : "Supprimer Clé Courante",
+		"Delete Key" : "Supprimer Clé",
+		"Delete Value" : "Supprimer Valeur",
+		"Set 64-bit mode" : "Mode 64-bits",
+		"Set Current Key" : "Définir Clé Courante",
+		"Set Current Root Key" : "Définir Clé Racine Courante",
+		"Set DWORD Value" : "Ecrire Valeur DWORD",
+		"Set String Value" : "Ecrire Valeur Chaîne"
+	},
+	"menu_20001" : {
+		"Current key exists" : "La clé courante existe",
+		"Key exists" : "Un clé existe ?",
+		"Last action successful" : "Dernière action réussie ?",
+		"Value exists" : "Une valeur existe ?",
+		"Value exists in current key" : "Une valeur existe dans la clé courante ?"
+	},
+	"menu_20002" : {
+		"Any Key" : "Toute Clé",
+		"Current Key" : "Clé Courante",
+		"Get Current Key" : "Récupérer la clé courante",
+		"Get Current Root Key" : "Récupérer la clé racine courante",
+		"Get DWORD Value" : "Lire une valeur DWORD",
+		"Get String Value" : "Lire valeur chaîne",
+		"Last error code" : "Dernier code d'erreur",
+		"Last error message" : "Message du dernier code d'erreur"
+	}
+}

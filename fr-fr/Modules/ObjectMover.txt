@@ -1,0 +1,35 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o is enabled" : "%o est activé",
+		"Allows the movement of the objects located above it." : "Permet le mouvement des objects situés au-dessus de lui.",
+		"Disable" : "Désactiver",
+		"Enable" : "Activer",
+		"Enter new height" : "Entrer la nouvelle hauteur",
+		"Enter new width" : "Entrer la nouvelle largeur",
+		"Movement enabled" : "Mouvement activé",
+		"Moves all the objects above it." : "Déplace tous les objets au-dessus de lui.",
+		"Object Mover" : "Object Mover",
+		"Set height to %0" : "Fixer la hauteur à %0",
+		"Set width to %0" : "Fixer la largeur à %0"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Activation" : "Activation",
+		"Disable" : "Désactiver",
+		"Enable" : "Activer",
+		"Set height" : "Fixer hauteur",
+		"Set width" : "Fixer largeur",
+		"Size" : "Taille"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is enabled?" : "Est activé?"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Get height" : "Hauteur",
+		"Get width" : "Largeur"
+	}
+}

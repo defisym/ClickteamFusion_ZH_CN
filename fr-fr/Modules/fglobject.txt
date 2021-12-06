@@ -1,0 +1,59 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: Is branding enabled?" : "%o: La marque est-elle activée?",
+		"%o: Is cross-promotion enabled?" : "%o: La promotion croisée est-elle activée?",
+		"%o: Is game running in premium mode?" : "%o: Le jeu fonctionne-t'il en mode premium?",
+		"%o: Is unlock enabled?" : "Le déverrouillage est-il activé?",
+		"A dialog box will ask for your name if you have a high score." : "Une boîte de dialogue vous demandera votre nom si vous avez un score élevé.",
+		"Check and and the Is cross promotion enabled? condition will return true." : "Si cochée, la condition 'La promotion croisée est-elle activée?' sera vraie.",
+		"Check and the Is Premium condition will return true" : "Si cochée, la condition 'Le jeu fonctionne-t'il en mode premium?' sera vraie.",
+		"Check and the Is branding enabled? condition will return true, and the sponsor logo can be displayed." : "Si cochée, la condition 'La marque est-elle activée?' sera vraie and le logo du sponsor peut être affiché.",
+		"Check and the Is unlock enabled? condition will return true." : "Si cochée, la condition 'Le déverrouillage est-il activé?' sera vraie.",
+		"Check and the object will automatically display the logo of the sponsor, if authorised." : "Si cochée, l'objet affichera le logo du sponsor, si autorisé",
+		"Display leaderboard" : "Afficher le tableau des scores",
+		"Display sponsor logo" : "Afficher le logo du sponsor",
+		"Display sponsor logo %0" : "Afficher le logo du sponsor %0",
+		"Do you want to simulate the unlocking of your game?" : "Souhaitez-vous simuler le déverrouillage de votre jeu?",
+		"Enable cross promotion" : "Activer la promotion croisée",
+		"Enable in app upgrade" : "Activer la mise à jour in-app",
+		"Enable sponsor branding" : "Activer la marque du sponsor",
+		"Enter 1 to display the logo, 0 to hide it" : "Entrez 1 pour afficher le logo, 0 pour le cacher",
+		"FGL Object" : "Objet FGL",
+		"Game is in premium mode" : "Le jeu est en mode premium",
+		"HTML5 - fgl" : "HTML5 - fgl",
+		"Handle click on branding" : "Gérer les click sur la marque",
+		"Interface with the fgl HTML5 Advertisement and game API" : "Interface avec l'API HTML5 fgl (publicité, gaming)",
+		"Please enter the score" : "Veuillez entrer le score",
+		"Show advertisement" : "Montrer publicité",
+		"Show more games" : "Montrer plus de jeux",
+		"Simulation" : "Simulation",
+		"Submit score" : "Envoyer le score",
+		"Unlock game" : "Déverrouiller le jeu",
+		"fgl" : "fgl",
+		"http://www.clickteam.com/francois/fglbrandinglogo.png" : "http://www.clickteam.com/francois/fglbrandinglogo.png"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Advertisements" : "Publicités",
+		"Display leaderboard" : "Afficher tableau des scores",
+		"Leaderboards" : "Tableaux des scores",
+		"Show / hide sponsor logo" : "Montrer / Cacher le logo du sponsor",
+		"Show advertisement" : "Montrer publicité",
+		"Show more games" : "Montrer plus de jeux",
+		"Sponsor" : "Sponsor",
+		"Submit score" : "Envoyer le score",
+		"Unlock game" : "Déverrouiller le jeu"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is cross-promotion enabled?" : "La promotion croisée est-elle activée?",
+		"Is the game running in premium mode?" : "Le jeu fonctionne-t'il en mode premium?",
+		"Is unlock enabled?" : "Le déverrouillage est-il activé?"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Get branding image URL" : "URL de l'image de la marque"
+	}
+}

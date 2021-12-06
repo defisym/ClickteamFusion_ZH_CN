@@ -1,0 +1,39 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"00Reset error" : "RAZ erreur",
+		"01Close channel %s" : "Fermer le canal %0",
+		"01Open channel %s as %s" : "Ouvrir le canal %0 comme %1",
+		"02Send number %s to slot %s" : "Envoyer nombre %0 au canal %1",
+		"02Send string %s to slot %s" : "Envoyer une chaîne %0 au canal %1",
+		"10%s : Error" : "%o: Erreur",
+		"11%s : Message available on channel %s" : "%o: Message disponible sur le canal %0",
+		"Allows applications to communicate through a local network by opening a channel for communication between two computers." : "Permet aux applications de communiquer à travers un réseau local en ouvrant un canal de communication entre deux ordinateurs.",
+		"Channel number" : "Numéro de canal",
+		"Last error: %s" : "Dernière erreur: %s",
+		"Network" : "Réseau",
+		"Network object" : "Objet réseau",
+		"Number to Send" : "Nombre à envoyer",
+		"Slot name" : "Nom du canal",
+		"String to send" : "Chaîne à envoyer"
+	},
+	"menu_20000" : {
+		"Close channel" : "Fermer le canal",
+		"Open channel" : "Ouvrir le canal",
+		"Reset error" : "RAZ erreur",
+		"Send number" : "Envoyer un nombre",
+		"Send string" : "Envoyer une chaîne"
+	},
+	"menu_20001" : {
+		"Error" : "Erreur",
+		"Message available" : "Message disponible"
+	},
+	"menu_20002" : {
+		"Get current status" : "Récupérer l'état courant",
+		"Get last error" : "Dernière erreur",
+		"Get last error string" : "Dernière chaîne d'erreur",
+		"Get number" : "Récupérer un nombre",
+		"Get string" : "Récupérer chaîne"
+	}
+}

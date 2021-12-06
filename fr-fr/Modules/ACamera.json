@@ -1,0 +1,106 @@
+{   "About":
+    {
+        "Name": "Objet Camera Android",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2014 Clickteam",
+        "Website": "http://www.clickteam.com",
+        "Comment": "Composant du module Android. Permet d'utiliser l'appareil photo.",
+        "URL": "http://www.clickteam.com",
+        "Help": "Help\\ACamera.chm",
+        "Identifier": "ACam",
+    },
+
+    "ActionMenu":
+    [
+        [0, "Définir le nom de l'album"],
+        [1, "Prendre une photo"],
+        [2, "Prendre une vidéo"],
+        "Separator",
+        [3, "Sélectionner dans la Galerie"],
+        "Separator"
+		
+	],
+
+    "ConditionMenu":
+    [
+        [0, "Une photo a été prise"],
+        [1, "Une vidéo a été prise"],
+        [2, "Retour de la galerie"],
+        [3, "Une erreur est survenue"]
+		
+    ],
+
+    "ExpressionMenu":
+    [
+        [0, "Erreur"],
+        [1, "Texte de l'erreur"],
+        [2, "Nom de chemin de l'image"],
+        [3, "Nom de chemin de la vidéo"],
+        [4, "Nom de chemin de la galerie"],
+        [5, "Nombre de caméras"],
+        "Separator",
+        [6, "Angle de l'image"],
+        "Separator"
+
+    ],
+
+    "Actions":
+    [
+        { "Title": "Fixer le nom de l'album à %0",
+			"Parameters": [["Text", "Nom de l'album"]] },
+		  
+        { "Title": "Prendre une photo avec la caméra %0, le titre %1 et la description %2",
+			"Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"],
+			           ["Text", "Titre"],
+		               ["Text", "Description"]] },
+        
+		{ "Title": "Prendre une vidéo avec la caméra %0",
+			"Parameters": [["Integer", "Caméra (0:Arrière, 1:Avant)"]]  },
+		
+        { "Title": "Sélectionner dans la galerie avec le type %0",
+			"Parameters": [["Integer", "Sélectionner Type (0:tout, 1:images, 2:vidéos)"]] }		  		  	  		  
+   ],
+
+    "Conditions":
+    [
+        {   "Title": "%o : Une photo a été prise?",
+            "Triggered": true
+        },
+        {   "Title": "%o : Une vidéo a été prise?",
+            "Triggered": true
+        },
+        {   "Title": "%o : Retour de la Galerie?",
+            "Triggered": true
+        },
+        {   "Title": "%o : Une erreur est survenue?",
+            "Triggered": true
+        }	
+	],
+
+    "Expressions":
+    [
+        {   "Title": "Error(",
+            "Returns": "Integer"
+        },
+		{   "Title": "Error$(",
+            "Returns": "Text"
+        },
+		{   "Title": "ImagePath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "VideoPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "GalleryPath$(",
+            "Returns": "Text"
+        },
+		{   "Title": "NumberOfCameras(",
+            "Returns": "Integer"
+        },
+		{   "Title": "ImageAngle(",
+            "Returns": "Integer"
+        }
+	]
+}
+
+

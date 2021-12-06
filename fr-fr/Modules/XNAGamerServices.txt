@@ -1,0 +1,58 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Check this box, and the Can Purchase condition will return true." : "Cochez cette case et la condition \"Peut acheter\" sera vraie",
+		"Check to allow only online profiles" : "Cochez pour n'autoriser que des profils en ligne",
+		"Check to automatically sign in at start of frame" : "Cocher pour s'authentifier automatiquement en début de scène",
+		"Check to connect the player to gamer services at start of frame." : "Cochez pour se connecter au Gamer Services en début de scène",
+		"Connect at start" : "Connecter en début de scène",
+		"Connect to Gamer Services" : "Connecter aux Gamer Services",
+		"Connected to Gamer Services..." : "Connecté au Gamer Services...",
+		"Enter 0 for local players (+ online), and 1 for online only" : "Entrez 0 pour les joueurs locaux (et en ligne), 1 pour en ligne seulement",
+		"Enter one of the presence describers as listed in the object's documentation" : "Entrez l'un des descripteurs de présence, comme indiqués dans la documentation",
+		"Enter the number of players to sign in" : "Entrez le nombre de joueurs à authentifier",
+		"Enter the number of players you want to sign in" : "Entrez le nombre de joueurs que vous désirez authentifier",
+		"Enter the player index, 1, 2, 3 or 4" : "Entrez l'index du joueur, 1, 2, 3 ou 4",
+		"Enter the value you wish to associate to the presence string" : "Entrez la valeur à associer à la présence courante",
+		"Gamer Services" : "Gamer Services",
+		"Gamer Services are connected" : "Les Gamer Services sont connectés",
+		"Gamer Services functions for XNA applications." : "Fonctions Gamer Services pour les applications XNA",
+		"Number of players" : "Nombre de joueurs",
+		"Online profiles" : "Profils en ligne",
+		"Player %i" : "Joueur %i",
+		"Player can purchase game" : "Le joueur peut acheter le jeu",
+		"Player index" : "Index du joueur",
+		"Player(s) has(ve) signed in" : "Joueur(s) sont authentifié(s)",
+		"Players have signed in." : "Joueurs sont authentifiés",
+		"Set presence of player #%0 to %1" : "Fixer la présence du joueur %0 à %1",
+		"Set presence value of player #0 to %1" : "Fixer la valeur de la présence du joueur %0 à %1",
+		"Show Marketplace for player %0" : "Montrer le marché pour le joueur %0",
+		"Show Marketplace for player %i" : "Montrer le marché pour le joueur %i",
+		"Sign In" : "Authentification",
+		"Sign In at start" : "Authentification en début de scène",
+		"Sign in for %0 panes, online %1" : "S'authentifier pour %0 dialogues, en ligne %1",
+		"Simulate purchase ability" : "Simulation des achats"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Connect" : "Connecter",
+		"Set presence" : "Fixer la présence",
+		"Set presence value" : "Fixer la valeur de la présence",
+		"Show Marketplace" : "Montrer le marché",
+		"Sign in" : "S'authentifier"
+	},
+	"menu_20001" : {
+		"Are Gamer Services connected?" : "Les Gamer Services sont-ils connectés",
+		"Can player purchase game?" : "Le joueur peut-il acheter le jeu?",
+		"Conditions" : "Conditions",
+		"Has player signed in?" : "Un joueur s'est-il authentifié?"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Get number of players signed in" : "Nombre de joueurs authentifiés",
+		"Get player alias" : "Pseudo du joueur",
+		"Get player presence" : "Retrouver la présence d'un joueur",
+		"Get player presence value" : "Retrouver la valeur de la présence d'un joueur"
+	}
+}

@@ -1,0 +1,8 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Mochi Connector" : "Mochi Connector",
+		"Obsolete. This object is provided for compatibility reasons only. This object is required for the other Mochi extensions to function" : "Obsolète. Cet objet est fourni seulement pour des raisons de compatibilité. Cet objet est requis pour que les autres objets Mochi fonctionnent."
+	}
+}

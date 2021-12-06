@@ -1,0 +1,51 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"00Hide" : "Cacher",
+		"00Image resize off" : "Redimensionnement image OFF",
+		"00Image resize on" : "Redimensionnement image ON",
+		"00New picture from selector" : "Nouvelle image avec sélecteur",
+		"00Show" : "Montrer",
+		"00WARNING !!! Change this action to New picture" : "ATTENTION!!! Changer cette action en Nouvelle image",
+		"01%s: a picture is loaded" : "%o: une image est chargée",
+		"01New picture : %s" : "Nouvelle image : %0",
+		"10%s: visible" : "%o: visible",
+		"Choose the picture to display" : "Choisir l'image à afficher",
+		"Custom" : "Personnalisable",
+		"Displays an image file as background object." : "Affiche une image en décor.",
+		"First Pixel" : "Premier pixel",
+		"Hide at start of frame" : "Caché en début de scène",
+		"Hides the picture when the frame starts" : "Cache l'image lorsque la scène se lance",
+		"Picture" : "Image",
+		"Picture filename" : "Nom de fichier de l'image",
+		"Picture name: %s" : "Nom de l'image: %s",
+		"Picture object" : "Objet Image",
+		"Please select a picture" : "Choisir une image",
+		"Resize picture to the size of the object" : "Redimensionner l'image à la taille de l'objet",
+		"The picture will be stretched to match the size of the object itself" : "L'image sera étirée pour faire la taille de l'objet lui-même",
+		"Transparent Color" : "Couleur transparente"
+	},
+	"menu_20000" : {
+		"Image resize off" : "Redimensionnement image OFF",
+		"Image resize on" : "Redimensionnement image ON",
+		"Make Object Invisible" : "Rendre l'objet invisible",
+		"Make Object Reappear" : "Faire réapparaître l'objet",
+		"New picture" : "Nouvelle image",
+		"New picture from selector" : "Nouvelle image à partir d'un sélecteur",
+		"Visibility" : "Visibilité"
+	},
+	"menu_20001" : {
+		"A picture is loaded ?" : "Une image est chargée?",
+		"Is visible ?" : "Visible?"
+	},
+	"menu_20002" : {
+		"Get X position" : "Position en X",
+		"Get Y position" : "Position en Y",
+		"Get picture name" : "Nom de l'image",
+		"Get picture original x size" : "Taille en X originale",
+		"Get picture original y size" : "Taille en Y originale",
+		"Get picture screen x size" : "Taille en X à l'écran",
+		"Get picture screen y size" : "Taille en Y à l'écran"
+	}
+}

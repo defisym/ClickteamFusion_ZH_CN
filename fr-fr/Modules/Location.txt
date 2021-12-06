@@ -1,0 +1,48 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"A new location is available" : "Une nouvelle position est disponible",
+		"Accuracy" : "Précision",
+		"Are location services enabled?" : "Les services GPS sont disponibles?",
+		"Best accuracy" : "Meilleur précision",
+		"Choose the device accuracy" : "Choisissez la précision de l'appareil",
+		"Distance" : "Distance",
+		"Enter the accuracy (0 to 4)" : "Entrez la précision (0 à 4)",
+		"Enter the distance filter in meters" : "Entrez la distance du filtre en mètres",
+		"Enter the minimal distance in meters between two location updates" : "Entrez la distance minimale en mètres entre deux mises a jours de la position.",
+		"Force location retrieval" : "Force la recupération de la position",
+		"Hundred meters" : "Centaine de mètre",
+		"Kilometer" : "Kilomètre",
+		"Location object" : "Objet Localisation",
+		"Nearest ten meters" : "Dix mètres",
+		"Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android)." : "Retrieves the current location from the GPS on devices that support it (such as the iPhone or Android).",
+		"Set distance filter to %0" : "Fixer la distance à %0",
+		"Set location accuracy to %0" : "Fixer la précision à %0",
+		"Three kilometers" : "Trois kilomètres"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Get location" : "Forcer la récupération de la position",
+		"Set accuracy" : "Fixer la précision",
+		"Set distance filter" : "Fixer le filtre distance"
+	},
+	"menu_20001" : {
+		"A new location is available" : "Une nouvelle position est disponible",
+		"Conditions" : "Conditions",
+		"Location services enabled?" : "Services GPS disponibles?"
+	},
+	"menu_20002" : {
+		"Accuracy" : "Précision",
+		"Altitude" : "Altitude",
+		"Coordinates" : "Coordonnées",
+		"Course" : "Parcours",
+		"Distance filter" : "Filtre de distance",
+		"Expressions" : "Expressions",
+		"Latitude" : "Latitude",
+		"Longitude" : "Longitude",
+		"Other values" : "Autres valeurs",
+		"Speed" : "Vitesse",
+		"Time since last update" : "Temps depuis la dernière mise a jour"
+	}
+}

@@ -1,0 +1,60 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"00Close door" : "Fermer le tiroir",
+		"00Next track" : "Piste suivante",
+		"00Open door" : "Ouvrir le tiroir",
+		"00Pause" : "Pause",
+		"00Previous track" : "Piste précédente",
+		"00Resume" : "Reprendre",
+		"00Stop" : "Stop",
+		"01Play at %s" : "Jouer à %0",
+		"01Play from track %s" : "Jouer a partir de la piste %0",
+		"01Play track %s" : "Jouer piste %0",
+		"11%s:time position %s" : "%o: la position temps %0",
+		"11%s:time position within track %s" : "%o: position temps dans la piste %0",
+		"CD Audio object" : "Objet CD Audio",
+		"CD-Audio" : "CD-Audio",
+		"Continues playing even when the application is minimized" : "Continue de jouer même lorsque l'application est minimisée",
+		"Current track number: %i" : "Numéro de piste courant: %i",
+		"Enter the number of the track to play" : "Entrer le numéro de la piste à jouer",
+		"Last known error: %i" : "Dernière erreur connue: %i",
+		"Length of current track: %02i:%02i" : "Longueur de la piste courante: %02i:%02i",
+		"Lets you play compact disc audio tracks." : "Permet de jouer les pistes d'un CD Audio",
+		"Number of tracks on disk: %i" : "Nombre de pistes sur le disque: %i",
+		"Open driver at start" : "Ouvrir le pilote au début",
+		"Opening the driver at start of frame makes the object faster during runtime" : "L'ouverture du pilote au début de scène accélère l'objet pendant l'application",
+		"Play track at start" : "Jouer une piste au début",
+		"Play when minimized" : "Jouer même quand minimisé",
+		"Position in current track: %02i:%02i" : "Position dans la piste courante: %02i:%02i",
+		"Stop playing at end of frame" : "Arrête de jouer en fin de scène",
+		"Stops the music at end of frame" : "Arrête la musique en fin de scène",
+		"Total length of disk: %02i:%02i:%02i" : "Durée totale du disque: %02i:%02i:%02i"
+	},
+	"menu_20000" : {
+		"Close door" : "Fermer le tiroir",
+		"Next track" : "Piste suivante",
+		"Open door" : "Ouvrir le tiroir",
+		"Pause" : "Pause",
+		"Play a track" : "Jouer une piste",
+		"Play a track and continue" : "Jouer une piste et continuer",
+		"Play at position" : "Jouer à la position",
+		"Previous track" : "Piste précédente",
+		"Resume" : "Reprendre",
+		"Stop" : "Stop"
+	},
+	"menu_20001" : {
+		"Compare to time position" : "Comparer à la position temps",
+		"Compare to track's elapsed time" : "Comparer à la durée écoulée dans la piste"
+	},
+	"menu_20002" : {
+		"Last error number" : "Dernier numéro de message d'erreur",
+		"Length of current track (1/1000s)" : "Longueur de la piste courante (1/1000s)",
+		"Length of disk (1/1000s)" : "Longueur du disque (1/1000s)",
+		"Number of current track" : "Numéro de la piste courante",
+		"Number of tracks" : "Nombre de pistes",
+		"Position in current track (1/1000s)" : "Position dans la piste courante (1/1000s)",
+		"Position in disk (1/1000s)" : "Position dans le disque (1/1000s)"
+	}
+}

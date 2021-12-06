@@ -1,0 +1,53 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		" %s : Shared Data object" : " %s : Objet Données Partagées",
+		"00Reset" : "Remise à zéro",
+		"01Shared string %s=%s" : "Chaîne partagée %0=%1",
+		"01Shared string %s=str$(%s)" : "Chaîne partagée %0=str$(%1)",
+		"01Shared value %s=%s" : "Valeur partagée %0=%1",
+		"01Shared value %s=val(%s)" : "Valeur partagée %0=val(%1)",
+		"11%s: Condition example %s=%s" : "11%s: Condition example %s=%s",
+		"Allows different applications to share data (numbers and/or text)." : "Permet à plusieurs applications de partager des données (nombres et/ou textes).",
+		"Create a new Shared Data object" : "Créer un nouvel objet Données Partagées",
+		"Double click to inspect/modify a shared string" : "Double-cliquez pour inspecter/modifier une chaîne partagée",
+		"Double click to inspect/modify a shared value" : "Double-cliquez pour inspecter/modifier une valeur partagée",
+		"Enter number value" : "Entrer un nombre",
+		"Enter number value to be stored as string value" : "Entrer un nombre à stocker en chaîne",
+		"Enter string to be stored as number value" : "Entrez une chaîne à stocker en texte",
+		"Enter string value" : "Entrez un texte",
+		"Index" : "Index",
+		"Index of the value (zero based)" : "Index de la valeur (basé sur zéro)",
+		"ShareMem object" : "Objet Données Partagées",
+		"Shared Data" : "Données Partagées"
+	},
+	"dialog_102" : {
+		"Index :" : "Index :",
+		"Inspect a long value" : "Inspecter une valeur entière",
+		"OK" : "OK",
+		"Value : " : "Valeur "
+	},
+	"dialog_103" : {
+		"Index :" : "Index :",
+		"Inspect a string" : "Inspecter une chaîne",
+		"OK" : "OK",
+		"String" : "Chaîne"
+	},
+	"menu_20000" : {
+		"Reset" : "Remise à zéro",
+		"Set shared string" : "Fixer chaîne partagée",
+		"Set shared string from value" : "Fixer chaîne partagée à partir d'une valeur",
+		"Set shared value" : "Fixer valeur partagée",
+		"Set shared value from string" : "Fixer valeur partagée à partir d'une chaîne"
+	},
+	"menu_20001" : {
+		"is Equal" : "est égal"
+	},
+	"menu_20002" : {
+		"Get shared String" : "Chaîne partagée",
+		"Get shared value" : "Valeur partagée",
+		"Get string from shared value" : "Chaîne à partir de valeur partagée",
+		"Get value from shared string" : "Valeur à partir de chaîne partagée"
+	}
+}

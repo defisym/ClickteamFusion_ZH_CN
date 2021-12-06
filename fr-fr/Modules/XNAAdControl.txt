@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: A new ad has been displayed" : "%o: Une nouvelle pubicité a été affichée",
+		"%o: Ad is in auto-refresh mode" : "%o: L'objet est en mode rafraichissement automatique",
+		"%o: Ad is visible" : "%o: La publicité est visible",
+		"%o: User is engaged with ad" : "%o: L'utilisateur est engagé dans la publicité",
+		"Ad Control" : "Ad Control",
+		"Ad Identifier" : "ID pubCenter de la publicité",
+		"Advertisement number %i" : "Publicité numéro %i",
+		"Auto Refresh" : "Rafraichissement auto",
+		"Border" : "Bordure",
+		"Border color" : "Couleur de bordure",
+		"Check this box to automatically set the geolocation of the ad to the user longitude and latitude." : "Cochez cette case pour fixer automatiquement les coordonnées de la pub à la longitude et latitude de l'utilisateur.",
+		"Check this box to avoid closing the ad at the end of the frame, this keeping it alive for the next frames." : "Cochez cette case pour empécher la destruction de la publicité à la fin de la scène, la gardant active dans les scènes suivantes.",
+		"Check this box to make the ad visible" : "Cochez cette case pour que la publicité soit visible.",
+		"Check to display a border around the ad." : "Cochez cette case pour afficher une bordure autour de la publicité.",
+		"Check to display a shadow under the ad." : "Cochez cette case pour afficher une ombre en dessous de la publicité.",
+		"Choose the color of the border." : "Choisissez la couleur de la bordure.",
+		"Display next ad" : "Afficher la publicité suivante",
+		"Displays advertisements in a Windows Phone application." : "Affiche des publicités dans une application Windows Phone.",
+		"Drop shadow" : "Ombre",
+		"Enter 0 to hide the ad, 1 to show it" : "Entrez 0 pour cacher la publicité, 1 pour la montrer",
+		"Enter the Ad identifier as defined in pubCenter." : "Entrez l'identifiant de la publicité comme défini dans pubCenter.",
+		"Enter the keywords that target the audience for the advertisements." : "Entrez les mots clés pour réduire la cible de la publicité, séparés par une virgule.",
+		"Keep Ad open" : "Garder la pub ouverte",
+		"Keywords" : "Mots-clés",
+		"Set ad visibility to %0" : "Fixer la visibilité à %0",
+		"Set location" : "Fixer la position",
+		"Uncheck to manually go from one ad to another." : "Décochez pour passer manuellement d'une publicité à l'autre",
+		"Visible" : "Visible",
+		"XNA Ad Control" : "XNA Ad Control"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Display next ad" : "Afficher la publicité suivante",
+		"Hide / Show ad window" : "Cacher / montrer la fenêtre"
+	},
+	"menu_20001" : {
+		"A new ad has been displayed" : "Une nouvelle publicité a été affichée",
+		"Ad is in auto-refresh mode" : "L'objet est en mode rafraichissement automatique",
+		"Ad is visible" : "L'objet est visible",
+		"Conditions" : "Conditions",
+		"User is engaged in ad" : "L'utilisateur est engagé dans la publicité"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions"
+	}
+}

@@ -1,0 +1,44 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"0: no rotation, 1: 90 clockwise, 2: 90 anti-clockwise" : "0: pas de rotation, 1: 90 aiguilles d'une montre, 2: 90 inverse aiguilles",
+		"Application running on mobile" : "L'application fonctionne sur mobile",
+		"For debugging purposes only! Indicates screen orientation at start" : "Seulement pour débugger! Indique l'orientation de l'écran au lancement.",
+		"Landscape" : "Paysage",
+		"Left key down (F10)" : "Touche gauche enfoncée (F10)",
+		"Left key pressed (F10)" : "Lors de l'appui sur la touche gauche (F10)",
+		"Mobile Utilities" : "Mobile Utilities",
+		"Portrait" : "Portrait",
+		"Refresh display" : "Rafraichissement de l'affichage",
+		"Right key down (F11)" : "Touche droite enfoncée (F11)",
+		"Right key pressed (F11)" : "Lors de l'appui sur la touche droite (F11)",
+		"Screen orientation" : "Orientation de l'écran",
+		"Screen orientation has changed" : "L'orientation de l'écran a changé",
+		"Set of utilities for Java Mobile applications" : "Ensemble d'utilitaires pour les applications Java Mobile",
+		"Set window rotation to %0" : "Fixer la rotation de la fenêtre à %0"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Refresh display" : "Rafraichir l'affichage",
+		"Set window rotation" : "Fixer la rotation de la fenêtre"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is application running on Mobile" : "L'application fonctionne-t'elle sur mobile?",
+		"Left key" : "Touche gauche",
+		"Left key down" : "Touche gauche enfoncée",
+		"Left key pressed" : "Appui sur la touche gauche",
+		"Right key" : "Touche droite",
+		"Right key down" : "Touche droite enfoncée",
+		"Right key pressed" : "Appui sur la touche droite",
+		"Screen orientation has changed" : "L'orientation de l'écran a changé"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Get screen height" : "Hauteur de l'écran",
+		"Get screen orientation" : "Orientation de l'écran",
+		"Get screen width" : "Largeur de l'écran",
+		"Get window rotation" : "Orientation de la fenêtre"
+	}
+}

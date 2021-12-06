@@ -1,0 +1,48 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Advanced" : "Avancé",
+		"All the objects under the pin" : "Tous les objets sous l'épingle",
+		"Check and all the objects will be linked to the position of the pin." : "Cochez cette case et tous les objets se trouvant sous l'épingle seront reliés",
+		"Choose how many objects should be linked together." : "Choisissez combien d'objets doivent être reliés ensemble",
+		"Creates revolute joints between objects." : "Crée des articulations de rotation entre les objets.",
+		"Destroy joint" : "Détruire l'articulation",
+		"Engine ID" : "ID Moteur",
+		"Enter the higher limit angle, in degrees (0 - 360)" : "Entrez la limite haute, en degrés (0 - 360)",
+		"Enter the identifier of the engine to use for the ground." : "Entrez l'identifiant du moteur physique à utiliser.",
+		"Enter the lower angle limit. If greater than the higher limit, no limit will be applied." : "Entrez la limite d'angle minimale. Si supérieure à la limite maximale, aucune limite ne sera appliquée.",
+		"Enter the lower limit angle, in degrees (0 - 360)" : "Entrez la limite d'angle minimale, en degrés (0 - 360)",
+		"Enter the speed of the motor (-250 - 250)" : "Entrez la vitesse du moteur (-250 / 250)",
+		"Enter the speed of the motor. Negative values turn counter clockwise." : "Entrez la vitesse du moteur. Des valeurs négatives feront tourner dans le sens contraire des aiguilles d'une montre.",
+		"Enter the torque of the motor" : "Entrez le couple du moteur",
+		"Enter the torque of the motor." : "Entrez le couple du moteur.",
+		"Enter the upper angle limit. If lower than the lower limit, no limit will be applied." : "Entrez la limite d'angle maximale. Si inférieure à la limite minimale, aucune limite ne sera appliquée.",
+		"Joint" : "Articulation",
+		"Link to the ground" : "Relier au terrain",
+		"Lower angle" : "Angle minimal",
+		"Motor" : "Moteur",
+		"Only the two topmost objects" : "Seulement les deux premiers objets",
+		"Physics - Joint" : "Physique - Articulation",
+		"Please drop a 'Physics Engine' object in your frame." : "Veuillez déposer un objet \"Physique - Moteur\" dans votre scène",
+		"Set angle limits to %0 (lower angle) and %1 (upper angle)" : "Fixer les limites à %0 (angle minimal) et %1 (angle maximal)",
+		"Set motor to %0 (torque) and %1 (strength)" : "Fixer le moteur à %0 (couple) et %1 (vitesse)",
+		"Speed" : "Vitesse",
+		"Torque" : "Couple",
+		"Type" : "Type",
+		"Upper angle" : "Angle maximal"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Destroy joint" : "Détruire l'articulation",
+		"Set angle limits" : "Fixer les limites de l'angle",
+		"Set joint motor" : "Ajouter un moteur à l'articulation"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Lower angle limit" : "Limite basse de l'angle",
+		"Motor speed" : "Vitesse du moteur",
+		"Motor torque" : "Couple du moteur",
+		"Upper angle limit" : "Limite haute de l'angle"
+	}
+}

@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o : Item has tag %0" : "%o : l'élément a un tag %0",
+		"%o : On error" : "%o: En cas d'erreur",
+		"%o : On item owned" : "%o : Elément possédé",
+		"%o : On new item" : "%o : Lors de nouvel élément",
+		"Add item %0 to show in store" : "Add item %0 to show in store",
+		"Consumable name" : "Nom du consommable",
+		"Decrement consumable %0" : "Décrémenter consommable %0",
+		"Increment consumable %0" : "Incrémenter consommable %0",
+		"Item ID" : "ID de l'élément",
+		"Item tag or unique ID" : "Tag élément ou ID unique",
+		"Mochi Coins" : "Mochi Coins",
+		"Obsolete. This object is provided for compatibility reasons only." : "Obsolète. Cet objet est fourni seulement pour des raisons de compatibilité.",
+		"Property name" : "Nom propriété",
+		"Remove consumable %0" : "Enlever consommable %0",
+		"Set consumable %0 to %1" : "Mettre consommable %0 à %1",
+		"Show single item with ID %0" : "Montrer l'élément d'ID %0",
+		"Show store" : "Montrer boutique",
+		"Show video for item with ID %0" : "Montrer la vidéo de l'élément d'ID %0",
+		"Tag" : "Tag",
+		"Value" : "Valeur"
+	},
+	"menu_20000" : {
+		"Add item to show" : "Ajouter élément à afficher",
+		"Consumable" : "Consommable",
+		"Decrement" : "Décrémenter",
+		"Increment" : "Incrémenter",
+		"Remove" : "Enlever",
+		"Set/create" : "Définir/créer",
+		"Show item video" : "Montrer vidéo élément",
+		"Show single item" : "Montrer un élément",
+		"Show store" : "Montrer boutique",
+		"Store" : "Boutique"
+	},
+	"menu_20001" : {
+		"Item has tag" : "Elément a un tag",
+		"On error" : "Erreur",
+		"On item owned" : "Elément possédé",
+		"On new item" : "Nouvel élément"
+	},
+	"menu_20002" : {
+		"Get consumable amount" : "Récupérer quantité consommables",
+		"Get item ID" : "Récupérer ID élément",
+		"Get item count" : "Récupérer quantité élément",
+		"Get item property" : "Récupérer propriété élément"
+	}
+}

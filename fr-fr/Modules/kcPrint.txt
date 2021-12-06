@@ -1,0 +1,52 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"00Change printing method to best fit" : "Changer la méthode d'impression à \"meilleure dimension\"",
+		"00Change printing method to scale" : "Changer la méthode d'impression à Redimensionner",
+		"00Change printing method to stretch to page" : "Changer la méthode d'impression à Etirer à la page",
+		"00Print blank page" : "Imprimer une page blanche",
+		"00Print client zone" : "Imprimer la zone client",
+		"00Print screen" : "Imprimer l'écran",
+		"00Print window" : "Imprimer la fenêtre",
+		"00Setup printer" : "Configuration imprimante",
+		"01Print Text %s" : "Imprimer texte %0",
+		"01Print Text file %s" : "Imprimer fichier texte %0",
+		"01Print zone %s" : "Imprimer zone %0",
+		"01Set x scale to %s" : "Fixer échelle en X à %0",
+		"01Set y scale to %s" : "Fixer échelle en Y à %0",
+		"Allows you to print the screen or an area of your application window." : "Vous permet d'imprimer l'écran ou une zone de la fenêtre de votre application.",
+		"Print" : "Imprimante",
+		"Print object" : "Objet Imprimante",
+		"Printing '%s'" : "En impression de %s",
+		"Printing band #%d" : "Impression de la bande #%d",
+		"Printing datas" : "Impression de données",
+		"Printing page #%d" : "Impression de la page #%d",
+		"Sending datas to printer..." : "Envoi des données à l'imprimante...",
+		"on %s on %s" : "sur %s sur %s"
+	},
+	"dialog_PRINTING" : {
+		"Cancel" : "Annuler",
+		"PRINTER" : "PRINTER",
+		"Print Bitmap" : "Impression d'une image",
+		"Printing" : "En impression",
+		"Spooling..." : "Stockage...",
+		"on Printer" : "vers l'imprimante"
+	},
+	"menu_20000" : {
+		"Best fit" : "Meilleure taille",
+		"Print Client zone" : "Imprimer la zone client",
+		"Print Screen" : "Imprimer l'écran",
+		"Print Text" : "Imprimer un texte",
+		"Print Text file" : "Imprimer un fichier texte",
+		"Print Window" : "Imprimer la fenêtre",
+		"Print blank page" : "Imprimer une page blanche",
+		"Print zone..." : "Imprimer une zone...",
+		"Printer Setup" : "Configuration imprimante",
+		"Printing method" : "Méthode d'impression",
+		"Scale" : "Echelle",
+		"Set x scale" : "Fixer échelle X",
+		"Set y scale" : "Fixer échelle Y",
+		"Stretch to page" : "Etirer à la page"
+	}
+}

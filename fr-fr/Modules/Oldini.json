@@ -1,0 +1,156 @@
+{   "About":
+    {
+        "Name": "Android Old INI object",
+        "Author": "Clickteam",
+        "Copyright": "Copyright (C) 2014 Clickteam",
+        "Website": "http://www.clickteam.com",
+        "Comment": "Composant du module Android. Clone de l'ancien objet INI utilisé par les anciennes applications, utilisable en cas de nécessité de conservation de compatibilité.",
+        "URL": "http://www.clickteam.com",
+        "Help": "",
+        "Identifier": "AOin",
+    },
+
+    "ActionMenu":
+    [
+        [6, "Fixer fichier courant"],
+        [0, "Fixer groupe courant"],
+        [1, "Fixer élément courant"],
+		
+        "Separator",
+           
+        [2, "Fixer valeur"],
+        [7, "Fixer valeur (élément)"],
+        [8, "Fixer valeur (groupe - élément)"],
+ 
+        "Separator",
+		
+        [5, "Fixer chaîne"],
+        [9, "Fixer chaîne (élément)"],
+        [10, "Fixer chaîne (groupe - élément)"],
+  
+        "Separator",
+
+		[13, "Détruire groupe"],
+		[11, "Détruire élément"],
+		[12, "Détruire élément (groupe)"],
+		
+        "Separator",
+		
+        [3, "Enregistrer la position d'un objet"],
+		[4, "Charger la position d'un objet"],
+
+        "Separator"
+		
+	],
+
+    "ConditionMenu":
+    [
+
+    ],
+
+    "ExpressionMenu":
+    [
+        [0, "Récupérer valeur"],
+        [2, "Récupérer valeur (élément)"],
+        [3, "Récupérer valeur (groupe - élément)"],
+ 
+        "Separator",
+        [1, "Récupérer chaîne"],
+        [4, "Récupérer chaîne (élément)"],
+        [5, "Récupérer chaîne (groupe - élément)"],
+  
+        "Separator",
+
+    ],
+
+    "Actions":
+    [
+        { "Title": "Fixer groupe courant à %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"]] },
+		  
+        { "Title": "Fixer élément courant à %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"]] },
+		  
+        { "Title": "Fixer la valeur de l'élément courant à %0",
+          "Parameters": [["Integer", "Entrer la valeur"]] },
+		  
+        { "Title": "Enregistrer la position de %0",
+          "Parameters": [["Object", "Objet"]] },
+		  
+        { "Title": "Charger la position de %0",
+          "Parameters": [["Object", "Objet"]] },
+          
+        { "Title": "Fixer la chaîne de l'élément courant à %0",
+          "Parameters": [["Text", "Entrer la chaîne"]] },
+          
+        { "Title": "Fixer fichier courant à %0",
+          "Parameters": [["Text", "Fichier INI"]] },
+          
+        { "Title": "Fixer valeur %1 dans élément %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"],
+                        ["Integer", "Entrer la valeur"]] },
+
+        { "Title": "Fixer valeur %2 dans élément %1 et groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"],
+                         ["Text", "Entrer le nom de l'élément"],
+			 ["Integer", "Entrer la valeur"]] },
+
+        { "Title": "Fixer chaîne %1 de l'élément %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"],
+                        ["Text", "Entrer la chaîne"]] },
+
+        { "Title": "Fixer chaîne %2 de l'élément %1 dans le groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"],
+                         ["Text", "Entrer le nom de l'élément"],
+			 ["Text", "Entrer la chaîne"]] },
+
+ 
+        { "Title": "Détruire élément %0",
+          "Parameters": [["Text", "Entrer le nom de l'élément"]]
+        },
+
+        { "Title": "Détruire élément %1 dans groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"],
+			 ["Text", "Entrer le nom de l'élément"]]
+        },
+
+        { "Title": "Détruire groupe %0",
+          "Parameters": [["Text", "Entrer le nom du groupe"]]
+        }
+   ],
+
+    "Conditions":
+    [
+
+	],
+
+    "Expressions":
+    [
+        {   "Title": "value of(",
+            "Returns": "Integer"
+        },
+	{   "Title": "string of$(",
+            "Returns": "Text"
+        },
+        {   "Title": "ItemValue(",
+            "Returns": "Integer",
+		"Parameters": [["Text", "Nom de l'élément"]]
+		},
+        {   "Title": "GroupItemValue(",
+            "Returns": "Integer",
+		"Parameters": [["Text", "Nom de groupe"],
+        	         ["Text", "Nom de l'élément"]]
+		},
+        {   "Title": "ItemString$(",
+            "Returns": "Text",
+	    "Parameters": [["Text", "Nom de l'élément"]]
+        },
+        {   "Title": "GroupItemString$(",
+            "Returns": "Text",
+	    "Parameters": [["Text", "Nom de groupe"],
+                           ["Text", "Nom de l'élément"]]
+        }
+	]
+}
+
+

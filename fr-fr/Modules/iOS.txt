@@ -1,0 +1,61 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: Application has been deactivated" : "%o: L'application a été désactivée",
+		"%o: Application has been reactivated" : "%o: L'application a été réactivée",
+		"%o: Application received a memory warning" : "%o: L'application a reçu un avertissement mémoire",
+		"%o: Device can connect to %0" : "%o: l'appareil peut se connecter à %0",
+		"%o: Device can connect to %0 via WWAN" : "%o: l'appareil peut se connecter à %0 via WWAN",
+		"%o: Device can connect to %0 via Wifi" : "%o: l'appareil peut se connecter à %0 via Wifi",
+		"%o: Device has Internet access" : "%o: l'appareil a accès à Internet",
+		"%o: Device has Internet access via WWAN" : "%o: l'appareil a accès à Internet via WWAN",
+		"%o: Device has Internet access via Wifi" : "%o: l'appareil a accès à Internet via Wifi",
+		"%o: Device has local Wifi access" : "%o: l'appareil a accès au Wifi local",
+		"%o: No error in iAD advertisement" : "%o: Pas d'erreur dans la publicité iAd",
+		"%o: iAd is visible" : "%o: La publicité iAd est visible",
+		"Enable/disable iAd %0" : "Activer/désactiver iAd : %0",
+		"Enter 0 to disable iAd, 1 to enable" : "Entrez 0 pour désactiver iAd, 1 pour l'activer",
+		"Extra function for iOS applications." : "Fonctions supplémentaires pour les applications iOS",
+		"Index" : "Index",
+		"Open URL %0" : "Ouvrir l'URL %0",
+		"Please enter the URL to open" : "Entrez l'URL à ouvrir",
+		"Please enter the address of the host" : "Entrez l'adresse de l'hôte",
+		"Vibrate" : "Vibration",
+		"iOS" : "iOS"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Enable/disable iAd" : "Activer/désactiver iAd",
+		"Open URL" : "Ouvrir URL",
+		"Vibrate" : "Vibration"
+	},
+	"menu_20001" : {
+		"Application has been deactivated" : "L'application a été désactivée",
+		"Application has been reactivated" : "L'application a été réactivée",
+		"Application received a memory warning" : "L'application a reçu un avertissement mémoire",
+		"Can connect to 'hostname'" : "Connection à 'hôte' possible",
+		"Can connect to 'hostname' via WWAN" : "Connection à 'hôte' via WWAN possible",
+		"Can connect to 'hostname' via Wifi" : "Connection à 'hôte' via Wifi possible",
+		"Conditions" : "Conditions",
+		"Has Internet access" : "Accès à Internet disponible",
+		"Has Internet access over WWAN" : "Accès à Internet via WWAN disponible",
+		"Has Internet access over Wifi" : "Accès à Internet via Wifi disponible",
+		"Has local Wifi access" : "Accès Wifi local disponible",
+		"Network" : "Réseau",
+		"No error in iAD advertisement" : "Pas d'erreur dans la publicité iAd",
+		"iAd is visible" : "La publicité iAd est visible"
+	},
+	"menu_20002" : {
+		"Device name" : "Nom de l'appareil",
+		"Expressions" : "Expressions",
+		"Get Nth preferred language" : "Retrouver le Nième langage préféré",
+		"Get number of preferred languages" : "Retrouver le nombre de langages préférés",
+		"Localization" : "Localisation",
+		"Localized model" : "Modèle localisé",
+		"Model" : "Modèle",
+		"System" : "Système",
+		"System name" : "Nom du système",
+		"System version" : "Version du système"
+	}
+}

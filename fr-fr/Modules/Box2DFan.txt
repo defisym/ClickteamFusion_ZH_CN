@@ -1,0 +1,51 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: Is fan active?" : "%o: Le ventilateur est-il actif?",
+		"Advanced" : "Avancé",
+		"Angle" : "Angle",
+		"Angle : %g degrees" : "Angle : %g degrés",
+		"Blowing at start" : "Souffle au lancement",
+		"Check this box and the fan will blow at the start of the frame" : "Cochez cette case et le ventilateur soufflera au lancement de la scène",
+		"Direction of the air" : "Direction de l'air",
+		"Engine ID" : "ID Moteur",
+		"Enter 1 to turn on, 0 to turn off" : "Entrez 1  pour mettre en marche, 0 pour arrêter",
+		"Enter the angle of the wind in degrees (0-360)" : "Entrez l'angle du vent, en degrés (0-360)",
+		"Enter the height of the object" : "Entrez la longueur de l'objet",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "Entrez l'identifieur du moteur si plusieurs moteurs sont utilisés sur la même scène",
+		"Enter the strength of the fan, from 0 to 500" : "Entrez la force du vent, de 0 à 500",
+		"Enter the strength of the wind (0-500)" : "Entrez la force du vent (0-500)",
+		"Enter the width of the object" : "Entrez la largeur de l'objet",
+		"Generate wind that shifts the objects" : "Génère du vent qui pousse les objets",
+		"Physics - Fan" : "Physique - Ventilateur",
+		"Please drop a 'Physics Engine' object in your frame." : "Veuillez déposer un objet \"Physique - Moteur\" dans votre scène",
+		"Running : %i" : "Fonctionnement : %i",
+		"Set angle to %0 degrees" : "Fixer l'angle à %0 degrés",
+		"Set fan to %0" : "Fixer marche/arrêt à %0",
+		"Set height to %0" : "Fixer la hauteur à %0",
+		"Set strength to %0" : "Fixer la force du vent à %0",
+		"Set width to %0" : "Fixer la largeur à %0",
+		"Strength" : "Force",
+		"Strength : %i" : "Force : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Set angle" : "Fixer l'angle",
+		"Set fan ON/OFF" : "Arrêter / Mettre le ventilateur en marche",
+		"Set height" : "Fixer hauteur",
+		"Set strength" : "Fixer la force",
+		"Set width" : "Fixer largeur"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is fan active?" : "Le ventilateur est-il actif?"
+	},
+	"menu_20002" : {
+		"Action zone height" : "Hauteur de la zone d'action",
+		"Action zone width" : "Largeur de la zone d'action",
+		"Expressions" : "Expressions",
+		"Fan angle" : "Angle du ventilateur",
+		"Fan strength" : "Force du ventilateur"
+	}
+}

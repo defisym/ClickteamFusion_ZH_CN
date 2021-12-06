@@ -1,0 +1,26 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Advanced" : "Avancé",
+		"Bottom to top" : "Du bas vers le haut",
+		"Choose how the objects will collide with the ground" : "Choisissez comment les objets vont entrer en collision avec le sol",
+		"Choose the direction of the ground to be created." : "Choisissez la direction du sol à créer",
+		"Collision" : "Collision",
+		"Defines the ground of the playfield" : "Permet de fabriquer le sol du terrain de la scène",
+		"Direction" : "Direction",
+		"Elasticity" : "Elasticité",
+		"Engine ID" : "ID Moteur",
+		"Enter the elasticity parameter of the ground." : "Entrez l'élasticité du sol",
+		"Enter the friction parameter of the ground." : "Entrez la friction du sol",
+		"Enter the identifier of the engine to use for the ground." : "Entrez l'identifiant du moteur physique à utiliser pour le sol",
+		"Friction" : "Friction",
+		"Left to right" : "De la gauche vers la droite",
+		"Object" : "Objet",
+		"Obstacle" : "Obstacle",
+		"Physics - Ground" : "Physique - Sol",
+		"Platform" : "Plateforme",
+		"Right to left" : "De la droite vers la gauche",
+		"Top to bottom" : "Du haut vers le bas"
+	}
+}

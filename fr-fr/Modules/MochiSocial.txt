@@ -1,0 +1,45 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o : On error : Network error" : "%o : Erreur réseau",
+		"%o : On error : User not logged in" : "%o : Erreur - Utilisateur non connecté",
+		"%o : On player login" : "%o : Joueur se connecte",
+		"%o : On player logout" : "%o : Joueur se déconnect",
+		"%o : On user data %0 read" : "%o : Donnée utilisateur %0 lue",
+		"%o : On user data %0 written" : "%o : Donnée utilisateur %0 écrite",
+		"%o : Player has coins" : "%o : Joueur a du crédit",
+		"%o : Player is logged in" : "%o : Joueur est connecté",
+		"Hide login widget" : "Cacher boîte de connection",
+		"Key" : "Clé",
+		"Mochi Social" : "Mochi Social",
+		"Obsolete. This object is provided for compatibility reasons only." : "Obsolète. Cet objet est fourni seulement pour des raisons de compatibilité.",
+		"Read user data at key %0" : "Lire donnée utilisateur pour la clé %0",
+		"Show login widget" : "Montrer boîte de connection",
+		"Value" : "Valeur",
+		"Write user data %1 to key %0" : "Ecrire donnée utilisateur %1 pour la clé %0"
+	},
+	"menu_20000" : {
+		"Hide login widget" : "Cacher boîte de connection",
+		"Read user data" : "Lire donnée utilisateur",
+		"Show login widget" : "Montrer boîte de connection",
+		"Write user data" : "Ecrire donnée utilisateur"
+	},
+	"menu_20001" : {
+		"Network error" : "Erreur réseau",
+		"On error" : "Erreur",
+		"On player login" : "Joueur se connecte",
+		"On player logout" : "Joueur se déconnecte",
+		"On user data read" : "Donnée utilisateur lue",
+		"On user data written" : "Donnée utilisateur écrite",
+		"Player has coins?" : "Joueur a du crédit?",
+		"Player is logged in" : "Joueur est connecté",
+		"User not logged in" : "Utilisateur non connecté"
+	},
+	"menu_20002" : {
+		"Get player name" : "Récupérer nom joueur",
+		"Get player profile image URL" : "Récupérer URL image profil joueur",
+		"Get player unique identifier" : "Récupérer unique identifieur joueur",
+		"Get user data read value" : "Récupérer donnée utilisateur lue"
+	}
+}

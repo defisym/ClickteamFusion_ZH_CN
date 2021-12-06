@@ -1,0 +1,33 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"00Block left click" : "Bloquer le clic à gauche",
+		"00Block middle click" : "Bloquer le clic du milieu",
+		"00Block right click" : "Bloquer le clic à droite",
+		"00Unblock left click" : "Débloquer le clic à gauche",
+		"00Unblock middle click" : "Débloquer le clic du milieu",
+		"00Unblock right click" : "Débloquer le clic droit",
+		"Block left mouse button" : "Bloquer le bouton gauche",
+		"Block middle mouse button" : "Bloquer le bouton du milieu",
+		"Block right mouse button" : "Bloquer le bouton droit",
+		"Blocks the left, middle and/or right clicks of the mouse." : "Bloque les boutons gauche, milieu et/ou droite de la souris.",
+		"Click Blocker" : "Bloqueur de Clics",
+		"Click Blocker object" : "Objet Bloqueur de Clics",
+		"Left mouse button %s" : "Le bouton gauche %s",
+		"Left mouse clicks will have no effects" : "Un clic à gauche n'aura aucun effet",
+		"Middle mouse button %s" : "Le bouton du milieu %s",
+		"Middle mouse clicks will have no effects" : "un clic au milieu n'aura aucun effet",
+		"Right mouse button %s" : "Le bouton droit %s",
+		"Right mouse clicks will have no effects" : "Un clic à droite n'aura aucun effet",
+		"blocked" : "bloqué",
+		"unblocked" : "débloqué"
+	},
+	"menu_20000" : {
+		"&Left click" : "Clic à gauche",
+		"&Middle click" : "Clic au milieu",
+		"&Right click" : "Clic à droite",
+		"Block" : "Bloquer",
+		"Unblock" : "Débloquer"
+	}
+}

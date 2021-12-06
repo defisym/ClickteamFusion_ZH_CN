@@ -1,0 +1,61 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: Is Internal font %0 available?" : "%o: la police interne %0 est-elle disponible?",
+		"%o: Is Packed font %0 available?" : "%o: la police empaquetée %0 est-elle disponible?",
+		"%o: On Error Ocurred" : "%o: Une erreur est survenue",
+		"%o: On Internal Fonts Read" : "%o: Les polices internes ont été lues",
+		"%o: On Packed Fonts Read" : "%o: Les polices empaquetées ont été lues",
+		"%o: Read Internal Fonts" : "%o: Lire les polices internes",
+		"%o: Read Packed Fonts" : "%o: Lire les polices empaquetées",
+		"Android Font Packer" : "Empaqueteur de polices Android",
+		"Android Font Packer Control" : "Empaqueteur de polices Android",
+		"Clear Checked" : "Effacer les polices cochées",
+		"File must be named according their typeface" : "Le nom du fichier doit correspondre au nom de la police",
+		"Font #10: " : "Police #10",
+		"Font #1: " : "Police #1",
+		"Font #2: " : "Police #2",
+		"Font #3: " : "Police #3",
+		"Font #4: " : "Police #4",
+		"Font #5: " : "Police #5",
+		"Font #6: " : "Police #6",
+		"Font #7: " : "Police #7",
+		"Font #8: " : "Police #8",
+		"Font #9: " : "Police #9",
+		"Font Name" : "Nom police",
+		"Font filename #1 as defined in system" : "Nom de fichier police #1 défini dans le système",
+		"Font filename #10 as defined in system" : "Nom de fichier police #10 défini dans le système",
+		"Font filename #2 as defined in system" : "Nom de fichier police #2 défini dans le système",
+		"Font filename #3 as defined in system" : "Nom de fichier police #3 défini dans le système",
+		"Font filename #4 as defined in system" : "Nom de fichier police #4 défini dans le système",
+		"Font filename #5 as defined in system" : "Nom de fichier police #5 défini dans le système",
+		"Font filename #6 as defined in system" : "Nom de fichier police #6 défini dans le système",
+		"Font filename #7 as defined in system" : "Nom de fichier police #7 défini dans le système",
+		"Font filename #8 as defined in system" : "Nom de fichier police #8 défini dans le système",
+		"Font filename #9 as defined in system" : "Nom de fichier police #9 défini dans le système",
+		"Fonts functionality for Android." : "Permet d'empaqueter des polices de caractères dans les applications Android",
+		"Fonts to Pack ..." : "Polices à empaqueter...",
+		"Repack the font list" : "Ré-empaqueter la liste de polices"
+	},
+	"menu_20000" : {
+		"Read Internal fonts" : "Lire les polices internes",
+		"Read Packed Fonts" : "Lire les polices empaquetées"
+	},
+	"menu_20001" : {
+		"Is Internal Font Available" : "Une police interne est-elle disponible?",
+		"Is Packed Font Available" : "Une police empaquetée est-elle disponible?",
+		"On Error" : "Erreur",
+		"On Internal Fonts Read" : "Les polices internes sont lues",
+		"On Packed Fonts Read" : "Les polices empaquetées sont lues"
+	},
+	"menu_20002" : {
+		"Internal Font Name" : "Nom d'une police interne",
+		"Internal Fonts Quantity" : "Nombre de polices internes",
+		"Last error Ocurred" : "Dernière erreur",
+		"Packed Font Name" : "Nom d'une police empaquetée",
+		"Packed Fonts Quantity" : "Nombre de polices empaquetées",
+		"Read Default Font Size" : "Taille de police par défaut",
+		"Read Default Font Style" : "Style de police par défaut"
+	}
+}

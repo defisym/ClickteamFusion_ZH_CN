@@ -1,0 +1,23 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"Check this box to have the object move when the frame starts" : "Cochez cette case pour l'objet bouge au lancement de la scène",
+		"Check this box to have the object positionned out of the frame at start of frame" : "Cochez cette case pour positionner l'objet en dehors de la scène au lancement",
+		"Choose the type of the movement" : "Choisissez le type de mouvement",
+		"Destination X" : "X Destination",
+		"Destination Y" : "Y Destination",
+		"Direction" : "Direction",
+		"Duration" : "Durée",
+		"Enter the X coordinate out of the frame. Leave to 0 to use automatica calculation" : "Entrez la coordonnée X en dehors de la scène. Laissez a 0 pour un calcul automatique",
+		"Enter the Y coordinate out of the frame. Leave to 0 to use automatica calculation" : "Entrez la coordonnée Y en dehors de la scène. Laissez a 0 pour un calcul automatique",
+		"Enter the direction of the movement, 0 for right, 90 top, 180 left and 270 bottom" : "Entrez la direction du mouvement, 0 pour la droite, 90 le haut, 180 la gauche 270 le bas",
+		"Enter the length of the movement, in milliseconds" : "Entrez la durée du mouvement, en millisecondes",
+		"InAndOut movement" : "Mouvement InAndOut",
+		"Linear" : "Linéaire",
+		"Move at start" : "Bouge au démarrage",
+		"Movement type" : "Type de movement",
+		"Out at start" : "En dehors au début",
+		"Smooth" : "Sinusoïdal"
+	}
+}

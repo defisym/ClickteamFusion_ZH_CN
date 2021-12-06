@@ -1,0 +1,30 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"About" : "A propos",
+		"Author" : "Auteur",
+		"Automatically handle speed increase" : "Accroissement de la vitesse automatique",
+		"By how many pixels the invaders move in the x-direction." : "Indique de combien de pixels les invaders bougent horizontalement.",
+		"By how many pixels the invaders move in the y-direction." : "Indique de combien de pixels les invaders bougent verticalement.",
+		"Clickteam Movement Controller" : "Contrôleur de Mouvement Clickteam",
+		"Control Ext." : "Control Ext.",
+		"Global Invader Properties" : "Propriétés globales du mouvement Invaders",
+		"Handle speed increase when fewer invaders automatically." : "Gère automatiquement l'accroissement de la vitesse lors de la diminution du nombre d'invaders.",
+		"How often the invaders move." : "Indique la fréquence du mouvement.",
+		"Initial direction" : "Direction initiale",
+		"Invaders" : "Invaders",
+		"Left" : "Gauche",
+		"Move at Start" : "Bouge au démarrage",
+		"Name of the extension used to interact with this movement." : "Nom de l'extension utilisée pour interagir avec ce mouvement.",
+		"Properties relating to the invader movement." : "Propriétés relatives au mouvement Invaders.",
+		"Released October 2006" : "Sortie Octobre 2006",
+		"Right" : "Droite",
+		"Speed" : "Vitesse",
+		"Step Size in X" : "Pas en X",
+		"Step Size in Y" : "Pas en Y",
+		"The direction in which all invaders will move at initially." : "La direction dans laquelle les invaders bougent au lancement.",
+		"Version" : "Version",
+		"Will the invaders be moving at start of frame." : "Indique si les invaders bougent au lancement de la scène."
+	}
+}

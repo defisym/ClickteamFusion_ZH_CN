@@ -1,0 +1,50 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"#Title#Enter the name of the destination file..." : "#Title#Entrez le nom du fichier destination...",
+		"%o: Connection error in slot %0" : "%o: Erreur de connection dans le port %0",
+		"%o: Download aborted in slot %0" : "%o: Téléchargement abandonné dans le port %0",
+		"%o: Download in progress slot %0" : "%o: Téléchargement en cours dans le port %0",
+		"%o: Download successfully completed slot %0" : "%o: Téléchargement réussi dans le port %0",
+		"Abort download slot %0" : "Abandonner le téléchargement port %0",
+		"Allows you to download file from the Internet." : "Vous permet de télécharger des fichiers sur Internet.",
+		"Average speed : %i bytes per second" : "Vitesse moyenne : %i octets par seconde",
+		"Current URL : %s" : "URL courante : %s",
+		"Download Object" : "Objet Téléchargement",
+		"Download file, Url=%0, destination=%1, slot %2" : "Télécharger fichier, Url=%0, destination=%1, port %2",
+		"Download object" : "Objet téléchargement",
+		"Enter file URL" : "Entrez l'URL du fichier",
+		"Enter the URL of the file. It must begin with HTTP:// or HTTPS://" : "Entrez l'URL du fichier. Il doit débuter par HTTP:// or HTTPS://",
+		"Enter the slot number (1-4)" : "Entrez le numéro de port (1-4)",
+		"Number of bytes read : %i" : "Nombre d'octets lus : %i",
+		"Pause download slot %0" : "Mettre le téléchargement en pause port %0",
+		"Resume download slot %0" : "Relancer le téléchargement port %0",
+		"Size of the file to download : %i" : "Taille du fichier à télécharger : %i",
+		"Slot 1" : "Port 1",
+		"Slot 2" : "Port 2",
+		"Slot 3" : "Port 3",
+		"Slot 4" : "Port 4"
+	},
+	"menu_20000" : {
+		"Abort download" : "Abandonner le téléchargement",
+		"Download file" : "Télécharger un fichier",
+		"Pause download" : "Mettre le téléchargement en pause",
+		"Resume download" : "Relancer le téléchargement"
+	},
+	"menu_20001" : {
+		"Connection error?" : "Erreur de connection?",
+		"Download aborted?" : "Téléchargement abandonné?",
+		"Download in progress?" : "Téléchargement en cours?",
+		"Download successfully completed?" : "Téléchagement réussi?"
+	},
+	"menu_20002" : {
+		"Current URL" : "URL courante",
+		"Current download percentage" : "Pourcentage de téléchargement",
+		"Current download position" : "Position du téléchargement",
+		"Current speed (bytes per second)" : "Vitesse courante (octets par seconde)",
+		"Estimated download time" : "Durée estimée du téléchargement",
+		"Get file size (without download)" : "Taille du fichier (sans le télécharger)",
+		"Total file size" : "Taille totale du fichier"
+	}
+}

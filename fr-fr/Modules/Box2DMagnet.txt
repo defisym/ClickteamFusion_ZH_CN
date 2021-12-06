@@ -1,0 +1,49 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: Is magnet active?" : "%o : L'aimant est-il actif?",
+		"Active at start" : "Actif au lancement",
+		"Advanced" : "Avancé",
+		"Attracts objects around itself" : "Attire les objets situés autour de lui",
+		"Check this box to make the magnet active at start of frame" : "Cochez cette case pour que l'aimant fonctionne dès le début de la scène",
+		"Directions" : "Directions",
+		"Directions of the magnet" : "Directions de l'aimant",
+		"Engine ID" : "ID Moteur",
+		"Enter 1 to turn on, 0 to turn off" : "Entrez 1  pour mettre en marche, 0 pour arrêter",
+		"Enter the directions where the magnet will have effect" : "Entrez les directions dans lequelles l'aimant aura de l'effet",
+		"Enter the height of the object" : "Entrez la longueur de l'objet",
+		"Enter the identifier of the engine if multiple engines are used on the same frame." : "Entrez l'identifieur du moteur si plusieurs moteurs sont utilisés sur la même scène",
+		"Enter the strength of the magnet (0-100)" : "Entrez la puissance de l'aimant (0-100)",
+		"Enter the strength of the magnet, from 0 to 100" : "Entrez la puissance de l'aimant, de 0 à 100",
+		"Enter the width of the object" : "Entrez la largeur de l'objet",
+		"Physics - Magnet" : "Physique - Aimant",
+		"Please drop a 'Physics Engine' object in your frame." : "Veuillez déposer un objet \"Physique - Moteur\" dans votre scène",
+		"Running : %i" : "Fonctionnement : %i",
+		"Set angle to %0" : "Fixer l'angle à %0 degrés",
+		"Set height to %0" : "Fixer la hauteur à %0",
+		"Set magnet to %0" : "Fixer marche/arrêt à %0",
+		"Set strength to %0" : "Fixer la force du vent à %0",
+		"Set width to %0" : "Fixer la largeur à %0",
+		"Strength" : "Force",
+		"Strength : %i" : "Puissance : %i"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Set angle" : "Fixer l'angle",
+		"Set height" : "Fixer hauteur",
+		"Set magnet ON/OFF" : "Lancer / arrêter l'aimant",
+		"Set strength" : "Fixer la force",
+		"Set width" : "Fixer largeur"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Is magnet active?" : "L'aimant est-il actif?"
+	},
+	"menu_20002" : {
+		"Action zone height" : "Hauteur de la zone d'action",
+		"Action zone width" : "Largeur de la zone d'action",
+		"Expressions" : "Expressions",
+		"Magnet strength" : "Force de l'aimant"
+	}
+}

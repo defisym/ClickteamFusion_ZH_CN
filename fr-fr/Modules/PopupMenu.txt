@@ -1,0 +1,81 @@
+﻿{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+		"%o: %0 selected" : "%o: %0 est sélectionné",
+		"%o: Add Item (%0, %1, %2)" : "%o: Ajouter élément (%0, %1, %2)",
+		"%o: Add Menu (%0, %1, %2)" : "%o: Ajouter menu (%0, %1, %2)",
+		"%o: Add Separator (%0)" : "%o: Ajouter séparateur (%0)",
+		"%o: Create Menu" : "%o: Créer menu",
+		"%o: Delete Item (%0)" : "%o: Détruire élément (%0)",
+		"%o: Item %0 Selected" : "%o: Elément %0 sélectionné",
+		"%o: Set Check (%0, %1)" : "%o: Cocher (%0, %1)",
+		"%o: Set Enable (%0, %1)" : "%o: Activer (%0, %1)",
+		"%o: Set Item Text (%0, %1)" : "%o: Fixer le texte de l'élément (%0, %1)",
+		"%o: Show Menu" : "%o: Montrer menu",
+		"%o: Show Menu at %0" : "%o: Montrer menu à %0",
+		"1 to check, 0 to uncheck" : "1 pour cocher, 0 pour décocher",
+		"1 to enable, 0 to disable" : "1 pour activer, 0 pour désactiver",
+		"Content of the menu" : "Contenu du menu",
+		"Edit content" : "Edition du contenu",
+		"Filename" : "Nom de fichier",
+		"Height" : "Hauteur",
+		"Item ID" : "ID de l'élément",
+		"Item String" : "Chaîne de l'élément",
+		"Item identifier" : "Identifieur de l'élément",
+		"Last selection: %i" : "Dernière sélection: %i",
+		"Lets you create customizable popup menus in your applications." : "Vous permet de créer des menus popup (contextuels) dans vos applications.",
+		"Menu Index" : "Index du menu",
+		"New item" : "Nouvel élément",
+		"Opens a dialog box to edit the content of the popup menu" : "Ouvre une boîte de dialogue pour éditer le contenu du menu popup.",
+		"Popup Menu" : "Menu Popup",
+		"Position" : "Position",
+		"SubMenu Index" : "Index du sous-menu",
+		"Value" : "Valeur"
+	},
+	"dialog_109" : {
+		"Cancel" : "Annuler",
+		"Item Text" : "Texte de l'élément",
+		"OK" : "OK"
+	},
+	"dialog_20003" : {
+		"&Add" : "&Ajouter",
+		"&Del" : "&Suppr.",
+		"&Help" : "&Aide",
+		"Add &Separator" : "Séparateur",
+		"Cancel" : "Annuler",
+		"Default Menu" : "Menu par défaut",
+		"Down" : "Bas",
+		"Item Identifier" : "Identifieur élément",
+		"Left" : "Gauche",
+		"OK" : "OK",
+		"Right" : "Droite",
+		"Setup PopupMenu" : "Configuration Menu Popup",
+		"Tree1" : "Tree1",
+		"Up" : "Haut"
+	},
+	"menu_20000" : {
+		"Actions" : "Actions",
+		"Add Item" : "Ajouter élément",
+		"Add Menu" : "Ajouter menu",
+		"Add Separator" : "Ajouter séparateur",
+		"Check / Uncheck" : "Cocher / Décocher",
+		"Create Menu" : "Créer menu",
+		"Delete Item" : "Détruire l'élément",
+		"Enable / Disable" : "Activer / Désactiver",
+		"Set Item Text" : "Changer le texte d'un élément",
+		"Show At" : "Montrer à",
+		"Show At Mouse" : "Montrer sous la souris"
+	},
+	"menu_20001" : {
+		"Conditions" : "Conditions",
+		"Item Selected (ID)" : "Elément sélectionné (ID)",
+		"Item Selected (Text)" : "Elément sélectionné (Texte)"
+	},
+	"menu_20002" : {
+		"Expressions" : "Expressions",
+		"Get Item Text" : "Texte d'un élément",
+		"Get Last Selected Item" : "Dernier élément sélectionné",
+		"Get Menu Count" : "Nombre de menus"
+	}
+}
