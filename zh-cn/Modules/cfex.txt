@@ -99,6 +99,7 @@
 		"Cancel" : "取消",
 		"Comments" : "注释",
 		"Conditions" : "条件",
+		"Deactivated lines" : "禁用的事件行",
 		"Events" : "事件",
 		"Find all..." : "查找全部...",
 		"Find what:" : "查找 : ",
