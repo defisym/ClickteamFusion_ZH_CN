@@ -3,7 +3,7 @@
 	"lang" : 2052,
 	"general" : {
 		"%o: Close Video" : "%o: 关闭视频",
-		"%o: Compare Time Position (%0)" : "%o: 時間位置 (%0) を比較",
+		"%o: Compare Time Position (%0)" : "%o: 比较事件位置 (%0)",
 		"%o: Is Playing ?" : "%o: 播放中？",
 		"%o: Load Video (%0)" : "%o: 载入视频 (%0)",
 		"%o: Mute Audio" : "%o: 静音",

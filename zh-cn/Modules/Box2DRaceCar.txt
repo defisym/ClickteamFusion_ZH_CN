@@ -44,7 +44,7 @@
 		"Enter the upper angle limit in degrees. No limit is set if upper limit is below lower limit." : "Enter the upper angle limit in degrees. No limit is set if upper limit is below lower limit.",
 		"Enter the upper limit in pixels. No limit is set if upper limit is below lower limit." : "Enter the upper limit in pixels. No limit is set if upper limit is below lower limit.",
 		"Extended collisions" : "扩展碰撞",
-		"Frequency" : "频率(振動数)",
+		"Frequency" : "频率(振动数)",
 		"Friction" : "摩擦力",
 		"Friction : %i" : "摩擦力 : %i",
 		"From the action-point" : "来自作用点",

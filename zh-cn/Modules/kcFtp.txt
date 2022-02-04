@@ -137,7 +137,7 @@
 	},
 	"dialog_149" : {
 		"Cancel" : "取消",
-		"Data transfer" : "データ転送",
+		"Data transfer" : "传送数据",
 		"Progress1" : "Progress1"
 	},
 	"dialog_150" : {

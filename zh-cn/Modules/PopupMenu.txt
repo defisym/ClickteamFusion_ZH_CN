@@ -11,7 +11,7 @@
 		"%o: Item %0 Selected" : "%o: 项目 %0 被选择",
 		"%o: Set Check (%0, %1)" : "%o: 设置选中 (%0, %1)",
 		"%o: Set Enable (%0, %1)" : "%o: 设置启用 (%0, %1)",
-		"%o: Set Item Text (%0, %1)" : "%o: 设置项目文本  (%0, %1) を変更",
+		"%o: Set Item Text (%0, %1)" : "%o: 设置项目文本 (%0, %1)",
 		"%o: Show Menu" : "%o: 显示菜单",
 		"%o: Show Menu at %0" : "%o: 显示菜单在 %0",
 		"1 to check, 0 to uncheck" : "1 为选中、 0 为取消选中",

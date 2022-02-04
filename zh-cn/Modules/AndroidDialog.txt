@@ -188,7 +188,7 @@
 		"Types (0: Files, 1:Dir)" : "类型 (0: 文件 1: 目录)",
 		"User Hint Text" : "用户提示文本",
 		"User Initial Text" : "用户初始文本",
-		"Vibrate Enable (0:No, 1: Yes)" : "振动启用 (0: 否、 1: 是い)",
+		"Vibrate Enable (0:No, 1: Yes)" : "振动启用 (0: 否、 1: 是)",
 		"What to show (1: Days, 2: Months, 4: Years) exam: 7 show all" : "显示项目 (1: 日、 2: 月、 4: 年)、 例: 7 显示全部",
 		"What to show (1: Hour, 2: Minutes) exam: 3 show all" : "显示项目 (1: 时、 2: 分)、 例: 3 显示全部",
 		"Year initial value (-1:current, or set value, min 1900)" : "年初始值 (-1: 现在。 或设置值,最小 1900)",
