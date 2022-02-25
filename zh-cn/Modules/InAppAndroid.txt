@@ -99,5 +99,5 @@
 		"PurchaseTime" : "购买时间",
 		"Purchased Qty" : "购买数量",
 		"Purchases Info" : "购买信息"
-	},
+	}
 }

@@ -61,5 +61,5 @@
 		"Packed Fonts Quantity" : "打包字体数",
 		"Read Default Font Size" : "读取默认字体大小",
 		"Read Default Font Style" : "读取默认字体样式"
-	},
+	}
 }

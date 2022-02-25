@@ -46,5 +46,5 @@
 		"Player Name" : "玩家名称",
 		"Player Profile" : "玩家资料",
 		"Player Score" : "玩家得分"
-	},
+	}
 }

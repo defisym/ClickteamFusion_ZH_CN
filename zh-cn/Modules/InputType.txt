@@ -48,5 +48,5 @@
 
 		"Last Keyboard SubType" : "最后的键盘子类型",
 		"Last Keyboard Type" : "最后的键盘类型"
-	},
+	}
 }
