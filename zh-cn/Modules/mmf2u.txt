@@ -6103,7 +6103,8 @@
 		"Copy to &other resolutions" : "复制到其他分辨率",
 		"Flip &horizontally" : "水平反转(&H)",
 		"Flip &vertically" : "垂直反转(&V)",
-		"New Frame" : "新建帧"
+		"New Frame" : "新建帧",
+		"Rename":"重命名"
 	},
 	"menu_5002" : {
 		"Cancel" : "取消",
