@@ -738,7 +738,7 @@
 		"Button 1" : "Bouton 1",
 		"Button 2" : "Bouton 2",
 		"Buttons" : "Boutons",
-		"By default the 'Load On Call' option in objects is ignored on Android. Select this option if you want to enable it." : "Par défaut l'option 'Chargement à la demande' est ignorée sur Android. Sélectionnez cette option pour l'activer.",
+		"By default the 'Load On Call' option in objects is ignored on Android/iOS. Select this option if you want to enable it." : "Par défaut l'option 'Chargement à la demande' est ignorée sur Android/iOS. Sélectionnez cette option pour l'activer.",
 		"C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0" : "C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0",
 		"CAP" : "CAP",
 		"CD-Audio" : "CD-Audio",
