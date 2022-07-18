@@ -730,7 +730,7 @@
 		"Button 1" : "ボタン 1",
 		"Button 2" : "ボタン 2",
 		"Buttons" : "ボタン",
-		"By default the 'Load On Call' option in objects is ignored on Android. Select this option if you want to enable it." : "既定では、「呼び出し時にロード」オプションは Android では無視されます。 有効にしたい場合は、このオプションを選択してください。",
+		"By default the 'Load On Call' option in objects is ignored on Android/iOS. Select this option if you want to enable it." : "既定では、「呼び出し時にロード」オプションは Android/iOS では無視されます。 有効にしたい場合は、このオプションを選択してください。",
 		"C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0" : "C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0",
 		"CAP" : "CAP",
 		"CD-Audio" : "CD-オーディオ",
