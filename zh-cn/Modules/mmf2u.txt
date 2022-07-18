@@ -731,7 +731,7 @@
 		"Button 1" : "按钮 1",
 		"Button 2" : "按钮 2",
 		"Buttons" : "",
-		"By default the 'Load On Call' option in objects is ignored on Android. Select this option if you want to enable it." : "默认情况下,Android上会忽略对象中的'Load On Call'选项.如果要启用它,请选择此选项",
+		"By default the 'Load On Call' option in objects is ignored on Android/iOS. Select this option if you want to enable it." : "默认情况下, Android/iOS上会忽略对象中的'Load On Call'选项. 如果要启用它,请选择此选项",
 		"C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0" : "C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0",
 		"CAP" : "CAP",
 		"CD-Audio" : "CD-Audio",
