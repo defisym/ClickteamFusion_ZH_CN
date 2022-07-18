@@ -105,7 +105,6 @@ Clickteam Fusion 2.5非官方汉化
 |HTML5Video||
 |InAndOut||
 |InAndOutController||
-|InAppAndroid||
 |InputType||
 |iOS||
 |iOSButton||
@@ -181,10 +180,7 @@ Clickteam Fusion 2.5非官方汉化
 |ServerError||
 |SpaceShip||
 |StaticText||
-|stdrt||
-|stdrtd||
 |ToolTip||
 |TreeControl||
 |VideoAndroid||
-|XboxConnect|完成|
 |XBOXGamepad||
