@@ -379,8 +379,8 @@
 		"10Pick one of %s" : "10%s の 1 つを選択",
 		"10WARNING: old object(\"%s\")" : "10警告: 古いプロジェクト(\"%s\")",
 		"11%s %s" : {
-			"5289" : "11%s %s",
-			"5395" : "11%s が次の操作をした時: %s"
+			"5395" : "11%s が次の操作をした時: %s",
+			"5289" : "11%s %s"
 		},
 		"11%s : answer number %s chosen" : "11%s : 番号 %s を選択して回答",
 		"11%s animation %s is over" : "11%s アニメーション %s が終了",
@@ -416,6 +416,7 @@
 		"1536x2048 image, displayed at launch time in portrait mode." : "1536 x 2048 ピクセル。 起動時に表示されます。",
 		"16 million colors" : "1670 万色",
 		"180x180 image, icon of your application. The size of this image will be reduced to fit iPhone 3." : "180 x 180 ピクセル。 アプリケーションのアイコンです。このサイズのイメージは iPhone 3 では縮小されます。",
+		"192x192 image, that represents your application on an Android device’s Home screen." : "Android 端末のホーム画面に表示されるアプリケーションアイコン (サイズは 192 x 192 ピクセル) です。",
 		"2 weeks" : "2 週",
 		"2048x1536 image, displayed at launch time in landscape mode." : "2048 x 1536 ピクセル。 起動時に表示されます。",
 		"21%s of %s %s" : "21%s: %s %s",
@@ -432,7 +433,6 @@
 		"65536 colors" : "65536 色",
 		"90 degrees anticlockwise" : "反時計周りに 90 度回転",
 		"90 degrees clockwise" : "時計回りに 90 度回転",
-		"192x192 image, that represents your application on an Android device’s Home screen." : "Android 端末のホーム画面に表示されるアプリケーションアイコン (サイズは 192 x 192 ピクセル) です。",
 		"< &Back" : "< 戻る(&B)",
 		"<Empty>" : "<空>",
 		"<Non-existent menu option>" : "<存在しないメニューオプション>",
@@ -468,8 +468,8 @@
 		"AdMob (deprecated)" : "AdMob (仕様変更)",
 		"AdMob ID" : "AdMob ID",
 		"Add" : {
-			"12012" : "加算",
-			"18081" : "追加"
+			"18081" : "追加",
+			"12012" : "加算"
 		},
 		"Add 0's to the left" : "0 を左に追加",
 		"Add 0's to the left if necessary." : "必要に応じて0 を左に追加します。",
@@ -502,8 +502,8 @@
 		"All words" : "すべての単語",
 		"All your changes will be lost! Do you really want to reset all toolbars and menus?" : "すべての変更が失われます。すべてのﾒﾆｭｰとﾂｰﾙ ﾊﾞｰをﾘｾｯﾄしてもよろしいですか?",
 		"All your changes will be lost! Do you really want to reset the keyboard assignments?" : "ｼｮｰﾄｶｯﾄ ｷｰの変更がすべて失われます。ｷｰﾎﾞｰﾄﾞをﾘｾｯﾄしてもよろしいですか?",
-		"All your changes will be lost! Do you really want to reset the menu '%Ts'?" : "変更はすべて失われます。メニュー '%Ts' をリセットしますか?",
-		"All your changes will be lost! Do you really want to reset the toolbar '%Ts'?" : "変更はすべて失われます。ツール バー '%Ts' をリセットしますか?",
+		"All your changes will be lost! Do you really want to reset the menu '%s'?" : "変更はすべて失われます。メニュー '%s' をリセットしますか?",
+		"All your changes will be lost! Do you really want to reset the toolbar '%s'?" : "変更はすべて失われます。ツール バー '%s' をリセットしますか?",
 		"Allow borders" : "Allow borders",
 		"Allow borders when Keep Screen Ratio is selected" : "Allow borders when Keep Screen Ratio is selected",
 		"Allow offline" : "オフラインを許可",
@@ -741,10 +741,6 @@
 		"Calculation Objects" : "計算オブジェクト",
 		"Calculations" : "計算",
 		"Camera" : "Camera",
-		"Can't copy bitmap image into the clipboard!" : "ｸﾘｯﾌﾟﾎﾞｰﾄﾞにｲﾒｰｼﾞをｺﾋﾟｰられません。",
-		"Can't create a new image!" : "ｲﾒｰｼﾞを新規作成出来ません。",
-		"Can't customize menus!" : "メニューをカスタマイズできません。",
-		"Can't paste bitmap image from the clipboard!" : "ｸﾘｯﾌﾟﾎﾞｰﾄﾞからｲﾒｰｼﾞを貼り付け出来ません。",
 		"Cancel" : "キャンセル",
 		"Cannot build application : please specify a valid key store path and key name in the properties of the application." : "アプリケーションをビルドできません : アプリケーションのプロパティで正しいキー保存パスおよびキー名が指定されているかをご確認ください。",
 		"Cannot build the install program. Please fix the reported errors, and retry." : "インストールプログラムをビルドできません。 報告されたエラーを修正して再試行してください。",
@@ -904,6 +900,7 @@
 		"Close" : "閉じる",
 		"Close Full Screen" : "全画面表示を閉じる",
 		"Close Print Preview\n&Close" : "印刷ﾌﾟﾚﾋﾞｭｰ ﾓｰﾄﾞの終わり\n閉じる(&C)",
+		"Close print preview mode\nCancel Preview" : "印刷プレビュー モードの終わり\nプレビューのキャンセル",
 		"Close the active document\nClose" : "現在の文書を閉じる\n閉じる",
 		"Close the active window and prompts to save the documents" : "現在のウィンドウを閉じて文書の保存を確認",
 		"Close the current project\nClose" : "現在のプロジェクトを閉じる\n閉じる",
@@ -972,9 +969,9 @@
 		"Continuous Brush\nContinuous Brush" : "実線ブラシ\n実線ブラシ",
 		"Contract docked window" : "ﾄﾞｯｷﾝｸﾞ ｳｨﾝﾄﾞｳを縮小表示",
 		"Control" : {
+			"2172" : "コントロール",
 			"2067" : "Ctrl",
-			"11344" : "コントロール",
-			"2172" : "コントロール"
+			"11344" : "コントロール"
 		},
 		"Controlled by an extension" : "エクステンションでコントロール",
 		"Conversions" : "変換",
@@ -1056,10 +1053,10 @@
 		"Deceleration" : "減速",
 		"Decorations" : "デコレーション",
 		"Default" : {
-			"13574" : "既定",
-			"16114" : "既定値",
 			"12925" : "既定",
-			"18187" : "既定"
+			"13574" : "既定",
+			"18187" : "既定",
+			"16114" : "既定値"
 		},
 		"Default Controls" : "既定のコントロール",
 		"Default Menu" : "ﾃﾞﾌｫﾙﾄ ﾒﾆｭｰ",
@@ -1193,7 +1190,7 @@
 		"Do not share data if run as sub-application" : "サブアプリケーションとして実行する場合はデータを共有しない",
 		"Do not stop screen saver when input event" : "入力イベント時にスクリーンセーバーを停止しない",
 		"Do nothing" : "何もしない",
-		"Do you really want to delete the toolbar '%Ts'?" : "ツール バー '%Ts' を削除しますか?",
+		"Do you really want to delete the toolbar '%s'?" : "ツール バー '%s' を削除しますか?",
 		"Do you want to change the palette of the other frames of this application?" : "このアプリケーションの他のフレームのパレットを変更しますか？",
 		"Do you want to create the alpha channel from the transparent color?" : "透過色からαチャンネルを作成しますか？",
 		"Do you want to delete this frame?" : "このフレームを削除しますか？",
@@ -1267,9 +1264,9 @@
 		"Encountered an unexpected error while reading %1." : "%1 の読み取り中に予期しないエラーが発生しました。",
 		"Encountered an unexpected error while writing %1." : "%1 の書き込み中に予期しないエラーが発生しました。",
 		"End" : {
+			"2071" : "End",
 			"18201" : "完了",
-			"18027" : "完了",
-			"2071" : "End"
+			"18027" : "完了"
 		},
 		"End Application" : "アプリケーションを終了",
 		"End application when not in foreground" : "フォアグラウンドでない場合にアプリケーションを終了",
@@ -1442,7 +1439,7 @@
 		"Execution Level" : "実行レベル",
 		"Existing" : "既存",
 		"Exp( >Enter number here< )" : "Exp( >数値を入力< )",
-		"Expand (%Ts)" : "展開 (%Ts)",
+		"Expand (%s)" : "展開 (%s)",
 		"Expand docked window" : "ﾄﾞｯｷﾝｸﾞ ｳｨﾝﾄﾞｳを最大表示",
 		"Expand or Collapse Folder" : "フォルダを展開/収納",
 		"Explosions" : "爆発",
@@ -1461,7 +1458,6 @@
 		"Extract right sub-string" : "右サブ文字列を抽出",
 		"FADE IN MODE - %s" : "フェードインモード - %s",
 		"FADE OUT MODE - %s" : "フェードアウトモード - %s",
-		"Fade" : "フェード",
 		"Fade In" : "フェードイン",
 		"Fade In\nFade In" : "フェードイン\nフェードイン",
 		"Fade Out" : "フェードアウト",
@@ -1550,9 +1546,9 @@
 		"Forward" : "進む",
 		"Fourth static text displayed in the wizard page." : "ウィザードページに表示される 4 つ目の静的テキストです。",
 		"Frame" : {
-			"9230" : "フレーム",
 			"11052" : "フレーム",
-			"6211" : "動作領域"
+			"6211" : "動作領域",
+			"9230" : "フレーム"
 		},
 		"Frame %d" : "フレーム %d",
 		"Frame %d - %s" : "フレーム %d - %s",
@@ -1889,8 +1885,8 @@
 		"Key password" : "キーのパスワード",
 		"Keyboard" : "キーボード",
 		"Keys" : {
-			"6112" : "鍵",
-			"16030" : "キー"
+			"16030" : "キー",
+			"6112" : "鍵"
 		},
 		"Keystore files (*.keystore)|*.keystore|All Files (*.*)|*.*||" : "Keystore files (*.keystore)|*.keystore|All Files (*.*)|*.*||",
 		"Keystore name" : "キーストア名",
@@ -1945,8 +1941,8 @@
 		"License" : "ライセンス",
 		"Limit conditions" : "条件を制限",
 		"Line" : {
-			"6569" : "行",
-			"12055" : "線"
+			"12055" : "線",
+			"6569" : "行"
 		},
 		"Line #%i, action #%i : %s\r\n" : "行 #%i, アクション #%i : %s\r\n",
 		"Line #%i, condition #%i : %s\r\n" : "行 #%i, 条件 #%i : %s\r\n",
@@ -2120,11 +2116,11 @@
 		"Neutral Matter" : "ニュートラルマター",
 		"Never" : "実行しない",
 		"New" : {
+			"16017" : "新規",
 			"11384" : "新規作成",
 			"1004" : "新規作成",
 			"16027" : "新規",
-			"11186" : "新規作成",
-			"16017" : "新規"
+			"11186" : "新規作成"
 		},
 		"New Application\nNew Application" : "新規アプリケーションを作成\n新規アプリケーションを作成",
 		"New Folder" : "新規フォルダ",
@@ -2137,8 +2133,8 @@
 		"New condition" : "新規条件",
 		"New expression" : "新しい数式",
 		"New line" : {
-			"1835" : "新しい線",
-			"24952" : "新しい行"
+			"24952" : "新しい行",
+			"1835" : "新しい線"
 		},
 		"Newest installed SDK API" : "最後にインストールした SDK API",
 		"Next Frame" : "次のフレーム",
@@ -2198,11 +2194,6 @@
 		"Number of word with focus" : "フォーカスが設定された単語の番号",
 		"Number to binary string" : "整数をバイナリ文字列に",
 		"Number to hexadecimal string" : "整数を16 進数に",
-		"Numbers" : {
-			"12051" : "番号",
-			"13800" : "数字",
-			"12031" : "番号"
-		},
 		"Numeric conversion of current string" : "現在の文字列の数値化",
 		"OK" : "OK",
 		"OR" : "OR",
@@ -2367,8 +2358,8 @@
 		"Picture frame" : "ピクチャフレーム",
 		"Pixel shader version" : "ピクセルシェーダーバージョン",
 		"Platform" : {
-			"12022" : "ジャンプとはしご",
-			"12062" : "下からすり抜けられる障害物"
+			"12062" : "下からすり抜けられる障害物",
+			"12022" : "ジャンプとはしご"
 		},
 		"Play" : "再生",
 		"Play Animation" : "アニメーションを再生",
@@ -2476,6 +2467,7 @@
 		"Print to File" : "ファイルへ出力",
 		"Printer" : "プリンタ",
 		"Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||" : "プリンタ ファイル (*.prn)|*.prn|すべてのファイル (*.*)|*.*||",
+		"Printing" : "印刷中",
 		"Product" : "製品",
 		"Profiling" : "解析",
 		"Progress" : "プログレス",
@@ -2495,8 +2487,8 @@
 		"Put the selected object to the frame by simple click and/or paint patterns of objects\nPaint mode" : "オブジェクトをクリックおよび/またはペイントパターンで選択されたオブジェクトをフレームに配置してください\nペイントモード",
 		"Qualifier(s)" : "オブジェクトグループ",
 		"Question" : {
-			"2002" : "問題",
-			"6499" : "質問"
+			"6499" : "質問",
+			"2002" : "問題"
 		},
 		"Question & Answer" : "問題と回答",
 		"Quick Backdrop" : "クイック背景",
@@ -2660,6 +2652,7 @@
 		"Sample Volume" : "サウンドの音量",
 		"Samples" : "サウンド",
 		"Save As" : "名前を付けて保存",
+		"Save As..." : "名前を付けて保存...",
 		"Save Background" : "背景を保持",
 		"Save Internet Application" : "インターネットアプリケーションを保存",
 		"Save Project\nSave Project" : "プロジェクトを保存\nプロジェクトを保存",
@@ -2912,7 +2905,6 @@
 		"Size" : "サイズ",
 		"Size\nSize" : "サイズ\nサイズ",
 		"Size / Position" : "サイズ / 位置",
-		"Slide" : "スライド",
 		"Smooth resizing" : "スムーズリサイズ",
 		"Snap To Grid\nSnap To Grid" : "グリッドにスナップ\nグリッドにスナップ",
 		"Solid color" : "単色",
@@ -3107,7 +3099,7 @@
 		"Third static text displayed in the wizard page." : "ウィザードページに表示される 3 つ目の静的テキストです。",
 		"Third static text displayed in the wizard page. This text is displayed above the \"Launch\" check box if you selected a file to launch after exiting the install program." : "ウィザードページに表示される 3 つ目の静的テキストです。 このテキストは、インストールプログラム終了後に実行するファイルを指定した場合に、 「起動」 チェックボックスの上に表示されます。",
 		"This application has been saved with the Unicode version of following extensions:\n\r\n\r%s\n\rInstall the Unicode version of these extensions and then restart the program." : "このアプリケーションは、次のエクステンションの Unicode 版で保存されています:\n\r\n\r%s\n\rこれらの Unicode 版エクステンションをインストールした後、プログラムを再起動してください。",
-		"This application requires the following extensions :\n\r\n\r%s\n\rInstall these extensions and then click Retry." : "このアプリケーションには次のエクステンションが必要です :\n\r\n\r%s\n\rこれらのエクステンションをインストールした後、再試行してください。",
+		"This application requires the following extensions :\r\n\r\n%s\r\nInstall these extensions and then click Retry." : "このアプリケーションには次のエクステンションが必要です :\r\n\r\n%s\r\nこれらのエクステンションをインストールした後、再試行してください。",
 		"This disk contains files. These files will not be removed. Click OK to continue." : "このディスクにはファイルが含まれています。 これらのファイルは削除されます。 続行するには、 「次へ」 をクリックします。",
 		"This exporter needs the following program: %s.\n\nPlease install it if it's not already installed, click OK and then select its directory in the selector." : "このエクスポーターは次のプログラムが必要です: %s。\n\nまだインストールされていない場合は、インストールして OK をクリックし、そのディレクトリを選択してください。",
 		"This expression should return a string:" : "この数式は文字列を返す必要があります:",
@@ -3171,7 +3163,6 @@
 		"This text is displayed when a system file to install is being used by another application and will be replaced only when Windows will be restarted." : "このテキストは、インストールするシステムファイルが他のアプリケーションによって使用中のため、 Windows 再起動後にファイルが置き換えられる場合に表示されます。",
 		"This text is not displayed. Put here a non-empty text (e.g. \"1\") if you want to force the Install program to display the \"Restart Windows\" message above." : "このテキストは表示されません。 インストールプログラムに上記の 「Windows を再起動」 メッセージを表示させたい場合は、ここに何かテキストを入力してください (例: 1)。",
 		"This version has expired." : "本バージョンの試用期間は終了しました。",
-		"This will delete the record of commands you've used in this application and restore the default set of visible commands to the menus and toolbars. It will not undo any explicit customizations. Are you sure you want to do this?" : "このアプリケーションで使用したコマンドの記録を消去し、メニューとツール バーに表示するコマンドを既定の状態に戻します。ユーザー設定は残ります。実行しますか?",
 		"Thumbnail" : "サムネイル",
 		"Time" : "時間",
 		"Timed" : "時限",
@@ -3196,7 +3187,6 @@
 		"Tool Caption" : "細いタイトルバー",
 		"Toolbar Options" : "ツール バー オプション",
 		"Toolbar Settings (*.tbs)|*.tbs|All Files (*.*)|*.*||" : "ツールバー設定 (*.tbs)|*.tbs|すべてのファイル (*.*)|*.*||",
-		"Toolbar internal error. Please contact your application vendor." : "ツール バーの内部エラーです。アプリケーションの開発元に連絡してください。",
 		"Top" : "上",
 		"Top menu" : "トップメニュー",
 		"Top-center" : "中央上",
@@ -3243,7 +3233,6 @@
 		"Undo 1 Action" : "1 操作元に戻す",
 		"Undo the last action\nUndo" : "最後の操作を取り消す\n元に戻す",
 		"Unexpected file format." : "予期しないファイル形式です。",
-		"Unfold" : "展開",
 		"Unicode" : "Unicode",
 		"Unicode (without byte-order mark)" : "Unicode (BOM なし)",
 		"Unicode Big Endian" : "Unicode Big-Endian",
@@ -3364,7 +3353,6 @@
 		"Warning: the icon folder of the uninstaller is different from the icon folder of the files." : "警告 : アンインストーラのアイコンフォルダがこのファイルのアイコンフォルダと異なっています。",
 		"Warning: the icon folder of the uninstaller is empty." : "警告 : アンインストーラのアイコンフォルダが空です。",
 		"Warning: this application was created with Multimedia Fusion and some of its images have an alpha channel.\n\nAlpha channels are not supported in The Games Factory, these images will be modified." : "警告 : 本アプリケーションは Multimedia Fusion で作成されており、一部のイメージにはアルファチャンネルが含まれています。\n\nThe Games Factory でアルファチャンネルはサポートされておりませんので、それらのイメージは変更されます。",
-		"Warning: this version of the iOS export module requires the iOS7 SDK or greater." : "ご注意: 本バージョンの iOS エクスポートモジュールは、 iOS7 SDK またはそれ以降のバージョンが必要です",
 		"Warning; different icon folders were detected." : "警告; 異なるアイコンフォルダが検出されました。",
 		"Warning; the icon folder of one or more file(s) is empty." : "警告;  1 つ以上のファイルのアイコンフォルダが空です。",
 		"Warnings occured. Do you want to continue?" : "警告が発生しています。 続行してもよろしいですか？",
@@ -3466,7 +3454,6 @@
 		"You are currently in the process of installing components.\nIf you exit now, these components will not be installed correctly.\n\nAre you sure you want to cancel?" : "コンポーネントのインストール処理中です。\n今終了すると、これらのコンポーネントは正常にインストールされません。\n\nインストールを中止しますか？",
 		"You are now ready to install #title." : "#title をインストールする準備ができました。",
 		"You can paste bitmap with the size (%d x %d) only!" : "ｻｲｽﾞ(%d x %d)のﾋﾞｯﾄﾏｯﾌﾟのみ貼り付け出来ます。",
-		"You can't create more than %d user-defined toolbars!" : "ﾕｰｻﾞｰ ﾂｰﾙ ﾊﾞｰは %d 個しか出来ません。",
 		"You cannot clone or duplicate more than 5000 objects." : "オブジェクトのクローンまたは複製を 5000 以上作成することはできません。",
 		"You cannot delete a layer that contains objects created in the event editor.\n\nYou can use the Arrange / Show Created Items command to display these objects." : "イベントエディタで作成したオブジェクトを含むレイヤーを削除することはできません。\n\n「配置」→「作成した項目を表示」コマンドを使用すると、これらのオブジェクトを表示できます 。\n\nこれらを別のレイヤーに移動させると、レイヤーを削除できます。",
 		"You cannot have spaces in the name of a Blackberry application.\nPlease remove the spaces and try again..." : "Blackberry アプリケーションの名前にスペースは使用できません。\nスペースを削除して再試行してください…",
@@ -3491,7 +3478,6 @@
 		"Zoom Out\nZoom Out" : "ｽﾞｰﾑ ｱｳﾄ\nｽﾞｰﾑ ｱｳﾄ(&O)",
 		"Zoom factor" : "ズーム比",
 		"Zoom x1\nZoom x1" : "拡大 x1\n拡大 x1",
-		"[Default]" : "[既定]",
 		"[Unassigned]" : "[未割り当て]",
 		"a number between %i and %i" : "%i から %i の数字",
 		"action point" : "アクションポイント",
@@ -3575,25 +3561,215 @@
 		"while end page is displayed" : "最後のページが表示されている間",
 		"x:888888, y:888888" : "x:888888, y:888888",
 		"zone (%i,%i) to (%i,%i)" : "(%i,%i) から (%i,%i) の範囲",
+		"%o: %0 %1" : "%o: %0 %1",
+		"Event editor" : "イベントエディタ",
+		"Event List editor" : "イベントリストエディタ",
+		"Expression editor" : "数式エディタ",
+		"Frame editor" : "フレームエディタ",
+		"Storyboard editor" : "ストーリーボードエディタ",
+
+		"_TODO_" : "the following strings need to be translated",
 		", %s times" : "",
 		", frequency %s" : "",
 		", on a loop" : "",
 		", on channel #%s" : "",
 		", pan %s" : "",
 		", volume %s" : "",
+		"01Reset input between frames: %s" : "",
+		"Action info background" : "",
+		"Action tooltip font name" : "",
+		"Action tooltip text color" : "",
 		"Allow global events to count objects that don't exist" : "",
+		"Allows you to store a value for each instance created in the frame editor." : "",
+		"An error occured, do you want to read the output file?\n\nNote: to fix this error try to set the minimum API to 5.0." : "",
+		"Android app bundle with expansion" : "",
+		"Angle of %o %0" : "",
+		"Are you sure you want to delete this or these properties?" : "",
+		"Auto-update" : "",
+		"Background image" : "",
+		"Bar background" : "",
+		"Blob" : "",
+		"Bookmark color" : "",
+		"Brush" : "",
+		"Button background image" : "",
+		"Button background padding" : "",
+		"Button text color" : "",
+		"Cell background" : "",
+		"Cell background (odd)" : "",
+		"Cell background (padding)" : "",
 		"Channel Sample Name" : "",
 		"Channel number (1..48, or 0 for first available)" : "",
+		"Checkbox" : "",
+		"Checkmark" : "",
+		"Closed folder" : "",
+		"Column/Line cross shade" : "",
+		"Comment background" : "",
+		"Comments background padding" : "",
+		"Compare X scale to a value" : "",
+		"Compare Y scale to a value" : "",
+		"Compare angle to a value" : "",
+		"Compare expression to a value" : "",
+		"Compare layer to a value" : "",
+		"Compare to instance value" : "",
+		"Control background color" : "",
+		"Control color #1" : "",
+		"Control color #2" : "",
+		"Control color #3" : "",
+		"Control color #4" : "",
+		"Create" : "",
+		"Create %0 at X=%1, Y=%2, Layer=%3" : "",
+		"Create object at ..." : "",
+		"Create object by name at ..." : "",
+		"DPI aware" : "",
+		"DPI scale" : "",
+		"Dark" : {
+			"13843" : "Dark",
+			"15137" : ""
+		},
+		"Deactivated line" : "",
+		"Dialog background color" : "",
+		"Disabled text color" : "",
+		"Enabled text color" : "",
+		"Enter skin name" : "",
+		"Event List editor - Buttons" : "",
+		"Event List editor - Events" : "",
+		"Event List editor - Group header" : "",
+		"Event background" : "",
+		"Event background padding" : "",
+		"Event editor - Action popup" : "",
+		"Event editor - Buttons" : "",
+		"Event editor - Cells" : "",
+		"Event editor - Comments" : "",
+		"Event editor - Conditions" : "",
+		"Event editor - Group header" : "",
+		"Event editor - Top bar" : "",
+		"Fade-in image" : "",
+		"Fade-in image (disabled)" : "",
+		"Fade-out image" : "",
+		"Fade-out image (disabled)" : "",
+		"Filter box background" : "",
+		"Filter box background padding" : "",
+		"Filter box text color" : "",
+		"Font height" : "",
+		"Font name" : "",
+		"Foreground image" : "",
+		"Frame size image" : "",
+		"Grayed text" : "",
+		"Group background" : "",
+		"Group background padding" : "",
+		"Group button background image" : "",
+		"Group button text color" : "",
+		"Group text color" : "",
+		"Highlight color" : "",
+		"Horizontal alignment" : "",
+		"Inactive group text color" : "",
+		"Include another frame" : "",
+		"Instance value" : "",
+		"Instance value of %o %0" : "",
+		"Invalid background color" : "",
+		"Invalid color" : "",
+		"It seems you've exceeded the maximum number of images supported by the runtime." : "",
+		"Item text" : "",
 		"Keep DLL's and extensions out of the EXE." : "",
+		"Layer of %o %0" : "",
+		"Left, top, right, bottom shift in pixels on destination for the bitmap above." : "",
 		"Legacy storage" : "",
+		"Light" : "",
+		"Line color" : "",
+		"Load Animations" : "",
+		"Load animations from file %0" : "",
+		"Main UI" : "",
+		"Margin color" : "",
 		"Modules sub-directory" : "",
+		"Mouse over color" : "",
+		"Negate" : "",
+		"New skin" : "",
+		"Number of selected objects" : "",
+		"Numbers" : {
+			"12051" : "番号",
+			"15117" : "",
+			"13800" : "数字",
+			"12031" : "番号"
+		},
+		"OR text color" : "",
+		"Object background" : "",
+		"Object background in events" : "",
+		"Object background padding" : "",
+		"Object lists" : "",
 		"Only 65535 event lines are allowed." : "",
+		"Open folder" : "",
+		"Parent folder" : "",
+		"Parentheses" : "",
+		"Pick \"%o\" with maximum value of %0" : "",
+		"Pick \"%o\" with minimum value of %0" : "",
+		"Pick \"%s\" with maximum expression value" : "",
+		"Pick \"%s\" with minimum expression value" : "",
+		"Pick closest \"%o\" from \"%0\"" : "",
+		"Pick closest \"%s\" from ..." : "",
 		"Play Sample (all parameters)" : "",
 		"Play sample %0%2%1%3%4%5" : "",
+		"Player 1" : "",
+		"Player 2" : "",
+		"Player 3" : "",
+		"Player 4" : "",
+		"Plus" : "",
+		"Reload" : "",
+		"Reset input between frames ..." : "",
+		"Save" : "",
+		"Search" : "",
+		"Select Folder" : "",
+		"Select a frame to include in this frame when the application is built." : "",
+		"Select this option if both your build and target APIs are set to Android 10 (API 29) and you want to use the legacy Android storage management." : "",
+		"Select this option if you do not want your application to be automatically scaled by Windows." : "",
+		"Selected button background image" : "",
+		"Selected button text color" : "",
+		"Selected cell background" : "",
+		"Selected cell background (odd)" : "",
+		"Selected event background" : "",
+		"Selected group background" : "",
+		"Selected group button background image" : "",
+		"Selected group button text color" : "",
+		"Selected group text color" : "",
+		"Selected inactive group text color" : "",
+		"Selected item background" : "",
+		"Selected item text" : "",
+		"Selected object background" : "",
+		"Selected object color" : "",
+		"Selected text color" : "",
+		"Selected true event text color #1" : "",
+		"Selected true event text color #2" : "",
+		"Separator" : "",
+		"Skin" : "",
+		"Speaker" : "",
+		"Storyboard - Frames" : "",
+		"Storyboard - Top and left columns" : "",
+		"Style" : "",
+		"Text color" : "",
 		"The extensions are copied to this sub-directory when the EXE is built, if the Unpacked EXE option is selected." : "",
+		"This skin already exists in default product skins, please use another name." : "",
+		"Too many values." : "",
+		"Transition background color" : "",
+		"Transition text color" : "",
+		"True event text color #1" : "",
+		"True event text color #2" : "",
 		"Unpacked EXE" : "",
+		"Update the icon when the object changes." : "",
+		"Valid background color" : "",
+		"Valid color" : "",
+		"Value: %s" : "",
+		"Values with identical indexes already exist, do you want to replace them?" : "",
+		"Vertical alignment" : "",
+		"Warning: some values haven't been added because some objects already have too many values." : "",
 		"Warning: the following fonts cannot be embedded:\n\n" : "",
-		"When an object doesn't exist in the frame, keep 'Compare Number of Objects' conditions (with 0 as number of objects) instead of removing the event." : ""
+		"When an object doesn't exist in the frame, keep 'Compare Number of Objects' conditions (with 0 as number of objects) instead of removing the event." : "",
+		"Window frame color" : "",
+		"Would \"%s\" overlap a backdrop at ...?" : "",
+		"Would \"%s\" overlap another object at ...?" : "",
+		"Would %o at X=%0, Y=%1 overlap a backdrop?" : "",
+		"Would %o at X=%1, Y=%2 overlap %0?" : "",
+		"X scale of %o %0" : "",
+		"Y scale of %o %0" : "",
+		"You might exceed the maximum number of images supported by the runtime. Do you want to continue anyway?" : ""
 	},
 	"dialog_100" : {
 		"&Buy Now !" : "今すぐ購入！(&B)",
@@ -4204,7 +4380,10 @@
 		"Sprite sheet" : "スプライトシート",
 		"To Frame" : "終了フレーム",
 		"Transparent Color" : "透過色",
-		"x" : "x"
+		"x" : "x",
+
+		"_TODO_" : "the following strings need to be translated",
+		"Keep original hotspots" : ""
 	},
 	"dialog_4170" : {
 		"Text" : "テキスト"
@@ -4222,7 +4401,10 @@
 		"OK" : "OK",
 		"Picker" : "Picker",
 		"Spin1" : "Spin1",
-		"To frame #" : "終了フレーム #"
+		"To frame #" : "終了フレーム #",
+
+		"_TODO_" : "the following strings need to be translated",
+		"Export animation file" : ""
 	},
 	"dialog_6301" : {
 		"&Unselect" : "選択解除(&U)",
@@ -4244,6 +4426,7 @@
 		"&Help" : "ヘルプ(&H)",
 		"Application menu editor" : "アプリケーションメニューエディタ",
 		"Cancel" : "キャンセル",
+		"Colors" : "色",
 		"Delete Item" : "項目を削除",
 		"Edit Item" : "項目を編集",
 		"Load Menu" : "ロードメニュー",
@@ -4251,11 +4434,13 @@
 		"New item from default menu" : "既定のメニューから新しい項目",
 		"New separator" : "新しいセパレータ",
 		"OK" : "OK",
+		"Picker" : "Picker",
 		"Redo" : "やり直し",
 		"Reset to default" : "既定にリセット",
 		"Save" : "保存",
 		"Shift option to the left" : "オプションを左に移す",
 		"Shift option to the right" : "オプションを右に移す",
+		"Static" : "静止",
 		"Undo" : "元に戻す"
 	},
 	"dialog_7902" : {
@@ -4670,8 +4855,10 @@
 		"&Display Warning message when shortcuts are created" : "ショートカット作成時に警告メッセージを表示する(&D)",
 		"&Zoom" : "拡大/縮小(&Z)",
 		"Debugger" : "デバッガ",
+		"Disable syntax colorizing and parentheses highlighting" : "構文の色分けと丸括弧のハイライトを無効化",
 		"Event Editor " : "イベントエディタ ",
 		"Events" : "イベント",
+		"Expression editor" : "数式エディタ",
 		"How to display the objects?" : "オブジェクトの表示方法",
 		"Object's &icon" : "アイコン(&I)",
 		"Object's &name" : "名前(&N)",
@@ -4725,7 +4912,11 @@
 		"Sort by type" : "種類順に並べ替え",
 		"Spin1" : "Spin1",
 		"Spin2" : "Spin2",
-		"Static" : "Static"
+		"Static" : "Static",
+		"Zoom" : "ズーム",
+
+		"_TODO_" : "the following strings need to be translated",
+		"&Ctrl+drag: duplicate objects to original layer" : ""
 	},
 	"dialog_13556" : {
 		"&Highlight attributes" : "属性をハイライトする(&H)",
@@ -4739,7 +4930,13 @@
 		"Save dialog boxes size && &position" : "ダイアログボックスのサイズと位置を保存する(&P)",
 		"Skin" : "スキン",
 		"Tooltip delay (ms)" : "ツールヒントの表示遅延 (ms)",
-		"Workspace" : "ワークスペース"
+		"Workspace" : "ワークスペース",
+
+		"_TODO_" : "the following strings need to be translated",
+		"Add to font size :" : "",
+		"Show value indexes" : "",
+		"Use tabs for editors" : "",
+		"Windows dark mode skin" : ""
 	},
 	"dialog_13557" : {
 		"Chan&ge" : "変更(&G)",
@@ -5136,11 +5333,10 @@
 		"&Show Menus for:" : "ﾒﾆｭｰを表示するｶﾃｺﾞﾘ(&S):",
 		"Application Frame Menus: " : "ｱﾌﾟﾘ ﾌﾚｰﾑ ﾒﾆｭｰ: ",
 		"Context Menus: " : "ｼｮｰﾄｶｯﾄ ﾒﾆｭｰ: ",
-		"Hint: select the context menu, change the page to 'Commands' and drag the toolbar buttons into the menu window." : "ヒント: コンテキスト メニューをクリックし、ページを 'コマンド' に変更して、ツール バーのボタンをメニュー ウィンドウにドラッグします。",
 		"Menu" : "ﾒﾆｭｰ",
 		"Menu s&hadows" : "ﾒﾆｭｰの影を表示",
 		"R&eset" : "ﾘｾｯﾄ(&E)",
-		"Select &context menu:" : "ｼｮｰﾄｶｯﾄ ﾒﾆｭｰを選択(&C):"
+		"Select &context menu:" : "ｼｮｰﾄｶｯﾄ ﾒﾆｭｰを選択(&C):",
 	},
 	"dialog_16135" : {
 		"&Associate double-click event with:" : "ﾀﾞﾌﾞﾙ ｸﾙｯｸを割り当て(&A):",
@@ -5173,7 +5369,7 @@
 		"Show Screen&Tips on toolbars" : "ﾂｰﾙ ﾋﾝﾄを表示(&S)",
 		"Show f&ull menus after a short delay" : "少し時間が経過しだら、全てのﾒﾆｭｰを表示する(&U)",
 		"Show shortcut &keys in ScreenTips" : "ｼｮｰﾄｶｯﾄ ｷｰを表示(&K)",
-		"Toolbar" : "ﾂｰﾙ ﾊﾞｰ"
+		"Toolbar" : "ﾂｰﾙ ﾊﾞｰ",
 	},
 	"dialog_16658" : {
 		"dummy" : "dummy"
@@ -5185,11 +5381,10 @@
 		"&Minimize" : "最小化(&M)",
 		"&OK" : "OK(&O)",
 		"&Save" : "保存(&S)",
-		"Casca&de" : "重ねて表示(&D)",
 		"Select &window:" : "ｳｨﾝﾄﾞｳの選択(&W):",
+		"Tile &Horizontally" : "横に並べて表示(&H)",
 		"Tile &Vertically" : "左右に表示(&T)",
-		"Tile Hori&zontally" : "上下に並べて表示(&Z)",
-		"Windows" : "ディレクトリ"
+		"Windows" : "ディレクトリ",
 	},
 	"dialog_16928" : {
 		"&Arguments:" : "引数(&A):",
@@ -5217,15 +5412,13 @@
 	"dialog_16963" : {
 		"&Blue:" : "青(&B):",
 		"&Green:" : "緑(&G):",
-		"&Luminence:" : "明るさ(&L):",
 		"&Red:" : "赤(&R):",
-		"&Saturation:" : "鮮やかさ(&S):",
 		"Color" : "色",
 		"Colors:" : "ﾊﾟﾚｯﾄ:",
 		"Custom" : "ｶｽﾀﾏｲｽﾞ",
 		"H&ue:" : "色合い(&U):",
 		"Lum" : "輝度のﾊﾟﾚｯﾄ",
-		"Spin1" : "Spin1"
+		"Spin1" : "Spin1",
 	},
 	"dialog_16982" : {
 		"&Category:" : "ｶﾃｺﾞﾘ(&C):",
@@ -5234,6 +5427,10 @@
 		"List1" : "List1",
 		"Print" : "ﾌﾟﾘﾝﾄ(&P)",
 		"Show &Accelerator for:" : "ｴﾃﾞｨﾀ(&E):"
+	},
+	"dialog_17003" : {
+		"Cancel" : "キャンセル",
+		"OK" : "OK",
 	},
 	"dialog_17004" : {
 		"&Reset" : "ﾘｾｯﾄ(&R)",
@@ -5245,15 +5442,12 @@
 		"OK" : "OK"
 	},
 	"dialog_17074" : {
-		"&Add >>" : "追加(&A) >>",
 		"&Choose commands from:" : "コマンドの選択(&C):",
-		"&Remove" : "削除(&R)",
 		"C&ommands:" : "ｺﾏﾝﾄﾞ(&O):",
 		"Cus&tomize..." : "カスタマイズ(&T)...",
-		"Customize" : "ｶｽﾀﾏｲｽﾞ",
 		"Keyboard shortcuts:" : "ショートカット キー:",
 		"Re&set" : "リセット(&S)",
-		"S&how Quick Access Toolbar below the Ribbon" : "クイック アクセス ツール バーをリボンの下に表示する(&H)"
+		"S&how Quick Access Toolbar below the Ribbon" : "クイック アクセス ツール バーをリボンの下に表示する(&H)",
 	},
 	"dialog_17076" : {
 		"&Assign" : "割り当て(&A)",
@@ -5270,31 +5464,130 @@
 		"Set Accelerator &for:" : "ｴﾃﾞｨﾀ(&E):",
 		"Static" : "静止"
 	},
+	"dialog_17122" : {
+		"Cancel" : "キャンセル",
+		"Progress1" : "Progress1",
+	},
+	"dialog_17174" : {
+		"&Print" : "印刷(&P)",
+		"Orientation" : "向き",
+		"Pages" : "ページ",
+		"Print" : "印刷",
+		"Printer" : "プリンタ",
+		"Settings" : "設定",
+		"Slider1" : "Slider1",
+		"Spin1" : "Spin1",
+	},
+	"dialog_17218" : {
+		"&Color:" : "色(&C):",
+		"Cancel" : "キャンセル",
+		"OK" : "OK",
+		"Slider1" : "Slider1",
+	},
+	"dialog_17245" : {
+		"&Underline" : "下線(&U)",
+		"Cancel" : "キャンセル",
+		"OK" : "OK",
+	},
+	"dialog_17267" : {
+		"&Choose commands from:" : "コマンドの選択(&C):",
+		"Cus&tomize..." : "カスタマイズ(&T)...",
+		"Keyboard shortcuts:" : "ショートカット キー:",
+		"Re&set" : "リセット(&S)",
+		"Rena&me..." : "名前の変更(&E)...",
+	},
+	"dialog_17275" : {
+		"Cancel" : "キャンセル",
+		"OK" : "OK",
+		"Rename" : "名前を変更",
+	},
+	"dialog_17277" : {
+		"Cancel" : "キャンセル",
+		"Images" : "イメージ",
+		"OK" : "OK",
+		"Rename" : "名前を変更",
+	},
+	"dialog_17295" : {
+		"Cancel" : "キャンセル",
+		"OK" : "OK"
+	},
+	"dialog_17302" : {
+
+		"<Message Box>" : ""
+	},
+	"dialog_17307" : {
+		"Active Files" : "アクティブなファイル",
+	},
+	"dialog_17334" : {
+		"&Down" : "下(&D)",
+		"&Replace" : "入れ替え(&R)",
+		"&Up" : "上(&U)",
+		"Cancel" : "キャンセル",
+		"Direction" : "方向",
+		"Replace" : "入れ替え",
+	},
+	"dialog_17335" : {
+		"&Down" : "下(&D)",
+		"&Up" : "上(&U)",
+		"Cancel" : "キャンセル",
+		"Direction" : "方向",
+		"Find" : "検索",
+	},
+	"dialog_17345" : {
+		"Cancel" : "キャンセル",
+		"OK" : "OK",
+		"Static" : "静止",
+		"Tree1" : "Tree1"
+	},
+	"dialog_17381" : {
+
+		"File &name: " : "",
+		"Files of type:" : ""
+	},
+	"dialog_17382" : {
+		"&Open" : "開く(&O)",
+		"Cancel" : "キャンセル",
+		"Open" : "開く"
+	},
 	"dialog_17405" : {
+		"&Choose commands from:" : "コマンドの選択(&C):",
+		"C&ommands:" : "ｺﾏﾝﾄﾞ(&O):",
+		"Re&set" : "リセット(&S)",
+		"Rena&me..." : "名前の変更(&E)...",
+
+		"&Add > >" : "",
+		"&New popup menu" : "",
+		"< < &Remove" : "",
+		"Context Menus" : "",
+		"Customizations:" : "",
+		"Menu &items: " : "",
+		"Select context &menu:" : ""
+	},
+	"dialog_17505" : {
 		"&Preview" : "プレビュー(&P)",
 		"List5" : "List5",
 		"Pages" : "ページ",
 		"Usage" : "説明",
 		"Wizard Texts" : "ウィザードテキスト"
 	},
-	"dialog_17408" : {
+	"dialog_17508" : {
 		"Build" : "ビルド",
 		"List1" : "List1",
 		"Progress1" : "Progress1"
 	},
-	"dialog_17423" : {
+	"dialog_17523" : {
 		"Cancel" : "キャンセル",
 		"Edit Text" : "テキストの編集",
 		"OK" : "OK"
 	},
-	"dialog_17425" : {
+	"dialog_17525" : {
 		"&Add" : "追加(&A)",
 		"&Remove" : "削除(&R)",
 		"File Options" : "ファイルオプション",
 		"Files" : "ファイル",
 		"List1" : "List1"
 	},
-	"dialog_17427" : {
+	"dialog_17527" : {
 		"A file with the same name is already installed" : "同名のファイルが既にインストールされている場合",
 		"A higher version of the file is already installed" : "上位バージョンのファイルが既にインストールされている場合",
 		"Do &not install this file" : "このファイルをインストールしない(&N)",
@@ -5303,37 +5596,37 @@
 		"Do not install, but cre&ate directory" : "インストールしないが、ディレクトリを作成する(&A)",
 		"Misc" : "その他"
 	},
-	"dialog_17428" : {
+	"dialog_17528" : {
 		"Increment DLL usage &count" : "DLL 使用カウンターをインクリメントする(&C)",
 		"Install as current screen sa&ver" : "現在のスクリーンセーバーとしてインストールする(&V)",
 		"Install directory" : "インストールディレクトリ",
 		"Register OC&X control, DLL, .REG file" : "OCX コントロール、 DLL、 .REG ファイルを登録する(&X)",
-		"Windows" : "ディレクトリ"
+		"Windows" : "ウィンドウ"
 	},
-	"dialog_17430" : {
+	"dialog_17530" : {
 		"Command line options" : "コマンドラインオプション",
-		"Folder" : "フォルダ",
+		"Folder" : "ﾌｫﾙﾀﾞ",
 		"Icon file" : "アイコンファイル",
 		"Name" : "名前",
 		"Start menu" : "スタートメニュー"
 	},
-	"dialog_17431" : {
+	"dialog_17531" : {
 		"Uninstaller" : "アンインストーラ"
 	},
-	"dialog_17442" : {
+	"dialog_17542" : {
 		"Command line options" : "コマンドラインオプション",
 		"Desktop shortcut name" : "デスクトップショートカット名",
 		"Icon file" : "アイコンファイル",
 		"Shortcut" : "ショートカット"
 	},
-	"dialog_17458" : {
+	"dialog_17558" : {
 		"&Preview" : "プレビュー(&P)",
 		"Default install directory" : "既定のインストールディレクトリ",
 		"Font" : "フォント",
 		"Options" : "オプション",
 		"Product title (for #Title macro)" : "製品タイトル (#Title マクロ用)"
 	},
-	"dialog_17461" : {
+	"dialog_17561" : {
 		"List5" : "List5",
 		"Texts" : "テキスト",
 		"Usage" : "説明"
@@ -5597,7 +5890,10 @@
 		"&Run Toolbar" : "実行ツールバー(&R)",
 		"&Standard Toolbar" : "標準ツールバー(&S)",
 		"&Workspace" : "ワークスペース(&W)",
-		"DUMMY" : "DUMMY"
+		"DUMMY" : "DUMMY",
+
+		"_TODO_" : "the following strings need to be translated",
+		"&Skin editor" : ""
 	},
 	"menu_132" : {
 		"&<User-defined tools" : "ユーザー定義ツール(&<)",
@@ -5829,7 +6125,6 @@
 		"&Close" : "閉じる(&C)",
 		"&Comment" : "コメント(&C)",
 		"&Contents" : "目次(&C)",
-		"&Controls" : "コントロール(&C)",
 		"&Copy" : "コピー(&C)",
 		"&Data Elements" : "データエレメンツ(&D)",
 		"&Delete" : "削除(&D)",
@@ -5854,7 +6149,6 @@
 		"&Invert Selection" : "選択を反転(&I)",
 		"&Keyboard shortcuts" : "キーボードショートカット(&K)",
 		"&Line of Event" : "イベント行(&L)",
-		"&Multimedia" : "マルチメディア(&M)",
 		"&New" : "新規作成(&N)",
 		"&New Window" : "新しいウィンドウを開く(&N)",
 		"&Object Filters" : "オブジェクトフィルタ(&O)",
@@ -5983,6 +6277,13 @@
 	"menu_169" : {
 		"&Copy" : "コピー(&C)",
 		"Copy Context Menu" : "Copy Context Menu"
+	},
+	"menu_170" : {
+		"DUMMY" : "DUMMY",
+
+		"_TODO_" : "the following strings need to be translated",
+		"New &Horizontal Tab Group" : "",
+		"New &Vertical Tab Group" : ""
 	},
 	"menu_177" : {
 		"&Copy" : "コピー(&C)",
@@ -6135,13 +6436,6 @@
 		"Open all groups" : "すべてのグループを開く",
 		"Paste" : "貼り付け"
 	},
-	"menu_7917" : {
-		"Delete any action in column" : "列内のアクションを削除",
-		"Filter and select events" : "イベントをフィルタリングして選択",
-		"Hide" : "非表示にする",
-		"Insert hidden object" : "非表示オブジェクトを挿入",
-		"Replace by another object" : "別のオブジェクトと入れ替える"
-	},
 	"menu_7918" : {
 		"Copy" : "コピー",
 		"Cut" : "切り取り",
@@ -6191,11 +6485,6 @@
 		"Edit" : "編集",
 		"Insert" : "挿入",
 		"Paste" : "貼り付け"
-	},
-	"menu_7923" : {
-		"Filter FADE IN" : "フィルタ フェードイン",
-		"Filter FADE OUT" : "フィルタ フェードアウト",
-		"No Filters" : "フィルタなし"
 	},
 	"menu_7937" : {
 		"&About..." : "バージョン情報(&A)...",
@@ -6492,9 +6781,12 @@
 		"Sou&rce directory" : "ソースディレクトリ(&R)",
 		"Texts" : "テキスト"
 	},
-	"_details_" : {
-		"Number_of_translated_lines" : 5880,
-		"Number_of_untranslated_lines" : 19,
-		"Number_of_untranslated_words" : 118
+	"menu_17395" : {
+		"&Large Icons" : "大きいﾎﾞﾀﾝ(&L)",
+		"&Small Icons" : "小さいアイコン(&S)",
+
+		"_TODO_" : "the following strings need to be translated",
+		"&Details" : "",
+		"L&ist" : ""
 	}
 }
