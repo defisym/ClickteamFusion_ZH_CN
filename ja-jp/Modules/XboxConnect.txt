@@ -1,0 +1,46 @@
+﻿{
+	"version" : 1,
+	"lang" : 1041,
+	"general" : {
+		"%o: Is gamer signed in?" : "%o: ゲーマーがサインインしている",
+		"%o: Is running on Xbox?" : "%o: Xbox 上で実行中",
+		"%o: On error occurred" : "%o: エラーが発生した時",
+		"%o: On login OK" : "%o: ログインが OK の時",
+		"%o: On login failed" : "%o: ログインが失敗した時",
+		"%o: On profile info" : "%o: プロファイル情報が利用できる時",
+		"%o: On silent login OK" : "%o: サイレントログインが OK の時",
+		"%o: On silent login failed" : "%o: サイレントログインが失敗した時",
+		"Add Xbox Live connect features" : "Xbox Live 接続機能を追加",
+		"Login" : "ログイン",
+		"Read profile info" : "プロファイル情報を読む",
+		"Silent Login" : "サイレントログイン",
+		"Xbox Connect" : "Xbox Connect",
+		"Xbox Connect Object" : "Xbox Connect オブジェクト"
+	},
+	"menu_20000" : {
+		"Login" : "ログイン",
+		"Read Profile Info" : "プロファイル情報を読む",
+		"Silent Login" : "サイレントログイン"
+	},
+	"menu_20001" : {
+		"Is Gamer Signed In?" : "ゲーマーがサインインしている",
+		"Is running on Xbox?" : "Xbox 上で実行中",
+		"Normal Login ..." : "通常ログイン ...",
+		"On Login OK" : "ログインが OK の時",
+		"On Login failed" : "ログインが失敗した時",
+		"On Profile Info" : "プロファイル情報が利用できる時",
+		"On Silent Login OK" : "サイレントログインが OK の時",
+		"On Silent Login failed" : "サイレントログインが失敗した時",
+		"On error occurred" : "エラーが発生した時",
+		"Silent Login ..." : "サイレントログイン ..."
+	},
+	"menu_20002" : {
+		"Error Code" : "エラーコード",
+		"Error String" : "エラー文字列",
+		"Player ID" : "プレイヤー ID",
+		"Player Image URI" : "プレイヤー画像 URI",
+		"Player Name" : "プレイヤー名",
+		"Player Profile" : "プレイヤー プロファイル",
+		"Player Score" : "プレイヤー スコア"
+	}
+}

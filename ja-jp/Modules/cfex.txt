@@ -4,6 +4,7 @@
 	"general" : {
 		"%.3f ms" : "%.3f ms",
 		"%.3f ms (%d.%2.2d%%)" : "%.3f ms (%d.%2.2d%%)",
+		"&Event explorer" : "&イベントエクスプローラー",
 		"&Find all..." : "すべて検索(&F)...",
 		"&Find window" : "検索ウィンドウ(&F)",
 		"&Open folder" : "フォルダを開く(&O)",
@@ -40,6 +41,7 @@
 		"Display" : "表示",
 		"Don't profile child events, including On Loop events (see documentation)" : "「ループが実行中」イベントを含む子イベントを解析しない（ドキュメント参照）",
 		"Enable profiling" : "解析を有効化",
+		"Event explorer" : "イベントエクスプローラー",
 		"Event line #%d" : "イベント行 #%d",
 		"Event line #%d, Action #%d" : "イベント行 #%d, アクション #%d",
 		"Event line #%d, Comment" : "イベント行 #%d, コメント",
@@ -79,11 +81,11 @@
 		"Qualifiers" : "オブジェクトグループ",
 		"Record slowest app loops" : "最も遅いアプリのループを記録",
 		"Run application from current frame" : "現在のフレームからアプリケーションを実行",
-		"Select all instances of this object" : "このオブジェクトのすべてのインスタンスを選択",
-		"Select objects with a given qualifier" : "特定のオブジェクトグループのオブジェクトを選択",
-		"Select objects with the same qualifiers" : "同じオブジェクトグループのオブジェクトを選択",
+		"Select all &instances of this object" : "このオブジェクトのすべてのインスタンスを選択",
+		"Select objects with a given &qualifier" : "特定のオブジェクトグループのオブジェクトを選択",
+		"Select objects with the &same qualifiers" : "同じオブジェクトグループのオブジェクトを選択",
 		"Select this option to profile the events of the application. Results are displayed in the Profiler window." : "このオプションを選択するとアプリケーションのイベントを解析します。 結果はプロファイラウィンドウに表示されます。",
-		"Show object events" : "オブジェクトイベントを表示",
+		"Show object e&vents" : "オブジェクトイベントを表示",
 		"Start profiling at start of frame" : "フレームの開始時に解析を開始",
 		"Start time" : "開始時間",
 		"Times" : "時間",
@@ -95,9 +97,7 @@
 		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows のみ] このオプションを選択するとサウンドの開始が少し遅延します。 「サウンドを再生」アクション実行後速やかにサウンドを開始する必要がある場合は選択しないでください。",
 
 		"_TODO_" : "the following strings need to be translated",
-		"&Event explorer" : "",
 		"Convert blocks of backdrops to quick backdrops" : "",
-		"Event explorer" : ""
 	},
 	"dialog_2007" : {
 		"Actions" : "アクション",
