@@ -1,0 +1,50 @@
+{
+	"version" : 1,
+	"lang" : 1036,
+	"general" : {
+
+		"%o: Is gamer signed in?" : "%o: 玩家是否登陆?",
+		"%o: Is running on Xbox?" : "%o: 是否运行在Xbox上?",
+		"%o: On error occurred" : "%o: 发生错误",
+		"%o: On login OK" : "%o: 登陆成功时",
+		"%o: On login failed" : "%o: 登陆失败时",
+		"%o: On profile info" : "%o: 读取个人资料时",
+		"%o: On silent login OK" : "%o: 静默登陆成功时",
+		"%o: On silent login failed" : "%o: 静默登陆失败时",
+		"Add Xbox Live connect features" : "增加Xbox Live连接功能",
+		"Login" : "登陆",
+		"Read profile info" : "读取个人资料信息",
+		"Silent Login" : "静默登陆",
+		"Xbox Connect" : "Xbox 连接",
+		"Xbox Connect Object" : "Xbox 连接对象"
+	},
+	"menu_20000" : {
+
+		"Login" : "登陆",
+		"Read Profile Info" : "读取资料信息",
+		"Silent Login" : "静默登陆"
+	},
+	"menu_20001" : {
+
+		"Is Gamer Signed In?" : "玩家是否登陆?",
+		"Is running on Xbox?" : "是否运行在Xbox上?",
+		"Normal Login ..." : "通常登陆...",
+		"On Login OK" : "登陆成功时",
+		"On Login failed" : "登陆失败时",
+		"On Profile Info" : "读取个人资料时",
+		"On Silent Login OK" : "静默登陆成功时",
+		"On Silent Login failed" : "静默登陆失败时",
+		"On error occurred" : "发生错误",
+		"Silent Login ..." : "静默登陆..."
+	},
+	"menu_20002" : {
+
+		"Error Code" : "代码错误",
+		"Error String" : "字符串错误",
+		"Player ID" : "玩家ID",
+		"Player Image URI" : "玩家图像 URI",
+		"Player Name" : "玩家名称",
+		"Player Profile" : "玩家资料",
+		"Player Score" : "玩家得分"
+	}
+}

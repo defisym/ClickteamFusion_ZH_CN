@@ -417,6 +417,7 @@
 		"1536x2048 image, displayed at launch time in portrait mode." : "分辨率为1536 x 2048的图像,用于应用程序启动页。",
 		"16 million colors" : "1600万色",
 		"180x180 image, icon of your application. The size of this image will be reduced to fit iPhone 3." : "分辨率为180 x 180的图像,用于应用程序图标。图像会被压缩以适配iPhone 3",
+		"192x192 image, that represents your application on an Android device’s Home screen." : "分辨率为192x192的图像,用于在主屏幕上显示应用图标",
 		"2 weeks" : "2 周",
 		"2048x1536 image, displayed at launch time in landscape mode." : "分辨率为2048 x 1536的图像,用于应用程序启动页。",
 		"21%s of %s %s" : "21%s of %s %s",
@@ -431,7 +432,6 @@
 		"65536 colors" : "65536 色",
 		"90 degrees anticlockwise" : "逆时针旋转90度",
 		"90 degrees clockwise" : "顺时针旋转90度",
-		"192x192 image, that represents your application on an Android device’s Home screen." : "分辨率为192x192的图像,用于在主屏幕上显示应用图标",
 		"< &Back" : "< 返回(&B)",
 		"<Empty>" : "<空>",
 		"<Non-existent menu option>" : "<不存在的菜单选项>",
@@ -502,8 +502,8 @@
 		"All words" : "所有单词",
 		"All your changes will be lost! Do you really want to reset all toolbars and menus?" : "所有的更改将会丢失！你真的要重置所有工具栏和菜单？",
 		"All your changes will be lost! Do you really want to reset the keyboard assignments?" : "所有的更改将会丢失！你真的要重置自定义快捷键？",
-		"All your changes will be lost! Do you really want to reset the menu '%Ts'?" : "所有的更改将会丢失！你真的想重置菜单'%Ts'吗？",
-		"All your changes will be lost! Do you really want to reset the toolbar '%Ts'?" : "所有的更改将会丢失！你真的想重置工具栏'%Ts'吗？",
+		"All your changes will be lost! Do you really want to reset the menu '%s'?" : "所有的更改将会丢失！你真的想重置菜单'%s'吗？",
+		"All your changes will be lost! Do you really want to reset the toolbar '%s'?" : "所有的更改将会丢失！你真的想重置工具栏'%s'吗？",
 		"Allow borders" : "允许边框",
 		"Allow borders when Keep Screen Ratio is selected" : "勾选“保持屏幕比例”时允许边框",
 		"Allow offline" : "允许脱机",
@@ -730,8 +730,8 @@
 		"Bundle version" : "绑定版本",
 		"Button 1" : "按钮 1",
 		"Button 2" : "按钮 2",
-		"Buttons" : "",
-		"By default the 'Load On Call' option in objects is ignored on Android/iOS. Select this option if you want to enable it." : "默认情况下, Android/iOS上会忽略对象中的'Load On Call'选项. 如果要启用它,请选择此选项",
+		"Buttons" : "按钮",
+		"By default the 'Load On Call' option in objects is ignored on Android/iOS. Select this option if you want to enable it." : "默认情况下, Android/iOS上会忽略对象中的'Load On Call'选项. 如果要启用它, 请选择此选项",
 		"C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0" : "C:\\Program Files\\Research In Motion\\BlackBerry JDE 4.7.0",
 		"CAP" : "CAP",
 		"CD-Audio" : "CD-Audio",
@@ -755,7 +755,7 @@
 		"Cannot create file in temporary Windows directory." : "无法创建文件到临时目录。",
 		"Cannot create the following file:\n%s" : "无法创建以下文件:\n%s",
 		"Cannot delete non-empty folder!" : "无法删除空文件夹！",
-		"Cannot delete, this bevavior is open in an editor." : "无法删除,此行为已经在编辑器中打开。",
+		"Cannot delete, this behavior is open in an editor." : "无法删除,此行为已经在编辑器中打开。",
 		"Cannot download file" : "无法下载文件",
 		"Cannot export this image in this format." : "无法以这个格式导出此图像",
 		"Cannot find extension %s." : "找不到扩展 %s.",
@@ -905,6 +905,7 @@
 		"Close" : "关闭",
 		"Close Full Screen" : "关闭全屏",
 		"Close Print Preview\n&Close" : "关闭打印预览\n关闭(&C)",
+		"Close print preview mode\nCancel Preview" : "关闭打印预览模式\n取消预览(&C)",
 		"Close the active document\nClose" : "关闭活动文档\n关闭",
 		"Close the active window and prompts to save the documents" : "关闭活动窗口并提示保存文档",
 		"Close the current project\nClose" : "关闭当前工程\n关闭",
@@ -1193,7 +1194,7 @@
 		"Do not share data if run as sub-application" : "不共享子程序数据",
 		"Do not stop screen saver when input event" : "当有输入事件时不解除屏保",
 		"Do nothing" : "什么也不做",
-		"Do you really want to delete the toolbar '%Ts'?" : "你真的希望删除此工具栏[%Ts]?",
+		"Do you really want to delete the toolbar 'Ts'?" : "你真的希望删除此工具栏'%s'?",
 		"Do you want to change the palette of the other frames of this application?" : "你想改变这个应用程序的其他场景的调色板？",
 		"Do you want to create the alpha channel from the transparent color?" : "你想从透明色创建alpha通道？",
 		"Do you want to delete this frame?" : "你要删除此帧吗？",
@@ -1441,7 +1442,7 @@
 		"Execution Level" : "执行级别",
 		"Existing" : "现有的",
 		"Exp( >Enter number here< )" : "Exp( >在此输入数字< )",
-		"Expand (%Ts)" : "展开 (%Ts)",
+		"Expand (%s)" : "展开 (%s)",
 		"Expand docked window" : "展开停靠的窗口",
 		"Expand or Collapse Folder" : "展开或折叠文件夹",
 		"Explosions" : "",
@@ -2485,6 +2486,7 @@
 		"Print to File" : "打印到文件",
 		"Printer" : "打印机",
 		"Printer Files (*.prn)|*.prn|All Files (*.*)|*.*||" : "打印机文件 (*.prn)|*.prn|所有文件 (*.*)|*.*||",
+		"Printing" : "正在打印",
 		"Product" : "产品",
 		"Profiling" : "分析",
 		"Progress" : "进度",
@@ -2597,7 +2599,7 @@
 		"Restrict actions" : "限制动作",
 		"Result :" : "结果 :",
 		"Result should be between %li and %li" : "结果必须在 %li 与 %li 之间",
-		"Result should be greater or equal than %li" : "结果必须大于等于 %li。",
+		"Result should be greater than or equal to %li" : "结果必须大于等于 %li。",
 		"Resume" : "恢复",
 		"Resume All Sounds" : "恢复所有声音",
 		"Resume Application" : "恢复应用程序",
@@ -2667,32 +2669,33 @@
 		"Sample Position" : "音效进度",
 		"Sample Volume" : "音效音量",
 		"Samples" : "音效",
-		"Save As" : "保存为",
+		"Save As" : "另存为",
+		"Save As..." : "另存为...",
 		"Save Background" : "保存背景",
 		"Save Internet Application" : "保存互联网应用",
 		"Save Project\nSave Project" : "保存工程\n保存工程",
 		"Save a menu" : "保存菜单",
-		"Save as Android application (apk)" : "保存为Android 应用 (apk)",
-		"Save as HTML5 application" : "保存为HTML5 应用",
-		"Save as Java Application" : "保存为Java 应用",
-		"Save as Mac application" : "保存为Mac 应用",
-		"Save as OUYA application (apk)" : "保存为OUYA 应用 (apk)",
-		"Save as PS Vita application" : "保存为PS Vita 应用",
-		"Save as PS Vita project" : "保存为PS Vita 工程",
-		"Save as SWF file (Adobe® Flash® Player format)" : "保存为SWF 文件 (Adobe(R) Flash(R) Player 格式)",
-		"Save as Screen Saver" : "保存为屏保",
-		"Save as Stand-alone Application" : "保存为独立的应用程序",
-		"Save as Stand-alone Java Applet" : "保存为 独立的Java 小应用",
-		"Save as Stand-alone Java Application" : "保存为 独立的Java 应用",
-		"Save as Stand-alone Java Web Start" : "保存为 独立的Java Web Start",
-		"Save as Stand-alone Java for BlackBerry" : "保存为 独立的Java 对于黑莓",
-		"Save as Stand-alone Java for Mobile Devices" : "保存为 独立的Java 对于移动设备",
-		"Save as Stand-alone Mac (Java)" : "保存为 独立的Mac (Java)",
-		"Save as Universal Windows Platform app" : "保存为 UWP应用程序",
-		"Save as XNA application" : "保存为XNA 应用",
-		"Save as iOS application" : "保存为iOS 应用",
-		"Save as iOS final project (Xcode)" : "保存为iOS最终工程 (Xcode) ",
-		"Save as iOS project (Xcode)" : "保存为iOS工程 (Xcode) ",
+		"Save as Android application (apk)" : "另存为Android应用 (apk)",
+		"Save as HTML5 application" : "另存为HTML5应用",
+		"Save as Java Application" : "另存为Java应用",
+		"Save as Mac application" : "另存为Mac应用",
+		"Save as OUYA application (apk)" : "另存为OUYA应用 (apk)",
+		"Save as PS Vita application" : "另存为PS Vita应用",
+		"Save as PS Vita project" : "另存为PS Vita工程",
+		"Save as SWF file (Adobe® Flash® Player format)" : "另存为SWF文件 (Adobe® Flash® Player 格式)",
+		"Save as Screen Saver" : "另存为屏保",
+		"Save as Stand-alone Application" : "另存为可执行应用程序",
+		"Save as Stand-alone Java Applet" : "另存为可执行Java小应用",
+		"Save as Stand-alone Java Application" : "另存为可执行Java应用",
+		"Save as Stand-alone Java Web Start" : "另存为可执行Java Web Start",
+		"Save as Stand-alone Java for BlackBerry" : "另存为可执行Java黑莓应用",
+		"Save as Stand-alone Java for Mobile Devices" : "另存为可执行Java移动设备应用",
+		"Save as Stand-alone Mac (Java)" : "另存为Mac可执行程序 (Java)",
+		"Save as Universal Windows Platform app" : "另存为UWP应用程序",
+		"Save as XNA application" : "另存为XNA应用",
+		"Save as iOS application" : "另存为iOS应用",
+		"Save as iOS final project (Xcode)" : "另存为iOS最终工程 (Xcode) ",
+		"Save as iOS project (Xcode)" : "另存为iOS工程 (Xcode) ",
 		"Save background" : "保存背景",
 		"Save changes to %1?" : "保存改变为 %1?",
 		"Save changes to current project?" : "保存改变到当前工程？",
@@ -2720,7 +2723,7 @@
 		"Section" : "部分",
 		"Security" : "弹跳随机性(防困在循环)",
 		"See http://developer.android.com/reference/android/Manifest.permission.html for more info" : "See http://developer.android.com/reference/android/Manifest.permission.html for more info",
-		"Seek failed on %1" : "寻找失败在 %1",
+		"Seek failed on %1" : "寻找 %1 失败",
 		"Select" : "选择",
 		"Select All" : "选择全部",
 		"Select Color Tool\nSelect Color" : "选择颜色工具\n选择颜色",
@@ -2742,7 +2745,7 @@
 		"Select the new color" : "选择新颜色",
 		"Select this option if both your build and target APIs are set to Android 10 (API 29) and you want to use the legacy Android storage management." : "若你的生成和目标API均设定为Android 10 (API 29)，且你希望使用传统的Android存储管理，请勾选此项",
 		"Selection not valid" : "选择无效",
-		"Selection tool\nSelection tool" : "选择工具\n选择工具",
+		"Selection tool\nSelection tool" : "选择工具\n选择工具",		
 		"Semi-transparent" : "半透明",
 		"Send %0 to output window" : "发送 %0 到输出窗口",
 		"Send Mail failed to send message." : "信息发送失败",
@@ -3117,7 +3120,7 @@
 		"Third static text displayed in the wizard page. This text is displayed above the \"Launch\" check box if you selected a file to launch after exiting the install program." : "向导页面中显示第三个静态文本。此文本显示在'启动'复选框的上面。在安装程序退出后如果你选择一个文件去启动。",
 		"This animation requires %d Kb of memory. It may take a long time to import.\n\nDo you want to continue?" : "此动画需要%d Kb的内存。 它可能需要一段时间来导入。\n\n你想继续？",
 		"This application has been saved with the Unicode version of following extensions:\n\r\n\r%s\n\rInstall the Unicode version of these extensions and then restart the program." : "该应用程序使用了以下扩展的Unicode版本 :\n\r\n\r%s\n\r 安装这些扩展并重启应用程序",
-		"This application requires the following extensions :\n\r\n\r%s\n\rInstall these extensions and then click Retry." : "此程序需要以下扩展 :\n\r\n\r%s\n\r安装这些扩展并点击重试。",
+		"This application requires the following extensions :\r\n\r\n%s\r\nInstall these extensions and then click Retry." : "此程序需要以下扩展 :\r\n\r\n%s\r\n安装这些扩展并点击重试。",
 		"This disk contains files. These files will not be removed. Click OK to continue." : "该磁盘包含的文件。这些文件将不会被删除。单击确定按钮继续。",
 		"This exporter needs the following program: %s.\n\nPlease install it if it's not already installed, click OK and then select its directory in the selector." : "此导出工具需要以下程序: %s 。如果它尚未安装请安装它,单击确定,然后在选择里选择它的目录。",
 		"This expression should return a string:" : "该表达式必须返回一个字符串:",
@@ -3586,6 +3589,12 @@
 		"while end page is displayed" : "当显示最后一页",
 		"x:888888, y:888888" : "x:888888, y:888888",
 		"zone (%i,%i) to (%i,%i)" : "区域 (%i,%i) 到 (%i,%i)",
+		"%o: %0 %1" : "%o: %0 %1",
+		"Event editor" : "事件编辑器",
+		"Event List editor" : "事件列表编辑器",
+		"Expression editor" : "表达式编辑器",
+		"Frame editor" : "场景编辑器",
+		"Storyboard editor" : "故事板编辑器",
 		"Keep DLL's and extensions out of the EXE." : "将DLL和插件保存于EXE外",
 		"Modules sub-directory" : "模块子路径",
 		"The extensions are copied to this sub-directory when the EXE is built, if the Unpacked EXE option is selected." : "当不打包EXE选项被选中时，在生成EXE时插件将会被拷贝至该子路径",
@@ -3600,7 +3609,176 @@
 		"Right (pressed)" : "右(按下)",
 		"Up (pressed)" : "上(按下)",
 		"Legacy storage" : "传统存储",
-		"Only 65535 event lines are allowed." : "最大只允许存储65535行事件"
+		"Only 65535 event lines are allowed." : "最大只允许存储65535行事件",
+		"Action info background" : "行为信息背景",
+		"Action tooltip font name" : "行为工具提示字体名",
+		"Action tooltip text color" : "行为工具提示字体颜色",
+		"Allows you to store a value for each instance created in the frame editor." : "允许你为场景编辑器中的每个实例保存一个值",
+		"Angle of %o %0" : "%o 角度 %0",
+		"Are you sure you want to delete this or these properties?" : "确认要删除这些属性吗",
+		"Auto-update" : "自动更新",
+		"Background image" : "背景图像",
+		"Bar background" : "工具栏背景",
+		"Blob" : "点",
+		"Bookmark color" : "书签颜色",
+		"Brush" : "刷子",
+		"Button background image" : "按钮背景图像",
+		"Button background padding" : "按钮背景间隔",
+		"Button text color" : "按钮文字颜色",
+		"Cell background" : "网格背景",
+		"Cell background (odd)" : "网格背景 (奇数行)",
+		"Cell background (padding)" : "网格背景 (间隔)",
+		"Checkbox" : "复选框",
+		"Checkmark" : "对勾",
+		"Closed folder" : "关闭的文件夹",
+		"Column/Line cross shade" : "行列交叉阴影",
+		"Comment background" : "注释背景",
+		"Comments background padding" : "注释背景间隔",
+		"Compare X scale to a value" : "比较 X 比例",
+		"Compare Y scale to a value" : "比较 Y 比例",
+		"Compare angle to a value" : "比较角度",
+		"Compare expression to a value" : "比较表达式",
+		"Compare layer to a value" : "比较图层",
+		"Compare to instance value" : "比较实例值",
+		"Control background color" : "控制背景颜色",
+		"Control color #1" : "控制颜色 #1",
+		"Control color #2" : "控制颜色 #2",
+		"Control color #3" : "控制颜色 #3",
+		"Control color #4" : "控制颜色 #4",
+		"Create" : "创建",
+		"Create %0 at X=%1, Y=%2, Layer=%3" : " 创建 %0 于 X = %1, Y = %2, Layer = %3",
+		"Create object at ..." : "创建对象于...",
+		"Create object by name at ..." : "通过名称创建对象于...",
+		"DPI aware" : "禁用DPI缩放 (DPI aware)",
+		"DPI scale" : "DPI 缩放比例",
+		"Dark" : {
+			"13843" : "深色",
+			"15137" : ""
+		},
+		"Deactivated line" : "禁用的行",
+		"Dialog background color" : "对话框背景颜色",
+		"Disabled text color" : "禁用文本颜色",
+		"Enabled text color" : "启用文本颜色",
+		"Enter skin name" : "输入皮肤名",
+		"Event List editor - Buttons" : "事件列表编辑器 - 按钮",
+		"Event List editor - Events" : "事件列表编辑器 - 事件",
+		"Event List editor - Group header" : "事件列表编辑器 - 事件组标题",
+		"Event background" : "事件背景",
+		"Event background padding" : "事件背景间隔",
+		"Event editor - Action popup" : "事件编辑器 - 行为弹出菜单",
+		"Event editor - Buttons" : "事件编辑器 - 按钮",
+		"Event editor - Cells" : "事件编辑器 - 网格",
+		"Event editor - Comments" : "事件编辑器 - 评论",
+		"Event editor - Conditions" : "事件编辑器 - 条件",
+		"Event editor - Group header" : "事件编辑器 - 事件组标题",
+		"Event editor - Top bar" : "事件编辑器 - 顶栏",
+		"Fade-in image" : "淡入图像",
+		"Fade-in image (disabled)" : "淡入图像 (禁用)",
+		"Fade-out image" : "淡出图像",
+		"Fade-out image (disabled)" : "淡出图像 (禁用)",
+		"Filter box background" : "过滤器背景",
+		"Filter box background padding" : "过滤器背景间隔",
+		"Filter box text color" : "过滤器文本颜色",
+		"Font height" : "字体高度",
+		"Font name" : "字体名称",
+		"Foreground image" : "前景图像",
+		"Frame size image" : "场景大小图像",
+		"Grayed text" : "禁用文字",
+		"Group background" : "事件组背景",
+		"Group background padding" : "事件组背景扩充",
+		"Group button background image" : "事件组按钮背景图像",
+		"Group button text color" : "事件组按钮文本颜色",
+		"Group text color" : "事件组文本颜色",
+		"Highlight color" : "强调色",
+		"Horizontal alignment" : "水平对齐",
+		"Inactive group text color" : "禁用的事件组文本颜色",
+		"Include another frame" : "包含另外一个场景",
+		"Instance value" : "实例值",
+		"Instance value of %o %0" : "对象 %o 的实例值 %0",
+		"Invalid background color" : "无效背景颜色",
+		"Invalid color" : "无效颜色",
+		"It seems you've exceeded the maximum number of images supported by the runtime." : "超出当前运行时所支持的最大图象数量",
+		"Item text" : "项目文本",
+		"Layer of %o %0" : "%o 的 图层 %0",
+		"Left, top, right, bottom shift in pixels on destination for the bitmap above." : "上述位图在目标坐标的上下左右偏移像素",
+		"Light" : "浅色",
+		"Line color" : "行颜色",
+		"Main UI" : "主UI",
+		"Margin color" : "边框颜色",
+		"Mouse over color" : "鼠标悬浮颜色",
+		"Negate" : "取反",
+		"New skin" : "新皮肤",
+		"Number of selected objects" : "已筛选的对象数量",
+		"OR text color" : "OR文本颜色",
+		"Object background" : "对象背景",
+		"Object background in events" : "事件中的对象背景",
+		"Object background padding" : "对象背景间隔",
+		"Object lists" : "对象列表",
+		"Open folder" : "打开文件夹",
+		"Parent folder" : "父文件夹",
+		"Parentheses" : "括号",
+		"Pick \"%o\" with maximum value of %0" : "筛选具有最大 %0 值的对象 \"%o\"",
+		"Pick \"%o\" with minimum value of %0" : "筛选具有最小 %0 值的对象 \"%o\"",
+		"Pick \"%s\" with maximum expression value" : "筛选具有最大表达式值的对象 \"%s\"",
+		"Pick \"%s\" with minimum expression value" : "筛选具有最小表达式值的对象 \"%s\"",
+		"Pick closest \"%o\" from \"%0\"" : "筛选距离\"%0\"最近的\"%o\"",
+		"Pick closest \"%s\" from ..." : "筛选距离...最近的\"%s\"",
+		"Player 1" : "玩家 1",
+		"Player 2" : "玩家 2",
+		"Player 3" : "玩家 3",
+		"Player 4" : "玩家 4",
+		"Plus" : "加号",
+		"Reload" : "重载",
+		"Save" : "保存",
+		"Search" : "搜索",
+		"Select Folder" : "选择文件夹",
+		"Select a frame to include in this frame when the application is built." : "选择一个场景，在生成时将其包含至当前场景",
+		"Select this option if you do not want your application to be automatically scaled by Windows." : "勾选此项以禁止Windows自动缩放你的应用程序",
+		"Selected button background image" : "选中按钮背景图像",
+		"Selected button text color" : "选中按钮文本颜色",
+		"Selected cell background" : "选中网格背景",
+		"Selected cell background (odd)" : "选中网格背景 (奇数行)",
+		"Selected event background" : "选中事件背景",
+		"Selected group background" : "选中事件组背景",
+		"Selected group button background image" : "选中事件组按钮背景图像",
+		"Selected group button text color" : "选中事件组按钮文字颜色",
+		"Selected group text color" : "选中事件组文字颜色",
+		"Selected inactive group text color" : "选中未启用事件组文字颜色",
+		"Selected item background" : "选中项背景",
+		"Selected item text" : "选中项文本",
+		"Selected object background" : "选中对象背景",
+		"Selected object color" : "选中对象颜色",
+		"Selected text color" : "选中文本颜色",
+		"Selected true event text color #1" : "选中的为真的事件文本颜色 #1",
+		"Selected true event text color #2" : "选中的为真的事件文本颜色 #2",
+		"Separator" : "分隔符",
+		"Skin" : "皮肤",
+		"Speaker" : "扬声器",
+		"Storyboard - Frames" : "故事板 - 场景",
+		"Storyboard - Top and left columns" : "故事板 - 顶端和左侧列",
+		"Style" : "样式",
+		"Text color" : "文本颜色",
+		"This skin already exists in default product skins, please use another name." : "这个皮肤与默认皮肤重名，请选择其他名称",
+		"Too many values." : "太多的变量",
+		"Transition background color" : "过渡背景颜色",
+		"Transition text color" : "过渡文本颜色",
+		"True event text color #1" : "为真的事件文本颜色 #1",
+		"True event text color #2" : "为真的事件文本颜色 #2",
+		"Update the icon when the object changes." : "当对象变化时更新图标",
+		"Valid background color" : "有效背景颜色",
+		"Valid color" : "有效颜色",
+		"Value: %s" : "变量 : %s",
+		"Values with identical indexes already exist, do you want to replace them?" : "具有特定索引的变量已经存在，是否替换",
+		"Vertical alignment" : "垂直对齐",
+		"Warning: some values haven't been added because some objects already have too many values." : "警告: 由于某些对象变量数已达上限，某些变量并未被添加",
+		"Window frame color" : "窗口框架颜色",
+		"Would \"%s\" overlap a backdrop at ...?" : "当\"%s\"位于...时是否与背景重叠",
+		"Would \"%s\" overlap another object at ...?" : "当\"%s\"位于...时是否与其他对象重叠",
+		"Would %o at X=%0, Y=%1 overlap a backdrop?" : "当 %o 位于 X = %0, Y = %1 时是否与背景重叠",
+		"Would %o at X=%1, Y=%2 overlap %0?" : "当 %o 位于 X = %1, Y = %2 时是否与 %0 重叠",
+		"X scale of %o %0" : "%o 的X比例 %0",
+		"Y scale of %o %0" : "%o 的Y比例 %0",
+		"You might exceed the maximum number of images supported by the runtime. Do you want to continue anyway?" : "你可能已经超出了当前运行时所支持的最大图象数量。是否继续？"
 
 	},
 	"dialog_100" : {
@@ -4210,7 +4388,8 @@
 		"Sprite sheet" : "精灵表",
 		"To Frame" : "到帧",
 		"Transparent Color" : "透明色",
-		"x" : "x"
+		"x" : "x",
+		"Keep original hotspots" : "保持现有热点"
 	},
 	"dialog_4170" : {
 		"Text" : "文本"
@@ -4251,6 +4430,7 @@
 		"&Help" : "帮助(&H)",
 		"Application menu editor" : "应用程序菜单编辑器",
 		"Cancel" : "取消",
+		"Colors" : "颜色",
 		"Delete Item" : "删除项目",
 		"Edit Item" : "编辑项目",
 		"Load Menu" : "加载菜单",
@@ -4258,11 +4438,13 @@
 		"New item from default menu" : "新建项目来自默认菜单",
 		"New separator" : "新建分离器",
 		"OK" : "确定",
+		"Picker" : "取色器",
 		"Redo" : "重做",
 		"Reset to default" : "重置为默认值",
 		"Save" : "保存",
 		"Shift option to the left" : "选择向左移",
 		"Shift option to the right" : "选择向右移",
+		"Static" : "静止",
 		"Undo" : "撤销"
 	},
 	"dialog_7902" : {
@@ -4677,14 +4859,16 @@
 		"&Display Warning message when shortcuts are created" : "创建快捷方式时显示警告消息(&D)",
 		"&Zoom" : "缩放(&Z)",
 		"Debugger" : "调试器",
+		"Disable syntax colorizing and parentheses highlighting" : "禁用语法着色和括号突出显示",
 		"Event Editor " : "事件编辑器 ",
 		"Events" : "事件",
+		"Expression editor" : "表达式编辑器",
 		"How to display the objects?" : "对象显示方法",
 		"Object's &icon" : "对象的图标(&I)",
 		"Object's &name" : "对象的名称(&N)",
 		"Remember objects from last session" : "记住最后会话的对象",
 		"Slider1" : "Slider1",
-		"Use old qualifiers" : "使用旧版分组标记"
+		"Use old qualifiers (MMF1 apps)" : "使用旧版分组标记 (MMF1)"
 	},
 	"dialog_13534" : {
 		"&Automatically create a blank frame" : "自动创建一个空白帧(&A)",
@@ -4732,7 +4916,9 @@
 		"Sort by type" : "按类型排序",
 		"Spin1" : "Spin1",
 		"Spin2" : "Spin2",
-		"Static" : "静态"
+		"Static" : "静态",
+		"Zoom" : "缩放",
+		"&Ctrl+drag: duplicate objects to original layer" : "按住Ctrl拖拽以复制对象到原始图层"
 	},
 	"dialog_13556" : {
 		"&Highlight attributes" : "突出属性(&H)",
@@ -4746,7 +4932,11 @@
 		"Save dialog boxes size && &position" : "保存对话框大小与位置(&P)",
 		"Skin" : "皮肤",
 		"Tooltip delay (ms)" : "工具提示显示延迟 (ms)",
-		"Workspace" : "工作区"
+		"Workspace" : "工作区",
+		"Add to font size :" : "增加字体大小",
+		"Show value indexes" : "显示变量索引",
+		"Use tabs for editors" : "多标签编辑器",
+		"Windows dark mode skin" : "系统处于深色模式时使用替代皮肤"
 	},
 	"dialog_13557" : {
 		"Chan&ge" : "改变(&G)",
@@ -5147,7 +5337,7 @@
 		"Menu" : "菜单",
 		"Menu s&hadows" : "菜单阴影",
 		"R&eset" : "重置(&E)",
-		"Select &context menu:" : "选择菜单(&C):"
+		"Select &context menu:" : "选择菜单(&C):"		
 	},
 	"dialog_16135" : {
 		"&Associate double-click event with:" : "分配双击事件到(&A):",
@@ -5195,7 +5385,7 @@
 		"Casca&de" : "层叠(&D)",
 		"Select &window:" : "选择窗口(&W):",
 		"Tile &Vertically" : "纵向平铺(&T)",
-		"Tile Hori&zontally" : "横向平铺(&Z)",
+		"Tile &Horizontally" : "横向平铺(&Z)",
 		"Windows" : "窗口"
 	},
 	"dialog_16928" : {
@@ -5242,6 +5432,10 @@
 		"Print" : "打印(&P)",
 		"Show &Accelerator for:" : "显示加速键(&E):"
 	},
+	"dialog_17003" : {
+		"Cancel" : "取消",
+		"OK" : "确认"
+	},
 	"dialog_17004" : {
 		"&Reset" : "重置(&R)",
 		"Cancel" : "取消",
@@ -5277,31 +5471,128 @@
 		"Set Accelerator &for:" : "设置加速键(&E):",
 		"Static" : "静态"
 	},
+	"dialog_17122" : {
+		"Cancel" : "取消",
+		"Progress1" : "Progress1"
+	},
+	"dialog_17174" : {
+		"&Print" : "打印(&P)",
+		"Orientation" : "方向",
+		"Pages" : "页",
+		"Print" : "打印",
+		"Printer" : "打印机",
+		"Settings" : "设置",
+		"Slider1" : "Slider1",
+		"Spin1" : "Spin1"
+	},
+	"dialog_17218" : {
+		"&Color:" : "颜色(&C):",
+		"Cancel" : "取消",
+		"OK" : "确认",
+		"Slider1" : "Slider1"
+	},
+	"dialog_17245" : {
+		"&Underline" : "下划线(&U)",
+		"Cancel" : "取消",
+		"OK" : "确认"
+	},
+	"dialog_17267" : {
+		"&Choose commands from:" : "选择命令(&C):",
+		"Cus&tomize..." : "自定义(&T)...",
+		"Keyboard shortcuts:" : "快捷键:",
+		"Re&set" : "重置(&S)",
+		"Rena&me..." : "重命名(&E)..."
+	},
+	"dialog_17275" : {
+		"Cancel" : "取消",
+		"OK" : "确认",
+		"Rename" : "重命名"
+	},
+	"dialog_17277" : {
+		"Cancel" : "取消",
+		"OK" : "确认",
+		"Images" : "图像",
+		"Rename" : "重命名"
+	},
+	"dialog_17295" : {
+		"Cancel" : "取消",
+		"OK" : "确认"
+	},
+	"dialog_17302" : {
+		"<Message Box>" : "<提示框>"
+	},
+	"dialog_17307" : {
+		"Active Files" : "活跃文件"
+	},
+	"dialog_17334" : {
+		"&Down" : "下(&D)",
+		"&Replace" : "替换(&R)",
+		"&Up" : "上(&U)",
+		"Cancel" : "取消",
+		"Direction" : "方向",
+		"Replace" : "替换"
+	},
+	"dialog_17335" : {
+		"&Down" : "下(&D)",
+		"&Up" : "上(&U)",
+		"Cancel" : "取消",
+		"Direction" : "方向",
+		"Find" : "查找"
+	},
+	"dialog_17345" : {
+		"Cancel" : "取消",
+		"OK" : "确认",
+		"Static" : "静止",
+		"Tree1" : "Tree1"
+	},
+	"dialog_17381" : {
+		"File &name: " : "文件名(&N)",
+		"Files of type:" : "文件类型"
+	},
+	"dialog_17382" : {
+		"&Open" : "打开(&O)",
+		"Cancel" : "取消",
+		"Open" : "打开"
+	},
 	"dialog_17405" : {
+		"&Choose commands from:" : "选择命令(&C):",
+		"C&ommands:" : "命令(&O):",
+		"Re&set" : "重置(&S)",
+		"Rena&me..." : "重命名(&E)...",
+
+		"&Add > >" : "增加 > > (&A)",
+		"&New popup menu" : "新弹出菜单 (&N)",
+		"< < &Remove" : "移除 > > (&R)",
+		"Context Menus" : "菜单",
+		"Customizations:" : "自定义",
+		"Menu &items: " : "菜单项(&I)",
+		"Select context &menu:" : "选择菜单(&M)"
+	},
+	"dialog_17505" : {
 		"&Preview" : "预览(&P)",
 		"List5" : "列表5",
 		"Pages" : "页面",
 		"Usage" : "使用",
 		"Wizard Texts" : "向导文本"
 	},
-	"dialog_17408" : {
+	"dialog_17508" : {
 		"Build" : "生成",
 		"List1" : "列表1",
 		"Progress1" : "进度条1"
 	},
-	"dialog_17423" : {
+	"dialog_17523" : {
 		"Cancel" : "取消",
 		"Edit Text" : "编辑文本",
 		"OK" : "确定"
 	},
-	"dialog_17425" : {
+	"dialog_17525" : {
 		"&Add" : "添加(&A)",
 		"&Remove" : "移除(&R)",
 		"File Options" : "文件选项",
 		"Files" : "文件",
 		"List1" : "列表1"
 	},
-	"dialog_17427" : {
+	"dialog_17527" : {
 		"A file with the same name is already installed" : "具有相同名称的文件已经安装",
 		"A higher version of the file is already installed" : "一个更高版本的文件已经安装",
 		"Do &not install this file" : "无法安装此文件(&N)",
@@ -5310,40 +5601,40 @@
 		"Do not install, but cre&ate directory" : "无法安装,但是可以创建目录(&A)",
 		"Misc" : "其他"
 	},
-	"dialog_17428" : {
+	"dialog_17528" : {
 		"Increment DLL usage &count" : "增加 DLL 使用次数(&C)",
 		"Install as current screen sa&ver" : "安装为当前屏保(&V)",
 		"Install directory" : "安装目录",
 		"Register OC&X control, DLL, .REG file" : "注册 OCX 控件、 DLL、 .REG 文件(&X)",
 		"Windows" : "窗口"
 	},
-	"dialog_17430" : {
+	"dialog_17530" : {
 		"Command line options" : "命令行选项",
 		"Folder" : "文件夹",
 		"Icon file" : "图标文件",
 		"Name" : "名称",
 		"Start menu" : "开始菜单"
 	},
-	"dialog_17431" : {
+	"dialog_17531" : {
 		"Uninstaller" : "卸载程序"
 	},
-	"dialog_17442" : {
+	"dialog_17542" : {
 		"Command line options" : "命令行选项",
 		"Desktop shortcut name" : "桌面快捷方式名",
 		"Icon file" : "图标文件",
 		"Shortcut" : "快捷方式"
 	},
-	"dialog_17458" : {
+	"dialog_17558" : {
 		"&Preview" : "预览(&P)",
 		"Default install directory" : "默认安装目录",
 		"Font" : "字体",
 		"Options" : "选项",
 		"Product title (for #Title macro)" : "产品标题 (对于 #Title 宏)"
 	},
-	"dialog_17461" : {
+	"dialog_17561" : {
 		"List5" : "列表5",
-		"Texts" : "",
-		"Usage" : "説明"
+		"Texts" : "文本",
+		"Usage" : "说明"
 	},
 	"dialog_18621" : {
 		"Cmd Line Options" : "命令行选项",
@@ -5604,7 +5895,8 @@
 		"&Run Toolbar" : "运行工具栏(&R)",
 		"&Standard Toolbar" : "标准工具栏(&S)",
 		"&Workspace" : "工作区(&W)",
-		"DUMMY" : "DUMMY"
+		"DUMMY" : "DUMMY",
+		"&Skin editor" : "皮肤编辑器"
 	},
 	"menu_132" : {
 		"&<User-defined tools" : "用户自定义工具(&<)",
@@ -5986,6 +6278,11 @@
 		"&New" : "新建(&N)",
 		"&New application" : "新建应用程序(&N)",
 		"New application &from..." : "从...新建应用程序(&F)"
+	},
+	"menu_170" : {
+		"DUMMY" : "DUMMY",
+		"New &Horizontal Tab Group" : "新水平标签组(&H)",
+		"New &Vertical Tab Group" : "新垂直标签组(&V)"
 	},
 	"menu_177" : {
 		"&Copy" : "复制(&C)",
@@ -6489,5 +6786,11 @@
 		"Output" : "Output",
 		"Sou&rce directory" : "Source directory(&R)",
 		"Texts" : "Texts"
+	},
+	"menu_17395" : {
+		"&Large Icons" : "大图标(&L)",
+		"&Small Icons" : "小图标(&S)",
+		"&Details" : "详细信息(&D)",
+		"L&ist" : "列表(&L)"
 	}
 }

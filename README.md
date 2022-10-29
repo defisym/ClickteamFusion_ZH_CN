@@ -36,9 +36,9 @@ Clickteam Fusion 2.5非官方汉化
 
 此处仅列出大版本更新日期，细节修正详见Commit记录
 
-当前汉化版本:**R294.1 Beta**
+当前汉化版本:**R294.10**
 
-大版本更新于:**20220718**
+大版本更新于:**20221029**
 
 ### 翻译状态
 
@@ -105,6 +105,7 @@ Clickteam Fusion 2.5非官方汉化
 |HTML5Video||
 |InAndOut||
 |InAndOutController||
+|InAppAndroid||
 |InputType||
 |iOS||
 |iOSButton||
@@ -180,7 +181,10 @@ Clickteam Fusion 2.5非官方汉化
 |ServerError||
 |SpaceShip||
 |StaticText||
+|stdrt||
+|stdrtd||
 |ToolTip||
 |TreeControl||
 |VideoAndroid||
+|XboxConnect|完成|
 |XBOXGamepad||

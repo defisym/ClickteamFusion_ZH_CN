@@ -230,8 +230,8 @@
 		"Edit" : "编辑"
 	},
 	"menu_14123" : {
-		"Display named values only" : "仅显示非默认名称的变量",
 		"Edit" : "编辑",
-		"Remove all ojbects" : "移除所有对象"
+		"Display named values only" : "仅显示非默认名称的变量",		
+		"Remove all objects" : "移除所有对象"
 	}
 }
