@@ -4934,6 +4934,7 @@
 		"Tooltip delay (ms)" : "工具提示显示延迟 (ms)",
 		"Workspace" : "工作区",
 		"Add to font size :" : "增加字体大小",
+		"Animation when opening dialog boxes": "打开对话框时使用动画过渡",
 		"Show value indexes" : "显示变量索引",
 		"Use tabs for editors" : "多标签编辑器",
 		"Windows dark mode skin" : "系统处于深色模式时使用替代皮肤"
