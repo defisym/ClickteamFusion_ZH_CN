@@ -223,15 +223,8 @@
 		"Edit" : "編集"
 	},
 	"menu_14123" : {
+		"Display named values only" : "名前の付いた変数のみ表示",
 		"Edit" : "編集",
-
-		"_TODO_" : "the following strings need to be translated",
-		"Display named values only" : "",
-		"Remove all objects" : ""
-	},
-	"_details_" : {
-		"Number_of_translated_lines" : 194,
-		"Number_of_untranslated_lines" : 2,
-		"Number_of_untranslated_words" : 7
+		"Remove all objects" : "全てのオブジェクトを削除"
 	}
 }
