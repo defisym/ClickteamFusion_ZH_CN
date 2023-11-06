@@ -3,7 +3,7 @@
     {
         "Name": "Android オブジェクト",
         "Author": "Clickteam",
-        "Copyright": "Copyright (C) 2012-2019 Clickteam",
+        "Copyright": "Copyright (C) 2012-2023 Clickteam",
         "Website": "http://www.clickteam.com",
         "Comment": "Android Exporter の一部です。 Android デバイス上での実行時に特別な機能を提供します。",
         "URL": "http://www.clickteam.com",
@@ -147,6 +147,11 @@
 
 		[ 45, "没入モードを変更" ],
 
+		"Separator",
+
+		[ 46, "Get Manager Storage Permission" ],
+		[ 47, "Get Specific Permission" ],
+		
 		"Separator"
     ],
 
@@ -220,6 +225,15 @@
 
 		[ 25, "パーミッションが許可されている" ],
 
+		[ 29, "Is Permission denied?" ],
+		[ 30, "Is Permission blocked?" ],
+		[ 31, "Is Manager storage permission granted?" ],    
+
+		"Separator",
+
+		[ 32, "On Last Permission granted" ],
+		[ 33, "On last Permission denied" ],    
+
 		"Separator"
     ],
 
@@ -252,6 +266,7 @@
        [13, "外部格納ディレクトリ"],
        [28, "パブリック格納ディレクトリ"],
 		[ 31, "セカンダリ格納ディレクトリ" ],
+		[ 33, "Public Scoped storage directory" ],
 
        "Separator",
        
@@ -284,6 +299,10 @@
 
        ["デバイス情報",
             [24, "Android API 番号"],
+
+		  "Separator",
+
+		  [ 34, "Display Frame Rate" ],
 
             "Separator",
 
@@ -429,6 +448,18 @@
 		  "Parameters": [
 			[ "Integer", "没入モード (0: 無効、 1: 有効)" ]
 		  ]
+		},
+
+		{
+		  "Title": "Get manager storage permission"
+		},
+
+		{
+		  "Title": "Ask for permission(s) %0 with ID %1",
+		  "Parameters": [
+			[ "Text", "Permission(s) String (separated by |)" ],
+			  [ "Integer", "Identification ID" ]
+		  ]
 		}
 
     ],
@@ -530,7 +561,39 @@
 		{
 		  "Title": "%o : コントローラーは DPAD が接続されている",
 		  "Triggered": false
-		 }
+		},
+		{
+		  "Title": "Is Permission %0 denied?",
+		  "Triggered": false,
+		  "Parameters": [
+			[ "Text", "Permission (e.g.: android.permission.INTERNET)" ]
+		  ]
+		},
+		{
+		  "Title": "Is Permission %0 blocked?",
+		  "Triggered": false,
+		  "Parameters": [
+			[ "Text", "Permission (e.g.: android.permission.INTERNET)" ]
+		  ]
+		},
+		{
+		  "Title": "%o : Is Manager storage permission granted?",
+		  "Triggered": false
+		},
+		{
+		  "Title": "%o : On last permission with ID %0 granted",
+		  "Triggered": true,
+		  "Parameters": [
+			 [ "Integer", "Identification ID" ]
+		  ]
+		},
+		{
+		  "Title": "%o : On last permission with ID %0 denied",
+		  "Triggered": true,
+		  "Parameters": [
+			 [ "Integer", "Identification ID" ]
+		  ]
+		}
     ],
 
     "Expressions":
@@ -639,6 +702,16 @@
 		{
 		  "Title": "LastButtonPressed(",
 		  "Returns": "Integer"
+		},
+		{
+		  "Title": "PublicScopedStorageDirectory$(",
+		  "Returns": "Text",
+		  "Parameters": [
+			[ "Text", "Type Name (Pictures, Movies, Documents, DCIM, Downloads, Music, etc.)" ]
+		  ]
+		},    {
+		  "Title": "DisplayFrameRate(",
+		  "Returns": "Float"
 		}
     ]
 }
