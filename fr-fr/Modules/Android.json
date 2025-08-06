@@ -2,7 +2,7 @@
 	{
 		"Name": "Objet Android",
 		"Author": "Clickteam",
-		"Copyright": "Copyright (C) 2012-2019 Clickteam",
+		"Copyright": "Copyright (C) 2012-2023 Clickteam",
 		"Website": "http://www.clickteam.com",
 		"Comment": "Composant du module d'exportation Android. Fournit des fonctionnalités spéciales sur appareils Android.",
 		"URL": "http://www.clickteam.com",
@@ -144,6 +144,11 @@
 
 		[ 45, "Changer mode immersif" ],
 
+		"Separator",
+
+		[ 46, "Obtenir permission Manager Storage" ],
+		[ 47, "Obtenir permission spécifique" ],
+		
 		"Separator"
 	],
 
@@ -217,6 +222,15 @@
 
 		[ 25, "Permission accordée?" ],
 
+		[ 29, "Permission refusée?" ],
+		[ 30, "Permission bloquée?" ],
+		[ 31, "Permission Manager storage accordée?" ],    
+
+		"Separator",
+
+		[ 32, "Dernière permission accordée" ],
+		[ 33, "Dernière permission refusée" ],    
+
 		"Separator"
 	   
 	],
@@ -250,6 +264,7 @@
 	   [13, "Répertoire de stockage externe"],
 	   [28, "Répertoire de stockage public"],
 		[ 31, "Répertoire de stockage secondaire" ],
+		[ 33, "Répertoire Public Scoped storage" ],
 
 	   "Separator",
 
@@ -280,6 +295,10 @@
 
        ["Infos appareil",
             [24, "Numéro API Android"],
+
+			  "Separator",
+
+			  [ 34, "Frame Rate de l'affichage" ],
 
             "Separator",
 
@@ -423,6 +442,18 @@
 		  "Parameters": [
 			[ "Integer", "Mode immersif (0:Désactivé, 1:Activé)" ]
 		  ]
+		},
+
+		{
+		  "Title": "Obtenir permission manager storage"
+		},
+
+		{
+		  "Title": "Demander permission(s) %0 avec ID %1",
+		  "Parameters": [
+			[ "Text", "Chaîne permission(s) (séparées par |)" ],
+			  [ "Integer", "ID" ]
+		  ]
 		}
 
 	],
@@ -525,7 +556,39 @@
 		{
 		  "Title": "%o : Un contrôleur avec DPAD est connecté?",
 		  "Triggered": false
-		 }
+		},
+		{
+		  "Title": "Is Permission %0 denied?",
+		  "Triggered": false,
+		  "Parameters": [
+			[ "Text", "Permission (e.g.: android.permission.INTERNET)" ]
+		  ]
+		},
+		{
+		  "Title": "Is Permission %0 blocked?",
+		  "Triggered": false,
+		  "Parameters": [
+			[ "Text", "Permission (e.g.: android.permission.INTERNET)" ]
+		  ]
+		},
+		{
+		  "Title": "%o : Is Manager storage permission granted?",
+		  "Triggered": false
+		},
+		{
+		  "Title": "%o : On last permission with ID %0 granted",
+		  "Triggered": true,
+		  "Parameters": [
+			 [ "Integer", "Identification ID" ]
+		  ]
+		},
+		{
+		  "Title": "%o : On last permission with ID %0 denied",
+		  "Triggered": true,
+		  "Parameters": [
+			 [ "Integer", "Identification ID" ]
+		  ]
+		}
 	],
 
 	"Expressions":
@@ -631,6 +694,16 @@
 		{
 		  "Title": "LastButtonPressed(",
 		  "Returns": "Integer"
+		},
+		{
+		  "Title": "PublicScopedStorageDirectory$(",
+		  "Returns": "Text",
+		  "Parameters": [
+			[ "Text", "Type Name (Pictures, Movies, Documents, DCIM, Downloads, Music, etc.)" ]
+		  ]
+		},    {
+		  "Title": "DisplayFrameRate(",
+		  "Returns": "Float"
 		}
 	]
 }

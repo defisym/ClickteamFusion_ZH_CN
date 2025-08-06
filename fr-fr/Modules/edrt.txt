@@ -225,6 +225,6 @@
 	"menu_14123" : {
 		"Display named values only" : "Afficher valeurs nommées seules",
 		"Edit" : "Edition",
-		"Remove all ojbects" : "Enlever tous les objets"
+		"Remove all objects" : "Enlever tous les objets"
 	}
 }

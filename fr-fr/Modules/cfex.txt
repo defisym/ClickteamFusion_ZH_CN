@@ -43,11 +43,11 @@
 		"Don't profile child events, including On Loop events (see documentation)" : "N'effectue pas le profilage des événements enfants, y comris les boucles (voir doc).",
 		"Enable profiling" : "Activer le profilage",
 		"Event explorer" : "Explorateur d'événements",
-		"Event line #%d" : "Ligne événement #%d",
-		"Event line #%d, Action #%d" : "Ligne événement #%d, Action #%d",
-		"Event line #%d, Comment" : "Ligne événement #%d, Commentaire",
-		"Event line #%d, Condition #%d" : "Ligne événement #%d, Condition #%d",
-		"Event line #%d, Group" : "Ligne événement #%d, Groupe",
+		"Line #%d" : "Ligne #%d",
+		"Line #%d, Action #%d" : "Ligne #%d, Action #%d",
+		"Line #%d, Comment" : "Ligne #%d, Commentaire",
+		"Line #%d, Condition #%d" : "Ligne #%d, Condition #%d",
+		"Line #%d, Group" : "Ligne #%d, Groupe",
 		"Event order" : "Ordre événements",
 		"Events" : "Evénements",
 		"Export as text" : "Exporter en texte",
@@ -82,11 +82,11 @@
 		"Qualifiers" : "Qualifieurs",
 		"Record slowest app loops" : "Enregistrer les boucles les plus lentes",
 		"Run application from current frame" : "Lancer application depuis scène courante",
-		"Select all instances of this object" : "Sélectionner toutes les instances de cet objet",
-		"Select objects with a given qualifier" : "Sélectionner objets avec un qualifier",
-		"Select objects with the same qualifiers" : "Sélectionner objets avec les mêmes qualifier",
+		"Select all &instances of this object" : "Sélectionner toutes les &instances de cet objet",
+		"Select objects with a given &qualifier" : "Sélectionner objets avec un &qualifieur",
+		"Select objects with the &same qualifiers" : "Sélectionner objets avec les &mêmes qualifieurs",
 		"Select this option to profile the events of the application. Results are displayed in the Profiler window." : "Sélectionnez cette option pour temps d'exécution des événements de votre application. Les résultats sont affichés dans la fenêtre Profileur.",
-		"Show object events" : "Montrer les événements de cet objet",
+		"Show object e&vents" : "Montrer les é&vénements de cet objet",
 		"Start profiling at start of frame" : "Lancer profilage en début de scène",
 		"Start time" : "Temps démarrage",
 		"Times" : "Temps",
@@ -95,7 +95,13 @@
 		"Unknown" : "Inconnu",
 		"Unselect this option if you want to start/end profiling the application manually with profiling actions." : "Désélectionnez cette option si vous désirez lancer/arrêter manuellement le profilage avec les actions adéquates.",
 		"Without this option counters and strings have no alterable values, strings, nor flags." : "Sans cette option, les objets compteurs et chaînes n'ont ni valeurs modifiables, ni chaînes modifiables, ni drapeaux.",
-		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows seulement] Quand cette option est sélectionnée, les sons peuvent démarrer un peu plus tard. Désélectionnez-la si les sons doivent démarrer le plus rapidement possible après l'action 'Jouer Echantillon'"
+		"[Windows only] When this option is selected, the sound may start a bit later. Unselect it if you need the sound to start as fast as possible after the Play sample action." : "[Windows seulement] Quand cette option est sélectionnée, les sons peuvent démarrer un peu plus tard. Désélectionnez-la si les sons doivent démarrer le plus rapidement possible après l'action 'Jouer Echantillon'",
+		"Disable this option if you experience graphic glitches in String objects in DirectX 11 mode." : "Décochez cette option si vous avez des problèmes d'affichage avec des objets Chaîne en mode DirectX 11.",
+		"Merge 'Play' and 'Set Sample' actions" : "Fusionner actions 'Jouer Echantillon' et 'Fixer Volume Echantillon/etc.'",
+		"Optimize string objects" : "Optimiser objets Chaîne",
+		"Paste as child event" : "Coller en tant qu'événement enfant",
+		"When this option is selected, Fusion will try to replace Play Sample and consecutive Set Sample Volume/Pan/Frequency actions into a single Play Sample [All Parameters] action." : 
+		"Lorsque cette option est sélectionnée, Fusion essayera de remplacer les actions consécutives Jouer Echantillon et Fixer Volume/Balance/Fréquence en une action unique Jouer Echantillon [Tous Paramètres]."
 	},
 	"dialog_2007" : {
 		"Actions" : "Actions",
@@ -122,6 +128,12 @@
 		"Object data" : "Données objets",
 		"Object names" : "Nom objets",
 		"Objects" : "Objets",
-		"Qualifiers" : "Qualifieurs"
+		"Qualifiers" : "Qualifieurs",
+		"Ignore space characters" : "Ignore caractères Espace"
+	},
+	"_details_" : {
+		"Number_of_translated_lines" : 119,
+		"Number_of_untranslated_lines" : 6,
+		"Number_of_untranslated_words" : 57
 	}
 }
